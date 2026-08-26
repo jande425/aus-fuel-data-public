@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-08-26T12:01:44Z",
+  "fetched_at": "2026-08-26T12:41:09Z",
   "station_count": 2089,
   "fuel_types": [
     "E10",
@@ -11443,12 +11443,13 @@
       "address": "127-129 Marion ST, Leichhardt NSW 2040",
       "state": "NSW",
       "prices": {
-        "Diesel": 244.8,
+        "Diesel": 248.7,
+        "E10": 195.6,
         "U98": 229.9,
-        "Premium Diesel": 244.8,
-        "U91": 195.6
+        "Premium Diesel": 248.7,
+        "U91": 204.8
       },
-      "updated": "2026-08-26T02:20:46Z",
+      "updated": "2026-08-26T12:12:51Z",
       "lat": -33.88394,
       "lng": 151.150779
     },
@@ -12470,13 +12471,13 @@
       "address": "12 Pacific HWY, Ourimbah NSW 2258",
       "state": "NSW",
       "prices": {
-        "Diesel": 240.9,
-        "LPG": 94.9,
-        "U98": 217.9,
-        "Premium Diesel": 240.9,
-        "U91": 194.9
+        "Diesel": 245.9,
+        "LPG": 99.9,
+        "U98": 222.9,
+        "Premium Diesel": 245.9,
+        "U91": 199.9
       },
-      "updated": "2026-08-26T07:16:54Z",
+      "updated": "2026-08-26T12:08:51Z",
       "lat": -33.36297,
       "lng": 151.371353
     },
@@ -13840,13 +13841,13 @@
       "address": "300 Sandgate Road, Shortland NSW 2307",
       "state": "NSW",
       "prices": {
-        "E10": 204.9,
-        "U95": 223.9,
-        "U98": 232.9,
-        "Premium Diesel": 251.9,
-        "U91": 206.9
+        "E10": 205.9,
+        "U95": 224.9,
+        "U98": 233.9,
+        "Premium Diesel": 253.5,
+        "U91": 207.9
       },
-      "updated": "2026-08-25T11:51:14Z",
+      "updated": "2026-08-26T12:21:13Z",
       "lat": -32.886168,
       "lng": 151.695396
     },
@@ -20383,13 +20384,13 @@
       "address": "533 Mowbray RD West, Lane Cove North NSW 2066",
       "state": "NSW",
       "prices": {
-        "Diesel": 241.5,
+        "Diesel": 249.9,
         "E10": 199.6,
         "U98": 231.8,
-        "Premium Diesel": 241.5,
-        "U91": 195.3
+        "Premium Diesel": 249.9,
+        "U91": 204.8
       },
-      "updated": "2026-08-26T02:19:11Z",
+      "updated": "2026-08-26T12:12:15Z",
       "lat": -33.805971,
       "lng": 151.166274
     },
@@ -24845,10 +24846,10 @@
         "E10": 199.9,
         "U95": 217.9,
         "U98": 227.9,
-        "Premium Diesel": 245.9,
+        "Premium Diesel": 247.9,
         "U91": 199.9
       },
-      "updated": "2026-08-26T02:54:49Z",
+      "updated": "2026-08-26T12:38:00Z",
       "lat": -34.053773,
       "lng": 150.700165
     },
@@ -30802,10 +30803,10 @@
       "state": "NSW",
       "prices": {
         "U98": 228.9,
-        "Premium Diesel": 252.9,
+        "Premium Diesel": 249.9,
         "U91": 207.9
       },
-      "updated": "2026-08-25T12:17:15Z",
+      "updated": "2026-08-26T12:19:57Z",
       "lat": -31.091493,
       "lng": 150.923298
     },

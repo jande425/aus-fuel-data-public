@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-08-26T12:01:44Z",
+  "fetched_at": "2026-08-26T12:41:09Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1271,
   "by_state": {
     "ACT": 7,
     "NSW": 1154,
     "NT": 28,
-    "QLD": 32,
+    "QLD": 31,
     "SA": 31,
     "TAS": 2,
     "VIC": 18
@@ -19,7 +19,7 @@
     "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 70,
-    "7-Eleven": 69,
+    "7-Eleven": 68,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -10757,20 +10757,6 @@
       "state": "NT",
       "lat": -22.25346,
       "lng": 131.795078
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61401349",
-      "name": "7-Eleven Albion",
-      "address": "6 McLennan St, QLD 4010",
-      "state": "QLD",
-      "lat": -27.4289939652634,
-      "lng": 153.036903,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "7-Eleven",

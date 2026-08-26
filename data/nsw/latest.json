@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-08-26T19:17:33Z",
+  "fetched_at": "2026-08-26T19:42:30Z",
   "station_count": 2090,
   "fuel_types": [
     "E10",
@@ -4161,12 +4161,12 @@
       "address": "36-38 Lane Cove Rd, RYDE NSW 2112",
       "state": "NSW",
       "prices": {
-        "E10": 193.9,
+        "E10": 191.9,
         "U98": 222.9,
         "Premium Diesel": 240.9,
-        "U91": 196.9
+        "U91": 193.9
       },
-      "updated": "2026-08-26T11:29:26Z",
+      "updated": "2026-08-26T19:32:09Z",
       "lat": -33.807511,
       "lng": 151.108604
     },
@@ -9420,13 +9420,13 @@
       "address": "1 Dunn RD, Smeaton Grange NSW 2567",
       "state": "NSW",
       "prices": {
-        "Diesel": 248.9,
-        "U95": 213.9,
-        "U98": 222.9,
-        "Premium Diesel": 250.9,
-        "U91": 199.9
+        "Diesel": 250.9,
+        "U95": 219.9,
+        "U98": 229.9,
+        "Premium Diesel": 252.9,
+        "U91": 202.9
       },
-      "updated": "2026-08-26T01:16:48Z",
+      "updated": "2026-08-26T19:30:37Z",
       "lat": -34.032313,
       "lng": 150.756161
     },

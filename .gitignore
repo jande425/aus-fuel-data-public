@@ -1,0 +1,19 @@
+# Timestamped per-run snapshots.
+#
+# The collector writes one of these per state per run. They are NOT committed:
+# the full price history lives in Cloudflare D1 (see the fuel-price-history
+# database), and committing them previously grew this repo to ~6 GB / 21,000
+# files. Only the current-state files (latest.json and the derived serving
+# files) are versioned here.
+data/*/*_fuel_data_*.json
+
+# Pages deploy staging directory, rebuilt by the workflow on every run
+pages_deploy/
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/

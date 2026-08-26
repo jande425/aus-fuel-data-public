@@ -1,0 +1,10 @@
+# The collector and its workflow run on Linux runners. Pin them to LF so a
+# Windows checkout with core.autocrlf enabled cannot commit CRLF line endings,
+# which would break the workflow's bash `run:` blocks.
+*.py   text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+*.sh   text eol=lf
+
+# Data files are generated; treat as text but keep diffs out of the way.
+*.json text eol=lf

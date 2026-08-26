@@ -1,0 +1,100 @@
+name: Fetch All Australian Fuel Data
+
+# Runs every 45 minutes.
+#
+# Cron cannot express "every 45 minutes" in a single expression -- `*/45` would
+# only fire at :00 and :45, giving uneven 45/15-minute gaps and no fewer runs
+# than the old `*/35`. True 45-minute spacing repeats on a 3-hour cycle
+# (00:00, 00:45, 01:30, 02:15, then back to 03:00), which needs the three
+# entries below. Total: 32 runs/day.
+#
+# Note that GitHub's scheduled triggers are best-effort and can run several
+# minutes late (or be dropped) under platform load, so treat the spacing as
+# approximate.
+on:
+  schedule:
+    - cron: '0,45 0-23/3 * * *'   # :00 and :45 on hours 0, 3, 6, 9, 12, 15, 18, 21
+    - cron: '30 1-23/3 * * *'     # :30 on hours 1, 4, 7, 10, 13, 16, 19, 22
+    - cron: '15 2-23/3 * * *'     # :15 on hours 2, 5, 8, 11, 14, 17, 20, 23
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Runs commit and push to this repo, so overlapping runs would race on the
+# push. Queue them instead of cancelling -- a skipped run means a gap in data.
+concurrency:
+  group: fetch-fuel-data
+  cancel-in-progress: false
+
+jobs:
+  fetch-all-fuel-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4.2.2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5.6.0
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch all fuel data
+        env:
+          # NSW/TAS/ACT API credentials (original names)
+          NSW_FUEL_API_KEY: ${{ secrets.NSW_FUEL_API_KEY }}
+          NSW_FUEL_API_SECRET: ${{ secrets.NSW_FUEL_API_SECRET }}
+          NSW_FUEL_AUTH_HEADER: ${{ secrets.NSW_FUEL_AUTH_HEADER }}
+          # QLD API credentials
+          QLD_TOKEN: ${{ secrets.QLD_TOKEN }}
+          # VIC API credentials
+          VIC_TOKEN: ${{ secrets.VIC_TOKEN }}
+          # SA API credentials
+          SA_TOKEN: ${{ secrets.SA_TOKEN }}
+          # NT API credentials
+          NT_USERNAME: ${{ secrets.NT_USERNAME }}
+          NT_TOKEN: ${{ secrets.NT_TOKEN }}
+        run: python scripts/fetch_all_fuel_data.py
+
+      - name: Commit and push data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git diff --staged --quiet || git commit -m "Update fuel data $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git pull --rebase
+          git push
+
+      # Publish the serving files to Cloudflare Pages. Pages static requests are
+      # free and unlimited, unlike Worker requests (100k/day on the free tier) —
+      # the app fetches these directly and only falls back to the Worker.
+      - name: Stage static data for Pages
+        run: |
+          mkdir -p pages_deploy/AUS pages_deploy/cheapest pages_deploy/tiles pages_deploy/history
+          cp data/index.json data/brands.json data/prices_compact.json data/stations_metadata.json pages_deploy/
+          cp data/AUS/latest.json pages_deploy/AUS/
+          cp data/cheapest/*.json pages_deploy/cheapest/
+          cp data/tiles/*.json pages_deploy/tiles/
+          cp data/history/*.json pages_deploy/history/
+          for s in act nsw nt qld sa tas vic wa; do
+            mkdir -p "pages_deploy/$s"
+            cp "data/$s/latest.json" "pages_deploy/$s/"
+          done
+          printf '/*\n  Access-Control-Allow-Origin: *\n  Cache-Control: public, max-age=300\n' > pages_deploy/_headers
+
+      - name: Deploy static data to Cloudflare Pages
+        continue-on-error: true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ] || [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
+            echo "Cloudflare secrets not configured - skipping Pages deploy"
+            exit 0
+          fi
+          npx --yes wrangler@3 pages project create fuel-finder-data --production-branch=main 2>/dev/null || true
+          npx --yes wrangler@3 pages deploy pages_deploy --project-name=fuel-finder-data --branch=main --commit-dirty=true

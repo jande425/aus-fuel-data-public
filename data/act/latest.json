@@ -1,0 +1,1058 @@
+{
+  "source": "ACT_FuelData",
+  "version": 2,
+  "state": "ACT",
+  "fetched_at": "2026-07-21T10:40:08Z",
+  "station_count": 64,
+  "fuel_types": [
+    "E10",
+    "U91",
+    "U95",
+    "U98",
+    "Diesel",
+    "LPG",
+    "Premium Diesel",
+    "E85"
+  ],
+  "stations": [
+    {
+      "brand": "BP",
+      "code": "ACT:18711",
+      "name": "BP Nicholls",
+      "address": "6 Gold Creek RD, Nicholls ACT 2913",
+      "state": "ACT",
+      "prices": {
+        "E10": 184.9,
+        "U98": 210.9,
+        "Premium Diesel": 223.9,
+        "U91": 186.9
+      },
+      "updated": "2026-07-20T23:05:20Z",
+      "lat": -35.19353,
+      "lng": 149.086935
+    },
+    {
+      "brand": "Metro Fuel",
+      "code": "ACT:18713",
+      "name": "Metro Petroleum Mitchell",
+      "address": "2 Callan ST, Mitchell ACT 2911",
+      "state": "ACT",
+      "prices": {
+        "E10": 179.9,
+        "U98": 204.9,
+        "Premium Diesel": 215.5,
+        "U91": 181.9
+      },
+      "updated": "2026-07-21T06:09:05Z",
+      "lat": -35.214511,
+      "lng": 149.143317
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "ACT:18788",
+      "name": "7-Eleven Braddon",
+      "address": "20 Mort ST, Braddon ACT 2612",
+      "state": "ACT",
+      "prices": {
+        "E10": 182.9,
+        "U98": 210.9,
+        "Premium Diesel": 215.9,
+        "U91": 184.9
+      },
+      "updated": "2026-07-21T01:30:30Z",
+      "lat": -35.275669,
+      "lng": 149.131261
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "ACT:18789",
+      "name": "7-Eleven Casey",
+      "address": "10 Kingsland Parade, Casey ACT 2913",
+      "state": "ACT",
+      "prices": {
+        "E10": 182.9,
+        "U95": 201.9,
+        "U98": 210.9,
+        "Premium Diesel": 225.9,
+        "U91": 184.9
+      },
+      "updated": "2026-07-21T01:39:15Z",
+      "lat": -35.1756,
+      "lng": 149.096
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "ACT:18798",
+      "name": "Ampol Foodary Braddon",
+      "address": "36 Lonsdale ST, Braddon ACT 2612",
+      "state": "ACT",
+      "prices": {
+        "E10": 184.9,
+        "U95": 203.9,
+        "U98": 213.9,
+        "Premium Diesel": 221.9,
+        "U91": 186.9
+      },
+      "updated": "2026-07-20T22:52:24Z",
+      "lat": -35.270935,
+      "lng": 149.133379
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "ACT:18799",
+      "name": "Ampol Foodary Calwell",
+      "address": "Were St, Calwell ACT 2905",
+      "state": "ACT",
+      "prices": {
+        "U95": 203.9,
+        "U98": 213.9,
+        "Premium Diesel": 232.9,
+        "U91": 186.9
+      },
+      "updated": "2026-07-20T23:07:25Z",
+      "lat": -35.4345,
+      "lng": 149.112
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "ACT:18800",
+      "name": "Ampol Foodary Kippax-Holt",
+      "address": "1 Hardwick Crescent, Holt ACT 2615",
+      "state": "ACT",
+      "prices": {
+        "E10": 184.9,
+        "U95": 203.9,
+        "U98": 213.9,
+        "Premium Diesel": 222.9,
+        "U91": 186.9
+      },
+      "updated": "2026-07-20T22:52:24Z",
+      "lat": -35.2242,
+      "lng": 149.021
+    },
+    {
+      "brand": "Ampol",
+      "code": "ACT:18801",
+      "name": "Ampol Hume",
+      "address": "96 Sawmill Cct, Hume ACT 2620",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 219.9,
+        "Premium Diesel": 222.9
+      },
+      "updated": "2026-07-19T22:27:23Z",
+      "lat": -35.3964,
+      "lng": 149.158
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "ACT:18802",
+      "name": "Ampol Foodary Kaleen",
+      "address": "275 Maribyrnong Av, Kaleen ACT 2617",
+      "state": "ACT",
+      "prices": {
+        "E10": 184.9,
+        "U95": 203.9,
+        "U98": 213.9,
+        "Premium Diesel": 232.9,
+        "U91": 186.9
+      },
+      "updated": "2026-07-20T22:52:24Z",
+      "lat": -35.233718,
+      "lng": 149.103666
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "ACT:18803",
+      "name": "Ampol Foodary Kambah",
+      "address": "3 Marconi Cr, Kambah ACT 2902",
+      "state": "ACT",
+      "prices": {
+        "E10": 184.9,
+        "U95": 203.9,
+        "U98": 213.9,
+        "Premium Diesel": 228.9,
+        "U91": 186.9
+      },
+      "updated": "2026-07-20T22:52:24Z",
+      "lat": -35.378878,
+      "lng": 149.057528
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "ACT:18804",
+      "name": "Ampol Foodary Canberra Airport (Pialligo)",
+      "address": "3 Rogan ST, Canberra Airport ACT 2609",
+      "state": "ACT",
+      "prices": {
+        "U95": 203.9,
+        "U98": 213.9,
+        "Premium Diesel": 221.9,
+        "U91": 186.9
+      },
+      "updated": "2026-07-20T22:52:24Z",
+      "lat": -35.309323,
+      "lng": 149.188209
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "ACT:18805",
+      "name": "Ampol Foodary Nicholls",
+      "address": "Curran Drive Cnr O'Hanlon Pl, Nicholls ACT 2913",
+      "state": "ACT",
+      "prices": {
+        "E10": 184.9,
+        "U95": 203.9,
+        "U98": 213.9,
+        "Premium Diesel": 223.9,
+        "U91": 186.9
+      },
+      "updated": "2026-07-20T22:52:24Z",
+      "lat": -35.1891,
+      "lng": 149.082
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "ACT:18806",
+      "name": "Ampol Foodary Weston",
+      "address": "49 Brierly ST, Weston ACT 2611",
+      "state": "ACT",
+      "prices": {
+        "U95": 203.9,
+        "U98": 213.9,
+        "Premium Diesel": 221.9,
+        "U91": 186.9
+      },
+      "updated": "2026-07-20T22:57:24Z",
+      "lat": -35.340197,
+      "lng": 149.052112
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "ACT:18807",
+      "name": "Ampol Foodary Weston Creek",
+      "address": "1 Kirkpatrick St, Weston ACT 2611",
+      "state": "ACT",
+      "prices": {
+        "E10": 184.9,
+        "U95": 203.9,
+        "Premium Diesel": 224.9,
+        "U91": 186.9
+      },
+      "updated": "2026-07-20T22:52:24Z",
+      "lat": -35.3219,
+      "lng": 149.057
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "ACT:18790",
+      "name": "7-Eleven Fyshwick",
+      "address": "149 Canberra Ave, Fyshwick ACT 2609",
+      "state": "ACT",
+      "prices": {
+        "U98": 208.9,
+        "Premium Diesel": 215.9,
+        "U91": 182.9
+      },
+      "updated": "2026-07-21T07:27:15Z",
+      "lat": -35.3251,
+      "lng": 149.154
+    },
+    {
+      "brand": "BP",
+      "code": "ACT:18808",
+      "name": "BP Braddon",
+      "address": "2 Lonsdale ST, Braddon ACT 2612",
+      "state": "ACT",
+      "prices": {
+        "E10": 184.9,
+        "U95": 202.9,
+        "U98": 211.9,
+        "Premium Diesel": 219.9
+      },
+      "updated": "2026-07-21T00:12:56Z",
+      "lat": -35.275825,
+      "lng": 149.132595
+    },
+    {
+      "brand": "BP",
+      "code": "ACT:18809",
+      "name": "BP Chisholm",
+      "address": "3 Benham St, Chisholm ACT 2905",
+      "state": "ACT",
+      "prices": {
+        "E10": 179.9,
+        "U95": 196.9,
+        "U98": 205.9,
+        "Premium Diesel": 227.9
+      },
+      "updated": "2026-07-21T06:52:36Z",
+      "lat": -35.4129,
+      "lng": 149.128
+    },
+    {
+      "brand": "BP",
+      "code": "ACT:18810",
+      "name": "BP Kingston",
+      "address": "77 Canberra Av, Griffith ACT 2603",
+      "state": "ACT",
+      "prices": {
+        "E10": 181.9,
+        "U95": 199.9,
+        "U98": 208.9,
+        "Premium Diesel": 221.9
+      },
+      "updated": "2026-07-21T06:10:40Z",
+      "lat": -35.320031,
+      "lng": 149.138892
+    },
+    {
+      "brand": "BP",
+      "code": "ACT:18811",
+      "name": "BP Jamison",
+      "address": "CNR BowCNR Bowen St and Redfern Sten St and Redfern St Macquarie ACT 2614",
+      "state": "ACT",
+      "prices": {
+        "E10": 181.9,
+        "U95": 200.9,
+        "U98": 209.9,
+        "Premium Diesel": 225.9
+      },
+      "updated": "2026-07-20T23:22:09Z",
+      "lat": -35.252979,
+      "lng": 149.073175
+    },
+    {
+      "brand": "BP",
+      "code": "ACT:18812",
+      "name": "BP Phillip",
+      "address": "166 Melrose DR, Phillip ACT 2606",
+      "state": "ACT",
+      "prices": {
+        "E10": 183.9,
+        "U95": 202.9,
+        "U98": 211.9,
+        "Premium Diesel": 221.9
+      },
+      "updated": "2026-07-21T00:48:20Z",
+      "lat": -35.351002,
+      "lng": 149.085289
+    },
+    {
+      "brand": "BP",
+      "code": "ACT:18813",
+      "name": "BP Watson",
+      "address": "110 Federal HWY, Watson ACT 2602",
+      "state": "ACT",
+      "prices": {
+        "E10": 177.9,
+        "U95": 196.9,
+        "U98": 205.9,
+        "Premium Diesel": 227.9
+      },
+      "updated": "2026-07-21T06:52:35Z",
+      "lat": -35.224985,
+      "lng": 149.165864
+    },
+    {
+      "brand": "BP",
+      "code": "ACT:18814",
+      "name": "BP Fyshwick",
+      "address": "2 Ipswich Street, Fyshwick ACT 2609",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 217.9,
+        "LPG": 136.9,
+        "U98": 209.9,
+        "Premium Diesel": 219.9,
+        "U91": 184.9
+      },
+      "updated": "2026-07-21T05:48:30Z",
+      "lat": -35.3298,
+      "lng": 149.163
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "ACT:18816",
+      "name": "EG Ampol Belconnen",
+      "address": "4 Luxton ST, Belconnen ACT 2617",
+      "state": "ACT",
+      "prices": {
+        "U95": 200.9,
+        "U98": 210.9,
+        "Premium Diesel": 231.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-21T06:15:22Z",
+      "lat": -35.236307,
+      "lng": 149.059066
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "ACT:18817",
+      "name": "EG Ampol Conder",
+      "address": "Cnr Tharwa Drive & Norman Lindsay Street, Conder ACT 2906",
+      "state": "ACT",
+      "prices": {
+        "E10": 184.9,
+        "U95": 204.9,
+        "U98": 214.9,
+        "Premium Diesel": 228.9,
+        "U91": 186.9
+      },
+      "updated": "2026-07-21T02:45:22Z",
+      "lat": -35.4582,
+      "lng": 149.092
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "ACT:18791",
+      "name": "7-Eleven Giralang",
+      "address": "Cnr Canopus Cres & Atalumba Cl, Giralang ACT 2617",
+      "state": "ACT",
+      "prices": {
+        "LPG": 124.9,
+        "U98": 211.9,
+        "Premium Diesel": 226.9,
+        "U91": 185.9
+      },
+      "updated": "2026-07-21T01:36:14Z",
+      "lat": -35.2136,
+      "lng": 149.096
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "ACT:18819",
+      "name": "EG Ampol Dickson",
+      "address": "1 Cape Street, Dickson ACT 2602",
+      "state": "ACT",
+      "prices": {
+        "U95": 204.9,
+        "U98": 213.9,
+        "Premium Diesel": 223.9,
+        "U91": 186.9
+      },
+      "updated": "2026-07-21T08:09:14Z",
+      "lat": -35.2511,
+      "lng": 149.137
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "ACT:18820",
+      "name": "EG Ampol Gungahlin",
+      "address": "18 Gundaroo Dr, Gungahlin ACT 2912",
+      "state": "ACT",
+      "prices": {
+        "U95": 200.9,
+        "U98": 210.9,
+        "Premium Diesel": 231.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-21T06:15:22Z",
+      "lat": -35.183622,
+      "lng": 149.125917
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "ACT:18818",
+      "name": "EG Ampol Canberra Gateway",
+      "address": "41 Federal Hwy, Lyneham ACT 2602",
+      "state": "ACT",
+      "prices": {
+        "E10": 177.9,
+        "U95": 196.9,
+        "U98": 206.9,
+        "Premium Diesel": 227.9,
+        "U91": 179.9
+      },
+      "updated": "2026-07-21T06:24:34Z",
+      "lat": -35.2301,
+      "lng": 149.151
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "ACT:18821",
+      "name": "EG Ampol Hume",
+      "address": "94-96 Sheppard St, Hume ACT 2620",
+      "state": "ACT",
+      "prices": {
+        "U95": 198.9,
+        "U98": 208.9,
+        "Premium Diesel": 227.9,
+        "U91": 181.9
+      },
+      "updated": "2026-07-21T06:27:19Z",
+      "lat": -35.3923,
+      "lng": 149.162
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "ACT:18822",
+      "name": "EG Ampol Canberra Airport",
+      "address": "Corner Majura Rd and Mustang Avenue, Canberra Airport ACT 2609",
+      "state": "ACT",
+      "prices": {
+        "U95": 203.9,
+        "U98": 213.9,
+        "Premium Diesel": 231.9,
+        "U91": 186.9
+      },
+      "updated": "2026-07-21T06:18:20Z",
+      "lat": -35.294611,
+      "lng": 149.189732
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "ACT:18823",
+      "name": "EG Ampol Mawson",
+      "address": "15 Mawson Place, Mawson ACT 2607",
+      "state": "ACT",
+      "prices": {
+        "U95": 200.9,
+        "U98": 210.9,
+        "Premium Diesel": 231.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-21T06:24:34Z",
+      "lat": -35.3665,
+      "lng": 149.094
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "ACT:18824",
+      "name": "EG Ampol Tuggeranong",
+      "address": "Cnr Scollay St & Soward Way, Greenway ACT 2900",
+      "state": "ACT",
+      "prices": {
+        "U95": 203.9,
+        "U98": 212.9,
+        "Premium Diesel": 223.9,
+        "U91": 185.9
+      },
+      "updated": "2026-07-21T08:09:14Z",
+      "lat": -35.4188,
+      "lng": 149.067
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "ACT:18825",
+      "name": "EG Ampol Wanniassa",
+      "address": "Cnr McBryde Cres & Denigan Street, Wanniassa ACT 2903",
+      "state": "ACT",
+      "prices": {
+        "U95": 199.9,
+        "U98": 209.9,
+        "Premium Diesel": 231.9,
+        "U91": 182.9
+      },
+      "updated": "2026-07-21T06:15:22Z",
+      "lat": -35.4043,
+      "lng": 149.097
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "ACT:18773",
+      "name": "Shell Reddy Express Belconnen",
+      "address": "Lathlain St & Wignall Pl, Belconnen ACT 2617",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 215.9,
+        "E10": 181.9,
+        "U98": 210.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-20T20:05:11Z",
+      "lat": -35.2417,
+      "lng": 149.064
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "ACT:18775",
+      "name": "Shell Reddy EXPRESS BELCONNEN TOWN CENTRE",
+      "address": "Cohen St &, Josephson St,, Belconnen ACT 2617",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 215.9,
+        "U95": 201.4,
+        "U98": 210.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-20T20:05:11Z",
+      "lat": -35.23931,
+      "lng": 149.06156
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "ACT:18792",
+      "name": "7-Eleven Holt",
+      "address": "88 Hardwick Cres, Holt ACT 2615",
+      "state": "ACT",
+      "prices": {
+        "E10": 182.9,
+        "LPG": 122.9,
+        "U98": 210.9,
+        "Premium Diesel": 215.9,
+        "U91": 184.9
+      },
+      "updated": "2026-07-21T01:30:30Z",
+      "lat": -35.2207,
+      "lng": 149.018
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "ACT:18774",
+      "name": "Shell Reddy Express Braddon",
+      "address": "54 Mort ST, Braddon ACT 2612",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 215.9,
+        "U95": 201.4,
+        "U98": 210.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-20T20:15:11Z",
+      "lat": -35.270769,
+      "lng": 149.132056
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "ACT:18776",
+      "name": "Shell Reddy Express Charnwood",
+      "address": "Lhotsky St & Charnwood Pl, Charnwood ACT 2615",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 215.9,
+        "E10": 181.9,
+        "U98": 210.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-20T20:05:11Z",
+      "lat": -35.205599,
+      "lng": 149.033258
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "ACT:18777",
+      "name": "Shell Reddy Express Curtin",
+      "address": "17 Strangways ST, Curtin ACT 2605",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 215.9,
+        "E10": 181.9,
+        "U98": 210.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-20T20:05:11Z",
+      "lat": -35.324838,
+      "lng": 149.081457
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "ACT:18778",
+      "name": "Shell Reddy Express Deakin",
+      "address": "Shop 1 25 Hopetoun CCT, Deakin ACT 2600",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 215.9,
+        "E10": 181.9,
+        "U98": 210.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-20T20:05:11Z",
+      "lat": -35.314421,
+      "lng": 149.107777
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "ACT:18779",
+      "name": "Shell Reddy Express Dickson",
+      "address": "30-34 Antill Street, Dickson ACT 2602",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 215.9,
+        "E10": 181.9,
+        "U98": 210.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-20T20:05:11Z",
+      "lat": -35.2488,
+      "lng": 149.138
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "ACT:18780",
+      "name": "Shell Reddy Express Fyshwick Capital",
+      "address": "100 Newcastle ST, Fyshwick ACT 2609",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 215.9,
+        "E10": 181.9,
+        "U98": 210.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-21T02:30:27Z",
+      "lat": -35.328178,
+      "lng": 149.177931
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "ACT:18781",
+      "name": "Shell Reddy Express Fyshwick Wiluna",
+      "address": "8/12 Wiluna St, Fyshwick Wiluna ACT 2609",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 215.9,
+        "U95": 201.4,
+        "U98": 210.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-20T21:30:06Z",
+      "lat": -35.328513,
+      "lng": 149.163619
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "ACT:18782",
+      "name": "Shell Reddy EXPRESS MANUKA",
+      "address": "Cnr Canberra Avenue & Flinders Way, Express Manuka ACT 2603",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 215.9,
+        "E10": 181.9,
+        "U98": 210.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-20T20:00:39Z",
+      "lat": -35.3198,
+      "lng": 149.134
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "ACT:18783",
+      "name": "Shell Reddy Express Gungahlin",
+      "address": "1 Ginn ST, Gungahlin ACT 2912",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 215.9,
+        "E10": 181.9,
+        "U98": 210.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-20T20:20:13Z",
+      "lat": -35.183612,
+      "lng": 149.126376
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "ACT:18784",
+      "name": "Shell Reddy Express Hawker",
+      "address": "20 Springvale Drive, Hawker ACT 2614",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 215.9,
+        "E10": 181.9,
+        "U98": 210.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-20T20:00:39Z",
+      "lat": -35.244,
+      "lng": 149.044
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "ACT:18793",
+      "name": "7-Eleven Mawson",
+      "address": "1 Mawson Pl, Mawson ACT 2607",
+      "state": "ACT",
+      "prices": {
+        "E10": 181.9,
+        "LPG": 121.9,
+        "U98": 209.9,
+        "Premium Diesel": 215.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-21T01:36:14Z",
+      "lat": -35.365,
+      "lng": 149.094
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "ACT:18785",
+      "name": "Shell Reddy Express Phillip",
+      "address": "172 Melrose DR, Phillip ACT 2606",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 215.9,
+        "U98": 210.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-20T20:15:11Z",
+      "lat": -35.349958,
+      "lng": 149.084896
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "ACT:18786",
+      "name": "Shell Reddy Express Tuggeranong",
+      "address": "149-165 Soward Way, Anketell St,, Greenway ACT 2900",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 215.9,
+        "E10": 181.9,
+        "U95": 201.4,
+        "U98": 210.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-20T20:05:11Z",
+      "lat": -35.41848,
+      "lng": 149.0691
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "ACT:18787",
+      "name": "Shell Reddy Express Wanniassa",
+      "address": "49 Rylah Cr, Wanniassa ACT 2903",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 215.9,
+        "U95": 201.4,
+        "U98": 210.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-20T20:15:11Z",
+      "lat": -35.390386,
+      "lng": 149.085137
+    },
+    {
+      "brand": "United",
+      "code": "ACT:18830",
+      "name": "United Amaroo",
+      "address": "Cnr Katherine and Horse Park Dr, Amaroo ACT 2914",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 221.9,
+        "E10": 181.9,
+        "LPG": 116.9,
+        "U98": 207.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-21T06:15:16Z",
+      "lat": -35.1641,
+      "lng": 149.131
+    },
+    {
+      "brand": "United",
+      "code": "ACT:18831",
+      "name": "United Kambah",
+      "address": "150 O'Halloran Circuit, Kambah ACT 2902",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 215.9,
+        "E10": 180.9,
+        "E85": 239.9,
+        "LPG": 120.9,
+        "U95": 198.9,
+        "U98": 206.9,
+        "U91": 182.9
+      },
+      "updated": "2026-07-21T06:35:06Z",
+      "lat": -35.3924,
+      "lng": 149.069
+    },
+    {
+      "brand": "Ampol",
+      "code": "ACT:18833",
+      "name": "Ampol Mitchell Canberra",
+      "address": "Garage 116 Lysaght ST, Mitchell ACT 2911",
+      "state": "ACT",
+      "prices": {
+        "Diesel": 215.9,
+        "LPG": 122.9,
+        "U98": 205.9,
+        "Premium Diesel": 217.9,
+        "U91": 181.9
+      },
+      "updated": "2026-07-21T06:16:45Z",
+      "lat": -35.215024,
+      "lng": 149.139903
+    },
+    {
+      "brand": "Metro Fuel",
+      "code": "ACT:18827",
+      "name": "Metro Fyshwick Whyalla",
+      "address": "51 Whyalla St, Fyshwick ACT 2609",
+      "state": "ACT",
+      "prices": {
+        "E10": 179.9,
+        "U98": 207.9,
+        "Premium Diesel": 214.9,
+        "U91": 181.9
+      },
+      "updated": "2026-07-21T02:46:59Z",
+      "lat": -35.3326,
+      "lng": 149.176
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "ACT:18794",
+      "name": "7-Eleven Melba",
+      "address": "2 Chinner Cres, Melba ACT 2615",
+      "state": "ACT",
+      "prices": {
+        "E10": 182.9,
+        "U98": 210.9,
+        "Premium Diesel": 215.9,
+        "U91": 184.9
+      },
+      "updated": "2026-07-21T01:39:15Z",
+      "lat": -35.2078,
+      "lng": 149.048
+    },
+    {
+      "brand": "Costco",
+      "code": "ACT:18815",
+      "name": "Costco Canberra Airport (Members Only)",
+      "address": "39-41 Mustang Avenue, Canberra Airport ACT 2609",
+      "state": "ACT",
+      "prices": {
+        "U98": 192.7,
+        "Premium Diesel": 202.7,
+        "U91": 172.7
+      },
+      "updated": "2026-07-19T23:01:10Z",
+      "lat": -35.2966,
+      "lng": 149.189
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "ACT:18795",
+      "name": "7-Eleven Phillip",
+      "address": "86 Parramatta ST, Phillip ACT 2606",
+      "state": "ACT",
+      "prices": {
+        "E10": 181.9,
+        "U95": 200.9,
+        "U98": 209.9,
+        "Premium Diesel": 215.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-20T22:33:15Z",
+      "lat": -35.355061,
+      "lng": 149.091106
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "ACT:18796",
+      "name": "7-Eleven Spence",
+      "address": "Glassey Pl & Cnr Clarey Cres, Spence ACT 2615",
+      "state": "ACT",
+      "prices": {
+        "E10": 182.9,
+        "U95": 201.9,
+        "U98": 210.9,
+        "Premium Diesel": 215.9,
+        "U91": 184.9
+      },
+      "updated": "2026-07-21T01:39:15Z",
+      "lat": -35.19471,
+      "lng": 149.0623
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "ACT:18797",
+      "name": "7-Eleven Wanniassa",
+      "address": "76 Gartside St, Wanniassa ACT 2903",
+      "state": "ACT",
+      "prices": {
+        "E10": 181.9,
+        "LPG": 121.9,
+        "U98": 209.9,
+        "Premium Diesel": 227.9,
+        "U91": 183.9
+      },
+      "updated": "2026-07-21T08:18:15Z",
+      "lat": -35.4052,
+      "lng": 149.101
+    },
+    {
+      "brand": "Metro Fuel",
+      "code": "ACT:20090",
+      "name": "Metro Petroleum Phillip",
+      "address": "103 Hindmarsh DR, Phillip ACT 2606",
+      "state": "ACT",
+      "prices": {
+        "E10": 179.9,
+        "U98": 209.9,
+        "Premium Diesel": 219.9,
+        "U91": 183.5
+      },
+      "updated": "2026-07-21T02:50:45Z",
+      "lat": -35.349177,
+      "lng": 149.085739
+    },
+    {
+      "brand": "Metro Fuel",
+      "code": "ACT:20086",
+      "name": "Metro Petroleum Scullin",
+      "address": "Garage 120 Ross Smith Cr, Scullin ACT 2614",
+      "state": "ACT",
+      "prices": {
+        "E10": 178.9,
+        "U98": 209.9,
+        "Premium Diesel": 214.9,
+        "U91": 180.9
+      },
+      "updated": "2026-07-21T06:05:01Z",
+      "lat": -35.23321,
+      "lng": 149.041228
+    },
+    {
+      "brand": "Ampol",
+      "code": "ACT:20158",
+      "name": "Ampol Fyshwick",
+      "address": "289 Canberra Av, Fyshwick ACT 2609",
+      "state": "ACT",
+      "prices": {
+        "U95": 215.9,
+        "U98": 219.9,
+        "Premium Diesel": 219.9,
+        "U91": 199.9
+      },
+      "updated": "2026-07-20T22:28:03Z",
+      "lat": -35.334119,
+      "lng": 149.169884
+    },
+    {
+      "brand": "Metro Fuel",
+      "code": "ACT:20254",
+      "name": "Metro Petroleum Fyshwick",
+      "address": "Mobil Outlet 15 Barrier ST, Fyshwick ACT 2609",
+      "state": "ACT",
+      "prices": {
+        "E10": 172.9,
+        "U98": 194.9,
+        "Premium Diesel": 206.9,
+        "U91": 174.9
+      },
+      "updated": "2026-07-21T08:58:22Z",
+      "lat": -35.329111,
+      "lng": 149.172604
+    },
+    {
+      "brand": "Metro Fuel",
+      "code": "ACT:20176",
+      "name": "Metro Farrer",
+      "address": "Service Station 53 Lambrigg ST, Farrer ACT 2607",
+      "state": "ACT",
+      "prices": {
+        "E10": 177.9,
+        "U98": 209.5,
+        "Premium Diesel": 213.9,
+        "U91": 181.9
+      },
+      "updated": "2026-07-21T02:50:18Z",
+      "lat": -35.375911,
+      "lng": 149.101739
+    }
+  ]
+}

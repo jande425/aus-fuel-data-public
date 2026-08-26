@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-08-26T14:10:55Z",
+  "fetched_at": "2026-08-26T16:13:50Z",
   "station_count": 2090,
   "fuel_types": [
     "E10",
@@ -5437,12 +5437,12 @@
       "address": "33-37 Carrington Rd, RANDWICK NSW 2031",
       "state": "NSW",
       "prices": {
-        "E10": 203.7,
-        "U98": 232.7,
+        "E10": 217.7,
+        "U98": 245.7,
         "Premium Diesel": 256.5,
-        "U91": 205.7
+        "U91": 219.7
       },
-      "updated": "2026-08-26T04:34:02Z",
+      "updated": "2026-08-26T14:22:19Z",
       "lat": -33.906507,
       "lng": 151.252581
     },
@@ -6435,9 +6435,10 @@
       "state": "NSW",
       "prices": {
         "Diesel": 252.9,
+        "U95": 214.9,
         "U91": 208.9
       },
-      "updated": "2026-08-25T11:00:57Z",
+      "updated": "2026-08-26T14:39:57Z",
       "lat": -33.562072,
       "lng": 148.665825
     },
@@ -8205,13 +8206,13 @@
       "address": "1163-1167 Mamre RD, Kemps Creek NSW 2178",
       "state": "NSW",
       "prices": {
-        "Diesel": 250.9,
+        "Diesel": 252.9,
         "E10": 197.9,
         "U98": 226.9,
-        "Premium Diesel": 253.9,
+        "Premium Diesel": 255.9,
         "U91": 199.9
       },
-      "updated": "2026-08-25T01:02:25Z",
+      "updated": "2026-08-26T14:12:25Z",
       "lat": -33.870525,
       "lng": 150.795234
     },
@@ -13067,13 +13068,13 @@
       "address": "138-146 Princes Highway, Corrimal NSW 2518",
       "state": "NSW",
       "prices": {
-        "E10": 202.9,
-        "U95": 221.9,
-        "U98": 230.9,
-        "Premium Diesel": 248.9,
-        "U91": 204.9
+        "E10": 203.9,
+        "U95": 222.9,
+        "U98": 231.9,
+        "Premium Diesel": 249.9,
+        "U91": 205.9
       },
-      "updated": "2026-08-25T02:21:14Z",
+      "updated": "2026-08-26T15:51:12Z",
       "lat": -34.369863,
       "lng": 150.897816
     },
@@ -13251,14 +13252,14 @@
       "address": "940 Pittwater Road & Hawkesbury Avenue, Dee Why NSW 2099",
       "state": "NSW",
       "prices": {
-        "E10": 202.9,
+        "E10": 201.9,
         "LPG": 111.9,
-        "U95": 221.9,
-        "U98": 230.9,
+        "U95": 220.9,
+        "U98": 229.9,
         "Premium Diesel": 256.9,
-        "U91": 204.9
+        "U91": 203.9
       },
-      "updated": "2026-08-26T06:51:16Z",
+      "updated": "2026-08-26T15:45:14Z",
       "lat": -33.749095,
       "lng": 151.290234
     },
@@ -13371,14 +13372,14 @@
       "address": "Lot 3-4 Parramatta Road & Harbord Street, Granville East NSW 2142",
       "state": "NSW",
       "prices": {
-        "E10": 199.9,
+        "E10": 200.9,
         "LPG": 116.9,
-        "U95": 218.9,
-        "U98": 227.9,
+        "U95": 219.9,
+        "U98": 228.9,
         "Premium Diesel": 253.9,
-        "U91": 201.9
+        "U91": 202.9
       },
-      "updated": "2026-08-25T22:00:39Z",
+      "updated": "2026-08-26T15:48:12Z",
       "lat": -33.835001,
       "lng": 151.021825
     },
@@ -29838,13 +29839,13 @@
       "address": "41 Broadarrow RD, Narwee NSW 2209",
       "state": "NSW",
       "prices": {
-        "E10": 190.7,
+        "E10": 195.7,
         "U95": 209.9,
         "U98": 219.9,
-        "Premium Diesel": 238.9,
+        "Premium Diesel": 243.9,
         "U91": 199.7
       },
-      "updated": "2026-08-26T09:02:34Z",
+      "updated": "2026-08-26T14:55:47Z",
       "lat": -33.948149,
       "lng": 151.070973
     },

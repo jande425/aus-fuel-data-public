@@ -2,8 +2,8 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-07-21T10:40:08Z",
-  "station_count": 293,
+  "fetched_at": "2026-08-26T11:48:48Z",
+  "station_count": 295,
   "fuel_types": [
     "E10",
     "U91",
@@ -12,7 +12,8 @@
     "Diesel",
     "LPG",
     "Premium Diesel",
-    "E85"
+    "E85",
+    "EV"
   ],
   "stations": [
     {
@@ -22,13 +23,13 @@
       "address": "163 Brighton Road, Brighton TAS 7019",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "U95": 196.9,
-        "U98": 204.9,
-        "U91": 179.9,
-        "Premium Diesel": 215.9
+        "Diesel": 257.9,
+        "U95": 229.9,
+        "U98": 237.9,
+        "U91": 212.9,
+        "Premium Diesel": 259.9
       },
-      "updated": "2026-07-21T00:44:26Z",
+      "updated": "2026-08-26T09:05:17Z",
       "lat": -42.6993,
       "lng": 147.2513
     },
@@ -39,14 +40,14 @@
       "address": "200 Brooker Highway, North Hobart TAS 7000",
       "state": "TAS",
       "prices": {
-        "Diesel": 208.9,
-        "E10": 168.9,
-        "U95": 196.9,
-        "U98": 204.9,
-        "Premium Diesel": 226.9,
-        "U91": 179.9
+        "Diesel": 240.9,
+        "E10": 193.9,
+        "U98": 229.9,
+        "Premium Diesel": 266.9,
+        "U91": 204.9,
+        "U95": 221.9
       },
-      "updated": "2026-07-21T00:40:23Z",
+      "updated": "2026-08-26T09:05:17Z",
       "lat": -42.8700379,
       "lng": 147.3214497
     },
@@ -57,12 +58,12 @@
       "address": "967 Cambridge Road, Cambridge TAS 7170",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "U91": 186.9,
-        "U95": 199.9,
-        "Premium Diesel": 224.9
+        "Diesel": 259.9,
+        "U91": 219.9,
+        "U95": 230.9,
+        "Premium Diesel": 269.9
       },
-      "updated": "2026-07-20T20:00:39Z",
+      "updated": "2026-08-26T09:00:46Z",
       "lat": -42.837107,
       "lng": 147.4408011
     },
@@ -73,14 +74,14 @@
       "address": "3 Friend Street, Devonport TAS 7310",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "E10": 182.9,
-        "U95": 200.9,
-        "U98": 208.9,
-        "U91": 183.9,
-        "Premium Diesel": 219.9
+        "Diesel": 257.9,
+        "E10": 205.9,
+        "U95": 226.9,
+        "U98": 234.9,
+        "U91": 209.9,
+        "Premium Diesel": 256.9
       },
-      "updated": "2026-07-21T05:58:35Z",
+      "updated": "2026-08-26T09:05:17Z",
       "lat": -41.1915972,
       "lng": 146.3369471
     },
@@ -91,12 +92,12 @@
       "address": "3 Holyman Avenue, Hobart TAS 7170",
       "state": "TAS",
       "prices": {
-        "U95": 199.9,
-        "U98": 207.9,
-        "Premium Diesel": 227.9,
-        "U91": 182.9
+        "U95": 228.9,
+        "U98": 236.9,
+        "Premium Diesel": 265.9,
+        "U91": 211.9
       },
-      "updated": "2026-07-21T00:46:29Z",
+      "updated": "2026-08-25T00:42:32Z",
       "lat": -42.8327,
       "lng": 147.491
     },
@@ -107,11 +108,11 @@
       "address": "60 Main Road, Huonville TAS 7109",
       "state": "TAS",
       "prices": {
-        "U98": 220.9,
-        "Premium Diesel": 239.9,
-        "U91": 195.9
+        "U98": 234.9,
+        "Premium Diesel": 265.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T00:36:18Z",
+      "updated": "2026-08-25T06:54:39Z",
       "lat": -43.0292136,
       "lng": 147.0500176
     },
@@ -122,14 +123,14 @@
       "address": "Cnr Channel Highway & John Street, Kingston TAS 7050",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "E10": 182.9,
-        "U95": 196.9,
-        "U98": 204.9,
-        "U91": 179.9,
-        "Premium Diesel": 229.9
+        "Diesel": 259.9,
+        "E10": 203.9,
+        "U95": 223.9,
+        "U98": 231.9,
+        "U91": 206.9,
+        "Premium Diesel": 261.9
       },
-      "updated": "2026-07-21T00:40:22Z",
+      "updated": "2026-08-26T09:05:17Z",
       "lat": -42.9754,
       "lng": 147.3096
     },
@@ -140,12 +141,12 @@
       "address": "31 Wellington Street, Launceston TAS 7250",
       "state": "TAS",
       "prices": {
-        "U95": 199.9,
-        "U98": 207.9,
-        "Premium Diesel": 219.9,
-        "U91": 182.9
+        "U95": 226.9,
+        "U98": 234.9,
+        "Premium Diesel": 255.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T06:00:35Z",
+      "updated": "2026-08-23T01:38:25Z",
       "lat": -41.4393566,
       "lng": 147.1365688
     },
@@ -156,14 +157,12 @@
       "address": "170 East Derwent Highway, Lindisfarne TAS 7015",
       "state": "TAS",
       "prices": {
-        "Diesel": 217.9,
-        "E10": 174.9,
-        "U98": 208.9,
-        "U95": 200.9,
-        "Premium Diesel": 225.9,
-        "U91": 183.9
+        "U95": 223.9,
+        "U98": 231.9,
+        "Premium Diesel": 257.9,
+        "U91": 206.9
       },
-      "updated": "2026-07-21T06:10:43Z",
+      "updated": "2026-08-26T01:02:49Z",
       "lat": -42.8457973,
       "lng": 147.35833
     },
@@ -174,14 +173,14 @@
       "address": "1718 Channel Highway, Margate TAS 7054",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "E10": 182.9,
-        "U98": 214.9,
-        "U91": 189.9,
-        "U95": 206.9,
-        "Premium Diesel": 229.9
+        "Diesel": 262.9,
+        "E10": 213.9,
+        "U98": 240.9,
+        "U91": 215.9,
+        "U95": 232.9,
+        "Premium Diesel": 265.9
       },
-      "updated": "2026-07-21T00:36:19Z",
+      "updated": "2026-08-26T09:00:46Z",
       "lat": -43.0266606,
       "lng": 147.2609635
     },
@@ -192,14 +191,14 @@
       "address": "30 Main Road, Moonah TAS 7009",
       "state": "TAS",
       "prices": {
-        "Diesel": 217.9,
-        "E10": 168.9,
-        "U95": 198.9,
-        "U98": 206.9,
-        "Premium Diesel": 225.9,
-        "U91": 181.9
+        "Diesel": 255.9,
+        "E10": 200.9,
+        "U95": 226.9,
+        "U98": 234.9,
+        "Premium Diesel": 259.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T06:06:33Z",
+      "updated": "2026-08-25T00:20:18Z",
       "lat": -42.84915,
       "lng": 147.29649
     },
@@ -210,12 +209,12 @@
       "address": "117 George Town Road, Newnham TAS 7248",
       "state": "TAS",
       "prices": {
-        "U95": 198.9,
-        "U98": 206.9,
-        "Premium Diesel": 222.9,
-        "U91": 181.9
+        "U95": 226.9,
+        "U98": 234.9,
+        "Premium Diesel": 259.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T06:00:36Z",
+      "updated": "2026-08-25T02:17:08Z",
       "lat": -41.3847474,
       "lng": 147.1276279
     },
@@ -226,13 +225,13 @@
       "address": "36 North Terrace, Burnie TAS 7320",
       "state": "TAS",
       "prices": {
-        "E10": 177.9,
-        "U98": 212.9,
-        "Premium Diesel": 229.9,
-        "U91": 187.9,
-        "U95": 204.9
+        "E10": 207.9,
+        "U98": 236.9,
+        "Premium Diesel": 259.9,
+        "U91": 211.9,
+        "U95": 228.9
       },
-      "updated": "2026-07-21T05:52:31Z",
+      "updated": "2026-08-25T00:16:58Z",
       "lat": -41.0478,
       "lng": 145.901
     },
@@ -243,12 +242,12 @@
       "address": "214 West Tamar Road, Riverside TAS 7250",
       "state": "TAS",
       "prices": {
-        "U95": 195.9,
-        "U98": 208.9,
-        "Premium Diesel": 219.9,
-        "U91": 183.9
+        "U95": 222.9,
+        "U98": 234.9,
+        "Premium Diesel": 258.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T04:23:05Z",
+      "updated": "2026-08-26T04:37:17Z",
       "lat": -41.4200043,
       "lng": 147.1093515
     },
@@ -259,13 +258,13 @@
       "address": "Cnr 6 Circassion & Cecilia Streets, St Helens TAS 7216",
       "state": "TAS",
       "prices": {
-        "Diesel": 217.9,
-        "U95": 194.4,
-        "U98": 206.9,
-        "U91": 181.9,
-        "Premium Diesel": 219.9
+        "Diesel": 253.9,
+        "U95": 224.4,
+        "U98": 232.9,
+        "U91": 207.9,
+        "Premium Diesel": 251.9
       },
-      "updated": "2026-07-21T00:56:37Z",
+      "updated": "2026-08-25T00:48:44Z",
       "lat": -41.3236,
       "lng": 148.24981
     },
@@ -276,14 +275,14 @@
       "address": "58 Main Street, Ulverstone TAS 7315",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "E10": 176.9,
-        "U95": 206.9,
-        "U98": 214.9,
-        "U91": 189.9,
-        "Premium Diesel": 229.9
+        "Diesel": 252.9,
+        "E10": 205.9,
+        "U95": 230.9,
+        "U98": 238.9,
+        "U91": 213.9,
+        "Premium Diesel": 261.9
       },
-      "updated": "2026-07-21T05:54:30Z",
+      "updated": "2026-08-26T09:00:46Z",
       "lat": -41.1575246,
       "lng": 146.1775819
     },
@@ -294,11 +293,11 @@
       "address": "528 South Arm Highway, Lauderdale TAS 7021",
       "state": "TAS",
       "prices": {
-        "U98": 211.9,
-        "U91": 178,
-        "Diesel": 214
+        "U98": 238.9,
+        "U91": 213,
+        "Diesel": 260
       },
-      "updated": "2026-07-21T02:11:52Z",
+      "updated": "2026-08-26T09:05:17Z",
       "lat": -42.9140087,
       "lng": 147.4863129
     },
@@ -309,13 +308,13 @@
       "address": "1 Gordons Hill Road, Bellerive TAS 7018",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "U95": 199.9,
-        "U98": 209.9,
-        "U91": 182.9,
-        "Premium Diesel": 243.9
+        "Diesel": 254.9,
+        "U95": 214.9,
+        "U98": 222.9,
+        "U91": 195.9,
+        "Premium Diesel": 245.9
       },
-      "updated": "2026-07-20T22:02:12Z",
+      "updated": "2026-08-26T09:05:17Z",
       "lat": -42.8660745,
       "lng": 147.3729827
     },
@@ -326,14 +325,14 @@
       "address": "323-325 Main Road, Glenorchy TAS 7010",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "E10": 176.9,
-        "U95": 200.9,
-        "U98": 210.9,
-        "U91": 183.9,
-        "Premium Diesel": 242.9
+        "Diesel": 253.9,
+        "E10": 200.9,
+        "U95": 221.9,
+        "U98": 231.9,
+        "U91": 204.9,
+        "Premium Diesel": 260.9
       },
-      "updated": "2026-07-20T22:02:12Z",
+      "updated": "2026-08-26T09:00:46Z",
       "lat": -42.8336862,
       "lng": 147.2809297
     },
@@ -344,14 +343,14 @@
       "address": "272 Macquarie Street, South Hobart TAS 7004",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "E10": 176.9,
-        "U95": 201.9,
-        "U98": 211.9,
-        "U91": 184.9,
-        "Premium Diesel": 247.9
+        "Diesel": 256.9,
+        "E10": 205.9,
+        "U95": 218.9,
+        "U98": 228.9,
+        "U91": 201.9,
+        "Premium Diesel": 267.9
       },
-      "updated": "2026-07-20T22:02:12Z",
+      "updated": "2026-08-26T09:30:28Z",
       "lat": -42.8912049,
       "lng": 147.319796
     },
@@ -362,12 +361,12 @@
       "address": "152-158 Davey Street CNR Antill Street, Hobart South TAS 7000",
       "state": "TAS",
       "prices": {
-        "U95": 201.9,
-        "U98": 211.9,
-        "Premium Diesel": 247.9,
-        "U91": 184.9
+        "U95": 224.9,
+        "U98": 234.9,
+        "Premium Diesel": 272.9,
+        "U91": 207.9
       },
-      "updated": "2026-07-20T22:02:12Z",
+      "updated": "2026-08-25T01:12:12Z",
       "lat": -42.891354,
       "lng": 147.321352
     },
@@ -378,13 +377,13 @@
       "address": "109 East Derwent HWY, Lindisfarne TAS 7015",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "U95": 202.4,
-        "U98": 198.9,
-        "U91": 175.5,
-        "Premium Diesel": 223.9
+        "Diesel": 258.9,
+        "U95": 227.4,
+        "U98": 221.9,
+        "U91": 198.9,
+        "Premium Diesel": 251.8
       },
-      "updated": "2026-07-21T01:12:15Z",
+      "updated": "2026-08-26T09:05:17Z",
       "lat": -42.8517409,
       "lng": 147.3601656
     },
@@ -395,14 +394,14 @@
       "address": "13 Tasman Highway, Midway Point TAS 7171",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "E10": 176.9,
-        "U95": 201.9,
-        "U98": 211.9,
-        "U91": 184.9,
-        "Premium Diesel": 247.9
+        "Diesel": 259.9,
+        "E10": 206.9,
+        "U95": 230.9,
+        "U98": 240.9,
+        "U91": 213.9,
+        "Premium Diesel": 268.9
       },
-      "updated": "2026-07-20T22:02:12Z",
+      "updated": "2026-08-26T09:00:46Z",
       "lat": -42.8041329,
       "lng": 147.5326407
     },
@@ -413,12 +412,12 @@
       "address": "71 Risdon Road near Queens Walk, New Town TAS 7008",
       "state": "TAS",
       "prices": {
-        "U95": 201.9,
-        "U98": 211.9,
-        "Premium Diesel": 246.9,
-        "U91": 184.9
+        "U95": 227.9,
+        "U98": 237.9,
+        "Premium Diesel": 263.9,
+        "U91": 210.9
       },
-      "updated": "2026-07-20T22:02:12Z",
+      "updated": "2026-08-26T02:32:12Z",
       "lat": -42.851853,
       "lng": 147.310634
     },
@@ -429,14 +428,14 @@
       "address": "388 Sandy Bay Road, Sandy Bay TAS 7005",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "E10": 180.9,
-        "U95": 208.9,
-        "U98": 218.9,
-        "U91": 191.9,
-        "Premium Diesel": 254.9
+        "Diesel": 259.9,
+        "E10": 208.9,
+        "U95": 231.9,
+        "U98": 241.9,
+        "U91": 214.9,
+        "Premium Diesel": 272.9
       },
-      "updated": "2026-07-21T07:30:28Z",
+      "updated": "2026-08-26T09:05:17Z",
       "lat": -42.9022118,
       "lng": 147.3346868
     },
@@ -447,14 +446,14 @@
       "address": "Cnr North Terrace & Mount Street, Burnie TAS 7320",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "E10": 176.9,
-        "U98": 205.9,
-        "U91": 185.9,
-        "U95": 202.9,
-        "Premium Diesel": 231.9
+        "Diesel": 259.9,
+        "E10": 207.9,
+        "U98": 236.9,
+        "U91": 211.9,
+        "U95": 228.9,
+        "Premium Diesel": 258.9
       },
-      "updated": "2026-07-21T06:15:23Z",
+      "updated": "2026-08-26T09:00:46Z",
       "lat": -41.0498,
       "lng": 145.9052
     },
@@ -465,11 +464,11 @@
       "address": "1 Box Hill Road, Claremont TAS 7011",
       "state": "TAS",
       "prices": {
-        "U95": 196.9,
-        "Premium Diesel": 230.9,
-        "U91": 179.9
+        "U95": 231.9,
+        "Premium Diesel": 269.9,
+        "U91": 214.9
       },
-      "updated": "2026-07-21T06:15:23Z",
+      "updated": "2026-08-25T01:15:20Z",
       "lat": -42.7924693,
       "lng": 147.2567552
     },
@@ -480,12 +479,12 @@
       "address": "463-465 Main Road, Glenorchy TAS 7010",
       "state": "TAS",
       "prices": {
-        "U95": 196.9,
-        "U98": 206.9,
-        "Premium Diesel": 227.9,
-        "U91": 179.9
+        "U95": 222.9,
+        "U98": 232.9,
+        "Premium Diesel": 259.9,
+        "U91": 205.9
       },
-      "updated": "2026-07-21T06:15:23Z",
+      "updated": "2026-08-26T03:12:14Z",
       "lat": -42.8294,
       "lng": 147.2691
     },
@@ -496,13 +495,13 @@
       "address": "242 Clarence ST, Howrah TAS 7018",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "U95": 196.9,
-        "U98": 206.9,
-        "U91": 179.9,
-        "Premium Diesel": 230.9
+        "Diesel": 258.9,
+        "U95": 215.9,
+        "U98": 225.9,
+        "U91": 198.9,
+        "Premium Diesel": 248.9
       },
-      "updated": "2026-07-21T06:18:20Z",
+      "updated": "2026-08-26T09:15:22Z",
       "lat": -42.8775095,
       "lng": 147.3962802
     },
@@ -513,14 +512,13 @@
       "address": "45 Main Road, Huonville TAS 7109",
       "state": "TAS",
       "prices": {
-        "Diesel": 217.9,
-        "E10": 174.9,
-        "U95": 212.9,
-        "U98": 203.9,
-        "U91": 195.9,
-        "Premium Diesel": 241.9
+        "E10": 205.9,
+        "U95": 226.9,
+        "U98": 234.9,
+        "Premium Diesel": 265.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T07:03:17Z",
+      "updated": "2026-08-25T02:27:15Z",
       "lat": -43.03,
       "lng": 147.0486
     },
@@ -531,14 +529,14 @@
       "address": "111 Hobart Road, Kingsmeadows TAS 7249",
       "state": "TAS",
       "prices": {
-        "Diesel": 217.9,
-        "E10": 174.9,
-        "U95": 197.9,
-        "U98": 201.9,
-        "Premium Diesel": 231.9,
-        "U91": 180.9
+        "Diesel": 255.9,
+        "E10": 205.9,
+        "U95": 226.9,
+        "U98": 232.9,
+        "Premium Diesel": 255.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T06:18:20Z",
+      "updated": "2026-08-25T01:15:20Z",
       "lat": -41.4651,
       "lng": 147.1594
     },
@@ -549,14 +547,14 @@
       "address": "37-59 Maranoa Road, Kingston TAS 7050",
       "state": "TAS",
       "prices": {
-        "Diesel": 209.9,
-        "E10": 168.9,
-        "U98": 206.9,
-        "Premium Diesel": 232.9,
-        "U95": 196.9,
-        "U91": 179.9
+        "Diesel": 254.9,
+        "E10": 204.9,
+        "U98": 233.9,
+        "Premium Diesel": 261.9,
+        "U95": 223.9,
+        "U91": 206.9
       },
-      "updated": "2026-07-21T06:15:23Z",
+      "updated": "2026-08-26T01:30:25Z",
       "lat": -42.9799431,
       "lng": 147.3027728
     },
@@ -567,14 +565,14 @@
       "address": "Corner Freshwater Point Road and Legana Grove, Legana TAS 7277",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "E10": 176.9,
-        "U95": 200.9,
-        "U98": 203.9,
-        "Premium Diesel": 233.9,
-        "U91": 183.9
+        "Diesel": 254.9,
+        "E10": 208.9,
+        "U95": 223.9,
+        "U98": 235.9,
+        "Premium Diesel": 259.9,
+        "U91": 206.9
       },
-      "updated": "2026-07-21T06:27:20Z",
+      "updated": "2026-08-26T09:05:17Z",
       "lat": -41.3639,
       "lng": 147.0422
     },
@@ -585,11 +583,11 @@
       "address": "262 Invermay Road, Mowbray TAS 7248",
       "state": "TAS",
       "prices": {
-        "U95": 198.9,
-        "Premium Diesel": 226.9,
-        "U91": 181.9
+        "U95": 226.9,
+        "Premium Diesel": 260.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T06:18:20Z",
+      "updated": "2026-08-25T01:15:20Z",
       "lat": -41.4050213,
       "lng": 147.1342124
     },
@@ -600,14 +598,14 @@
       "address": "81 High Street, New Norfolk TAS 7140",
       "state": "TAS",
       "prices": {
-        "Diesel": 216.9,
-        "E10": 178.9,
-        "U98": 214.9,
-        "Premium Diesel": 235.9,
-        "U91": 187.9,
-        "U95": 204.9
+        "Diesel": 258.9,
+        "E10": 212.9,
+        "U98": 237.9,
+        "Premium Diesel": 269.9,
+        "U91": 210.9,
+        "U95": 227.9
       },
-      "updated": "2026-07-21T06:15:23Z",
+      "updated": "2026-08-26T03:12:14Z",
       "lat": -42.7802635,
       "lng": 147.0657961
     },
@@ -618,14 +616,14 @@
       "address": "360-364 Westbury Road, Prospect Vale TAS 7250",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "E10": 176.9,
-        "U95": 198.9,
-        "U98": 203.9,
-        "Premium Diesel": 233.9,
-        "U91": 181.9
+        "Diesel": 258.9,
+        "E10": 205.9,
+        "U95": 223.9,
+        "U98": 232.9,
+        "Premium Diesel": 257.9,
+        "U91": 206.9
       },
-      "updated": "2026-07-21T06:15:23Z",
+      "updated": "2026-08-26T09:00:46Z",
       "lat": -41.4810797,
       "lng": 147.1259995
     },
@@ -636,14 +634,14 @@
       "address": "12 Weston Hill Road, Sorell TAS 7172",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "E10": 176.9,
-        "U98": 205.9,
-        "Premium Diesel": 226.9,
-        "U91": 178.9,
-        "U95": 195.9
+        "Diesel": 259.9,
+        "E10": 206.9,
+        "U98": 240.9,
+        "Premium Diesel": 266.9,
+        "U91": 213.9,
+        "U95": 230.9
       },
-      "updated": "2026-07-21T06:24:37Z",
+      "updated": "2026-08-26T09:05:17Z",
       "lat": -42.7802,
       "lng": 147.565
     },
@@ -654,15 +652,14 @@
       "address": "20-22 Eastland Drive, Ulverstone TAS 7315",
       "state": "TAS",
       "prices": {
-        "Diesel": 216.9,
-        "E10": 178.9,
-        "LPG": 132.9,
-        "U98": 207.9,
-        "Premium Diesel": 232.9,
-        "U91": 189.9,
-        "U95": 206.9
+        "Diesel": 258.9,
+        "E10": 212.9,
+        "U98": 241.9,
+        "Premium Diesel": 264.9,
+        "U91": 213.9,
+        "U95": 230.9
       },
-      "updated": "2026-07-21T06:18:20Z",
+      "updated": "2026-08-26T01:00:56Z",
       "lat": -41.1587,
       "lng": 146.184
     },
@@ -673,14 +670,14 @@
       "address": "34 Jackson Street, Wynyard TAS 7325",
       "state": "TAS",
       "prices": {
-        "Diesel": 216.9,
-        "E10": 186.9,
-        "U95": 206.9,
-        "U98": 213.9,
-        "Premium Diesel": 226.9,
-        "U91": 189.9
+        "Diesel": 258.9,
+        "E10": 207.9,
+        "U95": 224.9,
+        "U98": 234.9,
+        "Premium Diesel": 258.9,
+        "U91": 207.9
       },
-      "updated": "2026-07-21T06:24:37Z",
+      "updated": "2026-08-25T22:00:39Z",
       "lat": -40.9904269,
       "lng": 145.7282697
     },
@@ -691,14 +688,14 @@
       "address": "176 Roslyn Avenue, Blackmans Bay TAS 7052",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "U95": 193.4,
-        "U98": 203.9,
-        "Premium Diesel": 217.9,
-        "U91": 175.9,
-        "Diesel": 209.9
+        "E10": 208.9,
+        "U95": 227.4,
+        "U98": 237.9,
+        "Premium Diesel": 253.9,
+        "U91": 209.9,
+        "Diesel": 259.9
       },
-      "updated": "2026-07-20T20:05:11Z",
+      "updated": "2026-08-25T00:20:18Z",
       "lat": -43.0001808,
       "lng": 147.320607
     },
@@ -709,13 +706,13 @@
       "address": "146 Brighton Road (Cnr Andrew Street), Brighton TAS 7030",
       "state": "TAS",
       "prices": {
-        "Diesel": 211.9,
-        "E10": 168.9,
-        "U95": 197.4,
-        "U98": 197.9,
-        "U91": 179.9
+        "Diesel": 259.9,
+        "E10": 204.9,
+        "U95": 230.4,
+        "U98": 233.9,
+        "U91": 212.9
       },
-      "updated": "2026-07-21T03:01:04Z",
+      "updated": "2026-08-25T00:35:16Z",
       "lat": -42.700453,
       "lng": 147.251113
     },
@@ -726,13 +723,13 @@
       "address": "22 Formby Road & Ashburner Street, Devonport TAS 7310",
       "state": "TAS",
       "prices": {
-        "Diesel": 205.9,
-        "E10": 176.9,
-        "U95": 193.4,
-        "U98": 202.9,
-        "U91": 175.9
+        "Diesel": 253.9,
+        "E10": 207.9,
+        "U95": 222.4,
+        "U98": 231.9,
+        "U91": 204.9
       },
-      "updated": "2026-07-20T20:50:06Z",
+      "updated": "2026-08-26T09:00:46Z",
       "lat": -41.187463,
       "lng": 146.361823
     },
@@ -743,12 +740,12 @@
       "address": "418 Main Road, Glenorchy TAS 7010",
       "state": "TAS",
       "prices": {
-        "Diesel": 211.9,
-        "U98": 203.9,
-        "U91": 179.9,
-        "U95": 197.4
+        "Diesel": 256.9,
+        "U98": 229.9,
+        "U91": 204.9,
+        "U95": 222.4
       },
-      "updated": "2026-07-20T23:45:13Z",
+      "updated": "2026-08-25T01:05:16Z",
       "lat": -42.8320708,
       "lng": 147.2707854
     },
@@ -759,13 +756,13 @@
       "address": "257 Elizabeth Street, Hobart TAS 7000",
       "state": "TAS",
       "prices": {
-        "Diesel": 213.9,
-        "E10": 174.9,
-        "U95": 193.4,
-        "U98": 202.9,
-        "U91": 175.9
+        "Diesel": 259.9,
+        "E10": 204.9,
+        "U95": 222.4,
+        "U98": 231.9,
+        "U91": 204.9
       },
-      "updated": "2026-07-20T20:00:39Z",
+      "updated": "2026-08-25T00:15:24Z",
       "lat": -42.8765375,
       "lng": 147.3190101
     },
@@ -776,13 +773,13 @@
       "address": "2 Howrah Road, Howrah TAS 7018",
       "state": "TAS",
       "prices": {
-        "Diesel": 213.9,
-        "E10": 168.9,
-        "U95": 193.4,
-        "U98": 197.9,
-        "U91": 175.9
+        "Diesel": 243.9,
+        "E10": 204.9,
+        "U95": 213.4,
+        "U98": 233.9,
+        "U91": 195.9
       },
-      "updated": "2026-07-20T20:00:39Z",
+      "updated": "2026-08-25T03:35:25Z",
       "lat": -42.8806114,
       "lng": 147.4058823
     },
@@ -793,14 +790,14 @@
       "address": "103 Invermay Road, Launceston TAS 7250",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "U95": 193.4,
-        "U98": 203.9,
-        "Premium Diesel": 217.9,
-        "U91": 175.9,
-        "Diesel": 209.9
+        "E10": 204.9,
+        "U95": 227.4,
+        "U98": 233.9,
+        "Premium Diesel": 256.9,
+        "U91": 209.9,
+        "Diesel": 255.9
       },
-      "updated": "2026-07-20T20:05:11Z",
+      "updated": "2026-08-25T03:05:20Z",
       "lat": -41.425354,
       "lng": 147.136585
     },
@@ -811,14 +808,14 @@
       "address": "69 Wellington St, Cnr York St, Launceston TAS 7250",
       "state": "TAS",
       "prices": {
-        "E10": 168.9,
-        "U95": 196.4,
-        "U98": 197.9,
-        "Premium Diesel": 217.9,
-        "U91": 178.9,
-        "Diesel": 209.9
+        "E10": 206.9,
+        "U95": 227.4,
+        "U98": 235.9,
+        "Premium Diesel": 255.9,
+        "U91": 209.9,
+        "Diesel": 255.9
       },
-      "updated": "2026-07-20T23:45:13Z",
+      "updated": "2026-08-25T00:20:18Z",
       "lat": -41.440432,
       "lng": 147.137347
     },
@@ -829,13 +826,13 @@
       "address": "106-114 Bathurst St, Launceston TAS 7250",
       "state": "TAS",
       "prices": {
-        "Diesel": 209.9,
-        "E10": 168.9,
-        "U95": 196.4,
-        "U98": 205.9,
-        "U91": 178.9
+        "Diesel": 255.9,
+        "E10": 202.9,
+        "U95": 227.4,
+        "U98": 236.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T01:00:09Z",
+      "updated": "2026-08-25T00:20:18Z",
       "lat": -41.4446547,
       "lng": 147.1375611
     },
@@ -846,12 +843,12 @@
       "address": "112 Charles Street, Moonah TAS 7009",
       "state": "TAS",
       "prices": {
-        "Diesel": 215.9,
-        "U98": 202.9,
-        "U95": 193.4,
-        "U91": 175.9
+        "Diesel": 253.9,
+        "U95": 224.4,
+        "U98": 233.9,
+        "U91": 206.9
       },
-      "updated": "2026-07-21T03:01:04Z",
+      "updated": "2026-08-24T03:30:35Z",
       "lat": -42.8414921,
       "lng": 147.2884415
     },
@@ -862,13 +859,13 @@
       "address": "27 Hamilton Road (Lyell Highway), New Norfolk TAS 7140",
       "state": "TAS",
       "prices": {
-        "Diesel": 208.9,
-        "E10": 176.9,
-        "U95": 201.4,
-        "U98": 203.9,
-        "U91": 183.9
+        "Diesel": 255.9,
+        "E10": 203.9,
+        "U95": 230.4,
+        "U98": 230.9,
+        "U91": 212.9
       },
-      "updated": "2026-07-20T20:05:11Z",
+      "updated": "2026-08-26T09:15:22Z",
       "lat": -42.777244,
       "lng": 147.053854
     },
@@ -879,13 +876,13 @@
       "address": "1-3 Hobblers Bridge Road, Launceston TAS 7250",
       "state": "TAS",
       "prices": {
-        "Diesel": 215.9,
-        "E10": 174.9,
-        "U95": 197.4,
-        "U98": 206.9,
-        "U91": 179.9
+        "Diesel": 254.9,
+        "E10": 208.9,
+        "U95": 227.4,
+        "U98": 236.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T00:00:08Z",
+      "updated": "2026-08-25T00:20:18Z",
       "lat": -41.441623,
       "lng": 147.162028
     },
@@ -896,12 +893,12 @@
       "address": "142 Sandy Bay Road, Sandy Bay TAS 7005",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "U95": 193.4,
-        "U98": 202.9,
-        "U91": 175.9
+        "Diesel": 261.9,
+        "U95": 224.4,
+        "U98": 233.9,
+        "U91": 206.9
       },
-      "updated": "2026-07-20T23:50:09Z",
+      "updated": "2026-08-26T09:05:17Z",
       "lat": -42.8937266,
       "lng": 147.3261043
     },
@@ -912,12 +909,12 @@
       "address": "6-8 Brittons Road, Smithton TAS 7330",
       "state": "TAS",
       "prices": {
-        "Diesel": 209.9,
-        "U95": 206.4,
-        "U98": 215.9,
-        "U91": 189.9
+        "Diesel": 251.9,
+        "U95": 231.4,
+        "U98": 240.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-20T20:05:11Z",
+      "updated": "2026-08-26T09:05:17Z",
       "lat": -40.8560213,
       "lng": 145.1339397
     },
@@ -928,14 +925,14 @@
       "address": "4-12 Cole St (Arthur Highway), Sorell TAS 7172",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "U95": 195.4,
-        "U98": 203.9,
-        "Premium Diesel": 217.9,
-        "U91": 177.9,
-        "Diesel": 213.9
+        "E10": 200.9,
+        "U95": 232.4,
+        "U98": 229.9,
+        "Premium Diesel": 251.9,
+        "U91": 214.9,
+        "Diesel": 265.9
       },
-      "updated": "2026-07-21T00:00:08Z",
+      "updated": "2026-08-25T00:20:18Z",
       "lat": -42.782008,
       "lng": 147.565414
     },
@@ -946,12 +943,12 @@
       "address": "Lot 10, 12 Bellbay Road Bell Bay TAS 7253",
       "state": "TAS",
       "prices": {
-        "Diesel": 214.9,
-        "E10": 168.9,
-        "U95": 186.4,
-        "U98": 195.9
+        "Diesel": 251.9,
+        "E10": 204.9,
+        "U95": 222.4,
+        "U98": 231.9
       },
-      "updated": "2026-07-21T01:00:09Z",
+      "updated": "2026-08-25T00:30:33Z",
       "lat": -41.1173046,
       "lng": 146.8671413
     },
@@ -962,12 +959,12 @@
       "address": "19 Greenbanks Road, Bridgewater TAS 7030",
       "state": "TAS",
       "prices": {
-        "Diesel": 215.9,
-        "U95": 194.4,
-        "U98": 203.9,
-        "U91": 176.9
+        "Diesel": 253.9,
+        "U95": 224.4,
+        "U98": 233.9,
+        "U91": 206.9
       },
-      "updated": "2026-07-21T01:50:05Z",
+      "updated": "2026-08-25T00:20:18Z",
       "lat": -42.723994,
       "lng": 147.231813
     },
@@ -978,12 +975,9 @@
       "address": "River Road, Wivenhoe TAS 7230",
       "state": "TAS",
       "prices": {
-        "Diesel": 214.9,
-        "E10": 168.9,
-        "U95": 186.4,
-        "U98": 195.9
+        "Diesel": 255.9
       },
-      "updated": "2026-07-20T23:00:13Z",
+      "updated": "2026-08-25T22:43:00Z",
       "lat": -41.0700394,
       "lng": 145.924137
     },
@@ -994,13 +988,13 @@
       "address": "29 Meander Valley RD, Deloraine TAS 7304",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "U95": 203.9,
-        "U98": 201.9,
-        "Premium Diesel": 222.9,
-        "U91": 190.9
+        "E10": 203.9,
+        "U95": 227.9,
+        "U98": 230.9,
+        "Premium Diesel": 257.9,
+        "U91": 214.9
       },
-      "updated": "2026-07-20T20:15:11Z",
+      "updated": "2026-08-23T01:50:21Z",
       "lat": -41.52500457,
       "lng": 146.66403049
     },
@@ -1011,13 +1005,13 @@
       "address": "1-3 Stoney Rise Road, Quoiba TAS 7310",
       "state": "TAS",
       "prices": {
-        "Diesel": 215.9,
-        "E10": 168.9,
-        "U95": 188.4,
-        "U98": 197.9,
-        "U91": 170.9
+        "Diesel": 255.9,
+        "E10": 208.9,
+        "U95": 228.4,
+        "U98": 237.9,
+        "U91": 210.9
       },
-      "updated": "2026-07-20T23:50:02Z",
+      "updated": "2026-08-26T01:40:07Z",
       "lat": -41.209849,
       "lng": 146.3437915
     },
@@ -1028,15 +1022,31 @@
       "address": "103-109 Gleadow ST, Invermay TAS 7248",
       "state": "TAS",
       "prices": {
-        "Diesel": 212.9,
-        "E10": 176.9,
-        "U95": 196.4,
-        "U98": 205.9,
-        "U91": 178.9
+        "Diesel": 255.9,
+        "E10": 201.9,
+        "U95": 221.4,
+        "U98": 230.9,
+        "U91": 203.9
       },
-      "updated": "2026-07-20T22:59:48Z",
+      "updated": "2026-08-26T09:00:46Z",
       "lat": -41.4292569,
       "lng": 147.1259406
+    },
+    {
+      "brand": "Lowes",
+      "code": "TAS:70",
+      "name": "Lowes BP Smithton Opt",
+      "address": "Bass Highway, Smithton TAS 7330",
+      "state": "TAS",
+      "prices": {
+        "Diesel": 256.9,
+        "E10": 205.9,
+        "U95": 223.4,
+        "U98": 232.9
+      },
+      "updated": "2026-08-26T09:00:46Z",
+      "lat": -40.8580528,
+      "lng": 145.1274173
     },
     {
       "brand": "Lowes",
@@ -1045,9 +1055,9 @@
       "address": "Strahan Wharf, Strahan TAS 7468",
       "state": "TAS",
       "prices": {
-        "Diesel": 221.9
+        "Diesel": 261.9
       },
-      "updated": "2026-06-07T22:07:01Z",
+      "updated": "2026-08-19T00:01:52Z",
       "lat": -42.15359,
       "lng": 145.328592
     },
@@ -1058,13 +1068,13 @@
       "address": "21 Tasman Highway, Triabunna TAS 7190",
       "state": "TAS",
       "prices": {
-        "Diesel": 217.9,
-        "E10": 180.9,
-        "U95": 204.9,
-        "U98": 207.9,
-        "U91": 189.9
+        "Diesel": 258.9,
+        "E10": 208.9,
+        "U95": 226.4,
+        "U98": 235.9,
+        "U91": 217.9
       },
-      "updated": "2026-07-20T23:00:29Z",
+      "updated": "2026-08-26T09:00:46Z",
       "lat": -42.5006664,
       "lng": 147.913759
     },
@@ -1075,14 +1085,14 @@
       "address": "258 Main Street, Zeehan TAS 7469",
       "state": "TAS",
       "prices": {
-        "Diesel": 209.9,
-        "E10": 168.9,
-        "U95": 186.4,
-        "U98": 195.9,
-        "Premium Diesel": 216.9,
-        "U91": 186.9
+        "Diesel": 251.9,
+        "E10": 202.9,
+        "U95": 220.4,
+        "U98": 229.9,
+        "Premium Diesel": 253.9,
+        "U91": 208.9
       },
-      "updated": "2026-07-21T01:00:09Z",
+      "updated": "2026-08-25T22:43:14Z",
       "lat": -41.881125,
       "lng": 145.3278295
     },
@@ -1093,15 +1103,15 @@
       "address": "187 Weld Street, BEACONSFIELD TAS 7270",
       "state": "TAS",
       "prices": {
-        "E10": 179.9,
+        "E10": 204.9,
         "LPG": 109.9,
-        "U95": 195.9,
-        "U98": 204.9,
-        "Premium Diesel": 217.9,
-        "U91": 181.9,
-        "Diesel": 214.9
+        "U95": 222.9,
+        "U98": 231.9,
+        "Premium Diesel": 255.9,
+        "U91": 208.9,
+        "Diesel": 254.9
       },
-      "updated": "2026-07-21T05:10:08Z",
+      "updated": "2026-08-26T01:15:09Z",
       "lat": -41.1959248,
       "lng": 146.8118829
     },
@@ -1112,14 +1122,14 @@
       "address": "28 Tasman Highway, BICHENO TAS 7215",
       "state": "TAS",
       "prices": {
-        "E10": 173.9,
-        "U95": 195.9,
-        "U98": 204.9,
-        "Premium Diesel": 209.9,
-        "U91": 181.9,
-        "Diesel": 219.9
+        "E10": 197.9,
+        "U95": 219.9,
+        "U98": 228.9,
+        "Premium Diesel": 249.9,
+        "U91": 205.9,
+        "Diesel": 249.9
       },
-      "updated": "2026-07-21T05:10:08Z",
+      "updated": "2026-08-26T08:48:12Z",
       "lat": -41.8717712,
       "lng": 148.2950255
     },
@@ -1130,13 +1140,13 @@
       "address": "74 -76 Mount Street, BURNIE TAS 7320",
       "state": "TAS",
       "prices": {
-        "Diesel": 219.9,
-        "E10": 180.9,
-        "U95": 192.4,
-        "U98": 208.9,
-        "U91": 185.9
+        "Diesel": 253.9,
+        "E10": 204.9,
+        "U95": 224.4,
+        "U98": 232.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T07:15:07Z",
+      "updated": "2026-08-25T03:55:07Z",
       "lat": -41.054208,
       "lng": 145.9042558
     },
@@ -1147,12 +1157,12 @@
       "address": "3 East Cam Road, CAMDALE TAS 7320",
       "state": "TAS",
       "prices": {
-        "Diesel": 205.9,
-        "E10": 178.9,
-        "U98": 207.9,
-        "U91": 177.9
+        "Diesel": 241.9,
+        "E10": 209.9,
+        "U98": 238.9,
+        "U91": 199.9
       },
-      "updated": "2026-07-20T20:05:11Z",
+      "updated": "2026-08-25T22:00:39Z",
       "lat": -41.04068,
       "lng": 145.84494
     },
@@ -1163,13 +1173,13 @@
       "address": "94 Main Road, Claremont TAS 7011",
       "state": "TAS",
       "prices": {
-        "Diesel": 221.9,
-        "E10": 182.9,
-        "U95": 193.9,
-        "U98": 202.9,
-        "U91": 179.9
+        "Diesel": 259.9,
+        "E10": 209.9,
+        "U95": 222.9,
+        "U98": 231.9,
+        "U91": 208.9
       },
-      "updated": "2026-07-20T22:05:07Z",
+      "updated": "2026-08-26T09:05:17Z",
       "lat": -42.7875827,
       "lng": 147.251918
     },
@@ -1180,13 +1190,13 @@
       "address": "89 Best Street, DEVONPORT TAS 7310",
       "state": "TAS",
       "prices": {
-        "Diesel": 204.9,
+        "Diesel": 253.9,
         "E85": 239.9,
-        "U95": 187.9,
-        "U98": 196.9,
-        "U91": 173.9
+        "U95": 218.9,
+        "U98": 227.9,
+        "U91": 204.9
       },
-      "updated": "2026-07-20T00:10:05Z",
+      "updated": "2026-08-24T06:10:11Z",
       "lat": -41.177393,
       "lng": 146.3512702
     },
@@ -1197,12 +1207,12 @@
       "address": "110A Main Road, EXETER TAS 7275",
       "state": "TAS",
       "prices": {
-        "Diesel": 209.9,
-        "E10": 177.9,
-        "U95": 195.9,
-        "U91": 181.9
+        "Diesel": 255.9,
+        "E10": 202.9,
+        "U95": 220.9,
+        "U91": 206.9
       },
-      "updated": "2026-07-21T05:25:08Z",
+      "updated": "2026-08-25T04:25:05Z",
       "lat": -41.2996746,
       "lng": 146.9530931
     },
@@ -1213,11 +1223,11 @@
       "address": "15 Gage Road, Gagebrook TAS 7030",
       "state": "TAS",
       "prices": {
-        "Diesel": 211.9,
-        "U98": 201.9,
-        "U91": 178.9
+        "Diesel": 259.9,
+        "U98": 235.9,
+        "U91": 212.9
       },
-      "updated": "2026-07-21T03:25:11Z",
+      "updated": "2026-08-24T01:05:12Z",
       "lat": -42.7505491,
       "lng": 147.2748559
     },
@@ -1228,13 +1238,13 @@
       "address": "59-63 Main Road, George Town TAS 7253",
       "state": "TAS",
       "prices": {
-        "Diesel": 209.9,
-        "E10": 178.9,
-        "U95": 195.9,
-        "U98": 204.9,
-        "U91": 181.9
+        "Diesel": 258.9,
+        "E10": 212.9,
+        "U95": 223.9,
+        "U98": 232.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T05:10:08Z",
+      "updated": "2026-08-26T05:25:07Z",
       "lat": -41.1086195,
       "lng": 146.8365299
     },
@@ -1245,12 +1255,12 @@
       "address": "5540 Lyell Highway, HAMILTON TAS 7140",
       "state": "TAS",
       "prices": {
-        "Diesel": 199.9,
-        "E10": 168.9,
-        "U95": 186.4,
-        "U98": 195.9
+        "Diesel": 246.9,
+        "E10": 203.9,
+        "U95": 221.4,
+        "U98": 230.9
       },
-      "updated": "2026-07-21T01:00:09Z",
+      "updated": "2026-08-25T00:15:24Z",
       "lat": -42.562048,
       "lng": 146.8255283
     },
@@ -1261,14 +1271,14 @@
       "address": "197 Channel Highway, KINGSTON TAS 7050",
       "state": "TAS",
       "prices": {
-        "Diesel": 208.9,
-        "E10": 169.9,
+        "Diesel": 259.9,
+        "E10": 201.9,
         "E85": 239.9,
-        "U95": 188.9,
-        "U98": 197.9,
-        "U91": 174.9
+        "U95": 220.9,
+        "U98": 229.9,
+        "U91": 206.9
       },
-      "updated": "2026-07-21T05:55:08Z",
+      "updated": "2026-08-23T03:45:09Z",
       "lat": -42.9841449,
       "lng": 147.2931529
     },
@@ -1279,13 +1289,13 @@
       "address": "191 Gilbert Street,, LATROBE TAS 7307",
       "state": "TAS",
       "prices": {
-        "Diesel": 212.9,
-        "E10": 176.9,
-        "U95": 196.4,
-        "U98": 205.9,
-        "U91": 181.9
+        "Diesel": 257.9,
+        "E10": 203.9,
+        "U95": 223.4,
+        "U98": 232.9,
+        "U91": 213.9
       },
-      "updated": "2026-07-21T01:00:09Z",
+      "updated": "2026-08-26T09:30:28Z",
       "lat": -41.23601,
       "lng": 146.4172
     },
@@ -1296,13 +1306,13 @@
       "address": "771 West Tamar Highway, LEGANA TAS 7277",
       "state": "TAS",
       "prices": {
-        "Diesel": 219.9,
-        "E10": 182.9,
-        "U95": 200.4,
-        "U98": 204.9,
-        "U91": 181.9
+        "Diesel": 257.9,
+        "E10": 206.9,
+        "U95": 224.4,
+        "U98": 229.9,
+        "U91": 206.9
       },
-      "updated": "2026-07-21T05:25:08Z",
+      "updated": "2026-08-26T09:05:17Z",
       "lat": -41.3692652,
       "lng": 147.0472339
     },
@@ -1313,14 +1323,14 @@
       "address": "5 Wellington Street, LONGFORD TAS 7301",
       "state": "TAS",
       "prices": {
-        "Diesel": 211.9,
-        "E10": 182.9,
-        "U98": 206.9,
-        "U91": 183.9,
-        "U95": 197.9,
-        "Premium Diesel": 213.9
+        "Diesel": 256.9,
+        "E10": 207.9,
+        "U98": 232.9,
+        "U91": 209.9,
+        "U95": 223.9,
+        "Premium Diesel": 258.9
       },
-      "updated": "2026-07-21T02:40:06Z",
+      "updated": "2026-08-26T09:15:22Z",
       "lat": -41.5878096,
       "lng": 147.1194987
     },
@@ -1331,12 +1341,12 @@
       "address": "409 Brooker Hwy, LUTANA TAS 7009",
       "state": "TAS",
       "prices": {
-        "Diesel": 215.9,
-        "U98": 198.9,
-        "U91": 175.9,
-        "U95": 189.9
+        "Diesel": 253.9,
+        "U98": 229.9,
+        "U91": 206.9,
+        "U95": 220.9
       },
-      "updated": "2026-07-21T05:25:08Z",
+      "updated": "2026-08-26T09:00:46Z",
       "lat": -42.8374,
       "lng": 147.30339
     },
@@ -1347,14 +1357,14 @@
       "address": "7 George Town Road, NEWNHAM TAS 7248",
       "state": "TAS",
       "prices": {
-        "Diesel": 214.9,
-        "E10": 174.9,
-        "U95": 193.9,
-        "U98": 202.9,
+        "Diesel": 255.9,
+        "E10": 204.9,
+        "U95": 223.9,
+        "U98": 232.9,
         "E85": 239.9,
-        "U91": 179.9
+        "U91": 209.9
       },
-      "updated": "2026-07-21T09:00:13Z",
+      "updated": "2026-08-26T09:00:46Z",
       "lat": -41.3980623,
       "lng": 147.1279732
     },
@@ -1365,14 +1375,14 @@
       "address": "353-357 Argyle Street, NORTH HOBART TAS 7000",
       "state": "TAS",
       "prices": {
-        "Diesel": 213.9,
-        "U95": 185.9,
-        "U98": 194.9,
-        "U91": 171.9,
-        "E10": 166.9,
+        "Diesel": 259.9,
+        "U95": 215.7,
+        "U98": 224.7,
+        "U91": 201.7,
+        "E10": 196.7,
         "E85": 239.9
       },
-      "updated": "2026-07-21T01:00:06Z",
+      "updated": "2026-08-26T09:20:19Z",
       "lat": -42.8708967,
       "lng": 147.3170467
     },
@@ -1383,12 +1393,12 @@
       "address": "123 Paterson Street, LAUNCESTON TAS 7250",
       "state": "TAS",
       "prices": {
-        "Diesel": 209.9,
-        "U95": 192.9,
-        "U98": 201.9,
-        "U91": 178.9
+        "Diesel": 255.9,
+        "U95": 222.9,
+        "U98": 231.9,
+        "U91": 208.9
       },
-      "updated": "2026-07-21T01:55:07Z",
+      "updated": "2026-08-26T09:05:17Z",
       "lat": -41.4401675,
       "lng": 147.1317211
     },
@@ -1399,12 +1409,12 @@
       "address": "102 Main Road, PERTH TAS 7300",
       "state": "TAS",
       "prices": {
-        "Diesel": 212.9,
-        "U95": 195.9,
-        "U98": 204.9,
-        "U91": 181.9
+        "Diesel": 256.9,
+        "U95": 223.9,
+        "U98": 232.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T03:30:06Z",
+      "updated": "2026-08-24T06:45:09Z",
       "lat": -41.5786426,
       "lng": 147.1765334
     },
@@ -1415,9 +1425,9 @@
       "address": "Penghana Road, QUEENSTOWN TAS 7467",
       "state": "TAS",
       "prices": {
-        "Diesel": 202.9
+        "Diesel": 247.9
       },
-      "updated": "2026-07-19T22:30:39Z",
+      "updated": "2026-08-13T22:20:11Z",
       "lat": -42.069304,
       "lng": 145.560741
     },
@@ -1428,13 +1438,13 @@
       "address": "149 Sandy Bay Road, SANDY BAY TAS 7005",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "E10": 170.9,
-        "U95": 189.9,
-        "U98": 198.9,
-        "U91": 175.9
+        "Diesel": 261.9,
+        "E10": 201.9,
+        "U95": 220.9,
+        "U98": 229.9,
+        "U91": 206.9
       },
-      "updated": "2026-07-20T20:00:39Z",
+      "updated": "2026-08-26T09:00:46Z",
       "lat": -42.8941963,
       "lng": 147.3255924
     },
@@ -1445,13 +1455,13 @@
       "address": "34814 Tasman Highway, SCOTTSDALE TAS 7260",
       "state": "TAS",
       "prices": {
-        "Diesel": 220.5,
-        "E10": 168.9,
-        "U95": 186.4,
-        "U98": 195.9,
-        "U91": 186.5
+        "Diesel": 255.5,
+        "E10": 203.9,
+        "U95": 221.4,
+        "U98": 230.9,
+        "U91": 210.5
       },
-      "updated": "2026-07-21T07:41:55Z",
+      "updated": "2026-08-25T00:20:18Z",
       "lat": -41.1859015,
       "lng": 147.5534873
     },
@@ -1462,9 +1472,9 @@
       "address": "20 Selfs Point Road, NEW TOWN TAS 7008",
       "state": "TAS",
       "prices": {
-        "Diesel": 209.9
+        "Diesel": 251.9
       },
-      "updated": "2026-07-17T00:32:42Z",
+      "updated": "2026-08-23T23:00:08Z",
       "lat": -42.8463157,
       "lng": 147.3230819
     },
@@ -1475,13 +1485,13 @@
       "address": "100 Alexander Street, SHEARWATER TAS 7307",
       "state": "TAS",
       "prices": {
-        "Diesel": 212.9,
-        "E10": 176.9,
-        "U95": 195.9,
-        "U98": 204.9,
-        "U91": 181.9
+        "Diesel": 257.9,
+        "E10": 202.9,
+        "U95": 227.9,
+        "U98": 236.9,
+        "U91": 213.9
       },
-      "updated": "2026-07-20T20:05:11Z",
+      "updated": "2026-08-26T09:00:46Z",
       "lat": -41.1626681,
       "lng": 146.5324834
     },
@@ -1492,13 +1502,13 @@
       "address": "Greys Mill Road, SMITHTON TAS 7330",
       "state": "TAS",
       "prices": {
-        "Diesel": 203.9,
-        "E10": 168.9,
-        "U95": 188.4,
-        "U98": 197.9,
-        "U91": 183.9
+        "Diesel": 249.9,
+        "E10": 204.9,
+        "U95": 224.4,
+        "U98": 233.9,
+        "U91": 207.9
       },
-      "updated": "2026-07-20T20:00:39Z",
+      "updated": "2026-08-26T04:25:08Z",
       "lat": -40.857738,
       "lng": 145.128784
     },
@@ -1509,14 +1519,14 @@
       "address": "14 Gordon Street, SORELL TAS 7172",
       "state": "TAS",
       "prices": {
-        "Diesel": 213.9,
-        "E10": 172.9,
+        "Diesel": 264.9,
+        "E10": 207.9,
         "E85": 239.9,
-        "U95": 191.9,
-        "U98": 200.9,
-        "U91": 177.9
+        "U95": 226.9,
+        "U98": 235.9,
+        "U91": 212.9
       },
-      "updated": "2026-07-21T06:50:08Z",
+      "updated": "2026-08-25T08:25:05Z",
       "lat": -42.7829702,
       "lng": 147.5627379
     },
@@ -1527,13 +1537,13 @@
       "address": "16 Cecilia Street, ST HELENS TAS 7216",
       "state": "TAS",
       "prices": {
-        "Diesel": 219.9,
-        "E10": 176.9,
-        "U95": 195.9,
-        "U98": 204.9,
-        "U91": 181.9
+        "Diesel": 251.9,
+        "E10": 202.9,
+        "U95": 221.9,
+        "U98": 230.9,
+        "U91": 207.9
       },
-      "updated": "2026-07-21T05:15:12Z",
+      "updated": "2026-08-26T09:05:17Z",
       "lat": -41.3229899,
       "lng": 148.2499719
     },
@@ -1544,12 +1554,12 @@
       "address": "2 Rosny Hill Road, BELLERIVE  TAS 7018",
       "state": "TAS",
       "prices": {
-        "Diesel": 213.9,
-        "U95": 189.9,
-        "U98": 198.9,
-        "U91": 175.9
+        "Diesel": 245.9,
+        "U95": 209.9,
+        "U98": 218.9,
+        "U91": 195.9
       },
-      "updated": "2026-07-20T22:25:08Z",
+      "updated": "2026-08-26T06:30:09Z",
       "lat": -42.8683231,
       "lng": 147.3712637
     },
@@ -1560,12 +1570,12 @@
       "address": "22 - 24 Trevor Street, ULVERSTONE TAS 7315",
       "state": "TAS",
       "prices": {
-        "Diesel": 197.9,
-        "E10": 171.9,
-        "U98": 200.9,
-        "U91": 181.9
+        "Diesel": 254.9,
+        "E10": 200.9,
+        "U98": 229.9,
+        "U91": 211.9
       },
-      "updated": "2026-07-20T20:00:39Z",
+      "updated": "2026-08-26T09:15:22Z",
       "lat": -41.1644633,
       "lng": 146.1618593
     },
@@ -1576,12 +1586,12 @@
       "address": "10 Inglis Street, WYNYARD TAS 7325",
       "state": "TAS",
       "prices": {
-        "Diesel": 211.9,
-        "U95": 199.9,
-        "U98": 208.9,
-        "U91": 185.9
+        "Diesel": 255.9,
+        "U95": 221.9,
+        "U98": 230.9,
+        "U91": 207.9
       },
-      "updated": "2026-07-21T09:25:07Z",
+      "updated": "2026-08-25T03:05:07Z",
       "lat": -40.9899358,
       "lng": 145.7231957
     },
@@ -1592,11 +1602,11 @@
       "address": "52 High Street, Oatlands TAS 7120",
       "state": "TAS",
       "prices": {
-        "Diesel": 228.9,
-        "U95": 214.9,
-        "U91": 199.9
+        "Diesel": 269.9,
+        "U95": 237.9,
+        "U91": 224.9
       },
-      "updated": "2026-07-21T09:38:22Z",
+      "updated": "2026-08-21T07:12:37Z",
       "lat": -42.30074,
       "lng": 147.3694561
     },
@@ -1607,14 +1617,14 @@
       "address": "7 Reid Street, STRAHAN TAS 7468",
       "state": "TAS",
       "prices": {
-        "Diesel": 211.9,
-        "E10": 174.9,
-        "U95": 192.9,
-        "U98": 219.9,
-        "Premium Diesel": 215.9,
-        "U91": 189.9
+        "Diesel": 269.9,
+        "E10": 201.9,
+        "U95": 219.9,
+        "U98": 247.9,
+        "Premium Diesel": 253.9,
+        "U91": 224.9
       },
-      "updated": "2026-07-21T08:27:02Z",
+      "updated": "2026-08-25T22:52:32Z",
       "lat": -42.1500753,
       "lng": 145.3280146
     },
@@ -1625,13 +1635,13 @@
       "address": "21 Wellington, LONGFORD TAS 7301",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "U95": 195.9,
-        "U98": 208.9,
-        "Premium Diesel": 219.9,
-        "U91": 183.9
+        "E10": 204.9,
+        "U95": 221.9,
+        "U98": 230.9,
+        "Premium Diesel": 257.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T08:00:36Z",
+      "updated": "2026-08-25T01:07:13Z",
       "lat": -41.589316,
       "lng": 147.120673
     },
@@ -1642,13 +1652,13 @@
       "address": "42 Mary Street, CYGNET TAS 7112",
       "state": "TAS",
       "prices": {
-        "E10": 177.9,
-        "U98": 204.9,
-        "Premium Diesel": 232.9,
-        "U91": 198.9,
-        "U95": 210.9
+        "E10": 201.9,
+        "U98": 228.9,
+        "Premium Diesel": 271.9,
+        "U91": 225.9,
+        "U95": 238.9
       },
-      "updated": "2026-07-21T03:54:42Z",
+      "updated": "2026-08-25T02:48:41Z",
       "lat": -43.1598687,
       "lng": 147.0760916
     },
@@ -1659,14 +1669,14 @@
       "address": "19326 Bass Highway, ROCKY CAPE TAS 7321",
       "state": "TAS",
       "prices": {
-        "Diesel": 205.9,
-        "E10": 178.9,
+        "Diesel": 245.9,
+        "E10": 212.9,
         "LPG": 124.9,
-        "U95": 198.4,
-        "U98": 207.9,
-        "U91": 184.9
+        "U95": 232.4,
+        "U98": 241.9,
+        "U91": 204.9
       },
-      "updated": "2026-07-20T20:05:11Z",
+      "updated": "2026-08-25T22:00:39Z",
       "lat": -40.8872897,
       "lng": 145.4699586
     },
@@ -1677,14 +1687,14 @@
       "address": "6954 Lyell Highway, Ouse TAS 7140",
       "state": "TAS",
       "prices": {
-        "Diesel": 230.9,
-        "E10": 174.9,
-        "U95": 205.9,
-        "U98": 203.9,
-        "Premium Diesel": 213.9,
-        "U91": 195.9
+        "Diesel": 253.9,
+        "E10": 202.9,
+        "U95": 222.4,
+        "U98": 231.9,
+        "Premium Diesel": 257.9,
+        "U91": 204.9
       },
-      "updated": "2026-07-20T22:24:57Z",
+      "updated": "2026-08-26T09:05:17Z",
       "lat": -42.4846164,
       "lng": 146.7105901
     },
@@ -1695,13 +1705,13 @@
       "address": "85 High Street, Campbell Town  TAS 7210",
       "state": "TAS",
       "prices": {
-        "E10": 168.9,
-        "U95": 197.9,
-        "U98": 206.9,
-        "Premium Diesel": 216.9,
-        "U91": 184.9
+        "E10": 203.9,
+        "U95": 224.9,
+        "U98": 233.9,
+        "Premium Diesel": 260.9,
+        "U91": 211.9
       },
-      "updated": "2026-07-21T01:00:09Z",
+      "updated": "2026-08-25T03:08:40Z",
       "lat": -41.9278466,
       "lng": 147.4945134
     },
@@ -1712,13 +1722,13 @@
       "address": "184 High Street, Campbell Town  TAS 7210",
       "state": "TAS",
       "prices": {
-        "Diesel": 213.9,
-        "E10": 180.9,
-        "U98": 209.9,
-        "U91": 182.9,
-        "Premium Diesel": 216.9
+        "Diesel": 257.9,
+        "E10": 211.9,
+        "U98": 240.9,
+        "U91": 213.9,
+        "Premium Diesel": 260.9
       },
-      "updated": "2026-07-21T00:05:07Z",
+      "updated": "2026-08-26T09:00:46Z",
       "lat": -41.9410437,
       "lng": 147.4910721
     },
@@ -1729,13 +1739,13 @@
       "address": "136-138 Tarleton Street, East Devonport TAS 7310",
       "state": "TAS",
       "prices": {
-        "E10": 170.9,
-        "U95": 189.9,
-        "U98": 203.9,
-        "Premium Diesel": 212.9,
-        "U91": 181.9
+        "E10": 202.9,
+        "U95": 221.9,
+        "U98": 231.9,
+        "Premium Diesel": 257.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T02:21:14Z",
+      "updated": "2026-08-26T11:24:15Z",
       "lat": -41.1856297,
       "lng": 146.3712977
     },
@@ -1746,14 +1756,14 @@
       "address": "84 Main Road, Exeter TAS 7275",
       "state": "TAS",
       "prices": {
-        "E10": 175.9,
-        "U95": 194.9,
-        "U98": 205.9,
-        "Premium Diesel": 212.9,
-        "U91": 183.9,
-        "Diesel": 209.9
+        "E10": 200.9,
+        "U95": 219.9,
+        "U98": 233.9,
+        "Premium Diesel": 258.9,
+        "U91": 211.9,
+        "Diesel": 255.9
       },
-      "updated": "2026-07-20T21:12:15Z",
+      "updated": "2026-08-25T21:51:27Z",
       "lat": -41.302828,
       "lng": 146.9569097
     },
@@ -1764,12 +1774,12 @@
       "address": "32-36 Main Road, George Town TAS 7253",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "U95": 194.9,
-        "Diesel": 209.9,
-        "U91": 181.9
+        "E10": 200.9,
+        "U95": 225.9,
+        "Diesel": 258.9,
+        "U91": 212.9
       },
-      "updated": "2026-07-21T06:51:16Z",
+      "updated": "2026-08-26T05:08:29Z",
       "lat": -41.1082991,
       "lng": 146.8312461
     },
@@ -1780,13 +1790,13 @@
       "address": "329-333 Wellington Street , South Launceston TAS 7249",
       "state": "TAS",
       "prices": {
-        "E10": 179.9,
-        "U95": 194.9,
-        "U98": 203.9,
-        "Premium Diesel": 212.9,
-        "U91": 181.9
+        "E10": 204.9,
+        "U95": 223.9,
+        "U98": 232.9,
+        "Premium Diesel": 256.9,
+        "U91": 210.9
       },
-      "updated": "2026-07-21T05:12:14Z",
+      "updated": "2026-08-26T05:30:53Z",
       "lat": -41.4537344,
       "lng": 147.1446911
     },
@@ -1797,14 +1807,14 @@
       "address": "32-36 Invermay Road, Invermay TAS 7248",
       "state": "TAS",
       "prices": {
-        "E10": 171.9,
-        "U95": 194.9,
-        "U98": 203.9,
-        "Premium Diesel": 212.9,
-        "U91": 181.9,
-        "Diesel": 209.9
+        "E10": 203.9,
+        "U95": 223.9,
+        "U98": 232.9,
+        "Premium Diesel": 258.9,
+        "U91": 210.9,
+        "Diesel": 255.9
       },
-      "updated": "2026-07-21T08:15:17Z",
+      "updated": "2026-08-26T04:35:12Z",
       "lat": -41.42217,
       "lng": 147.13632
     },
@@ -1815,13 +1825,13 @@
       "address": "25-27 Marlborough Street, Longford TAS 7301",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "U98": 205.9,
-        "Premium Diesel": 217.9,
-        "U91": 183.9,
-        "Diesel": 211.9
+        "E10": 204.9,
+        "U98": 233.9,
+        "Premium Diesel": 249.9,
+        "U91": 211.9,
+        "Diesel": 256.9
       },
-      "updated": "2026-07-21T07:03:17Z",
+      "updated": "2026-08-25T02:56:43Z",
       "lat": -41.5972761,
       "lng": 147.1218895
     },
@@ -1832,13 +1842,13 @@
       "address": "98 Main Street, Penguin TAS 7315",
       "state": "TAS",
       "prices": {
-        "E10": 169.9,
-        "U98": 205.9,
-        "Premium Diesel": 218.9,
-        "U91": 183.9,
-        "U95": 196.9
+        "E10": 199.9,
+        "U98": 234.9,
+        "Premium Diesel": 259.9,
+        "U91": 212.9,
+        "U95": 225.9
       },
-      "updated": "2026-07-21T05:09:14Z",
+      "updated": "2026-08-26T08:48:12Z",
       "lat": -41.115095,
       "lng": 146.07483
     },
@@ -1849,13 +1859,13 @@
       "address": "54 Main Street, Sheffield TAS 7306",
       "state": "TAS",
       "prices": {
-        "E10": 171.9,
-        "U95": 188.9,
-        "U98": 207.9,
-        "Premium Diesel": 213.9,
-        "U91": 185.9
+        "E10": 199.9,
+        "U95": 218.9,
+        "U98": 235.9,
+        "Premium Diesel": 258.9,
+        "U91": 213.9
       },
-      "updated": "2026-07-21T04:54:13Z",
+      "updated": "2026-08-26T03:52:10Z",
       "lat": -41.3824595,
       "lng": 146.324836
     },
@@ -1866,12 +1876,12 @@
       "address": "23 Nelson ST, Smithton TAS 7330",
       "state": "TAS",
       "prices": {
-        "Diesel": 209.9,
-        "U95": 198.9,
-        "Premium Diesel": 212.9,
-        "U91": 185.9
+        "Diesel": 256.9,
+        "U95": 224.9,
+        "Premium Diesel": 259.9,
+        "U91": 211.9
       },
-      "updated": "2026-07-21T01:45:51Z",
+      "updated": "2026-08-26T04:35:39Z",
       "lat": -40.85182137,
       "lng": 145.11998487
     },
@@ -1882,11 +1892,11 @@
       "address": "2/4 Mersey Main Road, Spreyton TAS 7310",
       "state": "TAS",
       "prices": {
-        "Diesel": 209.9,
-        "U95": 194.9,
-        "U91": 181.9
+        "Diesel": 254.9,
+        "U95": 222.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-20T03:44:17Z",
+      "updated": "2026-08-26T03:53:04Z",
       "lat": -41.21163,
       "lng": 146.34396
     },
@@ -1897,13 +1907,13 @@
       "address": "118 William Street, Devonport TAS 7310",
       "state": "TAS",
       "prices": {
-        "E10": 179.9,
-        "U91": 181.9,
-        "U95": 194.9,
-        "U98": 203.9,
-        "Premium Diesel": 212.9
+        "E10": 206.9,
+        "U91": 209.9,
+        "U95": 222.9,
+        "U98": 231.9,
+        "Premium Diesel": 257.9
       },
-      "updated": "2026-07-20T03:47:52Z",
+      "updated": "2026-08-26T04:45:21Z",
       "lat": -41.1791219,
       "lng": 146.3508217
     },
@@ -1914,14 +1924,14 @@
       "address": "21 River Road, Wivenhoe TAS 7320",
       "state": "TAS",
       "prices": {
-        "E10": 179.9,
-        "U95": 198.9,
-        "U98": 203.9,
-        "Premium Diesel": 215.9,
-        "U91": 181.9,
-        "Diesel": 212.9
+        "E10": 200.9,
+        "U95": 219.9,
+        "U98": 233.9,
+        "Premium Diesel": 260.9,
+        "U91": 211.9,
+        "Diesel": 257.9
       },
-      "updated": "2026-07-21T02:00:29Z",
+      "updated": "2026-08-26T04:36:32Z",
       "lat": -41.0703394,
       "lng": 145.9260796
     },
@@ -1932,15 +1942,15 @@
       "address": "188 Brooker Avenue, North Hobart TAS 7000",
       "state": "TAS",
       "prices": {
-        "E10": 173.9,
-        "LPG": 143.7,
-        "U95": 210.7,
-        "U98": 218.7,
-        "Premium Diesel": 239.7,
-        "U91": 182.7,
-        "Diesel": 234.7
+        "E10": 204.9,
+        "LPG": 145.7,
+        "U95": 234.7,
+        "U98": 242.7,
+        "Premium Diesel": 270.7,
+        "U91": 201.7,
+        "Diesel": 266.7
       },
-      "updated": "2026-07-21T10:19:31Z",
+      "updated": "2026-08-25T23:45:20Z",
       "lat": -42.8710984,
       "lng": 147.3224479
     },
@@ -1951,13 +1961,13 @@
       "address": "38 Gordon Street, SORELL TAS 7172",
       "state": "TAS",
       "prices": {
-        "E10": 179.9,
-        "U95": 198.9,
-        "U98": 205.9,
-        "Premium Diesel": 222.9,
-        "U91": 178.9
+        "E10": 193.9,
+        "U95": 212.9,
+        "U98": 240.9,
+        "Premium Diesel": 266.9,
+        "U91": 213.9
       },
-      "updated": "2026-07-21T04:06:14Z",
+      "updated": "2026-08-26T05:48:12Z",
       "lat": -42.7862162,
       "lng": 147.5619237
     },
@@ -1968,14 +1978,14 @@
       "address": "525 Gordon River Road, BUSHY PARK TAS 7140",
       "state": "TAS",
       "prices": {
-        "E10": 179.9,
-        "U95": 212.9,
-        "U98": 207.9,
-        "Premium Diesel": 217.9,
-        "U91": 197.9,
-        "Diesel": 230.9
+        "E10": 200.9,
+        "U95": 240.9,
+        "U98": 228.9,
+        "Premium Diesel": 251.9,
+        "U91": 225.9,
+        "Diesel": 265.9
       },
-      "updated": "2026-07-21T04:09:15Z",
+      "updated": "2026-08-25T00:48:19Z",
       "lat": -42.7060981,
       "lng": 146.891887
     },
@@ -1986,13 +1996,13 @@
       "address": "504 Main Road, Granton TAS 7030",
       "state": "TAS",
       "prices": {
-        "E10": 170.9,
-        "U98": 210.9,
-        "Premium Diesel": 224.9,
-        "U91": 183.9,
-        "Diesel": 221.9
+        "E10": 201.9,
+        "U98": 234.9,
+        "Premium Diesel": 261.9,
+        "U91": 211.9,
+        "Diesel": 259.9
       },
-      "updated": "2026-07-21T04:06:14Z",
+      "updated": "2026-08-26T05:42:16Z",
       "lat": -42.7613419,
       "lng": 147.2396487
     },
@@ -2003,14 +2013,14 @@
       "address": "64 Sandy Bay Road, Battery Point TAS 7004",
       "state": "TAS",
       "prices": {
-        "E10": 170.9,
-        "LPG": 121.9,
-        "U98": 215.9,
-        "Premium Diesel": 238.9,
-        "U91": 195.9,
-        "U95": 208.9
+        "E10": 199.9,
+        "LPG": 119.9,
+        "U98": 241.9,
+        "Premium Diesel": 262.9,
+        "U91": 211.9,
+        "U95": 231.9
       },
-      "updated": "2026-07-21T08:03:15Z",
+      "updated": "2026-08-25T23:54:21Z",
       "lat": -42.8895283,
       "lng": 147.3306035
     },
@@ -2021,11 +2031,11 @@
       "address": "19535 Bass Highway, Detention TAS 7321",
       "state": "TAS",
       "prices": {
-        "Diesel": 201.9,
-        "U95": 199.9,
-        "U91": 179.9
+        "Diesel": 254.9,
+        "U95": 234.9,
+        "U91": 220.9
       },
-      "updated": "2026-07-21T01:35:04Z",
+      "updated": "2026-08-24T23:58:43Z",
       "lat": -40.8795371,
       "lng": 145.4479555
     },
@@ -2036,11 +2046,11 @@
       "address": "151 East Derwent Highway, Lindisfarne TAS 7015",
       "state": "TAS",
       "prices": {
-        "U98": 208.9,
-        "Premium Diesel": 224.9,
-        "U91": 186.9
+        "U98": 240.9,
+        "Premium Diesel": 264.9,
+        "U91": 220.9
       },
-      "updated": "2026-07-21T06:28:54Z",
+      "updated": "2026-08-04T22:06:53Z",
       "lat": -42.8480549,
       "lng": 147.3623785
     },
@@ -2051,11 +2061,11 @@
       "address": "4050 Arthur Highway, Murdunna TAS 7178",
       "state": "TAS",
       "prices": {
-        "Diesel": 213.9,
-        "U95": 199.9,
-        "U91": 179.9
+        "Diesel": 252.9,
+        "U95": 225.9,
+        "U91": 212.9
       },
-      "updated": "2026-07-21T00:22:01Z",
+      "updated": "2026-08-12T03:21:58Z",
       "lat": -42.9477975,
       "lng": 147.8662198
     },
@@ -2066,13 +2076,13 @@
       "address": "821 Sandfly Road, Sandfly TAS 7150",
       "state": "TAS",
       "prices": {
-        "Diesel": 214.9,
-        "U95": 186.9,
-        "U98": 196.9,
-        "Premium Diesel": 217.9,
-        "U91": 174.9
+        "Diesel": 249.9,
+        "U95": 215.9,
+        "U98": 225.9,
+        "Premium Diesel": 253.9,
+        "U91": 203.9
       },
-      "updated": "2026-07-20T23:20:45Z",
+      "updated": "2026-08-24T01:52:53Z",
       "lat": -42.9840366,
       "lng": 147.1954958
     },
@@ -2083,13 +2093,13 @@
       "address": "29 Grant Street, Fingal TAS 7214",
       "state": "TAS",
       "prices": {
-        "Diesel": 221.9,
-        "E10": 174.9,
-        "U95": 195.9,
-        "U98": 203.9,
-        "U91": 183.9
+        "Diesel": 255.9,
+        "E10": 202.9,
+        "U95": 221.9,
+        "U98": 231.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T04:54:52Z",
+      "updated": "2026-08-26T03:15:21Z",
       "lat": -41.6385293,
       "lng": 147.9713271
     },
@@ -2100,11 +2110,11 @@
       "address": "58 Goderich Street, Invermay TAS 7248",
       "state": "TAS",
       "prices": {
-        "Diesel": 214.9,
-        "U98": 199.9,
-        "U91": 177.9
+        "Diesel": 254.9,
+        "U98": 229.9,
+        "U91": 207.9
       },
-      "updated": "2026-07-21T05:01:53Z",
+      "updated": "2026-08-26T00:44:37Z",
       "lat": -41.4262971,
       "lng": 147.1318728
     },
@@ -2115,14 +2125,14 @@
       "address": "22790 Bass Highway, Smithton TAS 7330",
       "state": "TAS",
       "prices": {
-        "E10": 185.9,
-        "U95": 204.9,
-        "U98": 213.9,
-        "Premium Diesel": 217.9,
-        "U91": 187.9,
-        "Diesel": 219.9
+        "E10": 199.9,
+        "U95": 218.9,
+        "U98": 227.9,
+        "Premium Diesel": 251.9,
+        "U91": 201.9,
+        "Diesel": 251.9
       },
-      "updated": "2026-07-21T05:38:10Z",
+      "updated": "2026-08-25T03:18:15Z",
       "lat": -40.8577002,
       "lng": 145.1330019
     },
@@ -2133,11 +2143,11 @@
       "address": "156 William Street, DEVONPORT TAS 7310",
       "state": "TAS",
       "prices": {
-        "Diesel": 219.9,
-        "U95": 199.9,
-        "U91": 184.9
+        "Diesel": 259.9,
+        "U95": 237.9,
+        "U91": 217.9
       },
-      "updated": "2026-07-17T03:41:36Z",
+      "updated": "2026-08-26T09:37:15Z",
       "lat": -41.1752746,
       "lng": 146.3517893
     },
@@ -2148,13 +2158,13 @@
       "address": "119 Arthur Highway, Dunalley TAS 7177",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "Premium Diesel": 225.9,
-        "U91": 178.9,
-        "Diesel": 216.9,
-        "U95": 189.9
+        "E10": 204.9,
+        "Premium Diesel": 257.9,
+        "U91": 209.9,
+        "Diesel": 253.9,
+        "U95": 224.9
       },
-      "updated": "2026-07-21T07:51:12Z",
+      "updated": "2026-08-25T00:48:19Z",
       "lat": -42.8872929,
       "lng": 147.8119103
     },
@@ -2165,14 +2175,14 @@
       "address": "2 Risby Street, Ulverstone TAS 7315",
       "state": "TAS",
       "prices": {
-        "E10": 179.9,
-        "LPG": 117.9,
-        "U98": 207.9,
-        "Premium Diesel": 224.9,
-        "U91": 189.9,
-        "Diesel": 225.9
+        "E10": 204.9,
+        "LPG": 115.9,
+        "U98": 232.9,
+        "Premium Diesel": 257.9,
+        "U91": 212.9,
+        "Diesel": 259.9
       },
-      "updated": "2026-07-21T01:40:59Z",
+      "updated": "2026-08-26T04:48:30Z",
       "lat": -41.1581999,
       "lng": 146.1757437
     },
@@ -2183,13 +2193,13 @@
       "address": "121 Glenstone Road, Bridgewater TAS 7030",
       "state": "TAS",
       "prices": {
-        "LPG": 117.9,
-        "U98": 199.9,
-        "Premium Diesel": 219.9,
-        "U91": 178.9,
-        "Diesel": 215.9
+        "LPG": 115.9,
+        "U98": 230.9,
+        "Premium Diesel": 257.9,
+        "U91": 208.9,
+        "Diesel": 253.9
       },
-      "updated": "2026-07-21T01:05:23Z",
+      "updated": "2026-08-25T06:51:12Z",
       "lat": -42.7217178,
       "lng": 147.2322859
     },
@@ -2200,15 +2210,15 @@
       "address": "16 River Road, Wivenhoe TAS 7320",
       "state": "TAS",
       "prices": {
-        "E10": 167.9,
-        "LPG": 112.9,
-        "U95": 192.9,
-        "U98": 202.9,
-        "Premium Diesel": 219.9,
-        "U91": 180.9,
-        "Diesel": 214.9
+        "E10": 193.9,
+        "LPG": 116.9,
+        "U95": 217.9,
+        "U98": 227.9,
+        "Premium Diesel": 254.9,
+        "U91": 205.9,
+        "Diesel": 250.9
       },
-      "updated": "2026-07-21T05:36:32Z",
+      "updated": "2026-08-26T08:42:12Z",
       "lat": -41.0733646,
       "lng": 145.923983
     },
@@ -2219,15 +2229,15 @@
       "address": "1 Bollard Drive, Burnie TAS 7320",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
+        "E10": 201.9,
         "LPG": 115.9,
-        "U95": 191.9,
-        "U98": 199.9,
-        "Premium Diesel": 212.9,
-        "U91": 176.9,
-        "Diesel": 219.9
+        "U95": 220.9,
+        "U98": 229.9,
+        "Premium Diesel": 251.9,
+        "U91": 203.9,
+        "Diesel": 253.9
       },
-      "updated": "2026-07-21T07:30:24Z",
+      "updated": "2026-08-25T20:51:13Z",
       "lat": -41.058771,
       "lng": 145.910512
     },
@@ -2238,14 +2248,14 @@
       "address": "150 Tarleton Street, East Devonport TAS 7310",
       "state": "TAS",
       "prices": {
-        "E10": 176.9,
-        "U95": 196.4,
-        "U98": 201.9,
-        "Premium Diesel": 218.9,
-        "U91": 178.9,
-        "Diesel": 212.9
+        "E10": 201.9,
+        "U95": 221.4,
+        "U98": 225.9,
+        "Premium Diesel": 253.9,
+        "U91": 199.9,
+        "Diesel": 252.9
       },
-      "updated": "2026-07-21T05:23:32Z",
+      "updated": "2026-08-26T09:00:46Z",
       "lat": -41.1866027,
       "lng": 146.3709167
     },
@@ -2256,13 +2266,13 @@
       "address": "18 Ten Mile Track, Scottsdale TAS 7260",
       "state": "TAS",
       "prices": {
-        "E10": 170.9,
-        "U98": 198.9,
-        "Premium Diesel": 219.9,
-        "U91": 172.9,
-        "Diesel": 219.9
+        "E10": 199.9,
+        "U98": 227.9,
+        "Premium Diesel": 255.9,
+        "U91": 201.9,
+        "Diesel": 254.9
       },
-      "updated": "2026-07-21T04:56:47Z",
+      "updated": "2026-08-25T02:21:14Z",
       "lat": -41.1982041,
       "lng": 147.5464421
     },
@@ -2273,14 +2283,14 @@
       "address": "27 Roxford Avenue, Westbury TAS 7303",
       "state": "TAS",
       "prices": {
-        "E10": 177.9,
-        "LPG": 139.9,
-        "U98": 201.9,
-        "Premium Diesel": 218.9,
-        "U91": 179.9,
-        "Diesel": 212.9
+        "E10": 206.9,
+        "LPG": 122.9,
+        "U98": 229.9,
+        "Premium Diesel": 259.9,
+        "U91": 206.9,
+        "Diesel": 254.9
       },
-      "updated": "2026-07-21T08:12:15Z",
+      "updated": "2026-08-26T11:45:16Z",
       "lat": -41.5090343,
       "lng": 146.82896
     },
@@ -2291,13 +2301,11 @@
       "address": "74 Forth Road, Turners Beach TAS 7315",
       "state": "TAS",
       "prices": {
-        "U98": 208.9,
-        "Premium Diesel": 217.9,
-        "U91": 189.9,
-        "Diesel": 221.9,
-        "U95": 206.9
+        "Diesel": 259.9,
+        "U95": 229.9,
+        "U91": 212.9
       },
-      "updated": "2026-07-20T21:27:14Z",
+      "updated": "2026-08-12T23:32:57Z",
       "lat": -41.1688376,
       "lng": 146.2308572
     },
@@ -2308,11 +2316,11 @@
       "address": "122-124 Scamander Avenue, SCAMANDER TAS 7215",
       "state": "TAS",
       "prices": {
-        "Diesel": 212.9,
-        "U95": 195.9,
-        "U91": 182.9
+        "Diesel": 258.9,
+        "U95": 225.9,
+        "U91": 212.9
       },
-      "updated": "2026-07-20T21:39:08Z",
+      "updated": "2026-08-25T21:30:43Z",
       "lat": -41.4540776,
       "lng": 148.2632037
     },
@@ -2323,15 +2331,14 @@
       "address": "5 Main ST Huonville TAS 7109",
       "state": "TAS",
       "prices": {
-        "E10": 179.9,
-        "U98": 221.9,
-        "Premium Diesel": 237.9,
-        "U91": 195.9,
-        "Diesel": 235.9,
+        "Diesel": 263.9,
         "LPG": 145.9,
-        "U95": 212.9
+        "U95": 228.9,
+        "U98": 238.9,
+        "Premium Diesel": 265.9,
+        "U91": 212.9
       },
-      "updated": "2026-07-21T08:15:17Z",
+      "updated": "2026-08-24T20:45:28Z",
       "lat": -43.0323,
       "lng": 147.04709
     },
@@ -2342,14 +2349,14 @@
       "address": "2243 Channel Highway, Snug TAS 7054",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "U95": 193.9,
-        "U98": 214.9,
-        "Premium Diesel": 225.9,
-        "U91": 189.9,
-        "Diesel": 223.9
+        "E10": 197.9,
+        "U95": 216.9,
+        "U98": 239.9,
+        "Premium Diesel": 265.9,
+        "U91": 215.9,
+        "Diesel": 263.9
       },
-      "updated": "2026-07-21T04:36:15Z",
+      "updated": "2026-08-26T02:18:16Z",
       "lat": -43.068618,
       "lng": 147.2568884
     },
@@ -2360,14 +2367,14 @@
       "address": "200 Main Road , Moonah TAS 7009",
       "state": "TAS",
       "prices": {
-        "E10": 172.9,
-        "U95": 196.9,
-        "U98": 205.9,
-        "Premium Diesel": 226.9,
-        "U91": 184.9,
-        "Diesel": 223.9
+        "E10": 205.9,
+        "U95": 221.9,
+        "U98": 231.9,
+        "Premium Diesel": 260.9,
+        "U91": 209.9,
+        "Diesel": 256.9
       },
-      "updated": "2026-07-21T06:21:51Z",
+      "updated": "2026-08-25T08:00:42Z",
       "lat": -42.8408911,
       "lng": 147.2902637
     },
@@ -2378,14 +2385,14 @@
       "address": "42 South Arm Road, Rokeby TAS 7019",
       "state": "TAS",
       "prices": {
-        "Diesel": 208.9,
-        "E10": 172.9,
-        "U95": 190.4,
-        "U98": 207.9,
-        "Premium Diesel": 225.9,
-        "U91": 179.9
+        "Diesel": 254.9,
+        "E10": 210.9,
+        "U95": 228.4,
+        "U98": 241.9,
+        "Premium Diesel": 265.9,
+        "U91": 217.9
       },
-      "updated": "2026-07-20T23:28:38Z",
+      "updated": "2026-08-26T09:00:46Z",
       "lat": -42.9014164,
       "lng": 147.4464065
     },
@@ -2396,14 +2403,14 @@
       "address": "708 Main Road, Claremont TAS 7011",
       "state": "TAS",
       "prices": {
-        "E10": 176.9,
-        "U95": 204.9,
-        "U98": 214.9,
-        "Premium Diesel": 231.9,
-        "U91": 189.9,
-        "Diesel": 227.9
+        "E10": 207.9,
+        "U95": 233.9,
+        "U98": 239.9,
+        "Premium Diesel": 268.9,
+        "U91": 215.9,
+        "Diesel": 263.9
       },
-      "updated": "2026-07-21T08:06:17Z",
+      "updated": "2026-08-25T09:51:14Z",
       "lat": -42.8018709,
       "lng": 147.2543439
     },
@@ -2414,14 +2421,15 @@
       "address": "Cnr Montagu & Burnett Streets, New Norfolk TAS 7140",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "U98": 219.9,
-        "Premium Diesel": 232.9,
-        "U91": 193.9,
-        "Diesel": 223.9,
-        "U95": 209.9
+        "E10": 204.4,
+        "U98": 239.9,
+        "Premium Diesel": 269.9,
+        "U91": 215.9,
+        "Diesel": 263.9,
+        "EV": 50,
+        "U95": 229.9
       },
-      "updated": "2026-07-21T07:48:15Z",
+      "updated": "2026-08-26T04:51:13Z",
       "lat": -42.779245,
       "lng": 147.06143
     },
@@ -2432,15 +2440,16 @@
       "address": "3001 Midland Hwy, Kempton TAS 7030",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
+        "E10": 208.9,
         "LPG": 115.9,
-        "U98": 215.9,
-        "Premium Diesel": 229.9,
-        "U91": 189.9,
-        "Diesel": 225.9,
-        "U95": 205.9
+        "U98": 241.9,
+        "Premium Diesel": 265.9,
+        "U91": 217.9,
+        "Diesel": 263.9,
+        "EV": 50,
+        "U95": 231.9
       },
-      "updated": "2026-07-21T02:51:13Z",
+      "updated": "2026-08-26T04:51:13Z",
       "lat": -42.512086,
       "lng": 147.1884415
     },
@@ -2451,14 +2460,14 @@
       "address": "101 Augusta Road, Lenah Valley TAS 7008",
       "state": "TAS",
       "prices": {
-        "E10": 168.9,
-        "U95": 209.9,
-        "U98": 219.9,
-        "Premium Diesel": 235.9,
-        "U91": 193.9,
-        "Diesel": 229.9
+        "E10": 204.9,
+        "U95": 229.9,
+        "U98": 239.9,
+        "Premium Diesel": 269.9,
+        "U91": 215.9,
+        "Diesel": 263.9
       },
-      "updated": "2026-07-21T07:57:15Z",
+      "updated": "2026-08-25T23:21:14Z",
       "lat": -42.8655207,
       "lng": 147.2968076
     },
@@ -2469,14 +2478,14 @@
       "address": "86-96 Wellington Street, Launceston TAS 7250",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
+        "E10": 201.9,
         "LPG": 109.9,
-        "U95": 207.9,
-        "U98": 217.9,
-        "Premium Diesel": 221.9,
-        "U91": 189.9
+        "U95": 230.9,
+        "U98": 240.9,
+        "Premium Diesel": 265.9,
+        "U91": 215.9
       },
-      "updated": "2026-07-21T04:06:14Z",
+      "updated": "2026-08-25T08:00:42Z",
       "lat": -41.443077,
       "lng": 147.138069
     },
@@ -2487,14 +2496,14 @@
       "address": "6 Franklin Street, Swansea TAS 7190",
       "state": "TAS",
       "prices": {
-        "E10": 177.9,
-        "U95": 203.9,
-        "U98": 205.9,
-        "Premium Diesel": 207.9,
-        "U91": 183.9,
-        "Diesel": 219.9
+        "E10": 197.9,
+        "U95": 229.9,
+        "U98": 225.9,
+        "Premium Diesel": 244.9,
+        "U91": 209.9,
+        "Diesel": 253.9
       },
-      "updated": "2026-07-21T07:51:12Z",
+      "updated": "2026-08-26T06:00:35Z",
       "lat": -42.1250734,
       "lng": 148.077707
     },
@@ -2505,13 +2514,13 @@
       "address": "66 Regent Street, Sandy Bay TAS 7005",
       "state": "TAS",
       "prices": {
-        "E10": 179.9,
-        "U95": 205.9,
-        "U98": 218.9,
-        "Premium Diesel": 241.9,
-        "U91": 189.9
+        "E10": 205.9,
+        "U95": 229.9,
+        "U98": 239.9,
+        "Premium Diesel": 271.9,
+        "U91": 215.9
       },
-      "updated": "2026-07-21T05:27:15Z",
+      "updated": "2026-08-26T10:51:12Z",
       "lat": -42.8971585,
       "lng": 147.323381
     },
@@ -2522,11 +2531,11 @@
       "address": "494 Main Road, Montrose TAS 7010",
       "state": "TAS",
       "prices": {
-        "U98": 201.9,
-        "Premium Diesel": 217.9,
-        "U91": 175.9
+        "U98": 219.9,
+        "Premium Diesel": 251.9,
+        "U91": 202.9
       },
-      "updated": "2026-07-21T06:45:23Z",
+      "updated": "2026-08-25T01:33:17Z",
       "lat": -42.8258365,
       "lng": 147.2657479
     },
@@ -2537,13 +2546,13 @@
       "address": "1576 Ridgley Highway, Highclere TAS 7321",
       "state": "TAS",
       "prices": {
-        "Diesel": 217.9,
-        "E10": 174.9,
-        "U98": 207.9,
-        "Premium Diesel": 217.9,
-        "U91": 184.9
+        "Diesel": 253.9,
+        "E10": 204.9,
+        "U98": 236.9,
+        "Premium Diesel": 263.9,
+        "U91": 215.9
       },
-      "updated": "2026-07-20T20:00:39Z",
+      "updated": "2026-08-25T04:16:36Z",
       "lat": -41.1920741,
       "lng": 145.8053715
     },
@@ -2554,15 +2563,15 @@
       "address": "5 Station Road, Dover TAS 7117",
       "state": "TAS",
       "prices": {
-        "E10": 172.9,
+        "E10": 204.9,
         "LPG": 125.9,
-        "U95": 212.9,
-        "U98": 200.9,
-        "Premium Diesel": 217.9,
-        "U91": 198.9,
-        "Diesel": 219.9
+        "U95": 252.9,
+        "U98": 232.9,
+        "Premium Diesel": 253.9,
+        "U91": 232.9,
+        "Diesel": 272.9
       },
-      "updated": "2026-07-21T04:09:15Z",
+      "updated": "2026-08-25T21:36:15Z",
       "lat": -43.3120185,
       "lng": 147.0167088
     },
@@ -2573,14 +2582,14 @@
       "address": "41 Main Street, St. Marys TAS 7215",
       "state": "TAS",
       "prices": {
-        "E10": 182.9,
-        "U95": 199.9,
-        "U98": 209.9,
-        "Premium Diesel": 219.9,
-        "U91": 185.9,
-        "Diesel": 219.9
+        "E10": 201.9,
+        "U95": 229.9,
+        "U98": 239.9,
+        "Premium Diesel": 255.9,
+        "U91": 215.9,
+        "Diesel": 259.9
       },
-      "updated": "2026-07-21T07:48:45Z",
+      "updated": "2026-08-26T10:51:12Z",
       "lat": -41.5786152,
       "lng": 148.1878919
     },
@@ -2591,14 +2600,14 @@
       "address": "60 Carlton Beach Road , Dodges Ferry TAS 7173",
       "state": "TAS",
       "prices": {
-        "E10": 184.9,
-        "U95": 201,
-        "U98": 212.9,
-        "Premium Diesel": 219.9,
-        "U91": 178,
-        "Diesel": 214
+        "E10": 211.9,
+        "U95": 224,
+        "U98": 239.9,
+        "Premium Diesel": 257.9,
+        "U91": 213,
+        "Diesel": 260
       },
-      "updated": "2026-07-21T03:27:32Z",
+      "updated": "2026-08-25T02:12:53Z",
       "lat": -42.8581297,
       "lng": 147.616764
     },
@@ -2609,11 +2618,11 @@
       "address": "4 Golconda Road, Lilydale TAS 7268",
       "state": "TAS",
       "prices": {
-        "Diesel": 215.9,
-        "U98": 205.9,
-        "U91": 184.9
+        "Diesel": 259.9,
+        "U98": 244.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-16T07:47:42Z",
+      "updated": "2026-08-10T22:27:46Z",
       "lat": -41.248798,
       "lng": 147.218158
     },
@@ -2624,14 +2633,14 @@
       "address": "668 Main Road, Forth TAS 7310",
       "state": "TAS",
       "prices": {
-        "E10": 197.9,
-        "U95": 214.9,
-        "U98": 214.9,
-        "Premium Diesel": 225.9,
-        "Diesel": 229.9,
-        "U91": 196.9
+        "E10": 208.9,
+        "U95": 225.9,
+        "U98": 229.9,
+        "Premium Diesel": 255.9,
+        "Diesel": 259.9,
+        "U91": 212.9
       },
-      "updated": "2026-07-21T06:52:35Z",
+      "updated": "2026-08-25T02:19:08Z",
       "lat": -41.1893009,
       "lng": 146.2499114
     },
@@ -2642,14 +2651,14 @@
       "address": "47 Main Street, Ringarooma TAS 7263",
       "state": "TAS",
       "prices": {
-        "Diesel": 215,
-        "E10": 174.9,
-        "U95": 200,
-        "U98": 203.9,
-        "Premium Diesel": 224.9,
-        "U91": 185
+        "Diesel": 264,
+        "E10": 207.9,
+        "U95": 235,
+        "U98": 236.9,
+        "Premium Diesel": 259.9,
+        "U91": 225
       },
-      "updated": "2026-07-21T02:48:32Z",
+      "updated": "2026-08-25T03:23:13Z",
       "lat": -41.2419108,
       "lng": 147.739909
     },
@@ -2660,14 +2669,14 @@
       "address": "167-169 Cambridge Street, West Launceston TAS 7250",
       "state": "TAS",
       "prices": {
-        "E10": 179.9,
-        "U95": 192.9,
-        "U98": 207.9,
-        "Premium Diesel": 217.9,
-        "U91": 178.9,
-        "Diesel": 215.9
+        "E10": 204.9,
+        "U95": 220.9,
+        "U98": 232.9,
+        "Premium Diesel": 259.9,
+        "U91": 206.9,
+        "Diesel": 254.9
       },
-      "updated": "2026-07-21T06:53:13Z",
+      "updated": "2026-08-26T08:48:15Z",
       "lat": -41.4618432,
       "lng": 147.1326733
     },
@@ -2678,13 +2687,14 @@
       "address": "625 Main Road, Berriedale TAS 7011",
       "state": "TAS",
       "prices": {
-        "E10": 179.9,
-        "U95": 198.9,
-        "U98": 207.9,
-        "Premium Diesel": 224.9,
-        "U91": 181.9
+        "E10": 206.9,
+        "U95": 225.9,
+        "U98": 234.9,
+        "Premium Diesel": 259.9,
+        "U91": 206.9,
+        "Diesel": 255.9
       },
-      "updated": "2026-07-20T02:27:15Z",
+      "updated": "2026-08-26T00:59:06Z",
       "lat": -42.8155514,
       "lng": 147.2561693
     },
@@ -2695,15 +2705,15 @@
       "address": "2938 Channel Hwy, Kettering TAS 7155",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
+        "E10": 208.9,
         "LPG": 115.9,
-        "U98": 199.9,
-        "Premium Diesel": 217.9,
-        "U91": 189.9,
-        "Diesel": 223.9,
-        "U95": 212.9
+        "U98": 236.9,
+        "Premium Diesel": 249.9,
+        "U91": 212.9,
+        "Diesel": 263.9,
+        "U95": 229.9
       },
-      "updated": "2026-07-21T08:51:15Z",
+      "updated": "2026-08-25T02:51:14Z",
       "lat": -43.1237637,
       "lng": 147.2452156
     },
@@ -2714,14 +2724,14 @@
       "address": "70 Goldie Street, Smithton TAS 7330",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "U95": 193.9,
-        "U98": 209.9,
-        "Premium Diesel": 217.9,
-        "U91": 187.9,
-        "Diesel": 215.9
+        "E10": 208.9,
+        "U95": 227.9,
+        "U98": 233.9,
+        "Premium Diesel": 252.9,
+        "U91": 209.9,
+        "Diesel": 253.9
       },
-      "updated": "2026-07-21T00:51:14Z",
+      "updated": "2026-08-24T22:42:49Z",
       "lat": -40.8425152,
       "lng": 145.1258652
     },
@@ -2732,10 +2742,10 @@
       "address": "6023 High Street, Buckland TAS 7190",
       "state": "TAS",
       "prices": {
-        "Diesel": 215.9,
-        "U91": 179.9
+        "Diesel": 258.9,
+        "U91": 212.9
       },
-      "updated": "2026-07-18T07:14:34Z",
+      "updated": "2026-08-24T02:00:03Z",
       "lat": -42.6074757,
       "lng": 147.7194962
     },
@@ -2746,15 +2756,15 @@
       "address": "138-140 Main Rd, Moonah TAS 7009",
       "state": "TAS",
       "prices": {
-        "E10": 172.9,
+        "E10": 207.9,
         "LPG": 119.7,
-        "U98": 199.9,
-        "Premium Diesel": 220.9,
-        "U91": 178.9,
-        "Diesel": 217.9,
-        "U95": 190.9
+        "U98": 227.9,
+        "Premium Diesel": 255.9,
+        "U91": 205.9,
+        "Diesel": 252.9,
+        "U95": 217.9
       },
-      "updated": "2026-07-21T07:54:14Z",
+      "updated": "2026-08-26T01:00:39Z",
       "lat": -42.84477,
       "lng": 147.29325
     },
@@ -2765,14 +2775,14 @@
       "address": "Cnr Scotts & Greenpoint Roads, BRIDGEWATER TAS 7030",
       "state": "TAS",
       "prices": {
-        "E10": 170.9,
-        "U95": 184.9,
-        "U98": 201.9,
-        "Premium Diesel": 217.9,
-        "U91": 178.9,
-        "Diesel": 211.9
+        "E10": 207.9,
+        "U95": 216.9,
+        "U98": 235.9,
+        "Premium Diesel": 245.9,
+        "U91": 212.9,
+        "Diesel": 259.9
       },
-      "updated": "2026-07-21T03:25:11Z",
+      "updated": "2026-08-25T07:54:14Z",
       "lat": -42.7394997,
       "lng": 147.244232
     },
@@ -2783,14 +2793,14 @@
       "address": "Evandale Road and Translink Ave S, Breadalbane TAS 7258",
       "state": "TAS",
       "prices": {
-        "Diesel": 212.9,
+        "Diesel": 256.9,
         "LPG": 142.9,
-        "U95": 195.9,
-        "U98": 204.9,
-        "Premium Diesel": 214.9,
-        "U91": 181.9
+        "U95": 223.9,
+        "U98": 232.9,
+        "Premium Diesel": 258.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T02:30:10Z",
+      "updated": "2026-08-24T06:45:09Z",
       "lat": -41.5369161,
       "lng": 147.1934275
     },
@@ -2801,12 +2811,12 @@
       "address": "135 Invermay, Invermay TAS 7248",
       "state": "TAS",
       "prices": {
-        "Diesel": 209.9,
-        "E10": 170.9,
-        "U98": 198.9,
-        "U91": 175.9
+        "Diesel": 255.9,
+        "E10": 204.9,
+        "U98": 232.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T01:55:07Z",
+      "updated": "2026-08-24T03:25:12Z",
       "lat": -41.424033,
       "lng": 147.136213
     },
@@ -2817,13 +2827,13 @@
       "address": "29 Bass Hwy, Deloraine TAS 7304",
       "state": "TAS",
       "prices": {
-        "E10": 177.9,
-        "U95": 203.9,
-        "U98": 214.9,
-        "Premium Diesel": 222.9,
-        "U91": 190.9
+        "E10": 193.9,
+        "U95": 227.9,
+        "U98": 238.9,
+        "Premium Diesel": 257.9,
+        "U91": 214.9
       },
-      "updated": "2026-07-21T07:03:17Z",
+      "updated": "2026-08-26T05:48:12Z",
       "lat": -41.524852,
       "lng": 146.664088
     },
@@ -2834,15 +2844,15 @@
       "address": "24 Joyce Street, Burnie TAS 7320",
       "state": "TAS",
       "prices": {
-        "E10": 166.9,
+        "E10": 202.9,
         "LPG": 125.9,
-        "U98": 194.9,
-        "Premium Diesel": 218.9,
-        "U91": 184.9,
-        "Diesel": 215.9,
-        "U95": 200.9
+        "U98": 230.9,
+        "Premium Diesel": 254.9,
+        "U91": 217.9,
+        "Diesel": 260.9,
+        "U95": 233.9
       },
-      "updated": "2026-07-20T21:30:37Z",
+      "updated": "2026-08-25T22:00:39Z",
       "lat": -41.0625045,
       "lng": 145.896431
     },
@@ -2853,14 +2863,14 @@
       "address": "2 Charlton Street, Cygnet TAS 7112",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "U95": 191.9,
+        "E10": 207.9,
+        "U95": 226.9,
         "U98": 253.9,
-        "Premium Diesel": 218.9,
+        "Premium Diesel": 256.9,
         "U91": 226.9,
         "Diesel": 291.9
       },
-      "updated": "2026-07-21T07:21:15Z",
+      "updated": "2026-08-25T02:51:14Z",
       "lat": -43.1635085,
       "lng": 147.0799709
     },
@@ -2871,14 +2881,14 @@
       "address": "138 Emu Bay Road , Deloraine  TAS 7304",
       "state": "TAS",
       "prices": {
-        "Diesel": 219.9,
-        "E10": 168.9,
-        "U98": 214.9,
-        "U91": 190.9,
+        "Diesel": 257.9,
+        "E10": 202.9,
+        "U98": 238.9,
+        "U91": 214.9,
         "LPG": 155.9,
-        "U95": 203.9
+        "U95": 227.9
       },
-      "updated": "2026-07-21T01:05:11Z",
+      "updated": "2026-08-25T00:20:18Z",
       "lat": -41.5218759,
       "lng": 146.6443909
     },
@@ -2889,15 +2899,15 @@
       "address": "26-28 Foster Street, Railton TAS 7305",
       "state": "TAS",
       "prices": {
-        "E10": 179.9,
-        "LPG": 115.9,
-        "U95": 198.9,
-        "U98": 207.9,
-        "Premium Diesel": 223.9,
-        "U91": 181.9,
-        "Diesel": 205.9
+        "E10": 203.9,
+        "LPG": 113.9,
+        "U95": 235.9,
+        "U98": 231.9,
+        "Premium Diesel": 262.9,
+        "U91": 215.9,
+        "Diesel": 257.9
       },
-      "updated": "2026-07-21T05:48:16Z",
+      "updated": "2026-08-25T06:06:18Z",
       "lat": -41.3463891,
       "lng": 146.4216822
     },
@@ -2908,13 +2918,13 @@
       "address": "45 Meander Valley Road, Carrick TAS 7291",
       "state": "TAS",
       "prices": {
-        "E10": 163.9,
-        "U98": 205.9,
-        "Premium Diesel": 209.9,
-        "U91": 183.9,
-        "Diesel": 215.9
+        "E10": 202.9,
+        "U98": 233.9,
+        "Premium Diesel": 251.9,
+        "U91": 211.9,
+        "Diesel": 256.9
       },
-      "updated": "2026-07-21T06:00:45Z",
+      "updated": "2026-08-25T21:51:27Z",
       "lat": -41.5317578,
       "lng": 147.0090264
     },
@@ -2925,11 +2935,11 @@
       "address": "71 Main Street, Bridport TAS 7262",
       "state": "TAS",
       "prices": {
-        "Diesel": 216.9,
-        "U98": 205.9,
-        "U91": 184.9
+        "Diesel": 259.9,
+        "U98": 235.9,
+        "U91": 215.9
       },
-      "updated": "2026-07-17T00:47:17Z",
+      "updated": "2026-08-21T08:04:02Z",
       "lat": -41.0041706,
       "lng": 147.3945714
     },
@@ -2940,13 +2950,13 @@
       "address": "295 Hobart Road, Youngtown TAS 7249",
       "state": "TAS",
       "prices": {
-        "E10": 175.9,
-        "U98": 225.9,
-        "Premium Diesel": 236.9,
-        "U91": 195.9,
-        "U95": 215.9
+        "E10": 202.9,
+        "U98": 245.9,
+        "Premium Diesel": 267.9,
+        "U91": 215.9,
+        "U95": 235.9
       },
-      "updated": "2026-07-21T09:18:06Z",
+      "updated": "2026-08-25T08:51:13Z",
       "lat": -41.4796874,
       "lng": 147.167044173
     },
@@ -2957,12 +2967,12 @@
       "address": "Unit 4 15 Esplanade, Coles Bay TAS 7215",
       "state": "TAS",
       "prices": {
-        "U98": 206.9,
-        "Premium Diesel": 217.9,
-        "U91": 187.9,
-        "Diesel": 209.9
+        "U98": 230.9,
+        "Premium Diesel": 254.9,
+        "U91": 222.9,
+        "Diesel": 267.9
       },
-      "updated": "2026-07-21T04:06:14Z",
+      "updated": "2026-08-26T01:24:15Z",
       "lat": -42.12249,
       "lng": 148.28464871
     },
@@ -2973,14 +2983,14 @@
       "address": "2233 Arthur Highway, Copping TAS 7174",
       "state": "TAS",
       "prices": {
-        "E10": 179.9,
-        "U95": 189.9,
-        "U98": 207.9,
-        "Premium Diesel": 217.9,
-        "U91": 178.9,
-        "Diesel": 209.9
+        "E10": 199.9,
+        "U95": 224.9,
+        "U98": 227.9,
+        "Premium Diesel": 256.9,
+        "U91": 209.9,
+        "Diesel": 253.9
       },
-      "updated": "2026-07-21T04:06:14Z",
+      "updated": "2026-08-26T05:54:14Z",
       "lat": -42.8194331,
       "lng": 147.8015479
     },
@@ -2991,15 +3001,15 @@
       "address": "73 Reibey Street, Ulverstone TAS 7315",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
+        "E10": 202.9,
         "LPG": 109.8,
-        "U95": 198.9,
-        "U98": 199.9,
-        "Premium Diesel": 217.9,
-        "U91": 185.9,
-        "Diesel": 210.9
+        "U95": 221.9,
+        "U98": 234.9,
+        "Premium Diesel": 253.9,
+        "U91": 212.9,
+        "Diesel": 257.9
       },
-      "updated": "2026-07-21T08:18:15Z",
+      "updated": "2026-08-25T23:15:20Z",
       "lat": -41.1573289,
       "lng": 146.1735688
     },
@@ -3010,11 +3020,11 @@
       "address": "3096 Marlborough RD, Miena TAS 7030",
       "state": "TAS",
       "prices": {
-        "Diesel": 223,
-        "U98": 209,
-        "U91": 188
+        "Diesel": 265,
+        "U98": 235,
+        "U91": 214
       },
-      "updated": "2026-07-16T03:08:40Z",
+      "updated": "2026-08-20T02:43:39Z",
       "lat": -41.9808252,
       "lng": 146.6762884
     },
@@ -3025,14 +3035,14 @@
       "address": "46-48 Faulkner RD, Ravenswood TAS 7250",
       "state": "TAS",
       "prices": {
-        "E10": 182.9,
-        "U95": 201.9,
-        "U98": 210.9,
-        "Premium Diesel": 217.9,
-        "U91": 178.9,
-        "Diesel": 211.9
+        "E10": 201.9,
+        "U95": 220.9,
+        "U98": 229.9,
+        "Premium Diesel": 245.9,
+        "U91": 208.9,
+        "Diesel": 249.9
       },
-      "updated": "2026-07-21T04:35:13Z",
+      "updated": "2026-08-24T23:49:23Z",
       "lat": -41.4237153,
       "lng": 147.1799574
     },
@@ -3043,11 +3053,11 @@
       "address": "10 Hedley ST, Scottsdale TAS 7260",
       "state": "TAS",
       "prices": {
-        "Diesel": 221,
-        "U95": 198,
-        "U91": 186
+        "Diesel": 259,
+        "U95": 228,
+        "U91": 213
       },
-      "updated": "2026-07-20T00:03:33Z",
+      "updated": "2026-08-23T22:30:56Z",
       "lat": -41.162285,
       "lng": 147.5183976
     },
@@ -3058,14 +3068,14 @@
       "address": "6959 Arthur HWY, Port Arthur TAS 7182",
       "state": "TAS",
       "prices": {
-        "E10": 182.9,
-        "U95": 197.9,
-        "U98": 210.9,
-        "Premium Diesel": 218.9,
-        "U91": 186.9,
-        "Diesel": 219.9
+        "E10": 200.9,
+        "U95": 224.9,
+        "U98": 228.9,
+        "Premium Diesel": 255.9,
+        "U91": 216.9,
+        "Diesel": 261.9
       },
-      "updated": "2026-07-21T07:21:15Z",
+      "updated": "2026-08-26T10:51:12Z",
       "lat": -43.1398441,
       "lng": 147.8511617
     },
@@ -3076,14 +3086,14 @@
       "address": "170 Gawler RD, Gawler TAS 7315",
       "state": "TAS",
       "prices": {
-        "E10": 179.9,
-        "U95": 198.9,
-        "U98": 207.9,
-        "Premium Diesel": 217.9,
-        "U91": 185.9,
-        "Diesel": 209.9
+        "E10": 183.5,
+        "U95": 227.9,
+        "U98": 215.5,
+        "Premium Diesel": 232.5,
+        "U91": 212.9,
+        "Diesel": 255.9
       },
-      "updated": "2026-07-21T04:06:14Z",
+      "updated": "2026-08-26T05:45:15Z",
       "lat": -41.1831201,
       "lng": 146.1595958
     },
@@ -3094,13 +3104,13 @@
       "address": "23 Elizabeth ST, Bracknell TAS 7302",
       "state": "TAS",
       "prices": {
-        "E10": 176.9,
-        "U98": 205.9,
-        "Premium Diesel": 217.9,
-        "U91": 183.9,
-        "Diesel": 210.9
+        "E10": 201.9,
+        "U98": 240.9,
+        "Premium Diesel": 252.9,
+        "U91": 212.9,
+        "Diesel": 256.9
       },
-      "updated": "2026-07-21T04:06:14Z",
+      "updated": "2026-08-26T11:45:16Z",
       "lat": -41.6493151,
       "lng": 146.9390448
     },
@@ -3111,11 +3121,11 @@
       "address": "8 Caveside RD, Mole Creek TAS 7304",
       "state": "TAS",
       "prices": {
-        "Diesel": 218.9,
-        "U95": 202.9,
-        "U91": 189.9
+        "Diesel": 256.9,
+        "U95": 228.9,
+        "U91": 216.9
       },
-      "updated": "2026-07-17T13:20:42Z",
+      "updated": "2026-08-09T12:41:07Z",
       "lat": -41.5578824,
       "lng": 146.4071371
     },
@@ -3126,15 +3136,15 @@
       "address": "40 Brighton RD, Brighton TAS 7030",
       "state": "TAS",
       "prices": {
-        "U95": 192.9,
-        "U98": 201.9,
-        "Premium Diesel": 213.9,
-        "U91": 178.9,
-        "Diesel": 211.9,
-        "E10": 170.9,
+        "U95": 226.9,
+        "U98": 235.9,
+        "Premium Diesel": 261.9,
+        "U91": 212.9,
+        "Diesel": 259.9,
+        "E10": 207.9,
         "E85": 239.9
       },
-      "updated": "2026-07-21T03:30:06Z",
+      "updated": "2026-08-25T09:35:24Z",
       "lat": -42.70921862,
       "lng": 147.24800196
     },
@@ -3145,14 +3155,14 @@
       "address": "30 Chaffey ST, Gladstone TAS 7264",
       "state": "TAS",
       "prices": {
-        "E10": 175.9,
-        "U95": 199,
-        "U98": 202.9,
-        "Premium Diesel": 217.9,
-        "Diesel": 198,
-        "U91": 189
+        "E10": 202.9,
+        "U95": 225,
+        "U98": 229.9,
+        "Premium Diesel": 259.9,
+        "Diesel": 265,
+        "U91": 215
       },
-      "updated": "2026-07-21T04:23:03Z",
+      "updated": "2026-08-26T00:07:36Z",
       "lat": -40.9600036,
       "lng": 148.0100913
     },
@@ -3163,14 +3173,14 @@
       "address": "10 Chimney Heights RD, Stieglitz TAS 7216",
       "state": "TAS",
       "prices": {
-        "E10": 181.9,
-        "U95": 181.9,
-        "U98": 207.9,
-        "Premium Diesel": 236.9,
-        "Diesel": 196.9,
-        "U91": 173.9
+        "E10": 206.9,
+        "U95": 211.9,
+        "U98": 232.9,
+        "Premium Diesel": 259.9,
+        "Diesel": 251.9,
+        "U91": 207.9
       },
-      "updated": "2026-07-21T00:19:00Z",
+      "updated": "2026-08-24T04:52:33Z",
       "lat": -41.3252422,
       "lng": 148.2967021
     },
@@ -3181,14 +3191,14 @@
       "address": "116 Cambridge Park DR, Cambridge TAS 7170",
       "state": "TAS",
       "prices": {
-        "E10": 176.9,
-        "U98": 195.9,
-        "Premium Diesel": 212.9,
-        "U91": 171.9,
-        "Diesel": 209.9,
-        "U95": 185.9
+        "E10": 206.9,
+        "U98": 219.9,
+        "Premium Diesel": 246.9,
+        "U91": 197.9,
+        "Diesel": 242.9,
+        "U95": 209.9
       },
-      "updated": "2026-07-20T20:23:06Z",
+      "updated": "2026-08-23T02:07:04Z",
       "lat": -42.8339147,
       "lng": 147.4807342
     },
@@ -3199,13 +3209,13 @@
       "address": "40 Arthurs Lake RD, Arthurs Lake TAS 7030",
       "state": "TAS",
       "prices": {
-        "Diesel": 216,
-        "E10": 168.9,
-        "U95": 188.4,
-        "U98": 211,
-        "U91": 185
+        "Diesel": 258,
+        "E10": 204.9,
+        "U95": 224.4,
+        "U98": 220,
+        "U91": 212
       },
-      "updated": "2026-07-21T01:15:06Z",
+      "updated": "2026-08-25T00:30:33Z",
       "lat": -42.0013232,
       "lng": 146.8546105
     },
@@ -3216,34 +3226,34 @@
       "address": "1-11 Warrens WAY, ST Helens TAS 7216",
       "state": "TAS",
       "prices": {
-        "E10": 178.9,
-        "U95": 196.9,
-        "U98": 204.9,
-        "Premium Diesel": 218.9,
-        "Diesel": 219.9,
-        "U91": 181.9
+        "Diesel": 251.9,
+        "E10": 212.9,
+        "U95": 230.9,
+        "U98": 229.9,
+        "Premium Diesel": 261.9,
+        "U91": 207.9
       },
-      "updated": "2026-07-21T04:56:00Z",
+      "updated": "2026-08-24T05:00:48Z",
       "lat": -41.313397,
       "lng": 148.2343527
     },
     {
-      "brand": "Ampol",
+      "brand": "Independent",
       "code": "TAS:373",
       "name": "South Spreyton Store",
       "address": "172 Sheffield RD, Spreyton TAS 7310",
       "state": "TAS",
       "prices": {
-        "E10": 179.9,
-        "U98": 204.9,
-        "Premium Diesel": 217.9,
-        "U91": 181.9,
-        "Diesel": 209.9,
-        "U95": 194.9
+        "E10": 207.9,
+        "U98": 235.9,
+        "Premium Diesel": 257.9,
+        "U91": 207.9,
+        "Diesel": 251.9,
+        "U95": 220.9
       },
-      "updated": "2026-07-21T04:23:05Z",
-      "lat": -41.2370676,
-      "lng": 146.3440494
+      "updated": "2026-08-25T23:13:00Z",
+      "lat": -41.23706767,
+      "lng": 146.34404944
     },
     {
       "brand": "BP",
@@ -3252,14 +3262,14 @@
       "address": "54 Tarleton ST, East Devonport TAS 7310",
       "state": "TAS",
       "prices": {
-        "Diesel": 214.9,
-        "E10": 189.9,
-        "U95": 199.9,
-        "U98": 215.9,
-        "Premium Diesel": 229.9,
-        "U91": 179.9
+        "Diesel": 255.9,
+        "E10": 207.9,
+        "U95": 230.9,
+        "U98": 233.9,
+        "Premium Diesel": 265.9,
+        "U91": 210.9
       },
-      "updated": "2026-07-21T01:42:23Z",
+      "updated": "2026-08-25T03:23:12Z",
       "lat": -41.1758428,
       "lng": 146.3737014
     },
@@ -3270,14 +3280,14 @@
       "address": "55 Hamilton RD, New Norfolk TAS 7140",
       "state": "TAS",
       "prices": {
-        "Diesel": 209.9,
-        "E10": 174.9,
-        "U95": 193.9,
-        "U98": 197.9,
-        "Premium Diesel": 219.9,
-        "U91": 174.9
+        "Diesel": 251.9,
+        "E10": 204.9,
+        "U95": 223.9,
+        "U98": 227.9,
+        "Premium Diesel": 255.9,
+        "U91": 205.9
       },
-      "updated": "2026-07-21T02:46:32Z",
+      "updated": "2026-08-21T06:15:53Z",
       "lat": -42.7772943,
       "lng": 147.0504861
     },
@@ -3288,14 +3298,14 @@
       "address": "4057 Cradle Mountain RD, Cradle Mountain TAS 7306",
       "state": "TAS",
       "prices": {
-        "E10": 176.9,
-        "U98": 203.9,
-        "Premium Diesel": 219.9,
-        "U91": 219,
-        "Diesel": 269,
-        "U95": 235
+        "E10": 205.9,
+        "U98": 232.9,
+        "Premium Diesel": 256.9,
+        "U91": 223,
+        "Diesel": 273,
+        "U95": 247
       },
-      "updated": "2026-07-21T01:00:42Z",
+      "updated": "2026-08-26T09:25:02Z",
       "lat": -41.5814871,
       "lng": 145.9372599846
     },
@@ -3306,12 +3316,12 @@
       "address": "3370 Lake Leake Hwy, Lake Leake TAS 7210",
       "state": "TAS",
       "prices": {
-        "U98": 201.5,
-        "Premium Diesel": 223.9,
-        "U91": 174.8,
-        "Diesel": 199.8
+        "U98": 230,
+        "Premium Diesel": 259.9,
+        "U91": 216.8,
+        "Diesel": 259.8
       },
-      "updated": "2026-07-20T06:18:54Z",
+      "updated": "2026-08-25T01:52:41Z",
       "lat": -42.03195,
       "lng": 147.82931
     },
@@ -3322,14 +3332,14 @@
       "address": "13490 Midlands Highway,  Epping Forest TAS 7211",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "U95": 194.4,
-        "U98": 206.9,
-        "U91": 184.9,
-        "Diesel": 213.9,
-        "Premium Diesel": 216.9
+        "E10": 204.9,
+        "U95": 224.4,
+        "U98": 233.9,
+        "U91": 211.9,
+        "Diesel": 257.9,
+        "Premium Diesel": 260.9
       },
-      "updated": "2026-07-20T20:05:11Z",
+      "updated": "2026-08-25T03:00:54Z",
       "lat": -41.75935,
       "lng": 147.35149
     },
@@ -3340,10 +3350,10 @@
       "address": "25 Wharf RD, Stanley TAS 7331",
       "state": "TAS",
       "prices": {
-        "Diesel": 205,
-        "U91": 186
+        "Diesel": 255,
+        "U91": 218
       },
-      "updated": "2026-07-20T23:47:06Z",
+      "updated": "2026-08-10T23:52:00Z",
       "lat": -40.7625421,
       "lng": 145.2948895
     },
@@ -3354,13 +3364,13 @@
       "address": "263 Kennedy DR, Cambridge TAS 7170",
       "state": "TAS",
       "prices": {
-        "U95": 189.9,
-        "U98": 208.9,
-        "Premium Diesel": 229.9,
-        "U91": 173.9,
-        "Diesel": 209.9
+        "U95": 212.9,
+        "U98": 228.9,
+        "Premium Diesel": 259.9,
+        "U91": 199.9,
+        "Diesel": 245.9
       },
-      "updated": "2026-07-21T01:06:47Z",
+      "updated": "2026-08-26T03:02:10Z",
       "lat": -42.8312934,
       "lng": 147.4859474
     },
@@ -3372,12 +3382,12 @@
       "state": "TAS",
       "prices": {
         "U95": 249.5,
-        "U98": 205.9,
-        "Premium Diesel": 219.9,
+        "U98": 234.9,
+        "Premium Diesel": 257.9,
         "U91": 241.5,
         "Diesel": 305.5
       },
-      "updated": "2026-07-21T00:10:52Z",
+      "updated": "2026-08-26T00:12:55Z",
       "lat": -41.44410374,
       "lng": 145.53294504
     },
@@ -3388,11 +3398,11 @@
       "address": "1556 Nubeena RD, Nubeena TAS 7184",
       "state": "TAS",
       "prices": {
-        "Diesel": 199.9,
-        "U95": 196.9,
-        "U91": 186.9
+        "Diesel": 255.9,
+        "U95": 225.9,
+        "U91": 215.9
       },
-      "updated": "2026-07-05T01:28:25Z",
+      "updated": "2026-08-15T01:44:34Z",
       "lat": -43.09386339,
       "lng": 147.73949113
     },
@@ -3403,13 +3413,13 @@
       "address": "3 Robert ST, Whitemark TAS 7255",
       "state": "TAS",
       "prices": {
-        "U95": 259.9,
-        "U98": 213.9,
-        "Premium Diesel": 227.9,
-        "U91": 230.9,
-        "Diesel": 251.9
+        "U95": 255.9,
+        "U98": 235.9,
+        "Premium Diesel": 260.9,
+        "U91": 225.9,
+        "Diesel": 256.9
       },
-      "updated": "2026-07-21T06:52:35Z",
+      "updated": "2026-08-26T10:10:40Z",
       "lat": -40.1200307,
       "lng": 148.0154478
     },
@@ -3420,14 +3430,14 @@
       "address": "1573 Gordon River RD, Westerway TAS 7140",
       "state": "TAS",
       "prices": {
-        "E10": 184.9,
-        "U95": 220.9,
-        "U98": 210.9,
-        "Premium Diesel": 222.9,
-        "Diesel": 236.9,
-        "U91": 210.9
+        "E10": 209.9,
+        "U95": 240.9,
+        "U98": 235.9,
+        "Premium Diesel": 262.9,
+        "Diesel": 275.9,
+        "U91": 230.9
       },
-      "updated": "2026-07-21T07:10:10Z",
+      "updated": "2026-08-26T02:05:16Z",
       "lat": -42.6748864,
       "lng": 146.7903409
     },
@@ -3438,14 +3448,14 @@
       "address": "5 Dolerite DR, Kings Meadows TAS 7249",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "U95": 190.9,
-        "U98": 199.9,
-        "Premium Diesel": 219.9,
-        "U91": 178.9,
-        "Diesel": 215.9
+        "E10": 205.9,
+        "U95": 218.9,
+        "U98": 228.9,
+        "Premium Diesel": 257.9,
+        "U91": 206.9,
+        "Diesel": 254.9
       },
-      "updated": "2026-07-21T05:12:15Z",
+      "updated": "2026-08-26T00:45:30Z",
       "lat": -41.4824264,
       "lng": 147.1526761
     },
@@ -3456,14 +3466,14 @@
       "address": "41 Quarrytown RD, Bagdad TAS 7030",
       "state": "TAS",
       "prices": {
-        "E10": 196.9,
-        "U95": 192.9,
-        "U98": 224.9,
-        "Premium Diesel": 235.9,
-        "Diesel": 215.9,
-        "U91": 178.9
+        "E10": 221.9,
+        "U95": 225.9,
+        "U98": 249.9,
+        "Premium Diesel": 265.9,
+        "Diesel": 253.9,
+        "U91": 208.9
       },
-      "updated": "2026-07-21T03:47:19Z",
+      "updated": "2026-08-24T07:52:32Z",
       "lat": -42.6321577,
       "lng": 147.2227269
     },
@@ -3474,13 +3484,13 @@
       "address": "201 Main ST, Huonville TAS 7109",
       "state": "TAS",
       "prices": {
-        "Diesel": 219.9,
-        "E10": 174.9,
-        "U95": 191.9,
-        "U98": 203.9,
-        "U91": 179.9
+        "Diesel": 253.9,
+        "E10": 204.9,
+        "U95": 217.9,
+        "U98": 233.9,
+        "U91": 205.9
       },
-      "updated": "2026-07-21T06:31:17Z",
+      "updated": "2026-08-25T00:15:24Z",
       "lat": -43.01772807,
       "lng": 147.05794198
     },
@@ -3491,11 +3501,11 @@
       "address": "50 Arve RD, Geeveston TAS 7116",
       "state": "TAS",
       "prices": {
-        "Diesel": 229.9,
-        "U95": 209.9,
-        "U91": 194.9
+        "Diesel": 264.9,
+        "U95": 229.9,
+        "U91": 214.9
       },
-      "updated": "2026-07-20T23:33:34Z",
+      "updated": "2026-08-23T21:57:08Z",
       "lat": -43.16205149,
       "lng": 146.92437921
     },
@@ -3506,13 +3516,13 @@
       "address": "Esplanade, Triabunna TAS 7190",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "U95": 193.9,
-        "U98": 202.9,
-        "Premium Diesel": 219.9,
-        "Diesel": 217.9
+        "E10": 204.9,
+        "U95": 223.9,
+        "U98": 232.9,
+        "Premium Diesel": 257.9,
+        "Diesel": 259.9
       },
-      "updated": "2026-07-21T08:00:36Z",
+      "updated": "2026-08-26T01:46:28Z",
       "lat": -42.50939,
       "lng": 147.91569
     },
@@ -3523,30 +3533,30 @@
       "address": "15488, Derwent Bridge TAS 7140",
       "state": "TAS",
       "prices": {
-        "Diesel": 242.9,
-        "U95": 236.9,
-        "U98": 202.9,
-        "Premium Diesel": 218.9,
-        "U91": 210.9
+        "Diesel": 279.9,
+        "U95": 245.9,
+        "U98": 228.9,
+        "Premium Diesel": 254.9,
+        "U91": 224.9
       },
-      "updated": "2026-07-21T06:02:32Z",
+      "updated": "2026-08-24T00:25:15Z",
       "lat": -42.13135,
       "lng": 146.23274
     },
     {
-      "brand": "Reddy Express",
+      "brand": "Shell OTR",
       "code": "TAS:396",
       "name": "OTR Howrah",
       "address": "11 Howrah RD, Howrah TAS 7018",
       "state": "TAS",
       "prices": {
-        "U95": 197.9,
-        "U98": 202.9,
-        "Premium Diesel": 226.9,
-        "U91": 175.9,
-        "Diesel": 213.9
+        "U95": 221.9,
+        "U98": 222.9,
+        "Premium Diesel": 262.9,
+        "U91": 195.9,
+        "Diesel": 243.9
       },
-      "updated": "2026-07-21T06:52:36Z",
+      "updated": "2026-08-25T04:33:16Z",
       "lat": -42.8827564,
       "lng": 147.4043777
     },
@@ -3557,14 +3567,14 @@
       "address": "703 Arthur HWY, Forcett TAS 7173",
       "state": "TAS",
       "prices": {
-        "E10": 185.9,
-        "U95": 189.9,
-        "U98": 212.9,
-        "Premium Diesel": 219.9,
-        "Diesel": 205.9,
-        "U91": 172.9
+        "E10": 207.9,
+        "U95": 225.9,
+        "U98": 234.9,
+        "Premium Diesel": 259.9,
+        "Diesel": 257.9,
+        "U91": 207.9
       },
-      "updated": "2026-07-21T04:48:24Z",
+      "updated": "2026-08-24T05:06:55Z",
       "lat": -42.8062036,
       "lng": 147.6323767
     },
@@ -3575,13 +3585,13 @@
       "address": "3001, Midlands Highway, Kempton TAS 7030",
       "state": "TAS",
       "prices": {
-        "E10": 177.9,
-        "U95": 194.9,
-        "U98": 203.9,
-        "Premium Diesel": 223.9,
-        "Diesel": 219.9
+        "E10": 199.9,
+        "U95": 216.9,
+        "U98": 225.9,
+        "Premium Diesel": 259.9,
+        "Diesel": 257.9
       },
-      "updated": "2026-07-20T10:34:01Z",
+      "updated": "2026-08-25T05:23:09Z",
       "lat": -42.5133,
       "lng": 147.18895
     },
@@ -3592,13 +3602,13 @@
       "address": "334 George Town RD, Rocherlea TAS 7248",
       "state": "TAS",
       "prices": {
-        "E10": 187.9,
-        "U95": 204.9,
-        "U98": 213.9,
-        "Premium Diesel": 217.9,
-        "Diesel": 219.9
+        "E10": 212.9,
+        "U95": 229.9,
+        "U98": 238.9,
+        "Premium Diesel": 256.9,
+        "Diesel": 255.9
       },
-      "updated": "2026-07-21T05:09:34Z",
+      "updated": "2026-08-26T00:47:23Z",
       "lat": -41.3712223,
       "lng": 147.1137783
     },
@@ -3609,13 +3619,12 @@
       "address": "3139 South Arm RD, South Arm TAS 7022",
       "state": "TAS",
       "prices": {
-        "U95": 201.9,
-        "U98": 210.9,
-        "Premium Diesel": 221.9,
-        "U91": 259.9,
-        "Diesel": 340.9
+        "U95": 225.9,
+        "U98": 234.9,
+        "Premium Diesel": 259.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T08:04:40Z",
+      "updated": "2026-08-22T23:34:30Z",
       "lat": -43.0281026,
       "lng": 147.4168367
     },
@@ -3626,13 +3635,13 @@
       "address": "254 Batman HWY, Sidmouth TAS 7270",
       "state": "TAS",
       "prices": {
-        "E10": 175.9,
-        "U98": 204.9,
-        "Premium Diesel": 219.9,
-        "U91": 183.7,
-        "Diesel": 209.7
+        "E10": 204.9,
+        "U98": 233.9,
+        "Premium Diesel": 258.9,
+        "U91": 209.7,
+        "Diesel": 255.7
       },
-      "updated": "2026-07-21T02:46:30Z",
+      "updated": "2026-08-25T09:35:58Z",
       "lat": -41.2224713,
       "lng": 146.8881984
     },
@@ -3643,14 +3652,14 @@
       "address": "8 Beach RD, Kingston Beach TAS 7050",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "U95": 193.9,
-        "U98": 202.9,
-        "Premium Diesel": 223.9,
-        "Diesel": 208.9,
-        "U91": 174.9
+        "E10": 207.9,
+        "U95": 226.9,
+        "U98": 227.9,
+        "Premium Diesel": 258.9,
+        "Diesel": 253.9,
+        "U91": 205.9
       },
-      "updated": "2026-07-21T08:25:00Z",
+      "updated": "2026-08-25T01:23:21Z",
       "lat": -42.9815795,
       "lng": 147.3234897
     },
@@ -3661,14 +3670,14 @@
       "address": "1853 Midland HWY, Bagdad TAS 7030",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "U95": 193.9,
-        "U98": 214.9,
-        "Premium Diesel": 217.9,
-        "Diesel": 204.9,
-        "U91": 189.9
+        "E10": 199.9,
+        "U95": 218.9,
+        "U98": 238.9,
+        "Premium Diesel": 246.9,
+        "Diesel": 258.9,
+        "U91": 214.9
       },
-      "updated": "2026-07-21T02:46:30Z",
+      "updated": "2026-08-26T01:41:32Z",
       "lat": -42.6031571,
       "lng": 147.2197463
     },
@@ -3679,13 +3688,13 @@
       "address": "5098 Flinders Highway, Pipers River TAS 7252",
       "state": "TAS",
       "prices": {
-        "U95": 199.9,
-        "U98": 200,
-        "Premium Diesel": 219.9,
-        "U91": 182,
-        "Diesel": 205
+        "U95": 216.9,
+        "U98": 233,
+        "Premium Diesel": 257.9,
+        "U91": 214,
+        "Diesel": 256
       },
-      "updated": "2026-07-21T07:18:53Z",
+      "updated": "2026-08-26T04:19:12Z",
       "lat": -41.09775,
       "lng": 147.0761
     },
@@ -3696,14 +3705,14 @@
       "address": "92 Scamander Av, Scamander TAS 7215",
       "state": "TAS",
       "prices": {
-        "Diesel": 217.9,
-        "E10": 174.9,
-        "U95": 194.4,
-        "U98": 203.9,
-        "U91": 176.9,
-        "Premium Diesel": 205
+        "Diesel": 255.9,
+        "E10": 203.9,
+        "U95": 223.4,
+        "U98": 232.9,
+        "U91": 205.9,
+        "Premium Diesel": 263
       },
-      "updated": "2026-07-20T20:15:11Z",
+      "updated": "2026-08-25T00:20:18Z",
       "lat": -41.4515318,
       "lng": 148.2644714
     },
@@ -3714,14 +3723,14 @@
       "address": "115-117 Weld ST, Beaconsfield TAS 7270",
       "state": "TAS",
       "prices": {
-        "E10": 179.9,
-        "U95": 197.9,
-        "U98": 203.9,
-        "Premium Diesel": 221.9,
-        "Diesel": 214.9,
-        "U91": 181.9
+        "E10": 207.9,
+        "U95": 225.9,
+        "U98": 230.9,
+        "Premium Diesel": 255.9,
+        "Diesel": 254.9,
+        "U91": 208.9
       },
-      "updated": "2026-07-21T05:00:02Z",
+      "updated": "2026-08-26T00:49:48Z",
       "lat": -41.2022939,
       "lng": 146.8171926
     },
@@ -3732,13 +3741,13 @@
       "address": "538 South Arm RD, Lauderdale TAS 7021",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "U95": 193.9,
-        "U98": 197.9,
-        "Premium Diesel": 215.9,
-        "U91": 175.9
+        "E10": 199.9,
+        "U95": 218.9,
+        "U98": 221.9,
+        "Premium Diesel": 247.9,
+        "U91": 199.9
       },
-      "updated": "2026-07-21T08:04:37Z",
+      "updated": "2026-08-26T05:16:57Z",
       "lat": -42.9158135,
       "lng": 147.4863145
     },
@@ -3749,11 +3758,11 @@
       "address": "161 Tarleton St, East Devonport TAS 7310",
       "state": "TAS",
       "prices": {
-        "Diesel": 216.9,
-        "U95": 192.9,
-        "U91": 181.9
+        "Diesel": 252.9,
+        "U95": 213.9,
+        "U91": 199.9
       },
-      "updated": "2026-07-21T06:44:19Z",
+      "updated": "2026-08-26T01:15:09Z",
       "lat": -41.18499,
       "lng": 146.37231
     },
@@ -3764,13 +3773,13 @@
       "address": "161-167 Stony Rise RD, Stony Rise TAS 7310",
       "state": "TAS",
       "prices": {
-        "Diesel": 209.9,
-        "U95": 194.9,
-        "U98": 203.9,
-        "Premium Diesel": 212.9,
-        "U91": 181.9
+        "Diesel": 254.9,
+        "U95": 222.9,
+        "U98": 231.9,
+        "Premium Diesel": 257.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-20T04:03:55Z",
+      "updated": "2026-08-26T04:34:00Z",
       "lat": -41.19188984,
       "lng": 146.32876053
     },
@@ -3781,10 +3790,10 @@
       "address": "46 Queen ST, West Ulverstone TAS 7315",
       "state": "TAS",
       "prices": {
-        "Diesel": 210.9,
-        "U91": 185.9
+        "Diesel": 269.9,
+        "U91": 219.9
       },
-      "updated": "2026-07-20T20:58:23Z",
+      "updated": "2026-08-25T09:40:51Z",
       "lat": -41.15153796,
       "lng": 146.16376523
     },
@@ -3795,14 +3804,14 @@
       "address": "Adventure Bay Store 712 Adventure Bay RD, Adventure Bay TAS 7150",
       "state": "TAS",
       "prices": {
-        "E10": 165.5,
-        "U98": 188.5,
-        "Premium Diesel": 215.5,
-        "U91": 199.9,
-        "Diesel": 216.9,
-        "U95": 215.9
+        "E10": 201.5,
+        "U98": 227.5,
+        "Premium Diesel": 251.5,
+        "U91": 229.9,
+        "Diesel": 269.9,
+        "U95": 239.9
       },
-      "updated": "2026-07-21T06:45:25Z",
+      "updated": "2026-08-25T01:01:00Z",
       "lat": -43.36110655,
       "lng": 147.32818609
     },
@@ -3813,11 +3822,11 @@
       "address": "Birralee Road (Opposite Gatenby Drive) Westbury TAS 7303",
       "state": "TAS",
       "prices": {
-        "Diesel": 210.9,
-        "U95": 194.9,
-        "U91": 181.9
+        "Diesel": 256.9,
+        "Premium Diesel": 259.9,
+        "U91": 208.9
       },
-      "updated": "2026-07-20T04:06:53Z",
+      "updated": "2026-08-26T04:36:16Z",
       "lat": -41.5119892680853,
       "lng": 146.827552784366
     },
@@ -3828,11 +3837,11 @@
       "address": "92 Inglis ST, Wynyard TAS 7325",
       "state": "TAS",
       "prices": {
-        "Diesel": 209.9,
-        "U95": 199.9,
-        "U91": 186.9
+        "Diesel": 257.9,
+        "U95": 220.9,
+        "U91": 207.9
       },
-      "updated": "2026-07-21T03:26:16Z",
+      "updated": "2026-08-26T04:36:49Z",
       "lat": -40.98930567,
       "lng": 145.70997109
     },
@@ -3843,11 +3852,11 @@
       "address": "20 William ST, Scottsdale TAS 7260",
       "state": "TAS",
       "prices": {
-        "Diesel": 210.1,
-        "U95": 196,
-        "U91": 182.6
+        "Diesel": 253,
+        "U95": 215,
+        "U91": 212.3
       },
-      "updated": "2026-07-20T04:05:17Z",
+      "updated": "2026-08-26T04:35:25Z",
       "lat": -41.15818114,
       "lng": 147.50949761
     },
@@ -3858,12 +3867,12 @@
       "address": "80 Main ST, Zeehan TAS 7469",
       "state": "TAS",
       "prices": {
-        "Diesel": 203.9,
-        "E10": 175.9,
-        "U95": 194.9,
-        "U91": 183.9
+        "Diesel": 248.9,
+        "E10": 197.9,
+        "U95": 214.9,
+        "U91": 202.9
       },
-      "updated": "2026-07-20T02:46:14Z",
+      "updated": "2026-08-16T23:19:17Z",
       "lat": -41.88634243,
       "lng": 145.33829174
     },
@@ -3874,10 +3883,10 @@
       "address": "Marrawah Post Office 800 Comeback RD, Marrawah TAS 7330",
       "state": "TAS",
       "prices": {
-        "Diesel": 227.3,
-        "U91": 205.4
+        "Diesel": 269.5,
+        "U91": 227.4
       },
-      "updated": "2026-06-12T03:12:11Z",
+      "updated": "2026-08-03T23:12:16Z",
       "lat": -40.92001098,
       "lng": 144.699419
     },
@@ -3888,14 +3897,14 @@
       "address": "Service Station 5918 Bass HWY, Elizabeth Town TAS 7304",
       "state": "TAS",
       "prices": {
-        "Diesel": 212.9,
-        "E10": 176.9,
-        "U95": 195.9,
-        "U98": 204.9,
-        "Premium Diesel": 214.9,
-        "U91": 181.9
+        "Diesel": 257.9,
+        "E10": 208.9,
+        "U95": 227.9,
+        "U98": 236.9,
+        "Premium Diesel": 259.9,
+        "U91": 213.9
       },
-      "updated": "2026-07-20T10:30:06Z",
+      "updated": "2026-08-26T04:15:07Z",
       "lat": -41.45248243,
       "lng": 146.56625935
     },
@@ -3906,11 +3915,12 @@
       "address": "Inglis Filling Station 31 Inglis ST, Wynyard TAS 7325",
       "state": "TAS",
       "prices": {
-        "Diesel": 211.9,
-        "U98": 211.9,
-        "U91": 185.9
+        "Diesel": 255.9,
+        "E10": 207.5,
+        "U98": 230.9,
+        "U91": 207.9
       },
-      "updated": "2026-07-21T03:54:21Z",
+      "updated": "2026-08-26T02:40:39Z",
       "lat": -40.98942064,
       "lng": 145.72046885
     },
@@ -3921,12 +3931,12 @@
       "address": "1 Stony Rise RD, Quoiba TAS 7310",
       "state": "TAS",
       "prices": {
-        "Diesel": 219.9,
-        "E10": 197.9,
-        "U98": 212.9,
-        "U91": 199.9
+        "Diesel": 253.9,
+        "E10": 199.9,
+        "U98": 227.9,
+        "U91": 201.9
       },
-      "updated": "2026-07-21T05:33:21Z",
+      "updated": "2026-08-26T02:27:57Z",
       "lat": -41.20981203,
       "lng": 146.34352969
     },
@@ -3937,12 +3947,12 @@
       "address": "Service Station 361-365 Bass HWY, Camdale TAS 7320",
       "state": "TAS",
       "prices": {
-        "Diesel": 215.7,
-        "U98": 199.9,
-        "Premium Diesel": 219.9,
-        "U91": 184.7
+        "Diesel": 243.9,
+        "U98": 226.9,
+        "Premium Diesel": 247.9,
+        "U91": 200.9
       },
-      "updated": "2026-07-21T10:13:25Z",
+      "updated": "2026-08-24T07:28:32Z",
       "lat": -41.04067542,
       "lng": 145.84945493
     },
@@ -3953,12 +3963,12 @@
       "address": "8234 Bass HWY, Sassafras TAS 7307",
       "state": "TAS",
       "prices": {
-        "Diesel": 215.9,
-        "U95": 198.9,
-        "U91": 185.9,
+        "Diesel": 257.9,
+        "U95": 228.9,
+        "U91": 213.9,
         "LPG": 149.9
       },
-      "updated": "2026-07-21T05:10:10Z",
+      "updated": "2026-08-26T04:11:50Z",
       "lat": -41.26499155,
       "lng": 146.47927174
     },
@@ -3969,11 +3979,11 @@
       "address": "5-7 Cutten Street Queenstown TAS 7467",
       "state": "TAS",
       "prices": {
-        "Diesel": 214.9,
-        "U95": 194.9,
-        "U91": 181.9
+        "Diesel": 255.9,
+        "U95": 220.9,
+        "U91": 208.9
       },
-      "updated": "2026-07-20T04:59:21Z",
+      "updated": "2026-08-26T00:56:27Z",
       "lat": -42.0805,
       "lng": 145.55393
     },
@@ -3984,13 +3994,13 @@
       "address": "8659 Bass HWY, Latrobe TAS 7307",
       "state": "TAS",
       "prices": {
-        "Diesel": 225.9,
-        "E10": 188.9,
-        "U98": 208.9,
-        "Premium Diesel": 229.9,
-        "U91": 190.9
+        "Diesel": 263.9,
+        "E10": 206.9,
+        "U98": 232.9,
+        "Premium Diesel": 266.9,
+        "U91": 208.9
       },
-      "updated": "2026-07-21T00:05:56Z",
+      "updated": "2026-08-24T23:18:48Z",
       "lat": -41.24196146,
       "lng": 146.44312193
     },
@@ -4001,14 +4011,14 @@
       "address": "53 Marine TCE, South Burnie TAS 7320",
       "state": "TAS",
       "prices": {
-        "Diesel": 220.9,
-        "E10": 167.5,
-        "U98": 208.9,
-        "U91": 186.9,
-        "U95": 198.9,
-        "Premium Diesel": 225.9
+        "Diesel": 256.9,
+        "E10": 193.5,
+        "U98": 233.9,
+        "U91": 211.9,
+        "U95": 223.9,
+        "Premium Diesel": 260.9
       },
-      "updated": "2026-07-21T10:17:10Z",
+      "updated": "2026-08-24T02:51:22Z",
       "lat": -41.06059709,
       "lng": 145.9111714
     },
@@ -4019,11 +4029,11 @@
       "address": "2176 East Tamar HWY, Mount Direction TAS 7252",
       "state": "TAS",
       "prices": {
-        "Diesel": 214.9,
-        "U98": 203.9,
-        "U91": 181.9
+        "Diesel": 255.9,
+        "U98": 231.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T05:00:41Z",
+      "updated": "2026-08-26T00:48:24Z",
       "lat": -41.26639514,
       "lng": 147.03468586
     },
@@ -4034,11 +4044,11 @@
       "address": "31 Mobil RD, Bell Bay TAS 7253",
       "state": "TAS",
       "prices": {
-        "Diesel": 214.9,
+        "Diesel": 255.9,
         "U98": 229.9,
         "U91": 229.9
       },
-      "updated": "2026-07-20T05:04:01Z",
+      "updated": "2026-08-26T00:48:58Z",
       "lat": -41.13299233,
       "lng": 146.8637531
     },
@@ -4049,12 +4059,12 @@
       "address": "2 George ST, Scottsdale TAS 7260",
       "state": "TAS",
       "prices": {
-        "U98": 203.9,
-        "Premium Diesel": 207.9,
-        "U91": 181.9,
-        "Diesel": 219.9
+        "U98": 230.9,
+        "Premium Diesel": 239.9,
+        "U91": 208.9,
+        "Diesel": 252.9
       },
-      "updated": "2026-07-21T04:58:36Z",
+      "updated": "2026-08-24T00:08:17Z",
       "lat": -41.15912099,
       "lng": 147.518909
     },
@@ -4065,11 +4075,11 @@
       "address": "36 Franklin ST Swansea TAS 7190",
       "state": "TAS",
       "prices": {
-        "Diesel": 219.9,
-        "U98": 205.9,
-        "U91": 183.9
+        "Diesel": 253.9,
+        "U98": 231.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-20T23:11:32Z",
+      "updated": "2026-08-20T01:24:47Z",
       "lat": -42.1232789,
       "lng": 148.07410793
     },
@@ -4080,12 +4090,12 @@
       "address": "Little Orr St & McNamara St Queenstown TAS 7467",
       "state": "TAS",
       "prices": {
-        "U98": 219.9,
-        "Premium Diesel": 209.9,
-        "U91": 183.9,
-        "Diesel": 213.9
+        "U98": 229.9,
+        "Premium Diesel": 245.5,
+        "U91": 209.9,
+        "Diesel": 258.9
       },
-      "updated": "2026-07-21T06:22:53Z",
+      "updated": "2026-08-25T02:51:10Z",
       "lat": -42.080085116,
       "lng": 145.55482087
     },
@@ -4096,13 +4106,12 @@
       "address": "Nunamara Store. 39365 Tasman HWY, Nunamara TAS 7259",
       "state": "TAS",
       "prices": {
-        "E10": 167.5,
-        "U98": 199.9,
-        "Premium Diesel": 196.5,
-        "U91": 177.9,
-        "Diesel": 205.9
+        "Diesel": 255.9,
+        "E10": 187.5,
+        "U98": 231.9,
+        "U91": 210.9
       },
-      "updated": "2026-07-19T20:12:39Z",
+      "updated": "2026-08-24T21:48:11Z",
       "lat": -41.38909205,
       "lng": 147.302247
     },
@@ -4113,13 +4122,13 @@
       "address": "174 Clarence ST, Howrah TAS 7018",
       "state": "TAS",
       "prices": {
-        "U98": 199.9,
-        "Premium Diesel": 218.9,
-        "U91": 180.9,
-        "Diesel": 218.9,
-        "U95": 194.9
+        "U98": 218.7,
+        "Premium Diesel": 257.9,
+        "U91": 195.7,
+        "Diesel": 242.7,
+        "U95": 209.7
       },
-      "updated": "2026-07-21T07:15:24Z",
+      "updated": "2026-08-25T03:03:51Z",
       "lat": -42.87603089,
       "lng": 147.38842318
     },
@@ -4130,13 +4139,13 @@
       "address": "1 Lewis Av, Seven Mile Beach TAS 7170",
       "state": "TAS",
       "prices": {
-        "Diesel": 232.9,
-        "U95": 219.9,
-        "U98": 199.9,
-        "Premium Diesel": 207.9,
-        "U91": 189.9
+        "Diesel": 270.6,
+        "U95": 232.9,
+        "U98": 231.9,
+        "Premium Diesel": 250.9,
+        "U91": 223.3
       },
-      "updated": "2026-07-21T04:13:43Z",
+      "updated": "2026-08-25T01:34:51Z",
       "lat": -42.8612962,
       "lng": 147.50534
     },
@@ -4147,13 +4156,13 @@
       "address": "1023 Ridgley HWY, Ridgley TAS 7321",
       "state": "TAS",
       "prices": {
-        "U95": 195.9,
-        "U98": 208.9,
-        "Premium Diesel": 217.7,
-        "U91": 189.9,
-        "Diesel": 227.9
+        "U95": 218.9,
+        "U98": 232.9,
+        "Premium Diesel": 251.7,
+        "U91": 214.9,
+        "Diesel": 260.9
       },
-      "updated": "2026-07-21T06:36:08Z",
+      "updated": "2026-08-25T07:12:51Z",
       "lat": -41.15035156,
       "lng": 145.83336557
     },
@@ -4164,14 +4173,14 @@
       "address": "33 Richmond ST, Colebrook TAS 7027",
       "state": "TAS",
       "prices": {
-        "E10": 166.9,
-        "U95": 184.9,
-        "U98": 214.9,
-        "Premium Diesel": 209.9,
-        "U91": 177.9,
-        "Diesel": 212.9
+        "E10": 195.5,
+        "U95": 209.5,
+        "U98": 245.9,
+        "Premium Diesel": 239.5,
+        "U91": 209.9,
+        "Diesel": 253.9
       },
-      "updated": "2026-07-21T01:54:15Z",
+      "updated": "2026-08-26T01:47:46Z",
       "lat": -42.53418647,
       "lng": 147.36356282
     },
@@ -4182,13 +4191,13 @@
       "address": "Cnr Highland Lakes Road & East Goderich Street Deloraine TAS 7304",
       "state": "TAS",
       "prices": {
-        "Diesel": 219.9,
-        "E10": 166.5,
-        "U95": 181.5,
-        "U98": 191.5,
-        "U91": 168.5
+        "Diesel": 255.9,
+        "E10": 192.7,
+        "U95": 210.7,
+        "U98": 217.7,
+        "U91": 194.7
       },
-      "updated": "2026-07-21T06:24:50Z",
+      "updated": "2026-08-26T05:33:01Z",
       "lat": -41.52945,
       "lng": 146.65467
     },
@@ -4199,13 +4208,13 @@
       "address": "3-11 Dry ST, Invermay TAS 7248",
       "state": "TAS",
       "prices": {
-        "Diesel": 209.9,
-        "E10": 172.9,
-        "LPG": 112.5,
-        "U98": 198.9,
-        "U91": 181.9
+        "Diesel": 257.9,
+        "E10": 199.9,
+        "LPG": 112.9,
+        "U98": 229.9,
+        "U91": 210.9
       },
-      "updated": "2026-07-21T01:45:08Z",
+      "updated": "2026-08-26T04:34:11Z",
       "lat": -41.42881206,
       "lng": 147.13718793
     },
@@ -4216,12 +4225,12 @@
       "address": "10 Formby RD, Devonport TAS 7310",
       "state": "TAS",
       "prices": {
-        "U95": 193.4,
-        "U98": 202.9,
-        "Premium Diesel": 205.9,
-        "U91": 175.9
+        "U95": 222.4,
+        "U98": 231.9,
+        "Premium Diesel": 253.9,
+        "U91": 204.9
       },
-      "updated": "2026-07-19T23:54:14Z",
+      "updated": "2026-08-24T04:24:15Z",
       "lat": -41.1899137,
       "lng": 146.36137002
     },
@@ -4232,12 +4241,12 @@
       "address": "34 William ST, Devonport TAS 7310",
       "state": "TAS",
       "prices": {
-        "Diesel": 204.9,
-        "U95": 179.7,
-        "U98": 195.9,
-        "U91": 173.9
+        "Diesel": 253.9,
+        "U95": 199.5,
+        "U98": 229.9,
+        "U91": 204.9
       },
-      "updated": "2026-07-19T08:06:47Z",
+      "updated": "2026-08-26T04:34:29Z",
       "lat": -41.18681363,
       "lng": 146.34910597
     },
@@ -4248,14 +4257,14 @@
       "address": "Cnr Bell Bay Road & Mobil Road Bell Bay TAS 7253",
       "state": "TAS",
       "prices": {
-        "Diesel": 209.9,
-        "E10": 177.9,
-        "U95": 193.9,
-        "U98": 208.9,
-        "Premium Diesel": 221.9,
-        "U91": 181.9
+        "Diesel": 254.9,
+        "E10": 199.5,
+        "U95": 215.5,
+        "U98": 230.5,
+        "Premium Diesel": 251.5,
+        "U91": 207.9
       },
-      "updated": "2026-07-21T05:35:09Z",
+      "updated": "2026-08-26T04:33:41Z",
       "lat": -41.1314,
       "lng": 146.867
     },
@@ -4266,11 +4275,11 @@
       "address": "575 Primrose Sands RD, Primrose Sands TAS 7173",
       "state": "TAS",
       "prices": {
-        "Diesel": 213.9,
-        "U95": 199.9,
-        "U91": 181.9
+        "Diesel": 257.9,
+        "U95": 229.9,
+        "U91": 212.9
       },
-      "updated": "2026-07-16T09:12:45Z",
+      "updated": "2026-08-20T09:08:10Z",
       "lat": -42.89331167,
       "lng": 147.67144126
     },
@@ -4281,10 +4290,10 @@
       "address": "10 Main ST, Legerwood TAS 7263",
       "state": "TAS",
       "prices": {
-        "Diesel": 210.1,
-        "U91": 182.6
+        "Diesel": 254.1,
+        "U91": 209
       },
-      "updated": "2026-07-20T04:04:52Z",
+      "updated": "2026-08-17T03:20:46Z",
       "lat": -41.21762823,
       "lng": 147.6956242
     },
@@ -4295,12 +4304,12 @@
       "address": "93 Bass HWY Somerset TAS 7322",
       "state": "TAS",
       "prices": {
-        "U95": 194.9,
-        "U98": 203.9,
-        "Premium Diesel": 216.9,
-        "U91": 181.9
+        "U95": 224.9,
+        "U98": 233.9,
+        "Premium Diesel": 258.9,
+        "U91": 211.9
       },
-      "updated": "2026-07-21T02:29:48Z",
+      "updated": "2026-08-25T02:55:16Z",
       "lat": -41.0361023,
       "lng": 145.82538096
     },
@@ -4311,12 +4320,12 @@
       "address": "2 Main ST, Sheffield TAS 7306",
       "state": "TAS",
       "prices": {
-        "Diesel": 219.9,
-        "U91": 189.9,
-        "U95": 199.9,
-        "U98": 204.9
+        "Diesel": 258.9,
+        "U91": 215.9,
+        "U95": 232.9,
+        "U98": 236.9
       },
-      "updated": "2026-07-20T21:57:42Z",
+      "updated": "2026-08-20T21:49:36Z",
       "lat": -41.37980088,
       "lng": 146.31743861
     },
@@ -4327,15 +4336,15 @@
       "address": "10 B BANGALEE ST Lauderdale TAS 7021",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "LPG": 109.9,
-        "U98": 202.9,
-        "Premium Diesel": 209.9,
-        "U91": 179.9,
-        "Diesel": 214.9,
-        "U95": 205.9
+        "E10": 205.9,
+        "LPG": 112.9,
+        "U98": 234.9,
+        "Premium Diesel": 253.9,
+        "U91": 208.9,
+        "Diesel": 251.9,
+        "U95": 230.9
       },
-      "updated": "2026-07-20T00:42:35Z",
+      "updated": "2026-08-25T09:00:26Z",
       "lat": -42.90836538,
       "lng": 147.49209155
     },
@@ -4346,11 +4355,11 @@
       "address": "1 Granite Av, Bicheno TAS 7215",
       "state": "TAS",
       "prices": {
-        "Diesel": 219.9,
-        "U91": 181.9,
-        "U98": 204.9
+        "Diesel": 251.9,
+        "U91": 207.9,
+        "U98": 229.9
       },
-      "updated": "2026-07-21T09:04:11Z",
+      "updated": "2026-08-26T09:52:45Z",
       "lat": -41.88719726,
       "lng": 148.2878442
     },
@@ -4361,11 +4370,11 @@
       "address": "96a Reeve ST, Campania TAS 7026",
       "state": "TAS",
       "prices": {
-        "Diesel": 210.9,
-        "U98": 204.9,
-        "U91": 176.9
+        "Diesel": 251.9,
+        "U98": 233.9,
+        "U91": 208.9
       },
-      "updated": "2026-07-19T22:56:31Z",
+      "updated": "2026-08-25T22:43:28Z",
       "lat": -42.66172005,
       "lng": 147.42352372
     },
@@ -4376,14 +4385,14 @@
       "address": "4840 Huon Highway GEEVESTON TAS 7116",
       "state": "TAS",
       "prices": {
-        "E10": 174.5,
-        "U98": 199.5,
-        "Premium Diesel": 211.5,
-        "U91": 194.9,
-        "Diesel": 229.9,
-        "U95": 209.9
+        "E10": 194.5,
+        "U98": 219.5,
+        "Premium Diesel": 245.5,
+        "U91": 214.9,
+        "Diesel": 264.9,
+        "U95": 229.9
       },
-      "updated": "2026-07-21T05:47:35Z",
+      "updated": "2026-08-25T02:07:57Z",
       "lat": -43.164763484,
       "lng": 146.9263017
     },
@@ -4394,14 +4403,14 @@
       "address": "37 Winifred Jane Crescent Hadspen TAS 7290",
       "state": "TAS",
       "prices": {
-        "Diesel": 226.9,
-        "E10": 183.9,
-        "U95": 202.9,
-        "U98": 203.9,
-        "Premium Diesel": 212.9,
-        "U91": 181.9
+        "Diesel": 259.9,
+        "E10": 212.9,
+        "U95": 231.9,
+        "U98": 231.9,
+        "Premium Diesel": 255.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T01:59:52Z",
+      "updated": "2026-08-25T04:27:25Z",
       "lat": -41.50416,
       "lng": 147.0693
     },
@@ -4412,14 +4421,14 @@
       "address": "Bp Wyndham RD 34 Wyndham RD, Claremont TAS 7011",
       "state": "TAS",
       "prices": {
-        "Diesel": 209.9,
-        "E10": 197.9,
-        "U98": 219.9,
-        "Premium Diesel": 225.9,
-        "U91": 179.9,
-        "U95": 196.9
+        "Diesel": 246.5,
+        "E10": 194.5,
+        "U98": 223.5,
+        "Premium Diesel": 259.9,
+        "U91": 208.9,
+        "U95": 226.9
       },
-      "updated": "2026-07-21T00:34:39Z",
+      "updated": "2026-08-24T08:10:10Z",
       "lat": -42.7896726,
       "lng": 147.2465915
     },
@@ -4430,12 +4439,12 @@
       "address": "Service Station 92 Meander Valley RD, Westbury TAS 7303",
       "state": "TAS",
       "prices": {
-        "U95": 194.9,
-        "U98": 203.9,
-        "Premium Diesel": 213.9,
-        "U91": 181.9
+        "U95": 223.9,
+        "U98": 232.9,
+        "Premium Diesel": 257.9,
+        "U91": 210.9
       },
-      "updated": "2026-07-21T05:51:45Z",
+      "updated": "2026-08-26T03:55:52Z",
       "lat": -41.52642026,
       "lng": 146.83339919
     },
@@ -4446,12 +4455,12 @@
       "address": "12 Farrell ST, Tullah TAS 7321",
       "state": "TAS",
       "prices": {
-        "Diesel": 211.9,
-        "U91": 183.9,
-        "U98": 205.9,
-        "Premium Diesel": 214.9
+        "Diesel": 255.9,
+        "U91": 205.9,
+        "U98": 227.9,
+        "Premium Diesel": 258.9
       },
-      "updated": "2026-07-20T04:05:43Z",
+      "updated": "2026-08-25T02:51:42Z",
       "lat": -41.73783025,
       "lng": 145.61692406
     },
@@ -4462,14 +4471,14 @@
       "address": "42 Sugarloaf RD, Risdon Vale TAS 7016",
       "state": "TAS",
       "prices": {
-        "E10": 172.9,
-        "U98": 200.9,
-        "Premium Diesel": 215.9,
-        "U91": 173.9,
-        "Diesel": 212.9,
-        "U95": 193.9
+        "E10": 204.9,
+        "U98": 232.9,
+        "Premium Diesel": 253.9,
+        "U91": 202.9,
+        "Diesel": 253.9,
+        "U95": 221.9
       },
-      "updated": "2026-07-20T18:47:04Z",
+      "updated": "2026-08-25T20:36:05Z",
       "lat": -42.81337701,
       "lng": 147.35160376
     },
@@ -4480,11 +4489,11 @@
       "address": "1954 Bridport RD, Bridport TAS 7262",
       "state": "TAS",
       "prices": {
-        "Diesel": 216,
-        "U98": 196.9,
-        "U91": 180.9
+        "Diesel": 256.9,
+        "U98": 220.9,
+        "U91": 207.9
       },
-      "updated": "2026-07-20T00:53:51Z",
+      "updated": "2026-08-21T12:10:04Z",
       "lat": -41.02096033,
       "lng": 147.40576618
     },
@@ -4495,13 +4504,13 @@
       "address": "Legana Legana TAS 7277",
       "state": "TAS",
       "prices": {
-        "Diesel": 219.9,
-        "U98": 203.9,
-        "U91": 181.9,
-        "U95": 193.9,
-        "Premium Diesel": 222.9
+        "Diesel": 254.9,
+        "U98": 228.9,
+        "U91": 206.9,
+        "U95": 218.9,
+        "Premium Diesel": 257.9
       },
-      "updated": "2026-07-21T05:08:49Z",
+      "updated": "2026-08-26T00:46:55Z",
       "lat": -41.374825,
       "lng": 147.057332
     },
@@ -4512,11 +4521,11 @@
       "address": "Service Station 5 Arthur ST, Rosebery TAS 7470",
       "state": "TAS",
       "prices": {
-        "Diesel": 214.9,
-        "U98": 204.9,
-        "U91": 181.9
+        "Diesel": 254.9,
+        "U98": 227.9,
+        "U91": 205.9
       },
-      "updated": "2026-07-20T04:57:53Z",
+      "updated": "2026-08-26T00:55:37Z",
       "lat": -41.77849562,
       "lng": 145.53917575
     },
@@ -4527,14 +4536,14 @@
       "address": "96 Lewisham Scenic DR, Lewisham TAS 7173",
       "state": "TAS",
       "prices": {
-        "Diesel": 212.9,
-        "E10": 165.5,
-        "U98": 187.5,
-        "U91": 174.9,
-        "U95": 189.9,
-        "Premium Diesel": 216.9
+        "Diesel": 247.9,
+        "E10": 189.9,
+        "U98": 211.9,
+        "U91": 202.9,
+        "U95": 216.9,
+        "Premium Diesel": 250.9
       },
-      "updated": "2026-07-20T08:54:18Z",
+      "updated": "2026-08-25T04:03:44Z",
       "lat": -42.8290538,
       "lng": 147.60749095
     },
@@ -4545,11 +4554,11 @@
       "address": "74 Main ST, Derby TAS 7264",
       "state": "TAS",
       "prices": {
-        "Diesel": 245.9,
-        "U95": 208.9,
-        "U91": 215.9
+        "Diesel": 272.9,
+        "U95": 230.9,
+        "U91": 227.9
       },
-      "updated": "2026-07-21T02:18:44Z",
+      "updated": "2026-08-25T02:05:41Z",
       "lat": -41.149044,
       "lng": 147.80154497
     },
@@ -4560,14 +4569,14 @@
       "address": "1952 Huon HWY, Grove TAS 7109",
       "state": "TAS",
       "prices": {
-        "E10": 177.9,
-        "U95": 191.9,
-        "U98": 201.9,
-        "Premium Diesel": 222.9,
-        "U91": 179.9,
-        "Diesel": 219.9
+        "E10": 198.9,
+        "U95": 217.9,
+        "U98": 227.9,
+        "Premium Diesel": 256.9,
+        "U91": 205.9,
+        "Diesel": 253.9
       },
-      "updated": "2026-07-21T04:50:26Z",
+      "updated": "2026-08-24T02:27:16Z",
       "lat": -42.98154055,
       "lng": 147.09673269
     },
@@ -4578,11 +4587,11 @@
       "address": "4409 Channel HWY, Middleton TAS 7163",
       "state": "TAS",
       "prices": {
-        "Diesel": 219.9,
-        "U98": 212.9,
-        "U91": 184.9
+        "Diesel": 255.9,
+        "U98": 235.9,
+        "U91": 210.9
       },
-      "updated": "2026-07-19T22:27:32Z",
+      "updated": "2026-08-22T05:02:45Z",
       "lat": -43.23278069,
       "lng": 147.25343982
     },
@@ -4593,13 +4602,13 @@
       "address": "259 Kennedy DR, Cambridge TAS 7170",
       "state": "TAS",
       "prices": {
-        "Diesel": 209.9,
-        "U98": 199.9,
-        "U91": 173.9,
-        "U95": 189.9,
-        "Premium Diesel": 215.9
+        "Diesel": 245.9,
+        "U98": 222.9,
+        "U91": 199.9,
+        "U95": 212.9,
+        "Premium Diesel": 249.9
       },
-      "updated": "2026-07-20T23:43:28Z",
+      "updated": "2026-08-26T03:02:22Z",
       "lat": -42.83114855,
       "lng": 147.48507686
     },
@@ -4610,12 +4619,12 @@
       "address": "90 Hobart RD, Kings Meadows TAS 7249",
       "state": "TAS",
       "prices": {
-        "U95": 197.4,
-        "U98": 206.9,
-        "Premium Diesel": 215.9,
-        "U91": 179.9
+        "U95": 227.4,
+        "U98": 236.9,
+        "Premium Diesel": 255.9,
+        "U91": 209.9
       },
-      "updated": "2026-07-21T00:36:14Z",
+      "updated": "2026-08-23T23:57:16Z",
       "lat": -41.46569565,
       "lng": 147.15904091
     },
@@ -4626,14 +4635,14 @@
       "address": "1 Netherby RD, Currie TAS 7256",
       "state": "TAS",
       "prices": {
-        "E10": 167.9,
-        "U95": 186.9,
-        "U98": 195.9,
-        "Premium Diesel": 209.9,
-        "U91": 245,
-        "Diesel": 278
+        "E10": 193.9,
+        "U95": 212.9,
+        "U98": 221.9,
+        "Premium Diesel": 249.9,
+        "U91": 290,
+        "Diesel": 297
       },
-      "updated": "2026-07-21T05:06:14Z",
+      "updated": "2026-08-25T21:51:27Z",
       "lat": -39.93244349,
       "lng": 143.85157388
     },
@@ -4644,13 +4653,13 @@
       "address": "2 Pier RD, Opossum Bay TAS 7023",
       "state": "TAS",
       "prices": {
-        "Diesel": 249.9,
-        "E10": 169.5,
-        "U98": 194.5,
-        "U91": 199.9,
+        "Diesel": 259.9,
+        "E10": 195.5,
+        "U98": 217.5,
+        "U91": 213.9,
         "U95": 275.9
       },
-      "updated": "2026-07-21T02:19:33Z",
+      "updated": "2026-08-23T23:41:40Z",
       "lat": -42.99408272,
       "lng": 147.4027304
     },
@@ -4661,13 +4670,13 @@
       "address": "16 PATRICK ST bothwell TAS 7030",
       "state": "TAS",
       "prices": {
-        "Diesel": 202.9,
-        "U98": 209.9,
-        "Premium Diesel": 225.9,
-        "U91": 189.9,
-        "U95": 202.9
+        "Diesel": 248.9,
+        "U98": 229.9,
+        "Premium Diesel": 269.9,
+        "U91": 203.9,
+        "U95": 215.9
       },
-      "updated": "2026-07-19T08:03:39Z",
+      "updated": "2026-08-26T06:15:37Z",
       "lat": -42.38446624,
       "lng": 147.007311589
     },
@@ -4678,13 +4687,13 @@
       "address": "Triabunna Roadhouse 34 Tasman HWY, Triabunna TAS 7190",
       "state": "TAS",
       "prices": {
-        "E10": 174.9,
-        "U98": 196.9,
-        "Premium Diesel": 209.9,
-        "U91": 181.9,
-        "Diesel": 215.9
+        "E10": 205.9,
+        "U98": 225.9,
+        "Premium Diesel": 253.9,
+        "U91": 212.9,
+        "Diesel": 257.9
       },
-      "updated": "2026-07-20T00:36:58Z",
+      "updated": "2026-08-26T06:35:26Z",
       "lat": -42.50075621,
       "lng": 147.91882271
     },
@@ -4695,10 +4704,10 @@
       "address": "Lady Barron Post Office 11 Henwood ST, Lady Barron TAS 7255",
       "state": "TAS",
       "prices": {
-        "Diesel": 279.2,
-        "U91": 240.4
+        "Diesel": 258.2,
+        "U91": 225.4
       },
-      "updated": "2026-07-01T03:53:44Z",
+      "updated": "2026-08-19T04:17:15Z",
       "lat": -40.20870386,
       "lng": 148.24348779
     },
@@ -4709,14 +4718,14 @@
       "address": "26 Edward ST, Currie TAS 7256",
       "state": "TAS",
       "prices": {
-        "E10": 167.5,
-        "U95": 183.5,
-        "U98": 192.5,
-        "Premium Diesel": 217.5,
-        "U91": 245,
-        "Diesel": 278
+        "E10": 202.5,
+        "U95": 221.5,
+        "U98": 230.5,
+        "Premium Diesel": 252.5,
+        "U91": 267,
+        "Diesel": 297
       },
-      "updated": "2026-07-20T21:15:40Z",
+      "updated": "2026-08-25T22:34:40Z",
       "lat": -39.93167183,
       "lng": 143.85027753
     },
@@ -4727,14 +4736,10 @@
       "address": "2879 Grassy RD, Grassy TAS 7256",
       "state": "TAS",
       "prices": {
-        "E10": 173.5,
-        "U95": 189.5,
-        "U98": 199.5,
-        "Premium Diesel": 207.9,
-        "U91": 249,
-        "Diesel": 315
+        "Diesel": 299,
+        "U91": 265
       },
-      "updated": "2026-07-19T06:53:56Z",
+      "updated": "2026-08-24T22:14:34Z",
       "lat": -40.04832025,
       "lng": 144.05712421
     },
@@ -4745,10 +4750,10 @@
       "address": "Mathinna Club 92 High ST, Mathinna TAS 7214",
       "state": "TAS",
       "prices": {
-        "Diesel": 219.9,
-        "U91": 181.9
+        "Diesel": 251.9,
+        "U91": 207.9
       },
-      "updated": "2026-06-10T01:41:19Z",
+      "updated": "2026-08-18T02:52:46Z",
       "lat": -41.47750603,
       "lng": 147.88802753
     },
@@ -4759,13 +4764,13 @@
       "address": "South Riana Post Office 1705 Pine RD, South Riana TAS 7316",
       "state": "TAS",
       "prices": {
-        "Diesel": 214,
-        "E10": 174.9,
-        "U98": 203.9,
-        "Premium Diesel": 222.9,
-        "U91": 187
+        "Diesel": 273,
+        "E10": 207.9,
+        "U98": 236.9,
+        "Premium Diesel": 257.9,
+        "U91": 225
       },
-      "updated": "2026-07-20T20:27:15Z",
+      "updated": "2026-08-25T07:06:16Z",
       "lat": -41.2351431,
       "lng": 145.97762135
     },
@@ -4776,13 +4781,13 @@
       "address": "37 Bridge ST, Richmond TAS 7025",
       "state": "TAS",
       "prices": {
-        "E10": 181.9,
-        "U95": 204,
-        "U98": 210,
-        "Premium Diesel": 205,
-        "U91": 181
+        "E10": 206.9,
+        "U95": 225.9,
+        "U98": 232,
+        "U91": 209,
+        "Premium Diesel": 268
       },
-      "updated": "2026-07-20T21:30:37Z",
+      "updated": "2026-08-26T10:51:12Z",
       "lat": -42.73515996,
       "lng": 147.43768305
     },
@@ -4793,28 +4798,13 @@
       "address": "Gordon River Road Strathgordon TAS 7139",
       "state": "TAS",
       "prices": {
-        "Diesel": 240,
-        "U98": 199.9,
-        "U91": 220
+        "Diesel": 280,
+        "U98": 218.9,
+        "U91": 240
       },
-      "updated": "2026-07-16T21:43:47Z",
+      "updated": "2026-08-20T04:58:29Z",
       "lat": -42.76857,
       "lng": 146.04583
-    },
-    {
-      "brand": "Astron",
-      "code": "TAS:20073",
-      "name": "Astron Beauty Point (Unmanned) Petrol Station",
-      "address": "Beauty Point Service Station 227 Flinders ST, Beauty Point TAS 7270",
-      "state": "TAS",
-      "prices": {
-        "Diesel": 199.9,
-        "U98": 189.9,
-        "U91": 169.9
-      },
-      "updated": "2026-06-15T23:19:30Z",
-      "lat": -41.14849912,
-      "lng": 146.81882738
     },
     {
       "brand": "BP",
@@ -4823,13 +4813,13 @@
       "address": "4 Scott ST, Branxholm TAS 7261",
       "state": "TAS",
       "prices": {
-        "E10": 176.9,
-        "U98": 205.9,
-        "Premium Diesel": 218.9,
-        "U91": 197.7,
-        "Diesel": 216.7
+        "E10": 207.9,
+        "U98": 236.9,
+        "Premium Diesel": 252.9,
+        "U91": 219.7,
+        "Diesel": 264.7
       },
-      "updated": "2026-07-20T20:36:14Z",
+      "updated": "2026-08-23T02:54:16Z",
       "lat": -41.16883226,
       "lng": 147.73705353
     },
@@ -4840,14 +4830,14 @@
       "address": "Original Coles Store 64 Main ST, Wilmot TAS 7310",
       "state": "TAS",
       "prices": {
-        "Diesel": 207.9,
-        "E10": 172.9,
-        "U95": 203.9,
-        "U98": 201.9,
-        "Premium Diesel": 221.9,
-        "U91": 188.9
+        "Diesel": 275.9,
+        "E10": 204.9,
+        "U95": 225.9,
+        "U98": 233.9,
+        "Premium Diesel": 258.9,
+        "U91": 230.9
       },
-      "updated": "2026-07-20T20:18:15Z",
+      "updated": "2026-08-25T06:57:14Z",
       "lat": -41.38756099,
       "lng": 146.17559348
     },
@@ -4858,11 +4848,11 @@
       "address": "84 Meander Valley RD, Hagley TAS 7292",
       "state": "TAS",
       "prices": {
-        "Diesel": 208.9,
-        "U98": 203.9,
-        "U91": 181.9
+        "Diesel": 255.9,
+        "U98": 230.9,
+        "U91": 207.9
       },
-      "updated": "2026-07-17T09:55:18Z",
+      "updated": "2026-08-26T04:36:23Z",
       "lat": -41.5264323,
       "lng": 146.88334421
     },
@@ -4873,12 +4863,12 @@
       "address": "Margate Marina 40 Marina DR, Barretta TAS 7054",
       "state": "TAS",
       "prices": {
-        "E10": 197.9,
-        "Premium Diesel": 209.9,
-        "U91": 298.9,
-        "Diesel": 217.9
+        "E10": 205.9,
+        "Premium Diesel": 243.9,
+        "U91": 220.9,
+        "Diesel": 267.9
       },
-      "updated": "2026-07-21T01:13:43Z",
+      "updated": "2026-08-24T20:15:56Z",
       "lat": -43.04853549,
       "lng": 147.26443899
     },
@@ -4889,14 +4879,14 @@
       "address": "20 BURNETT ST, New Norfolk TAS 7140",
       "state": "TAS",
       "prices": {
-        "Diesel": 217.9,
-        "E10": 165.5,
-        "U98": 203.9,
-        "Premium Diesel": 209.9,
-        "U91": 182.9,
-        "U95": 199.9
+        "Diesel": 254.9,
+        "E10": 188.5,
+        "U98": 229.9,
+        "Premium Diesel": 238.5,
+        "U91": 209.9,
+        "U95": 223.9
       },
-      "updated": "2026-07-21T06:07:52Z",
+      "updated": "2026-08-25T11:56:35Z",
       "lat": -42.78041,
       "lng": 147.0621907
     },
@@ -4907,13 +4897,13 @@
       "address": "Southport Tavern 8777 Huon HWY, Southport TAS 7109",
       "state": "TAS",
       "prices": {
-        "E10": 197.9,
-        "U98": 219.9,
-        "Premium Diesel": 209.9,
+        "E10": 199.9,
+        "U98": 223.9,
+        "Premium Diesel": 247.9,
         "U91": 228,
         "Diesel": 262
       },
-      "updated": "2026-07-20T23:53:27Z",
+      "updated": "2026-08-25T19:44:32Z",
       "lat": -43.4246493,
       "lng": 146.97447736
     },
@@ -4924,15 +4914,15 @@
       "address": "Avoca Store 25 Falmouth ST, Avoca TAS 7213",
       "state": "TAS",
       "prices": {
-        "E10": 171.5,
-        "LPG": 108.5,
-        "U98": 199.5,
-        "Premium Diesel": 209.5,
-        "U91": 184.9,
-        "Diesel": 215.9,
-        "U95": 205.9
+        "E10": 195.5,
+        "LPG": 112.5,
+        "U98": 222.5,
+        "Premium Diesel": 245.5,
+        "U91": 210.9,
+        "Diesel": 259.9,
+        "U95": 230.9
       },
-      "updated": "2026-07-20T23:55:24Z",
+      "updated": "2026-08-26T04:05:18Z",
       "lat": -41.78115735,
       "lng": 147.72109419
     },
@@ -4943,13 +4933,12 @@
       "address": "9 Commerce DR, Howrah TAS 7018",
       "state": "TAS",
       "prices": {
-        "Diesel": 199.9,
-        "U95": 185.7,
-        "U98": 189.7,
-        "Premium Diesel": 205.9,
-        "U91": 169.7
+        "Diesel": 242.7,
+        "U95": 209.7,
+        "U98": 219.7,
+        "U91": 195.7
       },
-      "updated": "2026-07-21T01:27:56Z",
+      "updated": "2026-08-26T03:55:07Z",
       "lat": -42.88800579,
       "lng": 147.42619415
     },
@@ -4960,14 +4949,49 @@
       "address": "38 Church ST, Ross TAS 7209",
       "state": "TAS",
       "prices": {
-        "E10": 173.5,
-        "U98": 202.5,
-        "Premium Diesel": 213.5,
-        "U91": 175.5
+        "E10": 197.5,
+        "U98": 219.5,
+        "Premium Diesel": 238.5,
+        "U91": 216,
+        "Diesel": 264.9,
+        "U95": 229
       },
-      "updated": "2026-07-20T21:43:32Z",
+      "updated": "2026-08-25T12:48:53Z",
       "lat": -42.03038996,
       "lng": 147.4916753
+    },
+    {
+      "brand": "Shell OTR",
+      "code": "TAS:20084",
+      "name": "OTR Cooee",
+      "address": "42-46 Bass HWY, Cooee TAS 7320",
+      "state": "TAS",
+      "prices": {
+        "Diesel": 256,
+        "U98": 227.9,
+        "U91": 200.9,
+        "U95": 218.4,
+        "Premium Diesel": 243.9
+      },
+      "updated": "2026-08-21T07:25:41Z",
+      "lat": -41.04091995,
+      "lng": 145.87706481
+    },
+    {
+      "brand": "Tas Petroleum",
+      "code": "TAS:20085",
+      "name": "Tas Petroleum Ouse",
+      "address": "6954 Lyell HWY, Ouse TAS 7140",
+      "state": "TAS",
+      "prices": {
+        "Premium Diesel": 239.9,
+        "Diesel": 251.9,
+        "U95": 221.9,
+        "U91": 209.9
+      },
+      "updated": "2026-08-25T02:05:39Z",
+      "lat": -42.48461646,
+      "lng": 146.71059011
     }
   ]
 }

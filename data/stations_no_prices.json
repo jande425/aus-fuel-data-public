@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-08-26T12:41:09Z",
+  "fetched_at": "2026-08-26T13:40:13Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1268,
   "by_state": {
     "ACT": 7,
-    "NSW": 1154,
+    "NSW": 1153,
     "NT": 28,
-    "QLD": 31,
+    "QLD": 30,
     "SA": 31,
     "TAS": 2,
-    "VIC": 18
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,12 +19,12 @@
     "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 70,
-    "7-Eleven": 68,
-    "BP": 53,
+    "7-Eleven": 65,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 18,
+    "Ampol": 17,
     "Caltex": 13,
     "Shell": 11,
     "Puma Energy": 10,
@@ -392,15 +392,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:18201",
-      "name": "7-Eleven Greystanes",
-      "address": "601-605 Great Western Highway, GREYSTANES NSW 2145",
-      "state": "NSW",
-      "lat": -33.808609,
-      "lng": 150.935941
-    },
-    {
-      "brand": "7-Eleven",
       "code": "NSW:130",
       "name": "7-Eleven Guildford West",
       "address": "534 Guildford Road West (Corner Fowler Road), Guildford West NSW 2161",
@@ -515,15 +506,6 @@
       "state": "NSW",
       "lat": -33.951306,
       "lng": 151.24905
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:18675",
-      "name": "7-Eleven Medowie",
-      "address": "787 Medowie RD, Medowie NSW 2318",
-      "state": "NSW",
-      "lat": -32.739886,
-      "lng": 151.867393
     },
     {
       "brand": "7-Eleven",
@@ -3206,6 +3188,15 @@
       "state": "NSW",
       "lat": -33.708221,
       "lng": 150.327062
+    },
+    {
+      "brand": "BP",
+      "code": "NSW:18238",
+      "name": "Bewong Roadhouse",
+      "address": "2399 Princes Highway, BEWONG NSW 2540",
+      "state": "NSW",
+      "lat": -35.085687,
+      "lng": 150.533228
     },
     {
       "brand": "Independent",
@@ -10776,23 +10767,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61402077",
-      "name": "Ampol Foodary North Rockhampton Truckstop",
-      "address": "524 Yaamba Rd, QLD 4701",
-      "state": "QLD",
-      "lat": -23.332768,
-      "lng": 150.518445,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -11524,21 +11498,6 @@
       "unavailable_fuels": [
         "Premium Diesel",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:IrC//ZZNPaq0LsjnVXKF9yXvs8yzbyMK9nnsjK88eA8=",
-      "name": "7-Eleven Sunbury South",
-      "address": "105 Vineyard Road, Sunbury, 3429",
-      "state": "VIC",
-      "lat": -37.59542185146,
-      "lng": 144.71490844097957,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

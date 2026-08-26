@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-08-26T19:42:30Z",
+  "fetched_at": "2026-08-26T22:22:45Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1268,
+  "station_count": 1267,
   "by_state": {
     "ACT": 7,
     "NSW": 1153,
@@ -9,7 +9,7 @@
     "QLD": 30,
     "SA": 31,
     "TAS": 2,
-    "VIC": 17
+    "VIC": 16
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,14 +19,14 @@
     "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 70,
-    "7-Eleven": 65,
+    "7-Eleven": 64,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 17,
+    "Ampol": 18,
     "Caltex": 13,
-    "Shell": 11,
+    "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
@@ -52,9 +52,9 @@
     "Solo": 1,
     "PRIME ROUTE": 1,
     "Metro Petroleum": 1,
-    "Endeavour Energy Fuels": 1,
     "ETA PETROLEUM": 1,
-    "Apco": 1
+    "Apco": 1,
+    "Endeavour Energy Fuels": 1
   },
   "stations": [
     {
@@ -2207,6 +2207,15 @@
       "state": "NSW",
       "lat": -34.913752,
       "lng": 150.584956
+    },
+    {
+      "brand": "Ampol",
+      "code": "NSW:20567",
+      "name": "Ampol Broken Hill Patton St",
+      "address": "84 Patton ST, Broken Hill NSW 2880",
+      "state": "NSW",
+      "lat": -31.981387,
+      "lng": 141.458614
     },
     {
       "brand": "Ampol Foodary",
@@ -8797,15 +8806,6 @@
       "lng": 147.533716
     },
     {
-      "brand": "Shell",
-      "code": "NSW:20920",
-      "name": "Shell Urbanista Minto",
-      "address": "73 Pembroke RD, Minto NSW 2566",
-      "state": "NSW",
-      "lat": -34.023189,
-      "lng": 150.850331
-    },
-    {
       "brand": "Tesla",
       "code": "NSW:19422",
       "name": "Sheraton Grand Hyde Park",
@@ -11454,22 +11454,6 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:J4HAuJ0Tf3uGkxO9PJyFK/MSHcCOw7988fJoVXe96zI=",
-      "name": "7-Eleven Ardeer North",
-      "address": "Lot 1 Western Ring Road (North Bound), DERRIMUT, 3026",
-      "state": "VIC",
-      "lat": -37.80400524945493,
-      "lng": 144.80477482873735,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "7-Eleven",

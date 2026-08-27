@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-08-27T15:23:29Z",
+  "fetched_at": "2026-08-27T21:38:05Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1270,
   "by_state": {
     "ACT": 7,
     "NSW": 1155,
     "NT": 28,
-    "QLD": 30,
+    "QLD": 31,
     "SA": 30,
     "TAS": 2,
-    "VIC": 18
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -20,11 +20,11 @@
     "Chargefox": 72,
     "Independent": 69,
     "7-Eleven": 66,
-    "BP": 54,
+    "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 19,
+    "Ampol": 18,
     "Caltex": 13,
     "United": 10,
     "Puma Energy": 10,
@@ -52,9 +52,9 @@
     "Solo": 1,
     "PRIME ROUTE": 1,
     "Metro Petroleum": 1,
+    "Endeavour Energy Fuels": 1,
     "ETA PETROLEUM": 1,
-    "Apco": 1,
-    "Endeavour Energy Fuels": 1
+    "Apco": 1
   },
   "stations": [
     {
@@ -10830,6 +10830,15 @@
       ]
     },
     {
+      "brand": "BP",
+      "code": "QLD:61401377",
+      "name": "BP The Gap",
+      "address": "850 Waterworks Rd, QLD 4061",
+      "state": "QLD",
+      "lat": -27.446887,
+      "lng": 152.959528
+    },
+    {
       "brand": "Independent",
       "code": "QLD:61402385",
       "name": "Blue Topaz Caravan Park",
@@ -11511,21 +11520,6 @@
         "LPG",
         "U91",
         "U95"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "VIC:QgkXVgVfyscCBAEvMaj/prZs5H6EuUmP6VDxfyZQ2TE=",
-      "name": "Ampol Foodary Whittlesea",
-      "address": "Beech street, WHITTLESEA, 3757",
-      "state": "VIC",
-      "lat": -37.511417,
-      "lng": 145.121266,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {

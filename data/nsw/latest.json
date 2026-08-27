@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-08-27T10:31:12Z",
+  "fetched_at": "2026-08-27T12:44:56Z",
   "station_count": 2090,
   "fuel_types": [
     "E10",
@@ -3183,10 +3183,10 @@
         "E10": 202.9,
         "U95": 222.9,
         "U98": 231.9,
-        "Premium Diesel": 254.9,
+        "Premium Diesel": 254.8,
         "U91": 204.9
       },
-      "updated": "2026-08-26T11:12:25Z",
+      "updated": "2026-08-27T12:17:25Z",
       "lat": -33.902032,
       "lng": 151.200054
     },
@@ -4161,12 +4161,12 @@
       "address": "36-38 Lane Cove Rd, RYDE NSW 2112",
       "state": "NSW",
       "prices": {
-        "E10": 186.9,
+        "E10": 191.9,
         "U98": 222.9,
-        "Premium Diesel": 233.9,
+        "Premium Diesel": 238.9,
         "U91": 193.9
       },
-      "updated": "2026-08-27T09:38:11Z",
+      "updated": "2026-08-27T12:15:13Z",
       "lat": -33.807511,
       "lng": 151.108604
     },
@@ -4418,9 +4418,10 @@
       "prices": {
         "Diesel": 239.5,
         "E10": 192.5,
+        "U98": 220.5,
         "U91": 194.5
       },
-      "updated": "2026-08-26T11:20:10Z",
+      "updated": "2026-08-27T12:06:13Z",
       "lat": -33.791687,
       "lng": 151.115981
     },
@@ -5071,13 +5072,13 @@
       "address": "183 The Horsley Drive, FAIRFIELD EAST NSW 2165",
       "state": "NSW",
       "prices": {
-        "Diesel": 250.8,
-        "U95": 219.8,
-        "U98": 229.8,
-        "Premium Diesel": 252.8,
-        "U91": 201.8
+        "Diesel": 243.8,
+        "U95": 210.8,
+        "U98": 220.8,
+        "Premium Diesel": 243.8,
+        "U91": 195.8
       },
-      "updated": "2026-08-25T22:55:19Z",
+      "updated": "2026-08-27T10:32:42Z",
       "lat": -33.87784,
       "lng": 150.966162
     },
@@ -5245,11 +5246,11 @@
       "address": "158-162 Gregory ST, South West Rocks NSW 2431",
       "state": "NSW",
       "prices": {
-        "Diesel": 252.9,
+        "Diesel": 258.9,
         "U98": 237.9,
         "U91": 215.9
       },
-      "updated": "2026-08-04T09:11:34Z",
+      "updated": "2026-08-27T11:07:01Z",
       "lat": -30.899724,
       "lng": 153.041295
     },
@@ -9648,13 +9649,13 @@
       "address": "79 Barrenjoey RD, Mona Vale NSW 2103",
       "state": "NSW",
       "prices": {
-        "E10": 201.5,
-        "U95": 216.5,
-        "U98": 225.5,
-        "Premium Diesel": 253.5,
-        "U91": 203.5
+        "E10": 199.5,
+        "U95": 214.5,
+        "U98": 223.5,
+        "Premium Diesel": 249.5,
+        "U91": 201.5
       },
-      "updated": "2026-08-27T07:57:08Z",
+      "updated": "2026-08-27T12:20:18Z",
       "lat": -33.674175,
       "lng": 151.310235
     },
@@ -11252,12 +11253,12 @@
       "address": "928-930 King Georges RD, Blakehurst NSW 2221",
       "state": "NSW",
       "prices": {
-        "E10": 191.5,
+        "E10": 186.5,
         "U98": 213.5,
-        "Premium Diesel": 239.9,
+        "Premium Diesel": 234.9,
         "U91": 193.5
       },
-      "updated": "2026-08-26T20:19:19Z",
+      "updated": "2026-08-27T11:05:53Z",
       "lat": -33.981085,
       "lng": 151.108476
     },
@@ -11285,13 +11286,13 @@
       "address": "42 Sharp ST, Cooma NSW 2630",
       "state": "NSW",
       "prices": {
-        "Diesel": 253.9,
-        "U95": 221.9,
-        "U98": 231.9,
-        "Premium Diesel": 253.9,
-        "U91": 209.9
+        "Diesel": 249.9,
+        "U95": 219.9,
+        "U98": 229.9,
+        "Premium Diesel": 249.9,
+        "U91": 207.9
       },
-      "updated": "2026-08-27T00:14:19Z",
+      "updated": "2026-08-27T12:28:27Z",
       "lat": -36.232923,
       "lng": 149.131103
     },
@@ -19962,11 +19963,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 239.9,
-        "E10": 197.5,
-        "U98": 219.9,
-        "U91": 198.5
+        "E10": 194.9,
+        "U98": 217.9,
+        "U91": 197.7
       },
-      "updated": "2026-08-24T22:13:18Z",
+      "updated": "2026-08-27T12:14:17Z",
       "lat": -33.913952,
       "lng": 151.085535
     },
@@ -25683,12 +25684,12 @@
       "address": "120 Rocky Point RD, Kogarah NSW 2217",
       "state": "NSW",
       "prices": {
-        "E10": 190.8,
+        "E10": 191.9,
         "U95": 208.5,
         "U98": 216.9,
         "Premium Diesel": 239.4
       },
-      "updated": "2026-08-27T07:28:20Z",
+      "updated": "2026-08-27T11:52:03Z",
       "lat": -33.976923,
       "lng": 151.13682
     },
@@ -28218,11 +28219,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 237.5,
-        "E10": 192.5,
-        "U98": 214.5,
-        "U91": 194.5
+        "E10": 190.5,
+        "U98": 212.5,
+        "U91": 192.5
       },
-      "updated": "2026-08-24T21:59:21Z",
+      "updated": "2026-08-27T10:57:38Z",
       "lat": -28.932032,
       "lng": 151.926083
     },
@@ -33003,12 +33004,12 @@
       "address": "278 Sandgate RD, Shortland NSW 2307",
       "state": "NSW",
       "prices": {
-        "E10": 184.9,
+        "E10": 189.9,
         "U95": 203.9,
         "Premium Diesel": 239.9,
         "U91": 191.9
       },
-      "updated": "2026-08-27T09:02:07Z",
+      "updated": "2026-08-27T12:00:30Z",
       "lat": -32.887467,
       "lng": 151.695193
     },

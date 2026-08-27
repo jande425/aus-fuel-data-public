@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-08-27T00:23:39Z",
+  "fetched_at": "2026-08-27T03:26:20Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1268,
+  "station_count": 1271,
   "by_state": {
     "ACT": 7,
-    "NSW": 1153,
+    "NSW": 1157,
     "NT": 28,
     "QLD": 31,
-    "SA": 31,
+    "SA": 30,
     "TAS": 2,
     "VIC": 16
   },
@@ -19,31 +19,32 @@
     "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 70,
-    "7-Eleven": 65,
+    "7-Eleven": 66,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
     "Ampol": 18,
     "Caltex": 13,
-    "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
+    "Shell": 9,
     "Evie Networks": 8,
     "Metro Fuel": 8,
+    "Liberty": 7,
     "Mobil": 7,
-    "Liberty": 6,
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
+    "Ampol Foodary": 2,
     "Budget": 2,
     "Astron": 2,
     "Indervon": 2,
     "Westside": 1,
+    "EG Ampol": 1,
     "Transwest Fuels": 1,
     "Ampol Breeze": 1,
-    "Ampol Foodary": 1,
     "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
@@ -52,8 +53,8 @@
     "Solo": 1,
     "PRIME ROUTE": 1,
     "Metro Petroleum": 1,
-    "Apco": 1,
     "Endeavour Energy Fuels": 1,
+    "Apco": 1,
     "ETA PETROLEUM": 1
   },
   "stations": [
@@ -605,6 +606,15 @@
       "state": "NSW",
       "lat": -33.961504,
       "lng": 151.079228
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:272",
+      "name": "7-Eleven Quakers Hill",
+      "address": "83 Lalor Road & Quakers Hill Parkway, Quakers Hill NSW 2763",
+      "state": "NSW",
+      "lat": -33.727446,
+      "lng": 150.89666
     },
     {
       "brand": "7-Eleven",
@@ -2225,6 +2235,15 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:17586",
+      "name": "Ampol Foodary Lismore Airport",
+      "address": "237 Union ST, South Lismore NSW 2480",
+      "state": "NSW",
+      "lat": -28.820522,
+      "lng": 153.2648
     },
     {
       "brand": "Ampol",
@@ -4279,6 +4298,15 @@
       "lng": 150.650238
     },
     {
+      "brand": "EG Ampol",
+      "code": "NSW:620",
+      "name": "EG Ampol Tuggerah",
+      "address": "24-26 Gavenlock Road, Tuggerah NSW 2259",
+      "state": "NSW",
+      "lat": -33.309213,
+      "lng": 151.414834
+    },
+    {
       "brand": "EVUp",
       "code": "NSW:19218",
       "name": "EVUp at Train St Central",
@@ -6086,6 +6114,15 @@
       "state": "NSW",
       "lat": -32.771246,
       "lng": 151.302899
+    },
+    {
+      "brand": "Liberty",
+      "code": "NSW:20928",
+      "name": "Liberty Lansvale West",
+      "address": "240 Hume HWY, Lansvale NSW 2166",
+      "state": "NSW",
+      "lat": -33.898027,
+      "lng": 150.952694
     },
     {
       "brand": "Exploren",
@@ -10924,11 +10961,11 @@
     {
       "brand": "Independent",
       "code": "QLD:61477950",
-      "name": "Mapoon Aboriginal Shire Council Store",
-      "address": "1 Red Beach Road, QLD 4874",
+      "name": "Mapoon Aboriginal Shire Council",
+      "address": "8 Main St, QLD 4874",
       "state": "QLD",
-      "lat": -12.021274,
-      "lng": 141.903576
+      "lat": -12.02101367330962,
+      "lng": 141.9041050423622
     },
     {
       "brand": "Mobil",
@@ -11358,18 +11395,6 @@
         "Diesel",
         "U91",
         "U98"
-      ]
-    },
-    {
-      "brand": "Shell",
-      "code": "SA:61577288",
-      "name": "Renmark OPT",
-      "address": "364 Renmark Avenue, SA 5341",
-      "state": "SA",
-      "lat": -34.185411,
-      "lng": 140.732525,
-      "unavailable_fuels": [
-        "Diesel"
       ]
     },
     {

@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-08-27T00:23:39Z",
+  "fetched_at": "2026-08-27T03:26:20Z",
   "station_count": 64,
   "fuel_types": [
     "E10",
@@ -120,13 +120,13 @@
       "address": "1 Hardwick Crescent, Holt ACT 2615",
       "state": "ACT",
       "prices": {
-        "E10": 209.9,
-        "U95": 228.9,
-        "U98": 238.9,
+        "E10": 204.9,
+        "U95": 223.9,
+        "U98": 233.9,
         "Premium Diesel": 264.9,
-        "U91": 211.9
+        "U91": 206.9
       },
-      "updated": "2026-08-26T05:12:25Z",
+      "updated": "2026-08-27T03:12:26Z",
       "lat": -35.2242,
       "lng": 149.021
     },
@@ -187,10 +187,10 @@
       "prices": {
         "U95": 224.9,
         "U98": 234.9,
-        "Premium Diesel": 257.9,
+        "Premium Diesel": 250.9,
         "U91": 207.9
       },
-      "updated": "2026-08-26T21:12:26Z",
+      "updated": "2026-08-27T03:07:25Z",
       "lat": -35.309323,
       "lng": 149.188209
     },
@@ -314,12 +314,12 @@
       "address": "CNR BowCNR Bowen St and Redfern Sten St and Redfern St Macquarie ACT 2614",
       "state": "ACT",
       "prices": {
-        "E10": 201.9,
-        "U95": 220.9,
-        "U98": 229.9,
-        "Premium Diesel": 264.9
+        "E10": 203.9,
+        "U95": 222.9,
+        "U98": 231.9,
+        "Premium Diesel": 263.9
       },
-      "updated": "2026-08-26T01:41:34Z",
+      "updated": "2026-08-27T03:10:41Z",
       "lat": -35.252979,
       "lng": 149.073175
     },

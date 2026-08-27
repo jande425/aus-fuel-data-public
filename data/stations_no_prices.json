@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-08-27T03:26:20Z",
+  "fetched_at": "2026-08-27T10:31:12Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1273,
   "by_state": {
     "ACT": 7,
-    "NSW": 1157,
+    "NSW": 1155,
     "NT": 28,
-    "QLD": 31,
+    "QLD": 33,
     "SA": 30,
     "TAS": 2,
-    "VIC": 16
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
@@ -18,16 +18,16 @@
     "Independent EV": 99,
     "Reddy Express": 80,
     "Chargefox": 72,
-    "Independent": 70,
-    "7-Eleven": 66,
+    "7-Eleven": 70,
+    "Independent": 69,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
     "Ampol": 18,
     "Caltex": 13,
+    "United": 10,
     "Puma Energy": 10,
-    "United": 9,
     "EVUp": 9,
     "Shell": 9,
     "Evie Networks": 8,
@@ -37,14 +37,13 @@
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
-    "Ampol Foodary": 2,
     "Budget": 2,
     "Astron": 2,
     "Indervon": 2,
     "Westside": 1,
-    "EG Ampol": 1,
     "Transwest Fuels": 1,
     "Ampol Breeze": 1,
+    "Ampol Foodary": 1,
     "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
@@ -53,9 +52,9 @@
     "Solo": 1,
     "PRIME ROUTE": 1,
     "Metro Petroleum": 1,
-    "Endeavour Energy Fuels": 1,
+    "ETA PETROLEUM": 1,
     "Apco": 1,
-    "ETA PETROLEUM": 1
+    "Endeavour Energy Fuels": 1
   },
   "stations": [
     {
@@ -2237,15 +2236,6 @@
       "lng": 153.06953
     },
     {
-      "brand": "Ampol Foodary",
-      "code": "NSW:17586",
-      "name": "Ampol Foodary Lismore Airport",
-      "address": "237 Union ST, South Lismore NSW 2480",
-      "state": "NSW",
-      "lat": -28.820522,
-      "lng": 153.2648
-    },
-    {
       "brand": "Ampol",
       "code": "NSW:20051",
       "name": "Ampol Guyra",
@@ -4296,15 +4286,6 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "NSW:620",
-      "name": "EG Ampol Tuggerah",
-      "address": "24-26 Gavenlock Road, Tuggerah NSW 2259",
-      "state": "NSW",
-      "lat": -33.309213,
-      "lng": 151.414834
     },
     {
       "brand": "EVUp",
@@ -10788,6 +10769,54 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "QLD:61402373",
+      "name": "7-Eleven Beenleigh City Road",
+      "address": "10 City Rd & Logan Rd, QLD 4207",
+      "state": "QLD",
+      "lat": -27.707892,
+      "lng": 153.203668,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61477928",
+      "name": "7-Eleven Caboolture East",
+      "address": "103-107 Lower King Street, QLD 4510",
+      "state": "QLD",
+      "lat": -27.086517,
+      "lng": 152.965723,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61401399",
+      "name": "7-Eleven Mt Gravatt East",
+      "address": "Cavendish Road, QLD 4122",
+      "state": "QLD",
+      "lat": -27.531577,
+      "lng": 153.093146,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "QLD:61402130",
       "name": "7-Eleven Robina",
       "address": "Robina Town Centre Dr, QLD 4226",
@@ -10957,15 +10986,6 @@
       "state": "QLD",
       "lat": -26.086213,
       "lng": 152.240816
-    },
-    {
-      "brand": "Independent",
-      "code": "QLD:61477950",
-      "name": "Mapoon Aboriginal Shire Council",
-      "address": "8 Main St, QLD 4874",
-      "state": "QLD",
-      "lat": -12.02101367330962,
-      "lng": 141.9041050423622
     },
     {
       "brand": "Mobil",
@@ -11513,6 +11533,22 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:8PN5JQ6OgiyW9+sQrzxrPKMx9U3Y5IjsT16Z0tCY8Uc=",
+      "name": "7-Eleven Hoppers Crossing",
+      "address": "57-69 Forsyth Road, Hoppers Crossing, 3029",
+      "state": "VIC",
+      "lat": -37.86462140374018,
+      "lng": 144.7317930601808,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:hnYD2k+KMHFhfu2g4CH/mOlNhIBaam5Vn/WkeXtdsjA=",
       "name": "7-Eleven McKinnon",
       "address": "211 Tucker Road, McKinnon, 3204",
@@ -11722,6 +11758,20 @@
         "Diesel",
         "E10",
         "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "United",
+      "code": "VIC:Lzna97U4jjEpHTJAvor0QgljjJLCNyWO9R+JeivdQ60=",
+      "name": "United Epping",
+      "address": "1 Buch Ave, EPPING, 3076",
+      "state": "VIC",
+      "lat": -37.65996484,
+      "lng": 145.02454094,
+      "unavailable_fuels": [
+        "Diesel",
         "U91",
         "U98"
       ]

@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-08-28T01:02:45Z",
+  "fetched_at": "2026-08-28T05:49:24Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1267,
   "by_state": {
     "ACT": 7,
     "NSW": 1156,
     "NT": 28,
-    "QLD": 31,
+    "QLD": 29,
     "SA": 30,
-    "TAS": 2,
-    "VIC": 17
+    "TAS": 1,
+    "VIC": 16
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,29 +19,29 @@
     "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 69,
-    "7-Eleven": 66,
+    "7-Eleven": 65,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 19,
-    "Caltex": 13,
+    "Ampol": 18,
+    "Caltex": 12,
     "United": 10,
     "Puma Energy": 10,
+    "Metro Fuel": 9,
     "EVUp": 9,
     "Shell": 9,
     "Evie Networks": 8,
-    "Metro Fuel": 8,
     "Liberty": 7,
     "Mobil": 7,
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
     "Budget": 2,
-    "Astron": 2,
     "Indervon": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
+    "Astron": 1,
     "Ampol Breeze": 1,
     "Ampol Foodary": 1,
     "Arko Energy": 1,
@@ -51,9 +51,8 @@
     "Perrys": 1,
     "Solo": 1,
     "PRIME ROUTE": 1,
-    "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
     "Apco": 1,
+    "ETA PETROLEUM": 1,
     "Endeavour Energy Fuels": 1
   },
   "stations": [
@@ -506,15 +505,6 @@
       "state": "NSW",
       "lat": -33.951306,
       "lng": 151.24905
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:17120",
-      "name": "7-Eleven McGraths Hill",
-      "address": "142 Windsor RD, Mcgraths Hill NSW 2756",
-      "state": "NSW",
-      "lat": -33.616849,
-      "lng": 150.834184
     },
     {
       "brand": "7-Eleven",
@@ -6593,6 +6583,15 @@
     },
     {
       "brand": "Metro Fuel",
+      "code": "NSW:18425",
+      "name": "Metro Petroleum Saratoga",
+      "address": "13-15 Village RD, Saratoga NSW 2251",
+      "state": "NSW",
+      "lat": -33.475356,
+      "lng": 151.353215
+    },
+    {
+      "brand": "Metro Fuel",
       "code": "NSW:20078",
       "name": "Metro Weston",
       "address": "191 Cessnock RD, Weston NSW 2326",
@@ -10794,22 +10793,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61402323",
-      "name": "Ampol Foodary Warwick Truck N Travel",
-      "address": "13015 Cunningham Highway, QLD 4370",
-      "state": "QLD",
-      "lat": -28.184339,
-      "lng": 152.053619,
-      "unavailable_fuels": [
-        "Diesel",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -10856,21 +10839,6 @@
       "state": "QLD",
       "lat": -28.697669,
       "lng": 151.906026
-    },
-    {
-      "brand": "Caltex",
-      "code": "QLD:61401787",
-      "name": "Caltex Caloundra",
-      "address": "30 Bowman Rd, QLD 4551",
-      "state": "QLD",
-      "lat": -26.80388382253629,
-      "lng": 153.1206197451678,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "Caltex",
@@ -11469,15 +11437,6 @@
       "lng": 138.774531
     },
     {
-      "brand": "Astron",
-      "code": "TAS:20073",
-      "name": "Astron Beauty Point (Unmanned) Petrol Station",
-      "address": "Beauty Point Service Station 227 Flinders ST, Beauty Point TAS 7270",
-      "state": "TAS",
-      "lat": -41.14849912,
-      "lng": 146.81882738
-    },
-    {
       "brand": "Independent",
       "code": "TAS:20076",
       "name": "Tas Petroleum Poatina (24Hr Self-serve)",
@@ -11495,10 +11454,10 @@
       "lat": -38.01158286,
       "lng": 145.27284386,
       "unavailable_fuels": [
-        "E10",
         "LPG",
         "Premium Diesel",
         "U91",
+        "U95",
         "U98"
       ]
     },
@@ -11598,22 +11557,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Metro Petroleum",
-      "code": "VIC:HdbxOO4HeLKYUbGiGneWgF0pUUo0mGk8uxqh6IyrPiE=",
-      "name": "Metro Petroleum Maryborough (Unmanned site)",
-      "address": "55 Nolan Street, MARYBOROUGH, 3465",
-      "state": "VIC",
-      "lat": -37.04863231,
-      "lng": 143.73900343,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
       ]
     },
     {

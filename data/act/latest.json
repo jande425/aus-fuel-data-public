@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-08-28T01:02:45Z",
+  "fetched_at": "2026-08-28T05:49:24Z",
   "station_count": 64,
   "fuel_types": [
     "E10",
@@ -867,13 +867,13 @@
       "address": "Garage 116 Lysaght ST, Mitchell ACT 2911",
       "state": "ACT",
       "prices": {
-        "Diesel": 255.9,
+        "Diesel": 254.9,
         "LPG": 124.9,
         "U98": 229.9,
-        "Premium Diesel": 257.9,
-        "U91": 206.9
+        "Premium Diesel": 256.9,
+        "U91": 205.9
       },
-      "updated": "2026-08-22T01:09:45Z",
+      "updated": "2026-08-28T05:38:11Z",
       "lat": -35.215024,
       "lng": 149.139903
     },

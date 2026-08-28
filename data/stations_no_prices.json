@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-08-27T23:46:11Z",
+  "fetched_at": "2026-08-28T01:02:45Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1269,
+  "station_count": 1271,
   "by_state": {
     "ACT": 7,
-    "NSW": 1155,
+    "NSW": 1156,
     "NT": 28,
-    "QLD": 30,
+    "QLD": 31,
     "SA": 30,
     "TAS": 2,
     "VIC": 17
@@ -19,12 +19,12 @@
     "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 69,
-    "7-Eleven": 65,
+    "7-Eleven": 66,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 18,
+    "Ampol": 19,
     "Caltex": 13,
     "United": 10,
     "Puma Energy": 10,
@@ -52,8 +52,8 @@
     "Solo": 1,
     "PRIME ROUTE": 1,
     "Metro Petroleum": 1,
-    "Apco": 1,
     "ETA PETROLEUM": 1,
+    "Apco": 1,
     "Endeavour Energy Fuels": 1
   },
   "stations": [
@@ -506,6 +506,15 @@
       "state": "NSW",
       "lat": -33.951306,
       "lng": 151.24905
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:17120",
+      "name": "7-Eleven McGraths Hill",
+      "address": "142 Windsor RD, Mcgraths Hill NSW 2756",
+      "state": "NSW",
+      "lat": -33.616849,
+      "lng": 150.834184
     },
     {
       "brand": "7-Eleven",
@@ -10780,6 +10789,22 @@
         "LPG",
         "Premium Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "QLD:61402323",
+      "name": "Ampol Foodary Warwick Truck N Travel",
+      "address": "13015 Cunningham Highway, QLD 4370",
+      "state": "QLD",
+      "lat": -28.184339,
+      "lng": 152.053619,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-28T05:49:24Z",
+  "fetched_at": "2026-08-28T13:09:47Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1267,
   "by_state": {
@@ -19,12 +19,12 @@
     "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 69,
-    "7-Eleven": 65,
+    "7-Eleven": 63,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 18,
+    "Ampol": 19,
     "Caltex": 12,
     "United": 10,
     "Puma Energy": 10,
@@ -37,13 +37,13 @@
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
+    "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Ampol Breeze": 1,
-    "Ampol Foodary": 1,
     "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
@@ -51,9 +51,9 @@
     "Perrys": 1,
     "Solo": 1,
     "PRIME ROUTE": 1,
+    "Endeavour Energy Fuels": 1,
     "Apco": 1,
-    "ETA PETROLEUM": 1,
-    "Endeavour Energy Fuels": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -604,15 +604,6 @@
       "state": "NSW",
       "lat": -33.961504,
       "lng": 151.079228
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:272",
-      "name": "7-Eleven Quakers Hill",
-      "address": "83 Lalor Road & Quakers Hill Parkway, Quakers Hill NSW 2763",
-      "state": "NSW",
-      "lat": -33.727446,
-      "lng": 150.89666
     },
     {
       "brand": "7-Eleven",
@@ -2233,6 +2224,15 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:860",
+      "name": "Ampol Foodary Padstow",
+      "address": "115 Fairford Rd, Padstow NSW 2211",
+      "state": "NSW",
+      "lat": -33.943457,
+      "lng": 151.034567
     },
     {
       "brand": "Ampol",
@@ -11447,22 +11447,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "VIC:5yW7QR3Nsvy4DPuHIe8MVV23cKLy3gnZP8Qw1eZ36E0=",
-      "name": "7-Eleven Hallam South",
-      "address": "38-40 Hallam south Road, Hallam, 3803",
-      "state": "VIC",
-      "lat": -38.01158286,
-      "lng": 145.27284386,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "VIC:hnYD2k+KMHFhfu2g4CH/mOlNhIBaam5Vn/WkeXtdsjA=",
       "name": "7-Eleven McKinnon",
       "address": "211 Tucker Road, McKinnon, 3204",
@@ -11472,6 +11456,21 @@
       "unavailable_fuels": [
         "Premium Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "VIC:7AYtQoKn7TkBgt45+oRNNYcFymgEu4kqcX/pbyAwC4w=",
+      "name": "AMPOL FOODARY MANOR LAKES - Temporarily closed",
+      "address": "1/539 Ballan Road, Manor Lakes, 3024",
+      "state": "VIC",
+      "lat": -37.87109958,
+      "lng": 144.61109196,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

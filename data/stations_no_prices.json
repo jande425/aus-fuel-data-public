@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-08-29T01:54:44Z",
+  "fetched_at": "2026-08-29T08:05:49Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1268,
+  "station_count": 1267,
   "by_state": {
     "ACT": 7,
-    "NSW": 1156,
+    "NSW": 1155,
     "NT": 28,
     "QLD": 30,
     "SA": 30,
@@ -19,7 +19,7 @@
     "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 69,
-    "7-Eleven": 63,
+    "7-Eleven": 64,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -37,24 +37,23 @@
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
-    "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Ampol Breeze": 1,
+    "Ampol Foodary": 1,
     "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
-    "EG Ampol": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Solo": 1,
     "PRIME ROUTE": 1,
     "Endeavour Energy Fuels": 1,
-    "Apco": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -2225,15 +2224,6 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:860",
-      "name": "Ampol Foodary Padstow",
-      "address": "115 Fairford Rd, Padstow NSW 2211",
-      "state": "NSW",
-      "lat": -33.943457,
-      "lng": 151.034567
     },
     {
       "brand": "Ampol",
@@ -10794,6 +10784,21 @@
     },
     {
       "brand": "Ampol",
+      "code": "QLD:61402407",
+      "name": "Ampol Foodary Lytton (Port Of Brisbane)",
+      "address": "2 Kite St, QLD 4178",
+      "state": "QLD",
+      "lat": -27.404975,
+      "lng": 153.164142,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "Premium Diesel",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -10876,21 +10881,6 @@
       "state": "QLD",
       "lat": -17.146921,
       "lng": 145.105828
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "QLD:61402742",
-      "name": "EG Ampol Mackay",
-      "address": "3 Mangrove Rd, QLD 4740",
-      "state": "QLD",
-      "lat": -21.138926,
-      "lng": 149.180263,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "Enhance",
@@ -11476,13 +11466,13 @@
       ]
     },
     {
-      "brand": "Ampol",
-      "code": "VIC:7AYtQoKn7TkBgt45+oRNNYcFymgEu4kqcX/pbyAwC4w=",
-      "name": "AMPOL FOODARY MANOR LAKES - Temporarily closed",
-      "address": "1/539 Ballan Road, Manor Lakes, 3024",
+      "brand": "7-Eleven",
+      "code": "VIC:BM+aME+oAYpdtc4YR924Q8oBCmOwlRyz6ffgSsWygs4=",
+      "name": "7-Eleven Wangaratta",
+      "address": "22-28 Ryley Street, WANGARATTA, 3677",
       "state": "VIC",
-      "lat": -37.87109958,
-      "lng": 144.61109196,
+      "lat": -36.35893953,
+      "lng": 146.31888539,
       "unavailable_fuels": [
         "Premium Diesel",
         "U91",
@@ -11504,6 +11494,20 @@
         "LPG",
         "U91",
         "U95"
+      ]
+    },
+    {
+      "brand": "United",
+      "code": "VIC:Lzna97U4jjEpHTJAvor0QgljjJLCNyWO9R+JeivdQ60=",
+      "name": "Astron Epping",
+      "address": "1 Buch Ave, EPPING, 3076",
+      "state": "VIC",
+      "lat": -37.65996484,
+      "lng": 145.02454094,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
       ]
     },
     {
@@ -11671,20 +11675,6 @@
         "Diesel",
         "E10",
         "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "United",
-      "code": "VIC:Lzna97U4jjEpHTJAvor0QgljjJLCNyWO9R+JeivdQ60=",
-      "name": "United Epping",
-      "address": "1 Buch Ave, EPPING, 3076",
-      "state": "VIC",
-      "lat": -37.65996484,
-      "lng": 145.02454094,
-      "unavailable_fuels": [
-        "Diesel",
         "U91",
         "U98"
       ]

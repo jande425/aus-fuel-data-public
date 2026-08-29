@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-08-29T19:43:25Z",
+  "fetched_at": "2026-08-29T21:14:00Z",
   "station_count": 296,
   "fuel_types": [
     "E10",
@@ -43,9 +43,9 @@
         "Diesel": 238.9,
         "E10": 192.9,
         "U95": 221.9,
-        "U98": 229.9,
         "Premium Diesel": 264.9,
-        "U91": 204.9
+        "U91": 204.9,
+        "U98": 229.9
       },
       "updated": "2026-08-29T02:15:19Z",
       "lat": -42.8700379,
@@ -225,13 +225,13 @@
       "address": "36 North Terrace, Burnie TAS 7320",
       "state": "TAS",
       "prices": {
-        "E10": 199.9,
+        "E10": 198.9,
         "U98": 236.9,
         "Premium Diesel": 259.9,
         "U91": 211.9,
         "U95": 228.9
       },
-      "updated": "2026-08-29T07:02:38Z",
+      "updated": "2026-08-29T20:55:33Z",
       "lat": -41.0478,
       "lng": 145.901
     },
@@ -1843,13 +1843,13 @@
       "address": "98 Main Street, Penguin TAS 7315",
       "state": "TAS",
       "prices": {
-        "E10": 203.9,
+        "E10": 202.9,
         "U98": 232.9,
         "Premium Diesel": 258.9,
         "U91": 210.9,
         "U95": 223.9
       },
-      "updated": "2026-08-28T20:24:14Z",
+      "updated": "2026-08-29T21:12:12Z",
       "lat": -41.115095,
       "lng": 146.07483
     },
@@ -1908,13 +1908,13 @@
       "address": "118 William Street, Devonport TAS 7310",
       "state": "TAS",
       "prices": {
-        "E10": 205.9,
+        "E10": 206.9,
         "U91": 209.9,
         "U95": 222.9,
         "U98": 231.9,
         "Premium Diesel": 257.9
       },
-      "updated": "2026-08-29T04:45:14Z",
+      "updated": "2026-08-29T20:30:32Z",
       "lat": -41.1791219,
       "lng": 146.3508217
     },
@@ -2417,7 +2417,7 @@
       "address": "Cnr Montagu & Burnett Streets, New Norfolk TAS 7140",
       "state": "TAS",
       "prices": {
-        "E10": 202.9,
+        "E10": 204.9,
         "U98": 239.9,
         "Premium Diesel": 269.9,
         "U91": 215.9,
@@ -2425,7 +2425,7 @@
         "EV": 50,
         "U95": 229.9
       },
-      "updated": "2026-08-29T13:15:21Z",
+      "updated": "2026-08-29T20:30:32Z",
       "lat": -42.779245,
       "lng": 147.06143
     },
@@ -2760,7 +2760,7 @@
         "Diesel": 250.9,
         "U95": 215.9
       },
-      "updated": "2026-08-28T20:24:14Z",
+      "updated": "2026-08-29T20:48:14Z",
       "lat": -42.84477,
       "lng": 147.29325
     },
@@ -2914,13 +2914,13 @@
       "address": "45 Meander Valley Road, Carrick TAS 7291",
       "state": "TAS",
       "prices": {
-        "E10": 198.9,
+        "E10": 197.9,
         "U98": 233.9,
         "Premium Diesel": 249.9,
         "U91": 211.9,
         "Diesel": 256.9
       },
-      "updated": "2026-08-28T20:18:13Z",
+      "updated": "2026-08-29T21:06:12Z",
       "lat": -41.5317578,
       "lng": 147.0090264
     },
@@ -3240,14 +3240,14 @@
       "address": "172 Sheffield RD, Spreyton TAS 7310",
       "state": "TAS",
       "prices": {
-        "E10": 205.9,
-        "U98": 233.9,
+        "E10": 204.9,
+        "U98": 232.9,
         "Premium Diesel": 259.9,
         "U91": 207.9,
         "Diesel": 251.9,
         "U95": 220.9
       },
-      "updated": "2026-08-29T05:06:51Z",
+      "updated": "2026-08-29T20:37:14Z",
       "lat": -41.23706767,
       "lng": 146.34404944
     },
@@ -4367,11 +4367,11 @@
       "address": "96a Reeve ST, Campania TAS 7026",
       "state": "TAS",
       "prices": {
-        "Diesel": 251.9,
+        "Diesel": 248.9,
         "U98": 233.9,
-        "U91": 208.9
+        "U91": 205.9
       },
-      "updated": "2026-08-25T22:43:28Z",
+      "updated": "2026-08-29T20:55:08Z",
       "lat": -42.66172005,
       "lng": 147.42352372
     },
@@ -4909,13 +4909,13 @@
       "address": "Southport Tavern 8777 Huon HWY, Southport TAS 7109",
       "state": "TAS",
       "prices": {
-        "E10": 199.9,
+        "E10": 197.9,
         "U98": 223.9,
-        "Premium Diesel": 246.9,
+        "Premium Diesel": 245.9,
         "U91": 228,
         "Diesel": 262
       },
-      "updated": "2026-08-27T19:44:56Z",
+      "updated": "2026-08-29T21:02:02Z",
       "lat": -43.4246493,
       "lng": 146.97447736
     },
@@ -4945,12 +4945,12 @@
       "address": "9 Commerce DR, Howrah TAS 7018",
       "state": "TAS",
       "prices": {
-        "Diesel": 240.7,
-        "U95": 207.7,
-        "U98": 217.7,
-        "U91": 194.7
+        "Diesel": 242.7,
+        "U95": 211.7,
+        "U98": 220.7,
+        "U91": 197.7
       },
-      "updated": "2026-08-28T22:35:44Z",
+      "updated": "2026-08-29T21:06:24Z",
       "lat": -42.88800579,
       "lng": 147.42619415
     },

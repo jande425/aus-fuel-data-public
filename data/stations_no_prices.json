@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-08-29T21:54:25Z",
+  "fetched_at": "2026-08-29T22:38:46Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1266,
+  "station_count": 1268,
   "by_state": {
     "ACT": 7,
     "NSW": 1155,
     "NT": 28,
-    "QLD": 29,
+    "QLD": 31,
     "SA": 30,
     "TAS": 1,
     "VIC": 16
@@ -26,7 +26,7 @@
     "JOLT": 20,
     "Ampol": 18,
     "Caltex": 12,
-    "United": 10,
+    "United": 11,
     "Puma Energy": 10,
     "Metro Fuel": 9,
     "EVUp": 9,
@@ -47,13 +47,14 @@
     "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
+    "EG Ampol": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Solo": 1,
     "PRIME ROUTE": 1,
-    "Apco": 1,
     "Endeavour Energy Fuels": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -10868,6 +10869,21 @@
       "lng": 145.105828
     },
     {
+      "brand": "EG Ampol",
+      "code": "QLD:61402321",
+      "name": "EG Ampol Kingaroy",
+      "address": "91-93 Youngman St, QLD 4610",
+      "state": "QLD",
+      "lat": -26.541421,
+      "lng": 151.835801,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95"
+      ]
+    },
+    {
       "brand": "Enhance",
       "code": "QLD:61401707",
       "name": "Enhance Service Station & Tyre Plus Mechanic",
@@ -11043,6 +11059,23 @@
         "E10",
         "LPG",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "United",
+      "code": "QLD:61402340",
+      "name": "United Ingham",
+      "address": "1 Herbert St, QLD 4850",
+      "state": "QLD",
+      "lat": -18.650099,
+      "lng": 146.156341,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-08-30T09:28:30Z",
+  "fetched_at": "2026-08-30T13:07:17Z",
   "station_count": 296,
   "fuel_types": [
     "E10",
@@ -4418,13 +4418,14 @@
       "address": "Bp Wyndham RD 34 Wyndham RD, Claremont TAS 7011",
       "state": "TAS",
       "prices": {
+        "Diesel": 246.5,
         "E10": 192.9,
         "U98": 215.9,
+        "Premium Diesel": 261.9,
         "U91": 208.9,
-        "U95": 226.9,
-        "Premium Diesel": 261.9
+        "U95": 226.9
       },
-      "updated": "2026-08-28T06:02:31Z",
+      "updated": "2026-08-30T11:11:47Z",
       "lat": -42.7896726,
       "lng": 147.2465915
     },

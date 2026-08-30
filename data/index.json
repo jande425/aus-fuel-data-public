@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-30T01:13:43Z",
-  "total_stations": 7864,
+  "last_updated": "2026-08-30T03:13:58Z",
+  "total_stations": 7863,
   "total_states": 8,
   "fuel_types": [
     "B20",
@@ -22,56 +22,56 @@
       "station_count": 64,
       "price_count": 272,
       "file": "act/latest.json",
-      "checksum": "b56a1d27",
+      "checksum": "ff29c930",
       "size_bytes": 26092
     },
     "NSW": {
-      "station_count": 2090,
-      "price_count": 8413,
+      "station_count": 2089,
+      "price_count": 8406,
       "file": "nsw/latest.json",
-      "checksum": "8cbf4f58",
-      "size_bytes": 831929
+      "checksum": "a2a63418",
+      "size_bytes": 831461
     },
     "NT": {
       "station_count": 211,
       "price_count": 576,
       "file": "nt/latest.json",
-      "checksum": "592b43be",
+      "checksum": "5191dd56",
       "size_bytes": 79960
     },
     "QLD": {
       "station_count": 1775,
-      "price_count": 6891,
+      "price_count": 6890,
       "file": "qld/latest.json",
-      "checksum": "c9b48946",
-      "size_bytes": 700282
+      "checksum": "06aa0dc8",
+      "size_bytes": 700312
     },
     "SA": {
       "station_count": 694,
       "price_count": 2461,
       "file": "sa/latest.json",
-      "checksum": "7d262335",
+      "checksum": "7303583b",
       "size_bytes": 268687
     },
     "TAS": {
       "station_count": 296,
-      "price_count": 1436,
+      "price_count": 1437,
       "file": "tas/latest.json",
-      "checksum": "7ba8e57a",
-      "size_bytes": 124763
+      "checksum": "22773785",
+      "size_bytes": 124796
     },
     "VIC": {
       "station_count": 1739,
       "price_count": 7152,
       "file": "vic/latest.json",
-      "checksum": "061f10a6",
-      "size_bytes": 781234
+      "checksum": "1a5c8cbc",
+      "size_bytes": 781233
     },
     "WA": {
       "station_count": 995,
       "price_count": 3372,
       "file": "wa/latest.json",
-      "checksum": "c0d794cc",
+      "checksum": "88b2685d",
       "size_bytes": 509814
     }
   },

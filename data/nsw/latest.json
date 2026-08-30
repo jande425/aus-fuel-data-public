@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-08-30T18:22:35Z",
+  "fetched_at": "2026-08-30T19:48:58Z",
   "station_count": 2089,
   "fuel_types": [
     "E10",
@@ -6774,12 +6774,12 @@
       "address": "54c Fairfield Road, GUILDFORD WEST NSW 2161",
       "state": "NSW",
       "prices": {
-        "Diesel": 239.5,
+        "Diesel": 241.5,
         "E10": 193.5,
         "U98": 223.5,
         "U91": 195.5
       },
-      "updated": "2026-08-27T08:35:40Z",
+      "updated": "2026-08-30T19:03:51Z",
       "lat": -33.847211,
       "lng": 150.962334
     },
@@ -9381,13 +9381,13 @@
       "address": "2-4 Railway ST, East Corrimal NSW 2518",
       "state": "NSW",
       "prices": {
-        "E10": 195.5,
+        "E10": 199.9,
         "E85": 229.9,
-        "U98": 218.9,
-        "Premium Diesel": 239.9,
-        "U91": 197.5
+        "U98": 223.9,
+        "Premium Diesel": 243.9,
+        "U91": 201.9
       },
-      "updated": "2026-08-22T20:05:51Z",
+      "updated": "2026-08-30T19:02:23Z",
       "lat": -34.374397,
       "lng": 150.90882
     },
@@ -13742,9 +13742,9 @@
         "U95": 225.9,
         "U98": 232.9,
         "Premium Diesel": 257.9,
-        "U91": 206.9
+        "U91": 207.9
       },
-      "updated": "2026-08-30T17:21:12Z",
+      "updated": "2026-08-30T19:48:14Z",
       "lat": -33.727446,
       "lng": 150.89666
     },
@@ -18236,12 +18236,12 @@
       "address": "490 Cowpasture Road, Hoxton Park NSW 2171",
       "state": "NSW",
       "prices": {
-        "E10": 202.9,
-        "U95": 221.9,
-        "U98": 231.9,
+        "E10": 204.9,
+        "U95": 223.9,
+        "U98": 233.9,
         "Premium Diesel": 255.9
       },
-      "updated": "2026-08-28T22:54:14Z",
+      "updated": "2026-08-30T19:09:19Z",
       "lat": -33.915883,
       "lng": 150.854738
     },
@@ -31745,10 +31745,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 253.5,
+        "U95": 214.5,
         "U98": 223.5,
         "U91": 201.5
       },
-      "updated": "2026-08-25T19:01:17Z",
+      "updated": "2026-08-30T19:04:21Z",
       "lat": -34.476053,
       "lng": 150.418955
     },
@@ -32399,12 +32400,12 @@
       "address": "2179 Pacific HWY, Heatherbrae NSW 2324",
       "state": "NSW",
       "prices": {
-        "E10": 187.5,
-        "U98": 211.5,
-        "Premium Diesel": 238.9,
-        "U91": 189.5
+        "E10": 192.5,
+        "U98": 216.5,
+        "Premium Diesel": 243.9,
+        "U91": 194.5
       },
-      "updated": "2026-08-30T10:14:31Z",
+      "updated": "2026-08-30T18:55:45Z",
       "lat": -32.795438,
       "lng": 151.720657
     },

@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-08-30T07:04:11Z",
+  "fetched_at": "2026-08-30T08:16:36Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1270,
+  "station_count": 1269,
   "by_state": {
     "ACT": 7,
     "NSW": 1156,
@@ -9,7 +9,7 @@
     "QLD": 30,
     "SA": 30,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 69,
-    "7-Eleven": 66,
+    "7-Eleven": 65,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -52,9 +52,9 @@
     "Perrys": 1,
     "Solo": 1,
     "PRIME ROUTE": 1,
+    "Endeavour Energy Fuels": 1,
     "Apco": 1,
-    "ETA PETROLEUM": 1,
-    "Endeavour Energy Fuels": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -11488,22 +11488,6 @@
       "unavailable_fuels": [
         "Premium Diesel",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:jS/Rn0wVNjez2y+pxjw71brMSREay30DEh/Jsb/MFlY=",
-      "name": "7-Eleven Rockbank",
-      "address": "1593 Western Highway, Truganina, 3029",
-      "state": "VIC",
-      "lat": -37.74668471746908,
-      "lng": 144.7030091409865,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

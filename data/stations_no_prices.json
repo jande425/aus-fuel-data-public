@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-08-30T22:42:43Z",
+  "fetched_at": "2026-08-30T23:52:06Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1269,
+  "station_count": 1275,
   "by_state": {
     "ACT": 7,
-    "NSW": 1156,
+    "NSW": 1160,
     "NT": 28,
-    "QLD": 30,
-    "SA": 30,
+    "QLD": 31,
+    "SA": 31,
     "TAS": 1,
     "VIC": 17
   },
@@ -19,21 +19,21 @@
     "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 69,
-    "7-Eleven": 65,
+    "7-Eleven": 66,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
+    "Ampol": 20,
     "JOLT": 20,
-    "Ampol": 19,
     "Caltex": 12,
     "United": 10,
+    "Metro Fuel": 10,
+    "Shell": 10,
     "Puma Energy": 10,
-    "Metro Fuel": 9,
     "EVUp": 9,
-    "Shell": 9,
     "Evie Networks": 8,
+    "Mobil": 8,
     "Liberty": 7,
-    "Mobil": 7,
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
@@ -47,13 +47,14 @@
     "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
+    "EG Ampol": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Solo": 1,
     "PRIME ROUTE": 1,
-    "ETA PETROLEUM": 1,
     "Apco": 1,
-    "Endeavour Energy Fuels": 1
+    "Endeavour Energy Fuels": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -667,6 +668,15 @@
       "state": "NSW",
       "lat": -33.27436,
       "lng": 151.429255
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:172",
+      "name": "7-Eleven Werrington",
+      "address": "Lot 122 Dunheved Road, Werrington NSW 2747",
+      "state": "NSW",
+      "lat": -33.747045,
+      "lng": 150.742768
     },
     {
       "brand": "7-Eleven",
@@ -2242,6 +2252,15 @@
       "state": "NSW",
       "lat": -30.205971,
       "lng": 151.675722
+    },
+    {
+      "brand": "Ampol",
+      "code": "NSW:1076",
+      "name": "Ampol Hay",
+      "address": "58 Lachlan Street, Hay NSW 2711",
+      "state": "NSW",
+      "lat": -34.512789,
+      "lng": 144.84267
     },
     {
       "brand": "Ampol",
@@ -6529,6 +6548,15 @@
     },
     {
       "brand": "Metro Fuel",
+      "code": "NSW:20929",
+      "name": "Metro Barham",
+      "address": "2-4 Moulamein RD, Barham NSW 2732",
+      "state": "NSW",
+      "lat": -35.623909,
+      "lng": 144.128963
+    },
+    {
+      "brand": "Metro Fuel",
       "code": "NSW:20080",
       "name": "Metro Berkeley",
       "address": "57 Winnima WAY, Berkeley NSW 2506",
@@ -8832,6 +8860,15 @@
       "lng": 147.533716
     },
     {
+      "brand": "Shell",
+      "code": "NSW:20930",
+      "name": "Shell Urbanista Smeaton Grange",
+      "address": "1 Dunn RD, Smeaton Grange NSW 2567",
+      "state": "NSW",
+      "lat": -34.032313,
+      "lng": 150.756161
+    },
+    {
       "brand": "Tesla",
       "code": "NSW:19422",
       "name": "Sheraton Grand Hyde Park",
@@ -10893,6 +10930,22 @@
       "lng": 145.105828
     },
     {
+      "brand": "EG Ampol",
+      "code": "QLD:61402086",
+      "name": "EG Ampol Slacks Creek",
+      "address": "124 Paradise Rd, QLD 4127",
+      "state": "QLD",
+      "lat": -27.640235,
+      "lng": 153.132913,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Enhance",
       "code": "QLD:61401707",
       "name": "Enhance Service Station & Tyre Plus Mechanic",
@@ -11133,6 +11186,20 @@
       "state": "SA",
       "lat": -29.005331,
       "lng": 134.755872,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95"
+      ]
+    },
+    {
+      "brand": "Mobil",
+      "code": "SA:61501922",
+      "name": "Cadney Homestead Roadhouse",
+      "address": "69 Stuart Highway, SA 5723",
+      "state": "SA",
+      "lat": -27.905191,
+      "lng": 134.056677,
       "unavailable_fuels": [
         "Diesel",
         "U91",

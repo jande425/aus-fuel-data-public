@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-08-30T21:57:40Z",
+  "fetched_at": "2026-08-30T22:42:43Z",
   "station_count": 296,
   "fuel_types": [
     "E10",
@@ -1826,13 +1826,13 @@
       "address": "25-27 Marlborough Street, Longford TAS 7301",
       "state": "TAS",
       "prices": {
-        "E10": 204.9,
+        "E10": 199.9,
         "U98": 234.9,
         "Premium Diesel": 249.9,
         "U91": 212.9,
         "Diesel": 256.9
       },
-      "updated": "2026-08-27T03:50:21Z",
+      "updated": "2026-08-30T22:15:18Z",
       "lat": -41.5972761,
       "lng": 147.1218895
     },
@@ -1860,13 +1860,13 @@
       "address": "54 Main Street, Sheffield TAS 7306",
       "state": "TAS",
       "prices": {
-        "E10": 197.9,
-        "U95": 216.9,
+        "E10": 197.7,
+        "U95": 216.7,
         "U98": 235.9,
         "Premium Diesel": 258.9,
         "U91": 213.9
       },
-      "updated": "2026-08-28T04:09:14Z",
+      "updated": "2026-08-30T22:18:16Z",
       "lat": -41.3824595,
       "lng": 146.324836
     },
@@ -2996,15 +2996,15 @@
       "address": "73 Reibey Street, Ulverstone TAS 7315",
       "state": "TAS",
       "prices": {
-        "E10": 203.9,
+        "E10": 202.9,
         "LPG": 109.8,
-        "U95": 222.9,
+        "U95": 221.9,
         "U98": 234.9,
         "Premium Diesel": 253.9,
         "U91": 212.9,
         "Diesel": 257.9
       },
-      "updated": "2026-08-30T20:24:14Z",
+      "updated": "2026-08-30T22:18:16Z",
       "lat": -41.1573289,
       "lng": 146.1735688
     },

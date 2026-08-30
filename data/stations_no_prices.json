@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-08-30T21:57:40Z",
+  "fetched_at": "2026-08-30T22:42:43Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1269,
   "by_state": {
     "ACT": 7,
     "NSW": 1156,
     "NT": 28,
-    "QLD": 32,
+    "QLD": 30,
     "SA": 30,
     "TAS": 1,
     "VIC": 17
@@ -23,8 +23,8 @@
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 20,
     "JOLT": 20,
+    "Ampol": 19,
     "Caltex": 12,
     "United": 10,
     "Puma Energy": 10,
@@ -47,14 +47,13 @@
     "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
-    "EG Ampol": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Solo": 1,
     "PRIME ROUTE": 1,
     "ETA PETROLEUM": 1,
-    "Endeavour Energy Fuels": 1,
-    "Apco": 1
+    "Apco": 1,
+    "Endeavour Energy Fuels": 1
   },
   "stations": [
     {
@@ -10794,21 +10793,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61402407",
-      "name": "Ampol Foodary Lytton (Port Of Brisbane)",
-      "address": "2 Kite St, QLD 4178",
-      "state": "QLD",
-      "lat": -27.404975,
-      "lng": 153.164142,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "Premium Diesel",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "QLD:61402890",
       "name": "Ampol Foodary Upper Coomera",
       "address": "28 Coomera Grand Dr, QLD 4209",
@@ -10907,21 +10891,6 @@
       "state": "QLD",
       "lat": -17.146921,
       "lng": 145.105828
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "QLD:61402321",
-      "name": "EG Ampol Kingaroy",
-      "address": "91-93 Youngman St, QLD 4610",
-      "state": "QLD",
-      "lat": -26.541421,
-      "lng": 151.835801,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95"
-      ]
     },
     {
       "brand": "Enhance",

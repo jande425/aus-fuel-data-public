@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-08-29T23:35:53Z",
+  "fetched_at": "2026-08-30T00:32:45Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1268,
+  "station_count": 1269,
   "by_state": {
     "ACT": 7,
     "NSW": 1155,
@@ -9,7 +9,7 @@
     "QLD": 31,
     "SA": 30,
     "TAS": 1,
-    "VIC": 16
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 69,
-    "7-Eleven": 64,
+    "7-Eleven": 65,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -52,9 +52,9 @@
     "Perrys": 1,
     "Solo": 1,
     "PRIME ROUTE": 1,
-    "Apco": 1,
     "ETA PETROLEUM": 1,
-    "Endeavour Energy Fuels": 1
+    "Endeavour Energy Fuels": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -11468,6 +11468,22 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:5yW7QR3Nsvy4DPuHIe8MVV23cKLy3gnZP8Qw1eZ36E0=",
+      "name": "7-Eleven Hallam South",
+      "address": "38-40 Hallam south Road, Hallam, 3803",
+      "state": "VIC",
+      "lat": -38.01158286,
+      "lng": 145.27284386,
+      "unavailable_fuels": [
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "7-Eleven",

@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-08-30T21:34:15Z",
+  "fetched_at": "2026-08-30T21:57:40Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1270,
+  "station_count": 1271,
   "by_state": {
     "ACT": 7,
     "NSW": 1156,
     "NT": 28,
-    "QLD": 31,
+    "QLD": 32,
     "SA": 30,
     "TAS": 1,
     "VIC": 17
@@ -23,8 +23,8 @@
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
+    "Ampol": 20,
     "JOLT": 20,
-    "Ampol": 19,
     "Caltex": 12,
     "United": 10,
     "Puma Energy": 10,
@@ -10804,6 +10804,22 @@
         "Diesel",
         "E10",
         "Premium Diesel",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "QLD:61402890",
+      "name": "Ampol Foodary Upper Coomera",
+      "address": "28 Coomera Grand Dr, QLD 4209",
+      "state": "QLD",
+      "lat": -27.8495443927681,
+      "lng": 153.29979779629517,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

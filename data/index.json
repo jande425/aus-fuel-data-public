@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T19:48:58Z",
+  "last_updated": "2026-08-30T21:34:15Z",
   "total_stations": 7863,
   "total_states": 8,
   "fuel_types": [
@@ -22,56 +22,56 @@
       "station_count": 64,
       "price_count": 272,
       "file": "act/latest.json",
-      "checksum": "4b342b30",
+      "checksum": "43b392bc",
       "size_bytes": 26092
     },
     "NSW": {
       "station_count": 2089,
-      "price_count": 8400,
+      "price_count": 8402,
       "file": "nsw/latest.json",
-      "checksum": "3039ceee",
-      "size_bytes": 831318
+      "checksum": "1a6d2612",
+      "size_bytes": 831368
     },
     "NT": {
       "station_count": 211,
-      "price_count": 576,
+      "price_count": 575,
       "file": "nt/latest.json",
-      "checksum": "f45add6d",
-      "size_bytes": 79960
+      "checksum": "398ab089",
+      "size_bytes": 79938
     },
     "QLD": {
       "station_count": 1775,
-      "price_count": 6896,
+      "price_count": 6897,
       "file": "qld/latest.json",
-      "checksum": "c0cc2178",
-      "size_bytes": 700362
+      "checksum": "f538abfa",
+      "size_bytes": 700332
     },
     "SA": {
       "station_count": 694,
       "price_count": 2458,
       "file": "sa/latest.json",
-      "checksum": "212bb471",
+      "checksum": "fab3597d",
       "size_bytes": 268703
     },
     "TAS": {
       "station_count": 296,
-      "price_count": 1437,
+      "price_count": 1436,
       "file": "tas/latest.json",
-      "checksum": "41a8c394",
-      "size_bytes": 124788
+      "checksum": "c14c5d4e",
+      "size_bytes": 124763
     },
     "VIC": {
       "station_count": 1739,
       "price_count": 7152,
       "file": "vic/latest.json",
-      "checksum": "d836c5ce",
-      "size_bytes": 781270
+      "checksum": "2e632b01",
+      "size_bytes": 781278
     },
     "WA": {
       "station_count": 995,
       "price_count": 3373,
       "file": "wa/latest.json",
-      "checksum": "e312542a",
+      "checksum": "bc1645e0",
       "size_bytes": 509839
     }
   },

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T19:48:58Z",
+  "fetched_at": "2026-08-30T21:34:15Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1270,
   "by_state": {
@@ -27,8 +27,8 @@
     "Ampol": 19,
     "Caltex": 12,
     "United": 10,
-    "Metro Fuel": 10,
     "Puma Energy": 10,
+    "Metro Fuel": 9,
     "EVUp": 9,
     "Shell": 9,
     "Evie Networks": 8,
@@ -37,13 +37,13 @@
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
+    "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Ampol Breeze": 1,
-    "Ampol Foodary": 1,
     "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
@@ -52,9 +52,9 @@
     "Perrys": 1,
     "Solo": 1,
     "PRIME ROUTE": 1,
-    "Apco": 1,
+    "ETA PETROLEUM": 1,
     "Endeavour Energy Fuels": 1,
-    "ETA PETROLEUM": 1
+    "Apco": 1
   },
   "stations": [
     {
@@ -2225,6 +2225,15 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:18110",
+      "name": "Ampol Foodary Yass",
+      "address": "228 Comur Street, YASS NSW 2582",
+      "state": "NSW",
+      "lat": -34.84428,
+      "lng": 148.913971
     },
     {
       "brand": "Ampol",
@@ -6536,15 +6545,6 @@
       "state": "NSW",
       "lat": -32.964946,
       "lng": 151.695211
-    },
-    {
-      "brand": "Metro Fuel",
-      "code": "NSW:1020",
-      "name": "Metro Fuel Young",
-      "address": "186 Nasmyth St, Young NSW 2594",
-      "state": "NSW",
-      "lat": -34.309721,
-      "lng": 148.291245
     },
     {
       "brand": "Metro Fuel",

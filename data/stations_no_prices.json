@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-08-31T01:21:51Z",
+  "fetched_at": "2026-08-31T03:08:53Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1274,
   "by_state": {
     "ACT": 7,
-    "NSW": 1160,
+    "NSW": 1161,
     "NT": 28,
-    "QLD": 29,
+    "QLD": 28,
     "SA": 32,
     "TAS": 1,
     "VIC": 17
@@ -23,11 +23,11 @@
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 20,
     "JOLT": 20,
+    "Ampol": 19,
     "Caltex": 12,
     "United": 11,
-    "Metro Fuel": 10,
+    "Metro Fuel": 11,
     "Shell": 10,
     "Puma Energy": 10,
     "EVUp": 9,
@@ -52,8 +52,8 @@
     "Solo": 1,
     "PRIME ROUTE": 1,
     "ETA PETROLEUM": 1,
-    "Endeavour Energy Fuels": 1,
-    "Apco": 1
+    "Apco": 1,
+    "Endeavour Energy Fuels": 1
   },
   "stations": [
     {
@@ -6592,6 +6592,15 @@
     },
     {
       "brand": "Metro Fuel",
+      "code": "NSW:18710",
+      "name": "Metro Petroleum Blacktown Flushcombe",
+      "address": "140 Flushcombe RD, Blacktown NSW 2148",
+      "state": "NSW",
+      "lat": -33.777528,
+      "lng": 150.907812
+    },
+    {
+      "brand": "Metro Fuel",
       "code": "NSW:20912",
       "name": "Metro Petroleum East Maitland",
       "address": "6 Garnett RD, East Maitland NSW 2323",
@@ -10824,22 +10833,6 @@
         "LPG",
         "Premium Diesel",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "QLD:61402890",
-      "name": "Ampol Foodary Upper Coomera",
-      "address": "28 Coomera Grand Dr, QLD 4209",
-      "state": "QLD",
-      "lat": -27.8495443927681,
-      "lng": 153.29979779629517,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-08-31T21:32:50Z",
+  "fetched_at": "2026-08-31T23:01:45Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1270,
   "by_state": {
     "ACT": 7,
-    "NSW": 1158,
+    "NSW": 1157,
     "NT": 28,
     "QLD": 28,
-    "SA": 32,
+    "SA": 33,
     "TAS": 1,
     "VIC": 16
   },
@@ -27,9 +27,9 @@
     "Ampol": 19,
     "Caltex": 12,
     "United": 10,
-    "Metro Fuel": 10,
     "Shell": 10,
     "Puma Energy": 10,
+    "Metro Fuel": 9,
     "EVUp": 9,
     "Evie Networks": 8,
     "Mobil": 8,
@@ -49,6 +49,7 @@
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
+    "AM/PM": 1,
     "Solo": 1,
     "PRIME ROUTE": 1,
     "ETA PETROLEUM": 1,
@@ -6556,15 +6557,6 @@
     },
     {
       "brand": "Metro Fuel",
-      "code": "NSW:1020",
-      "name": "Metro Fuel Young",
-      "address": "186 Nasmyth St, Young NSW 2594",
-      "state": "NSW",
-      "lat": -34.309721,
-      "lng": 148.291245
-    },
-    {
-      "brand": "Metro Fuel",
       "code": "NSW:18130",
       "name": "Metro Heddon Greta",
       "address": "81-83 Main Road, Heddon Greta NSW 2321",
@@ -11081,6 +11073,21 @@
       "state": "QLD",
       "lat": -16.916483,
       "lng": 145.871647
+    },
+    {
+      "brand": "AM/PM",
+      "code": "SA:61570350",
+      "name": "AMPM Roxby Downs",
+      "address": "26 Olympic Way, SA 5725",
+      "state": "SA",
+      "lat": -30.553732,
+      "lng": 136.893838,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Ampol",

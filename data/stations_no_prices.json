@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-08-31T08:36:51Z",
+  "fetched_at": "2026-08-31T10:05:14Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1275,
   "by_state": {
     "ACT": 7,
-    "NSW": 1159,
+    "NSW": 1160,
     "NT": 28,
-    "QLD": 28,
+    "QLD": 29,
     "SA": 32,
     "TAS": 1,
     "VIC": 18
@@ -19,7 +19,7 @@
     "Reddy Express": 81,
     "Chargefox": 72,
     "Independent": 69,
-    "7-Eleven": 66,
+    "7-Eleven": 68,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -52,9 +52,9 @@
     "Solo": 1,
     "PRIME ROUTE": 1,
     "Metro Petroleum": 1,
-    "Apco": 1,
     "Endeavour Energy Fuels": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -434,6 +434,15 @@
       "state": "NSW",
       "lat": -33.99995,
       "lng": 150.86794
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:238",
+      "name": "7-Eleven Kensington",
+      "address": "110 Anzac Parade & Goodwood Street, Kensington NSW 2033",
+      "state": "NSW",
+      "lat": -33.907017,
+      "lng": 151.223796
     },
     {
       "brand": "7-Eleven",
@@ -6557,6 +6566,15 @@
     },
     {
       "brand": "Metro Fuel",
+      "code": "NSW:1020",
+      "name": "Metro Fuel Young",
+      "address": "186 Nasmyth St, Young NSW 2594",
+      "state": "NSW",
+      "lat": -34.309721,
+      "lng": 148.291245
+    },
+    {
+      "brand": "Metro Fuel",
       "code": "NSW:18130",
       "name": "Metro Heddon Greta",
       "address": "81-83 Main Road, Heddon Greta NSW 2321",
@@ -6572,15 +6590,6 @@
       "state": "NSW",
       "lat": -33.303577,
       "lng": 149.100149
-    },
-    {
-      "brand": "Metro Fuel",
-      "code": "NSW:18710",
-      "name": "Metro Petroleum Blacktown Flushcombe",
-      "address": "140 Flushcombe RD, Blacktown NSW 2148",
-      "state": "NSW",
-      "lat": -33.777528,
-      "lng": 150.907812
     },
     {
       "brand": "Metro Fuel",
@@ -10802,6 +10811,22 @@
       "state": "NT",
       "lat": -22.25346,
       "lng": 131.795078
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61478106",
+      "name": "7-Eleven Cornubia",
+      "address": "164 Beenleigh Redland Bay Rd, QLD 4130",
+      "state": "QLD",
+      "lat": -27.670202149976504,
+      "lng": 153.20282614329264,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "7-Eleven",

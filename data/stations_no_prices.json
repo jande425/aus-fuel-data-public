@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-08-31T23:01:45Z",
+  "fetched_at": "2026-08-31T23:49:09Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1270,
+  "station_count": 1272,
   "by_state": {
     "ACT": 7,
-    "NSW": 1157,
+    "NSW": 1159,
     "NT": 28,
-    "QLD": 28,
-    "SA": 33,
+    "QLD": 29,
+    "SA": 32,
     "TAS": 1,
     "VIC": 16
   },
@@ -16,9 +16,9 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 80,
+    "Reddy Express": 81,
     "Chargefox": 72,
-    "Independent": 69,
+    "Independent": 70,
     "7-Eleven": 65,
     "BP": 54,
     "NRMA": 45,
@@ -40,6 +40,7 @@
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
+    "EG Ampol": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Ampol Breeze": 1,
@@ -49,7 +50,6 @@
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "AM/PM": 1,
     "Solo": 1,
     "PRIME ROUTE": 1,
     "ETA PETROLEUM": 1,
@@ -4297,6 +4297,15 @@
       "lng": 150.650238
     },
     {
+      "brand": "EG Ampol",
+      "code": "NSW:606",
+      "name": "EG Ampol Jerrabomberra",
+      "address": "10 Limestone Drive, Jerrabomberra NSW 2619",
+      "state": "NSW",
+      "lat": -35.38075,
+      "lng": 149.200092
+    },
+    {
       "brand": "EVUp",
       "code": "NSW:19218",
       "name": "EVUp at Train St Central",
@@ -8402,6 +8411,15 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "NSW:291",
+      "name": "Shell Reddy Express Cremorne",
+      "address": "227 Military Rd, Cremorne NSW 2090",
+      "state": "NSW",
+      "lat": -33.830574,
+      "lng": 151.226235
+    },
+    {
+      "brand": "Reddy Express",
       "code": "NSW:413",
       "name": "Shell Reddy Express Dundas",
       "address": "199-203 Kissing Point Rd (Cnr Kirby St), Dundas NSW 2117",
@@ -10964,6 +10982,19 @@
       ]
     },
     {
+      "brand": "Independent",
+      "code": "QLD:61477831",
+      "name": "Mt Carbine Roadhouse",
+      "address": "6872 Mulligan Highway, QLD 4871",
+      "state": "QLD",
+      "lat": -16.528451017228825,
+      "lng": 145.13409322286054,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91"
+      ]
+    },
+    {
       "brand": "Pacific Fuel Solutions",
       "code": "QLD:61477735",
       "name": "Pacific Fuel Solutions Gladstone",
@@ -11073,21 +11104,6 @@
       "state": "QLD",
       "lat": -16.916483,
       "lng": 145.871647
-    },
-    {
-      "brand": "AM/PM",
-      "code": "SA:61570350",
-      "name": "AMPM Roxby Downs",
-      "address": "26 Olympic Way, SA 5725",
-      "state": "SA",
-      "lat": -30.553732,
-      "lng": 136.893838,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "Ampol",

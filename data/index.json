@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-31T00:45:08Z",
-  "total_stations": 7861,
+  "last_updated": "2026-08-31T01:21:51Z",
+  "total_stations": 7862,
   "total_states": 8,
   "fuel_types": [
     "B20",
@@ -22,56 +22,56 @@
       "station_count": 64,
       "price_count": 272,
       "file": "act/latest.json",
-      "checksum": "ed015eb9",
+      "checksum": "1dae7561",
       "size_bytes": 26092
     },
     "NSW": {
       "station_count": 2088,
-      "price_count": 8407,
+      "price_count": 8403,
       "file": "nsw/latest.json",
-      "checksum": "529e2127",
-      "size_bytes": 831270
+      "checksum": "a0e8c955",
+      "size_bytes": 831175
     },
     "NT": {
       "station_count": 211,
       "price_count": 574,
       "file": "nt/latest.json",
-      "checksum": "4c9d7746",
+      "checksum": "6c0ea2bc",
       "size_bytes": 79913
     },
     "QLD": {
-      "station_count": 1776,
-      "price_count": 6898,
+      "station_count": 1777,
+      "price_count": 6902,
       "file": "qld/latest.json",
-      "checksum": "942284b2",
-      "size_bytes": 700676
+      "checksum": "2a180430",
+      "size_bytes": 701053
     },
     "SA": {
       "station_count": 692,
-      "price_count": 2447,
+      "price_count": 2446,
       "file": "sa/latest.json",
-      "checksum": "ad802fd6",
-      "size_bytes": 267964
+      "checksum": "76ae1e8f",
+      "size_bytes": 267994
     },
     "TAS": {
       "station_count": 296,
       "price_count": 1439,
       "file": "tas/latest.json",
-      "checksum": "19b6f1f9",
+      "checksum": "10588833",
       "size_bytes": 124843
     },
     "VIC": {
       "station_count": 1739,
       "price_count": 7151,
       "file": "vic/latest.json",
-      "checksum": "3e1fb38a",
-      "size_bytes": 781304
+      "checksum": "b18bc26a",
+      "size_bytes": 781303
     },
     "WA": {
       "station_count": 995,
       "price_count": 3373,
       "file": "wa/latest.json",
-      "checksum": "9f848ba9",
+      "checksum": "403dba5f",
       "size_bytes": 509839
     }
   },

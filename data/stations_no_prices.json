@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-08-31T03:08:53Z",
+  "fetched_at": "2026-08-31T07:19:16Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1274,
+  "station_count": 1272,
   "by_state": {
     "ACT": 7,
-    "NSW": 1161,
+    "NSW": 1159,
     "NT": 28,
     "QLD": 28,
     "SA": 32,
@@ -26,8 +26,8 @@
     "JOLT": 20,
     "Ampol": 19,
     "Caltex": 12,
-    "United": 11,
     "Metro Fuel": 11,
+    "United": 10,
     "Shell": 10,
     "Puma Energy": 10,
     "EVUp": 9,
@@ -37,13 +37,13 @@
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
-    "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Ampol Breeze": 1,
+    "Ampol Foodary": 1,
     "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
@@ -52,8 +52,8 @@
     "Solo": 1,
     "PRIME ROUTE": 1,
     "ETA PETROLEUM": 1,
-    "Apco": 1,
-    "Endeavour Energy Fuels": 1
+    "Endeavour Energy Fuels": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -2233,15 +2233,6 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:18110",
-      "name": "Ampol Foodary Yass",
-      "address": "228 Comur Street, YASS NSW 2582",
-      "state": "NSW",
-      "lat": -34.84428,
-      "lng": 148.913971
     },
     {
       "brand": "Ampol",
@@ -8868,15 +8859,6 @@
       "lng": 147.533716
     },
     {
-      "brand": "Shell",
-      "code": "NSW:20930",
-      "name": "Shell Urbanista Smeaton Grange",
-      "address": "1 Dunn RD, Smeaton Grange NSW 2567",
-      "state": "NSW",
-      "lat": -34.032313,
-      "lng": 150.756161
-    },
-    {
       "brand": "Tesla",
       "code": "NSW:19422",
       "name": "Sheraton Grand Hyde Park",
@@ -11421,6 +11403,15 @@
     },
     {
       "brand": "Shell",
+      "code": "SA:61570106",
+      "name": "Shell Moonta",
+      "address": "1 Blyth Terrace, SA 5558",
+      "state": "SA",
+      "lat": -34.067839,
+      "lng": 137.594084
+    },
+    {
+      "brand": "Shell",
       "code": "SA:61577283",
       "name": "Shell Robe Wharf OPT",
       "address": "Lot 1, Lipson Terrace, SA 5276",
@@ -11475,24 +11466,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "United",
-      "code": "SA:61570027",
-      "name": "United Port Wakefield",
-      "address": "6 Snowtown Rd, SA 5550",
-      "state": "SA",
-      "lat": -34.182462,
-      "lng": 138.153784,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "E85",
-        "LPG",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {

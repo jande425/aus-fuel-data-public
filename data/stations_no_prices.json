@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-31T18:39:22Z",
+  "fetched_at": "2026-08-31T21:32:50Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1270,
   "by_state": {
     "ACT": 7,
-    "NSW": 1159,
+    "NSW": 1158,
     "NT": 28,
     "QLD": 28,
     "SA": 32,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 16
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
+    "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 69,
-    "7-Eleven": 66,
+    "7-Eleven": 65,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -51,10 +51,9 @@
     "Perrys": 1,
     "Solo": 1,
     "PRIME ROUTE": 1,
-    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
-    "Apco": 1,
-    "Endeavour Energy Fuels": 1
+    "Endeavour Energy Fuels": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -8627,15 +8626,6 @@
     },
     {
       "brand": "Reddy Express",
-      "code": "NSW:335",
-      "name": "Shell Reddy Express Nowra",
-      "address": "55 Kinghorne St (Cnr Worrigee St), Nowra NSW 2541",
-      "state": "NSW",
-      "lat": -34.876305,
-      "lng": 150.602472
-    },
-    {
-      "brand": "Reddy Express",
       "code": "NSW:40",
       "name": "Shell Reddy Express Oak Flats",
       "address": "Lot 2 Lake Entrance Road, Oak Flats NSW 2529",
@@ -11518,21 +11508,6 @@
       ]
     },
     {
-      "brand": "7-Eleven",
-      "code": "VIC:BM+aME+oAYpdtc4YR924Q8oBCmOwlRyz6ffgSsWygs4=",
-      "name": "7-Eleven Wangaratta",
-      "address": "22-28 Ryley Street, WANGARATTA, 3677",
-      "state": "VIC",
-      "lat": -36.35893953,
-      "lng": 146.31888539,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Apco",
       "code": "VIC:9qtPVydEOFxcerCfYKlr/EKJJUaP/s+LXDm7L/QUfGM=",
       "name": "APCO Kangaroo Flat - Temporarily Closed",
@@ -11628,22 +11603,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Metro Petroleum",
-      "code": "VIC:fR1fVJwJ+iymPp2MT6EEuc8hCGuCtq+srsL8BkLt9JY=",
-      "name": "Metro Brunswick West",
-      "address": "157 Union Street, BRUNSWICK WEST, 3055",
-      "state": "VIC",
-      "lat": -37.77301084,
-      "lng": 144.94961294,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
       ]
     },
     {

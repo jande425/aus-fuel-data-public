@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-31T18:39:22Z",
-  "total_stations": 7860,
+  "last_updated": "2026-08-31T21:32:50Z",
+  "total_stations": 7863,
   "total_states": 8,
   "fuel_types": [
     "B20",
@@ -22,56 +22,56 @@
       "station_count": 64,
       "price_count": 272,
       "file": "act/latest.json",
-      "checksum": "def23594",
+      "checksum": "0c7ed2a1",
       "size_bytes": 26092
     },
     "NSW": {
-      "station_count": 2088,
-      "price_count": 8373,
+      "station_count": 2089,
+      "price_count": 8376,
       "file": "nsw/latest.json",
-      "checksum": "73071480",
-      "size_bytes": 830333
+      "checksum": "8a03d7a6",
+      "size_bytes": 830737
     },
     "NT": {
       "station_count": 211,
       "price_count": 574,
       "file": "nt/latest.json",
-      "checksum": "0f958f2d",
+      "checksum": "dd457f98",
       "size_bytes": 79913
     },
     "QLD": {
       "station_count": 1777,
-      "price_count": 6899,
+      "price_count": 6896,
       "file": "qld/latest.json",
-      "checksum": "286a65ac",
-      "size_bytes": 701112
+      "checksum": "1c52a842",
+      "size_bytes": 701202
     },
     "SA": {
       "station_count": 692,
       "price_count": 2448,
       "file": "sa/latest.json",
-      "checksum": "544fbbd5",
+      "checksum": "5d6fdfd2",
       "size_bytes": 268009
     },
     "TAS": {
       "station_count": 296,
       "price_count": 1440,
       "file": "tas/latest.json",
-      "checksum": "0911efdb",
+      "checksum": "1b826588",
       "size_bytes": 124862
     },
     "VIC": {
-      "station_count": 1738,
-      "price_count": 7145,
+      "station_count": 1740,
+      "price_count": 7155,
       "file": "vic/latest.json",
-      "checksum": "0263f2b2",
-      "size_bytes": 780856
+      "checksum": "e520ae66",
+      "size_bytes": 781750
     },
     "WA": {
       "station_count": 994,
       "price_count": 3372,
       "file": "wa/latest.json",
-      "checksum": "7f582756",
+      "checksum": "9d2435ae",
       "size_bytes": 509356
     }
   },

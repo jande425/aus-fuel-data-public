@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-01T13:28:48Z",
+  "fetched_at": "2026-09-01T13:53:03Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1269,
   "by_state": {
     "ACT": 7,
-    "NSW": 1157,
+    "NSW": 1156,
     "NT": 29,
-    "QLD": 31,
+    "QLD": 30,
     "SA": 30,
     "TAS": 1,
     "VIC": 16
@@ -19,7 +19,7 @@
     "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 71,
-    "7-Eleven": 67,
+    "7-Eleven": 65,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -639,15 +639,6 @@
       "state": "NSW",
       "lat": -33.952566,
       "lng": 151.135774
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:18188",
-      "name": "7-Eleven Rutherford",
-      "address": "319 New England Highway, 319 New England Highway, RUTHERFORD NSW 2320",
-      "state": "NSW",
-      "lat": -32.713209,
-      "lng": 151.518439
     },
     {
       "brand": "7-Eleven",
@@ -10791,22 +10782,6 @@
       "state": "NT",
       "lat": -22.25346,
       "lng": 131.795078
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61478057",
-      "name": "7-Eleven Chandler",
-      "address": "2953 Old Cleveland Road, QLD 4155",
-      "state": "QLD",
-      "lat": -27.516123,
-      "lng": 153.181907,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "7-Eleven",

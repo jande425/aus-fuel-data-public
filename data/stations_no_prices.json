@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-09-01T03:13:55Z",
+  "fetched_at": "2026-09-01T06:32:31Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1269,
   "by_state": {
     "ACT": 7,
-    "NSW": 1159,
-    "NT": 28,
+    "NSW": 1156,
+    "NT": 29,
     "QLD": 30,
     "SA": 30,
     "TAS": 1,
@@ -16,10 +16,10 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 83,
+    "Reddy Express": 80,
     "Chargefox": 72,
-    "Independent": 70,
-    "7-Eleven": 64,
+    "Independent": 71,
+    "7-Eleven": 65,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -42,7 +42,6 @@
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
-    "Ampol Breeze": 1,
     "Ampol Foodary": 1,
     "Arko Energy": 1,
     "On the Run": 1,
@@ -52,8 +51,8 @@
     "Solo": 1,
     "PRIME ROUTE": 1,
     "ETA PETROLEUM": 1,
-    "Apco": 1,
-    "Endeavour Energy Fuels": 1
+    "Endeavour Energy Fuels": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -2208,15 +2207,6 @@
       "lng": 152.135661
     },
     {
-      "brand": "Ampol Breeze",
-      "code": "NSW:20030",
-      "name": "Ampol Breeze South Nowra",
-      "address": "6 Trim ST, South Nowra NSW 2541",
-      "state": "NSW",
-      "lat": -34.913752,
-      "lng": 150.584956
-    },
-    {
       "brand": "Ampol",
       "code": "NSW:20567",
       "name": "Ampol Broken Hill Patton St",
@@ -2242,15 +2232,6 @@
       "state": "NSW",
       "lat": -30.205971,
       "lng": 151.675722
-    },
-    {
-      "brand": "Ampol",
-      "code": "NSW:1076",
-      "name": "Ampol Hay",
-      "address": "58 Lachlan Street, Hay NSW 2711",
-      "state": "NSW",
-      "lat": -34.512789,
-      "lng": 144.84267
     },
     {
       "brand": "Ampol",
@@ -4240,6 +4221,15 @@
       "state": "NSW",
       "lat": -29.235626,
       "lng": 152.012986
+    },
+    {
+      "brand": "Independent",
+      "code": "NSW:20087",
+      "name": "Douglas Park Service Station",
+      "address": "145 Camden RD, Douglas Park NSW 2569",
+      "state": "NSW",
+      "lat": -34.182393,
+      "lng": 150.711428
     },
     {
       "brand": "Tesla",
@@ -7950,15 +7940,6 @@
       "lng": 151.207495
     },
     {
-      "brand": "Reddy Express",
-      "code": "NSW:18708",
-      "name": "S24 Broken Hill Blende Street",
-      "address": "1 Blende ST, Broken Hill NSW 2880",
-      "state": "NSW",
-      "lat": -31.964603,
-      "lng": 141.453491
-    },
-    {
       "brand": "Exploren",
       "code": "NSW:20473",
       "name": "SP103806 - LPC House",
@@ -8578,15 +8559,6 @@
       "state": "NSW",
       "lat": -33.505897,
       "lng": 150.123904
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:225",
-      "name": "Shell Reddy Express Liverpool",
-      "address": "338-340 Hume Highway, Liverpool NSW 2170",
-      "state": "NSW",
-      "lat": -33.93145,
-      "lng": 150.917675
     },
     {
       "brand": "Reddy Express",
@@ -10714,6 +10686,15 @@
     },
     {
       "brand": "Ampol",
+      "code": "NT:08500205",
+      "name": "Refuel Australia Katherine OPT ",
+      "address": "4 Bicentennial Road, Katherine South, 0850, NT",
+      "state": "NT",
+      "lat": -14.487214,
+      "lng": 132.25816
+    },
+    {
+      "brand": "Ampol",
       "code": "NT:08700227",
       "name": "Refuel Australia Stuarts Well",
       "address": "8824-8844 Stuart Highway, Stuarts Well, 0870, NT",
@@ -11508,6 +11489,21 @@
       ]
     },
     {
+      "brand": "7-Eleven",
+      "code": "VIC:BM+aME+oAYpdtc4YR924Q8oBCmOwlRyz6ffgSsWygs4=",
+      "name": "7-Eleven Wangaratta",
+      "address": "22-28 Ryley Street, WANGARATTA, 3677",
+      "state": "VIC",
+      "lat": -36.35893953,
+      "lng": 146.31888539,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Apco",
       "code": "VIC:9qtPVydEOFxcerCfYKlr/EKJJUaP/s+LXDm7L/QUfGM=",
       "name": "APCO Kangaroo Flat - Temporarily Closed",
@@ -11687,22 +11683,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "VIC:vfksrb9/tRXKeTxrgYbmGX7jtoCVXwhZISXzM+IL0SU=",
-      "name": "Shell Reddy Express Wantirna South",
-      "address": "435 Stud Road, Wantirna South, 3152",
-      "state": "VIC",
-      "lat": -37.87751469,
-      "lng": 145.23322892,
-      "unavailable_fuels": [
-        "Diesel",
-        "LPG",
-        "U91",
-        "U95",
         "U98"
       ]
     },

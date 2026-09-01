@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-08-31T23:49:09Z",
+  "fetched_at": "2026-09-01T01:21:05Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1270,
   "by_state": {
     "ACT": 7,
-    "NSW": 1159,
+    "NSW": 1158,
     "NT": 28,
-    "QLD": 29,
-    "SA": 32,
+    "QLD": 30,
+    "SA": 31,
     "TAS": 1,
-    "VIC": 16
+    "VIC": 15
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,28 +19,27 @@
     "Reddy Express": 81,
     "Chargefox": 72,
     "Independent": 70,
-    "7-Eleven": 65,
+    "7-Eleven": 64,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
     "Ampol": 19,
     "Caltex": 12,
+    "Shell": 11,
     "United": 10,
-    "Shell": 10,
     "Puma Energy": 10,
     "Metro Fuel": 9,
     "EVUp": 9,
     "Evie Networks": 8,
-    "Mobil": 8,
     "Liberty": 7,
+    "Mobil": 7,
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
-    "EG Ampol": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Ampol Breeze": 1,
@@ -53,8 +52,8 @@
     "Solo": 1,
     "PRIME ROUTE": 1,
     "ETA PETROLEUM": 1,
-    "Endeavour Energy Fuels": 1,
-    "Apco": 1
+    "Apco": 1,
+    "Endeavour Energy Fuels": 1
   },
   "stations": [
     {
@@ -4295,15 +4294,6 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "NSW:606",
-      "name": "EG Ampol Jerrabomberra",
-      "address": "10 Limestone Drive, Jerrabomberra NSW 2619",
-      "state": "NSW",
-      "lat": -35.38075,
-      "lng": 149.200092
     },
     {
       "brand": "EVUp",
@@ -10987,11 +10977,28 @@
       "name": "Mt Carbine Roadhouse",
       "address": "6872 Mulligan Highway, QLD 4871",
       "state": "QLD",
-      "lat": -16.528451017228825,
-      "lng": 145.13409322286054,
+      "lat": -16.528201017228824,
+      "lng": 145.13410322286052,
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "Shell",
+      "code": "QLD:61401863",
+      "name": "NightOwl Shell Caboolture",
+      "address": "686 The Abbey Pl, QLD 4510",
+      "state": "QLD",
+      "lat": -27.072592,
+      "lng": 153.025312,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
       ]
     },
     {
@@ -11149,20 +11156,6 @@
       "state": "SA",
       "lat": -29.005331,
       "lng": 134.755872,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95"
-      ]
-    },
-    {
-      "brand": "Mobil",
-      "code": "SA:61501922",
-      "name": "Cadney Homestead Roadhouse",
-      "address": "69 Stuart Highway, SA 5723",
-      "state": "SA",
-      "lat": -27.905191,
-      "lng": 134.056677,
       "unavailable_fuels": [
         "Diesel",
         "U91",
@@ -11499,22 +11492,6 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:5yW7QR3Nsvy4DPuHIe8MVV23cKLy3gnZP8Qw1eZ36E0=",
-      "name": "7-Eleven Hallam South",
-      "address": "38-40 Hallam south Road, Hallam, 3803",
-      "state": "VIC",
-      "lat": -38.01158286,
-      "lng": 145.27284386,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "7-Eleven",

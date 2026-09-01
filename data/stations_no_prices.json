@@ -1,22 +1,22 @@
 {
-  "fetched_at": "2026-09-01T01:21:05Z",
+  "fetched_at": "2026-09-01T03:13:55Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1270,
+  "station_count": 1271,
   "by_state": {
     "ACT": 7,
-    "NSW": 1158,
+    "NSW": 1159,
     "NT": 28,
     "QLD": 30,
-    "SA": 31,
+    "SA": 30,
     "TAS": 1,
-    "VIC": 15
+    "VIC": 16
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
+    "Reddy Express": 83,
     "Chargefox": 72,
     "Independent": 70,
     "7-Eleven": 64,
@@ -26,8 +26,8 @@
     "JOLT": 20,
     "Ampol": 19,
     "Caltex": 12,
-    "Shell": 11,
     "United": 10,
+    "Shell": 10,
     "Puma Energy": 10,
     "Metro Fuel": 9,
     "EVUp": 9,
@@ -7950,6 +7950,15 @@
       "lng": 151.207495
     },
     {
+      "brand": "Reddy Express",
+      "code": "NSW:18708",
+      "name": "S24 Broken Hill Blende Street",
+      "address": "1 Blende ST, Broken Hill NSW 2880",
+      "state": "NSW",
+      "lat": -31.964603,
+      "lng": 141.453491
+    },
+    {
       "brand": "Exploren",
       "code": "NSW:20473",
       "name": "SP103806 - LPC House",
@@ -11410,15 +11419,6 @@
     },
     {
       "brand": "Shell",
-      "code": "SA:61570106",
-      "name": "Shell Moonta",
-      "address": "1 Blyth Terrace, SA 5558",
-      "state": "SA",
-      "lat": -34.067839,
-      "lng": 137.594084
-    },
-    {
-      "brand": "Shell",
       "code": "SA:61577283",
       "name": "Shell Robe Wharf OPT",
       "address": "Lot 1, Lipson Terrace, SA 5276",
@@ -11687,6 +11687,22 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "VIC:vfksrb9/tRXKeTxrgYbmGX7jtoCVXwhZISXzM+IL0SU=",
+      "name": "Shell Reddy Express Wantirna South",
+      "address": "435 Stud Road, Wantirna South, 3152",
+      "state": "VIC",
+      "lat": -37.87751469,
+      "lng": 145.23322892,
+      "unavailable_fuels": [
+        "Diesel",
+        "LPG",
+        "U91",
+        "U95",
         "U98"
       ]
     },

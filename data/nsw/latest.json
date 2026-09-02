@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-02T12:45:09Z",
-  "station_count": 2091,
+  "fetched_at": "2026-09-02T13:10:41Z",
+  "station_count": 2092,
   "fuel_types": [
     "E10",
     "U91",
@@ -5648,11 +5648,11 @@
       "address": "32 Bryant St, NARWEE NSW 2209",
       "state": "NSW",
       "prices": {
-        "E10": 187.7,
-        "Premium Diesel": 234.9,
+        "E10": 192.7,
+        "Premium Diesel": 239.9,
         "U91": 194.7
       },
-      "updated": "2026-09-02T09:20:05Z",
+      "updated": "2026-09-02T13:03:56Z",
       "lat": -33.948554,
       "lng": 151.071512
     },
@@ -6949,13 +6949,13 @@
       "address": "5 Hanrahan Place, ORANGE NSW 2800",
       "state": "NSW",
       "prices": {
-        "Diesel": 243.5,
-        "E10": 195.5,
-        "U95": 211.5,
-        "Premium Diesel": 245.5,
-        "U91": 197.5
+        "Diesel": 241.5,
+        "E10": 194.5,
+        "U95": 210.5,
+        "Premium Diesel": 243.5,
+        "U91": 196.5
       },
-      "updated": "2026-09-01T10:51:03Z",
+      "updated": "2026-09-02T13:09:35Z",
       "lat": -33.259595,
       "lng": 149.114342
     },
@@ -9466,6 +9466,23 @@
       "lng": 146.408893
     },
     {
+      "brand": "7-Eleven",
+      "code": "NSW:18481",
+      "name": "7-Eleven Metford",
+      "address": "456, Metford Road, Metford NEW SOUTH WALES 2323",
+      "state": "NSW",
+      "prices": {
+        "E10": 191.9,
+        "U95": 210.9,
+        "U98": 219.9,
+        "Premium Diesel": 249.9,
+        "U91": 193.9
+      },
+      "updated": "2026-09-02T13:02:03Z",
+      "lat": -32.761177,
+      "lng": 151.600376
+    },
+    {
       "brand": "Transwest Fuels",
       "code": "NSW:18482",
       "name": "Transwest Mungindi",
@@ -9596,13 +9613,13 @@
       "address": "79 Barrenjoey RD, Mona Vale NSW 2103",
       "state": "NSW",
       "prices": {
-        "Diesel": 249.5,
-        "E10": 199.5,
-        "U95": 214.5,
-        "U98": 223.5,
-        "U91": 201.5
+        "Diesel": 251.5,
+        "E10": 198.5,
+        "U95": 213.5,
+        "U98": 222.5,
+        "U91": 200.5
       },
-      "updated": "2026-08-31T02:56:15Z",
+      "updated": "2026-09-02T12:50:02Z",
       "lat": -33.674174,
       "lng": 151.310235
     },
@@ -11228,12 +11245,12 @@
       "address": "42 Sharp ST, Cooma NSW 2630",
       "state": "NSW",
       "prices": {
-        "U95": 224.9,
-        "U98": 232.9,
-        "Premium Diesel": 253.9,
-        "U91": 209.9
+        "U95": 219.9,
+        "U98": 229.9,
+        "Premium Diesel": 249.9,
+        "U91": 207.9
       },
-      "updated": "2026-09-01T22:30:40Z",
+      "updated": "2026-09-02T13:02:04Z",
       "lat": -36.232923,
       "lng": 149.131103
     },
@@ -12430,13 +12447,13 @@
       "address": "12 Pacific HWY, Ourimbah NSW 2258",
       "state": "NSW",
       "prices": {
-        "Diesel": 244.9,
-        "LPG": 94.9,
-        "U98": 217.9,
-        "Premium Diesel": 244.9,
-        "U91": 194.9
+        "Diesel": 249.9,
+        "LPG": 99.9,
+        "U98": 222.9,
+        "Premium Diesel": 249.9,
+        "U91": 199.9
       },
-      "updated": "2026-09-02T07:18:24Z",
+      "updated": "2026-09-02T13:03:47Z",
       "lat": -33.36297,
       "lng": 151.371353
     },
@@ -20545,11 +20562,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 243.9,
-        "E10": 217.9,
-        "U98": 239.9,
-        "U91": 219.9
+        "E10": 222.9,
+        "U98": 249.9,
+        "U91": 229.9
       },
-      "updated": "2026-09-02T00:41:39Z",
+      "updated": "2026-09-02T12:55:09Z",
       "lat": -34.384249,
       "lng": 150.903529
     },
@@ -25693,13 +25710,13 @@
       "address": "41 Boundary Road, Chester Hill NSW 2162",
       "state": "NSW",
       "prices": {
-        "E10": 195.9,
+        "E10": 197.9,
         "U95": 215.9,
         "U98": 225.9,
         "Premium Diesel": 240.9,
-        "U91": 197.5
+        "U91": 199.9
       },
-      "updated": "2026-09-02T12:03:45Z",
+      "updated": "2026-09-02T12:53:33Z",
       "lat": -33.873839,
       "lng": 151.007145
     },

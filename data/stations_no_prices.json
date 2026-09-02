@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-02T12:45:09Z",
+  "fetched_at": "2026-09-02T13:10:41Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1271,
   "by_state": {
     "ACT": 7,
-    "NSW": 1157,
+    "NSW": 1156,
     "NT": 29,
     "QLD": 30,
     "SA": 31,
@@ -19,7 +19,7 @@
     "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 68,
+    "7-Eleven": 67,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -48,10 +48,10 @@
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Endeavour Energy Fuels": 1,
+    "Apco": 1,
     "Solo": 1,
     "PRIME ROUTE": 1,
-    "Apco": 1,
+    "Endeavour Energy Fuels": 1,
     "ETA PETROLEUM": 1
   },
   "stations": [
@@ -513,15 +513,6 @@
       "state": "NSW",
       "lat": -33.835467,
       "lng": 150.985311
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:18481",
-      "name": "7-Eleven Metford",
-      "address": "456, Metford Road, Metford NEW SOUTH WALES 2323",
-      "state": "NSW",
-      "lat": -32.761177,
-      "lng": 151.600376
     },
     {
       "brand": "7-Eleven",

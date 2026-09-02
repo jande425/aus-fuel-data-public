@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-02T21:17:34Z",
+  "fetched_at": "2026-09-02T21:55:11Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1270,
+  "station_count": 1271,
   "by_state": {
     "ACT": 7,
     "NSW": 1156,
     "NT": 29,
-    "QLD": 29,
+    "QLD": 30,
     "SA": 31,
     "TAS": 1,
     "VIC": 17
@@ -17,8 +17,8 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 80,
+    "Independent": 73,
     "Chargefox": 72,
-    "Independent": 72,
     "7-Eleven": 66,
     "BP": 54,
     "NRMA": 45,
@@ -10907,6 +10907,20 @@
       "state": "QLD",
       "lat": -23.080249486645524,
       "lng": 148.0211097558197
+    },
+    {
+      "brand": "Independent",
+      "code": "QLD:61401968",
+      "name": "Independent Urangan",
+      "address": "Buccaneer Av & Jetty Av, QLD 4655",
+      "state": "QLD",
+      "lat": -25.295619,
+      "lng": 152.909208,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95"
+      ]
     },
     {
       "brand": "Independent",

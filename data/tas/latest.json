@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-09-02T21:55:11Z",
+  "fetched_at": "2026-09-02T22:37:02Z",
   "station_count": 295,
   "fuel_types": [
     "E10",
@@ -4233,10 +4233,10 @@
         "E10": 197.5,
         "U95": 213.5,
         "U98": 228.5,
-        "Premium Diesel": 247.5,
+        "Premium Diesel": 245.5,
         "U91": 207.9
       },
-      "updated": "2026-08-30T03:45:06Z",
+      "updated": "2026-09-02T22:20:11Z",
       "lat": -41.1314,
       "lng": 146.867
     },
@@ -4342,9 +4342,9 @@
       "address": "96a Reeve ST, Campania TAS 7026",
       "state": "TAS",
       "prices": {
-        "Diesel": 243.9,
         "U98": 233.9,
-        "U91": 206.9
+        "U91": 206.9,
+        "Diesel": 243.9
       },
       "updated": "2026-09-01T19:10:06Z",
       "lat": -42.66172005,

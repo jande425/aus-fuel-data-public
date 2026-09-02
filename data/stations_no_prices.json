@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-02T21:55:11Z",
+  "fetched_at": "2026-09-02T22:37:02Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1272,
   "by_state": {
     "ACT": 7,
-    "NSW": 1156,
+    "NSW": 1157,
     "NT": 29,
     "QLD": 30,
     "SA": 31,
@@ -40,6 +40,7 @@
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
+    "Lowes": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Ampol Foodary": 1,
@@ -6255,6 +6256,15 @@
       "state": "NSW",
       "lat": -34.311796,
       "lng": 148.294912
+    },
+    {
+      "brand": "Lowes",
+      "code": "NSW:1935",
+      "name": "Lowes Coolah",
+      "address": "72 Cunningham Street, Coolah NSW 2843",
+      "state": "NSW",
+      "lat": -31.822944,
+      "lng": 149.724462
     },
     {
       "brand": "NRMA",

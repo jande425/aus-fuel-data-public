@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-02T07:04:15Z",
+  "fetched_at": "2026-09-02T07:32:51Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1270,
+  "station_count": 1269,
   "by_state": {
     "ACT": 7,
     "NSW": 1156,
     "NT": 29,
     "QLD": 29,
-    "SA": 32,
+    "SA": 31,
     "TAS": 1,
     "VIC": 16
   },
@@ -32,8 +32,8 @@
     "EVUp": 9,
     "Evie Networks": 8,
     "Metro Fuel": 8,
-    "Mobil": 8,
     "Liberty": 7,
+    "Mobil": 7,
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
@@ -11135,20 +11135,6 @@
       "state": "SA",
       "lat": -29.005331,
       "lng": 134.755872,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95"
-      ]
-    },
-    {
-      "brand": "Mobil",
-      "code": "SA:61501922",
-      "name": "Cadney Homestead Roadhouse",
-      "address": "69 Stuart Highway, SA 5723",
-      "state": "SA",
-      "lat": -27.905191,
-      "lng": 134.056677,
       "unavailable_fuels": [
         "Diesel",
         "U91",

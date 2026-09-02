@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-02T01:00:24Z",
-  "total_stations": 7864,
+  "last_updated": "2026-09-02T02:32:07Z",
+  "total_stations": 7865,
   "total_states": 8,
   "fuel_types": [
     "B20",
@@ -22,56 +22,56 @@
       "station_count": 64,
       "price_count": 272,
       "file": "act/latest.json",
-      "checksum": "61603152",
+      "checksum": "be37989b",
       "size_bytes": 26092
     },
     "NSW": {
-      "station_count": 2090,
-      "price_count": 8378,
+      "station_count": 2091,
+      "price_count": 8386,
       "file": "nsw/latest.json",
-      "checksum": "69ad9433",
-      "size_bytes": 831049
+      "checksum": "5a48ee34",
+      "size_bytes": 831537
     },
     "NT": {
       "station_count": 210,
       "price_count": 575,
       "file": "nt/latest.json",
-      "checksum": "befd3ed6",
+      "checksum": "ba19d155",
       "size_bytes": 79617
     },
     "QLD": {
       "station_count": 1776,
-      "price_count": 6895,
+      "price_count": 6896,
       "file": "qld/latest.json",
-      "checksum": "b1b9452d",
-      "size_bytes": 700758
+      "checksum": "c0927474",
+      "size_bytes": 700723
     },
     "SA": {
       "station_count": 694,
       "price_count": 2455,
       "file": "sa/latest.json",
-      "checksum": "08adfa67",
+      "checksum": "899775cf",
       "size_bytes": 268741
     },
     "TAS": {
       "station_count": 295,
-      "price_count": 1441,
+      "price_count": 1439,
       "file": "tas/latest.json",
-      "checksum": "9aed3155",
-      "size_bytes": 124604
+      "checksum": "a6c276bd",
+      "size_bytes": 124549
     },
     "VIC": {
       "station_count": 1740,
       "price_count": 7154,
       "file": "vic/latest.json",
-      "checksum": "6159096d",
-      "size_bytes": 781782
+      "checksum": "5c2b394b",
+      "size_bytes": 781714
     },
     "WA": {
       "station_count": 995,
       "price_count": 3372,
       "file": "wa/latest.json",
-      "checksum": "6eb10468",
+      "checksum": "2e48b8d9",
       "size_bytes": 509699
     }
   },

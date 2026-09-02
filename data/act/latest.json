@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-02T02:32:07Z",
+  "fetched_at": "2026-09-02T06:10:38Z",
   "station_count": 64,
   "fuel_types": [
     "E10",
@@ -1030,12 +1030,12 @@
       "address": "Mobil Outlet 15 Barrier ST, Fyshwick ACT 2609",
       "state": "ACT",
       "prices": {
-        "E10": 195.9,
-        "U98": 219.9,
-        "Premium Diesel": 239.9,
-        "U91": 199.9
+        "E10": 199.9,
+        "U98": 225.9,
+        "Premium Diesel": 245.9,
+        "U91": 205.9
       },
-      "updated": "2026-09-01T19:06:18Z",
+      "updated": "2026-09-02T05:49:26Z",
       "lat": -35.329111,
       "lng": 149.172604
     },

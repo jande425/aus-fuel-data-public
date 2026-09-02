@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-09-02T00:23:54Z",
+  "fetched_at": "2026-09-02T01:00:24Z",
   "station_count": 295,
   "fuel_types": [
     "E10",
@@ -76,12 +76,12 @@
       "prices": {
         "Diesel": 257.9,
         "E10": 205.9,
-        "U95": 223.9,
-        "U98": 231.9,
-        "U91": 206.9,
+        "U95": 222.9,
+        "U98": 230.9,
+        "U91": 205.9,
         "Premium Diesel": 256.9
       },
-      "updated": "2026-08-27T06:30:44Z",
+      "updated": "2026-09-02T00:40:23Z",
       "lat": -41.1915972,
       "lng": 146.3369471
     },
@@ -108,11 +108,11 @@
       "address": "60 Main Road, Huonville TAS 7109",
       "state": "TAS",
       "prices": {
-        "U98": 235.9,
+        "U98": 234.9,
         "Premium Diesel": 267.9,
-        "U91": 210.9
+        "U91": 209.9
       },
-      "updated": "2026-08-28T00:36:29Z",
+      "updated": "2026-09-02T00:40:23Z",
       "lat": -43.0292136,
       "lng": 147.0500176
     },
@@ -157,12 +157,12 @@
       "address": "170 East Derwent Highway, Lindisfarne TAS 7015",
       "state": "TAS",
       "prices": {
-        "U95": 223.9,
-        "U98": 231.9,
+        "U95": 221.9,
+        "U98": 229.9,
         "Premium Diesel": 255.9,
-        "U91": 206.9
+        "U91": 204.9
       },
-      "updated": "2026-08-27T06:29:10Z",
+      "updated": "2026-09-02T00:58:51Z",
       "lat": -42.8457973,
       "lng": 147.35833
     },
@@ -225,13 +225,13 @@
       "address": "36 North Terrace, Burnie TAS 7320",
       "state": "TAS",
       "prices": {
-        "E10": 197.9,
+        "E10": 198.9,
         "U98": 235.9,
-        "Premium Diesel": 259.9,
+        "Premium Diesel": 256.9,
         "U91": 210.9,
         "U95": 227.9
       },
-      "updated": "2026-08-31T06:56:34Z",
+      "updated": "2026-09-02T00:36:23Z",
       "lat": -41.0478,
       "lng": 145.901
     },
@@ -3659,14 +3659,14 @@
       "address": "1853 Midland HWY, Bagdad TAS 7030",
       "state": "TAS",
       "prices": {
-        "E10": 197.9,
-        "U95": 216.9,
+        "E10": 199.9,
+        "U95": 218.9,
         "U98": 238.9,
         "Premium Diesel": 253.9,
         "Diesel": 258.9,
         "U91": 214.9
       },
-      "updated": "2026-08-31T00:10:56Z",
+      "updated": "2026-09-02T00:29:13Z",
       "lat": -42.6031571,
       "lng": 147.2197463
     },

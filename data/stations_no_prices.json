@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-02T22:37:02Z",
+  "fetched_at": "2026-09-02T23:33:19Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1273,
   "by_state": {
     "ACT": 7,
-    "NSW": 1157,
+    "NSW": 1156,
     "NT": 29,
     "QLD": 30,
-    "SA": 31,
+    "SA": 33,
     "TAS": 1,
     "VIC": 17
   },
@@ -29,14 +29,15 @@
     "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
-    "Metro Fuel": 9,
     "EVUp": 9,
     "Evie Networks": 8,
+    "Metro Fuel": 8,
     "Liberty": 7,
     "Mobil": 7,
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
+    "On the Run": 3,
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
@@ -45,15 +46,14 @@
     "Astron": 1,
     "Ampol Foodary": 1,
     "Arko Energy": 1,
-    "On the Run": 1,
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Solo": 1,
     "PRIME ROUTE": 1,
+    "ETA PETROLEUM": 1,
     "Apco": 1,
-    "Endeavour Energy Fuels": 1,
-    "ETA PETROLEUM": 1
+    "Endeavour Energy Fuels": 1
   },
   "stations": [
     {
@@ -6556,15 +6556,6 @@
     },
     {
       "brand": "Metro Fuel",
-      "code": "NSW:20932",
-      "name": "Metro Chullora",
-      "address": "97a Hume HWY, Greenacre NSW 2190",
-      "state": "NSW",
-      "lat": -33.891991,
-      "lng": 151.057247
-    },
-    {
-      "brand": "Metro Fuel",
       "code": "NSW:18130",
       "name": "Metro Heddon Greta",
       "address": "81-83 Main Road, Heddon Greta NSW 2321",
@@ -11365,6 +11356,24 @@
         "Diesel",
         "U91"
       ]
+    },
+    {
+      "brand": "On the Run",
+      "code": "SA:61501206",
+      "name": "OTR Alberton",
+      "address": "156 Port Rd, SA 5014",
+      "state": "SA",
+      "lat": -34.85935020236246,
+      "lng": 138.51304362392523
+    },
+    {
+      "brand": "On the Run",
+      "code": "SA:61501387",
+      "name": "OTR Aldinga",
+      "address": "3 Port Rd, SA 5173",
+      "state": "SA",
+      "lat": -35.26794594158466,
+      "lng": 138.48441780985644
     },
     {
       "brand": "Independent",

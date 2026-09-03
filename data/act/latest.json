@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-03T06:09:05Z",
+  "fetched_at": "2026-09-03T07:08:37Z",
   "station_count": 63,
   "fuel_types": [
     "E10",
@@ -69,13 +69,13 @@
       "address": "10 Kingsland Parade, Casey ACT 2913",
       "state": "ACT",
       "prices": {
-        "E10": 206.9,
-        "U95": 225.9,
-        "U98": 234.9,
+        "E10": 209.9,
+        "U95": 228.9,
+        "U98": 237.9,
         "Premium Diesel": 264.9,
-        "U91": 208.9
+        "U91": 211.9
       },
-      "updated": "2026-08-28T21:54:15Z",
+      "updated": "2026-09-03T07:03:15Z",
       "lat": -35.1756,
       "lng": 149.096
     },
@@ -348,9 +348,9 @@
         "E10": 207.9,
         "U95": 226.9,
         "U98": 235.9,
-        "Premium Diesel": 261.9
+        "Premium Diesel": 262.9
       },
-      "updated": "2026-09-03T04:52:28Z",
+      "updated": "2026-09-03T06:31:02Z",
       "lat": -35.224985,
       "lng": 149.165864
     },
@@ -412,11 +412,11 @@
       "state": "ACT",
       "prices": {
         "LPG": 124.9,
-        "U98": 233.9,
+        "U98": 237.9,
         "Premium Diesel": 264.9,
-        "U91": 207.9
+        "U91": 211.9
       },
-      "updated": "2026-08-30T22:12:17Z",
+      "updated": "2026-09-03T07:03:15Z",
       "lat": -35.2136,
       "lng": 149.096
     },
@@ -476,12 +476,12 @@
       "address": "94-96 Sheppard St, Hume ACT 2620",
       "state": "ACT",
       "prices": {
-        "U95": 220.9,
-        "U98": 230.9,
+        "U95": 222.9,
+        "U98": 232.9,
         "Premium Diesel": 263.9,
-        "U91": 203.9
+        "U91": 205.9
       },
-      "updated": "2026-08-28T07:39:14Z",
+      "updated": "2026-09-03T06:09:41Z",
       "lat": -35.3923,
       "lng": 149.162
     },
@@ -899,12 +899,12 @@
       "address": "2 Chinner Cres, Melba ACT 2615",
       "state": "ACT",
       "prices": {
-        "E10": 201.9,
-        "U98": 229.9,
-        "Premium Diesel": 262.9,
-        "U91": 203.9
+        "E10": 207.9,
+        "U98": 235.9,
+        "Premium Diesel": 264.9,
+        "U91": 209.9
       },
-      "updated": "2026-08-26T22:27:14Z",
+      "updated": "2026-09-03T07:03:15Z",
       "lat": -35.2078,
       "lng": 149.048
     },

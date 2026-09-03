@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-09-03T12:12:01Z",
+  "fetched_at": "2026-09-03T12:48:15Z",
   "station_count": 296,
   "fuel_types": [
     "E10",
@@ -3023,10 +3023,14 @@
       "address": "46-48 Faulkner RD, Ravenswood TAS 7250",
       "state": "TAS",
       "prices": {
-        "Diesel": 249.9,
-        "U91": 208.9
+        "E10": 205.9,
+        "U95": 224.9,
+        "U98": 233.9,
+        "Premium Diesel": 249.9,
+        "U91": 208.9,
+        "Diesel": 249.9
       },
-      "updated": "2026-08-24T23:49:23Z",
+      "updated": "2026-09-03T12:37:13Z",
       "lat": -41.4237153,
       "lng": 147.1799574
     },

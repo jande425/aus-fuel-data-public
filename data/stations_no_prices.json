@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-03T01:06:16Z",
+  "fetched_at": "2026-09-03T02:39:31Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1270,
   "by_state": {
-    "ACT": 7,
+    "ACT": 8,
     "NSW": 1157,
     "NT": 29,
-    "QLD": 31,
-    "SA": 31,
+    "QLD": 30,
+    "SA": 29,
     "TAS": 1,
     "VIC": 16
   },
@@ -17,8 +17,8 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 80,
-    "Independent": 73,
     "Chargefox": 72,
+    "Independent": 72,
     "7-Eleven": 66,
     "BP": 54,
     "NRMA": 45,
@@ -26,14 +26,14 @@
     "JOLT": 20,
     "Ampol": 19,
     "Caltex": 12,
-    "United": 10,
     "Shell": 10,
     "Puma Energy": 10,
+    "Metro Fuel": 9,
+    "United": 9,
     "EVUp": 9,
     "Evie Networks": 8,
-    "Metro Fuel": 8,
-    "Mobil": 8,
     "Liberty": 7,
+    "Mobil": 7,
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
@@ -51,8 +51,8 @@
     "Perrys": 1,
     "Solo": 1,
     "PRIME ROUTE": 1,
-    "Apco": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -108,6 +108,15 @@
       "state": "ACT",
       "lat": -35.185475,
       "lng": 149.13353
+    },
+    {
+      "brand": "Metro Fuel",
+      "code": "ACT:20086",
+      "name": "Metro Petroleum Scullin",
+      "address": "Garage 120 Ross Smith Cr, Scullin ACT 2614",
+      "state": "ACT",
+      "lat": -35.23321,
+      "lng": 149.041228
     },
     {
       "brand": "Chargefox",
@@ -11096,23 +11105,6 @@
       ]
     },
     {
-      "brand": "United",
-      "code": "QLD:61402340",
-      "name": "United Ingham",
-      "address": "1 Herbert St, QLD 4850",
-      "state": "QLD",
-      "lat": -18.650099,
-      "lng": 146.156341,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "QLD:61477638",
       "name": "Wowan Roadhouse",
@@ -11178,19 +11170,6 @@
         "Diesel",
         "U91",
         "U95"
-      ]
-    },
-    {
-      "brand": "Independent",
-      "code": "SA:61577271",
-      "name": "Cape Jaffa Holiday Park",
-      "address": "18 King Drive, SA 5275",
-      "state": "SA",
-      "lat": -36.943158,
-      "lng": 139.685603,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91"
       ]
     },
     {
@@ -11329,21 +11308,6 @@
       "lng": 140.796617,
       "unavailable_fuels": [
         "U91"
-      ]
-    },
-    {
-      "brand": "Mobil",
-      "code": "SA:61501026",
-      "name": "Mobil Blair Athol",
-      "address": "351 Prospect Rd, SA 5084",
-      "state": "SA",
-      "lat": -34.86346166281097,
-      "lng": 138.59260236441807,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {

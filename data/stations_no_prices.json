@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-03T02:39:31Z",
+  "fetched_at": "2026-09-03T06:09:05Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1270,
+  "station_count": 1269,
   "by_state": {
     "ACT": 8,
-    "NSW": 1157,
+    "NSW": 1155,
     "NT": 29,
     "QLD": 30,
     "SA": 29,
     "TAS": 1,
-    "VIC": 16
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 67,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -28,10 +28,10 @@
     "Caltex": 12,
     "Shell": 10,
     "Puma Energy": 10,
-    "Metro Fuel": 9,
     "United": 9,
     "EVUp": 9,
     "Evie Networks": 8,
+    "Metro Fuel": 7,
     "Liberty": 7,
     "Mobil": 7,
     "Pearl Energy": 5,
@@ -51,8 +51,8 @@
     "Perrys": 1,
     "Solo": 1,
     "PRIME ROUTE": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "Apco": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -6573,15 +6573,6 @@
     },
     {
       "brand": "Metro Fuel",
-      "code": "NSW:18130",
-      "name": "Metro Heddon Greta",
-      "address": "81-83 Main Road, Heddon Greta NSW 2321",
-      "state": "NSW",
-      "lat": -32.805328,
-      "lng": 151.507084
-    },
-    {
-      "brand": "Metro Fuel",
       "code": "NSW:20085",
       "name": "Metro Orange- Self-serve",
       "address": "1686 Forest RD, Orange NSW 2800",
@@ -6597,15 +6588,6 @@
       "state": "NSW",
       "lat": -33.00878,
       "lng": 151.710266
-    },
-    {
-      "brand": "Metro Fuel",
-      "code": "NSW:18425",
-      "name": "Metro Petroleum Saratoga",
-      "address": "13-15 Village RD, Saratoga NSW 2251",
-      "state": "NSW",
-      "lat": -33.475356,
-      "lng": 151.353215
     },
     {
       "brand": "Metro Fuel",
@@ -11480,6 +11462,23 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:jqO8KCHBEB8UQ+8WlzL5KI/SxtF46BUvSilbARXIIks=",
+      "name": "7-Eleven Cranbourne North",
+      "address": "945 South Gippsland Highway, Cranbourne, 3977",
+      "state": "VIC",
+      "lat": -38.07477266293595,
+      "lng": 145.27264933700445,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "7-Eleven",

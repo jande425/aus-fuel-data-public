@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-03T21:48:16Z",
+  "fetched_at": "2026-09-03T22:32:40Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1270,
   "by_state": {
     "ACT": 8,
     "NSW": 1155,
     "NT": 29,
-    "QLD": 30,
+    "QLD": 31,
     "SA": 29,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 80,
+    "Reddy Express": 81,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 67,
+    "7-Eleven": 66,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -11055,6 +11055,22 @@
       "lng": 149.797847
     },
     {
+      "brand": "Reddy Express",
+      "code": "QLD:61401945",
+      "name": "Shell Reddy Express Breakfast Creek",
+      "address": "94 Breakfast Creek Rd, QLD 4006",
+      "state": "QLD",
+      "lat": -27.446338,
+      "lng": 153.042061,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "QLD:61470864",
       "name": "Somerset Dam General Store",
@@ -11464,23 +11480,6 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:jqO8KCHBEB8UQ+8WlzL5KI/SxtF46BUvSilbARXIIks=",
-      "name": "7-Eleven Cranbourne North",
-      "address": "945 South Gippsland Highway, Cranbourne, 3977",
-      "state": "VIC",
-      "lat": -38.07477266293595,
-      "lng": 145.27264933700445,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "7-Eleven",

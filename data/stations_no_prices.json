@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T07:41:01Z",
+  "fetched_at": "2026-09-03T12:12:01Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1270,
   "by_state": {
@@ -19,8 +19,8 @@
     "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 67,
-    "BP": 54,
+    "7-Eleven": 68,
+    "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -10786,6 +10786,22 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "QLD:61477890",
+      "name": "7-Eleven Eight Mile Plains",
+      "address": "2660 Logan Road, QLD 4113",
+      "state": "QLD",
+      "lat": -27.585578,
+      "lng": 153.103765,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "QLD:61402130",
       "name": "7-Eleven Robina",
       "address": "Robina Town Centre Dr, QLD 4226",
@@ -10817,20 +10833,6 @@
       "state": "QLD",
       "lat": -27.790458,
       "lng": 151.411238
-    },
-    {
-      "brand": "BP",
-      "code": "QLD:61402866",
-      "name": "BP Biggenden",
-      "address": "16 Alfred Street, QLD 4621",
-      "state": "QLD",
-      "lat": -25.507205,
-      "lng": 152.046392,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "Independent",

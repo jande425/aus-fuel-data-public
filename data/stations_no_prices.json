@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-02T23:33:19Z",
+  "fetched_at": "2026-09-03T00:29:52Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1272,
   "by_state": {
     "ACT": 7,
-    "NSW": 1156,
+    "NSW": 1157,
     "NT": 29,
     "QLD": 30,
-    "SA": 33,
+    "SA": 32,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 16
   },
   "by_brand": {
     "Exploren": 236,
@@ -32,28 +32,28 @@
     "EVUp": 9,
     "Evie Networks": 8,
     "Metro Fuel": 8,
+    "Mobil": 8,
     "Liberty": 7,
-    "Mobil": 7,
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
-    "On the Run": 3,
     "Budget": 2,
     "Indervon": 2,
+    "Ampol Breeze": 1,
     "Westside": 1,
     "Lowes": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Ampol Foodary": 1,
     "Arko Energy": 1,
+    "On the Run": 1,
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Solo": 1,
     "PRIME ROUTE": 1,
-    "ETA PETROLEUM": 1,
     "Apco": 1,
-    "Endeavour Energy Fuels": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -2206,6 +2206,15 @@
       "state": "NSW",
       "lat": -32.719967,
       "lng": 152.135661
+    },
+    {
+      "brand": "Ampol Breeze",
+      "code": "NSW:18170",
+      "name": "Ampol Breeze Moruya",
+      "address": "80-84 Campbell Street, MORUYA NSW 2537",
+      "state": "NSW",
+      "lat": -35.912016,
+      "lng": 150.082374
     },
     {
       "brand": "Ampol",
@@ -11322,6 +11331,21 @@
     },
     {
       "brand": "Mobil",
+      "code": "SA:61501026",
+      "name": "Mobil Blair Athol",
+      "address": "351 Prospect Rd, SA 5084",
+      "state": "SA",
+      "lat": -34.86346166281097,
+      "lng": 138.59260236441807,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Mobil",
       "code": "SA:61501289",
       "name": "Mobil Torrensville",
       "address": "239 Henley Beach Rd, SA 5031",
@@ -11356,24 +11380,6 @@
         "Diesel",
         "U91"
       ]
-    },
-    {
-      "brand": "On the Run",
-      "code": "SA:61501206",
-      "name": "OTR Alberton",
-      "address": "156 Port Rd, SA 5014",
-      "state": "SA",
-      "lat": -34.85935020236246,
-      "lng": 138.51304362392523
-    },
-    {
-      "brand": "On the Run",
-      "code": "SA:61501387",
-      "name": "OTR Aldinga",
-      "address": "3 Port Rd, SA 5173",
-      "state": "SA",
-      "lat": -35.26794594158466,
-      "lng": 138.48441780985644
     },
     {
       "brand": "Independent",
@@ -11611,18 +11617,6 @@
       "unavailable_fuels": [
         "U91",
         "U98"
-      ]
-    },
-    {
-      "brand": "Endeavour Energy Fuels",
-      "code": "VIC:yYmyUDQoGxqlRrrLYu+HCOtLuC8lwzdV8CKz6AZcHrw=",
-      "name": "Endeavour Shepparton",
-      "address": "11  ENTERPRISE Drive, Shepparton, 3630",
-      "state": "VIC",
-      "lat": -36.38562113,
-      "lng": 145.4297932,
-      "unavailable_fuels": [
-        "Diesel"
       ]
     },
     {

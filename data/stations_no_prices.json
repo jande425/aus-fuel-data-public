@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T22:20:15Z",
+  "fetched_at": "2026-09-04T23:20:13Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1267,
   "by_state": {
@@ -16,10 +16,10 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 80,
+    "Reddy Express": 79,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 67,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -50,8 +50,8 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "Apco": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -692,6 +692,15 @@
       "state": "NSW",
       "lat": -33.74687,
       "lng": 151.050803
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:20891",
+      "name": "7-Eleven West Wagga Wagga",
+      "address": "29 Pearson ST, Wagga Wagga NSW 2650",
+      "state": "NSW",
+      "lat": -35.118783,
+      "lng": 147.345433
     },
     {
       "brand": "Exploren",
@@ -8378,15 +8387,6 @@
       "state": "NSW",
       "lat": -31.277055,
       "lng": 149.278375
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:291",
-      "name": "Shell Reddy Express Cremorne",
-      "address": "227 Military Rd, Cremorne NSW 2090",
-      "state": "NSW",
-      "lat": -33.830574,
-      "lng": 151.226235
     },
     {
       "brand": "Reddy Express",

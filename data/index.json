@@ -1,13 +1,11 @@
 {
-  "last_updated": "2026-09-04T06:16:11Z",
-  "total_stations": 7870,
-  "total_states": 8,
+  "last_updated": "2026-09-04T07:12:16Z",
+  "total_stations": 5415,
+  "total_states": 5,
   "fuel_types": [
-    "B20",
     "Diesel",
     "E10",
     "E85",
-    "EV",
     "LAF",
     "LNG",
     "LPG",
@@ -18,61 +16,40 @@
     "U98"
   ],
   "states": {
-    "ACT": {
-      "station_count": 63,
-      "price_count": 267,
-      "file": "act/latest.json",
-      "checksum": "d5c0b5ea",
-      "size_bytes": 25661
-    },
-    "NSW": {
-      "station_count": 2096,
-      "price_count": 8401,
-      "file": "nsw/latest.json",
-      "checksum": "3444105b",
-      "size_bytes": 833326
-    },
     "NT": {
       "station_count": 210,
       "price_count": 573,
       "file": "nt/latest.json",
-      "checksum": "7b0020a3",
+      "checksum": "9e383cc0",
       "size_bytes": 79570
     },
     "QLD": {
       "station_count": 1776,
       "price_count": 6894,
       "file": "qld/latest.json",
-      "checksum": "e2925cb6",
+      "checksum": "40bca9d1",
       "size_bytes": 700713
     },
     "SA": {
       "station_count": 696,
-      "price_count": 2461,
+      "price_count": 2460,
       "file": "sa/latest.json",
-      "checksum": "15d0ed66",
-      "size_bytes": 269474
-    },
-    "TAS": {
-      "station_count": 296,
-      "price_count": 1444,
-      "file": "tas/latest.json",
-      "checksum": "ff34686f",
-      "size_bytes": 124971
+      "checksum": "9c170341",
+      "size_bytes": 269504
     },
     "VIC": {
       "station_count": 1738,
-      "price_count": 7142,
+      "price_count": 7141,
       "file": "vic/latest.json",
-      "checksum": "bf7e2990",
-      "size_bytes": 781024
+      "checksum": "7032826d",
+      "size_bytes": 781053
     },
     "WA": {
       "station_count": 995,
-      "price_count": 3371,
+      "price_count": 3372,
       "file": "wa/latest.json",
-      "checksum": "3fd92a46",
-      "size_bytes": 509715
+      "checksum": "3e49a227",
+      "size_bytes": 624823
     }
   },
   "files": {

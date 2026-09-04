@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T02:36:19Z",
+  "fetched_at": "2026-09-04T06:16:11Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1269,
   "by_state": {
@@ -18,9 +18,9 @@
     "Independent EV": 99,
     "Reddy Express": 80,
     "Chargefox": 72,
-    "Independent": 71,
+    "Independent": 72,
     "7-Eleven": 66,
-    "BP": 54,
+    "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -37,12 +37,12 @@
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
+    "Ampol Foodary": 2,
     "Budget": 2,
-    "Astron": 2,
     "Indervon": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
-    "Ampol Foodary": 1,
+    "Astron": 1,
     "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
@@ -51,8 +51,8 @@
     "Solo": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -2226,6 +2226,15 @@
     },
     {
       "brand": "Ampol Foodary",
+      "code": "NSW:18340",
+      "name": "Ampol Foodary Coolongolook",
+      "address": "Corner Pacific Highway and Midge Street, Coolongolook NSW 2423",
+      "state": "NSW",
+      "lat": -32.216448,
+      "lng": 152.322777
+    },
+    {
+      "brand": "Ampol Foodary",
       "code": "NSW:20046",
       "name": "Ampol Foodary Halfway Creek",
       "address": "50 Kungala RD, Halfway Creek NSW 2460",
@@ -2457,15 +2466,6 @@
       "state": "NSW",
       "lat": -32.06532,
       "lng": 152.532723
-    },
-    {
-      "brand": "BP",
-      "code": "NSW:1799",
-      "name": "BP Bondi",
-      "address": "185 Bondi Rd, Bondi NSW 2026",
-      "state": "NSW",
-      "lat": -33.894319,
-      "lng": 151.264766
     },
     {
       "brand": "BP",
@@ -11517,20 +11517,6 @@
       ]
     },
     {
-      "brand": "Astron",
-      "code": "VIC:nFgdJDzX7EOIyeHhvunGFGVrNG1Ui50G1I/EP3XyO64=",
-      "name": "Astron Mitcham",
-      "address": "447 Whitehorse Road, Mitcham, 3132",
-      "state": "VIC",
-      "lat": -37.8167024,
-      "lng": 145.1888196,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "U91"
-      ]
-    },
-    {
       "brand": "Bowser Bean",
       "code": "VIC:nkqbS3FzerduQEnemijbd02NnPKm1F0+1LJLM/xFTl4=",
       "name": "BP Kilmore - Temporarily closed",
@@ -11701,6 +11687,19 @@
         "Premium Diesel",
         "U91",
         "U98"
+      ]
+    },
+    {
+      "brand": "Independent",
+      "code": "VIC:Q6dqmBtrzT351ZklVMaIycS9hck028DfrR5H4850vuM=",
+      "name": "Stephens Motors",
+      "address": "13-17 Conness Street, CHILTERN, 3683",
+      "state": "VIC",
+      "lat": -36.15109177,
+      "lng": 146.60752944,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91"
       ]
     },
     {

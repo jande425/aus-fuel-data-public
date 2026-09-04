@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T17:35:03Z",
+  "last_updated": "2026-09-04T18:00:45Z",
   "total_stations": 5416,
   "total_states": 5,
   "fuel_types": [
@@ -20,35 +20,35 @@
       "station_count": 210,
       "price_count": 573,
       "file": "nt/latest.json",
-      "checksum": "9253b652",
+      "checksum": "1e85ac2e",
       "size_bytes": 79570
     },
     "QLD": {
       "station_count": 1776,
       "price_count": 6896,
       "file": "qld/latest.json",
-      "checksum": "5a4f5b81",
+      "checksum": "628b3bff",
       "size_bytes": 700690
     },
     "SA": {
       "station_count": 696,
       "price_count": 2463,
       "file": "sa/latest.json",
-      "checksum": "3f7a2438",
+      "checksum": "ed52cce1",
       "size_bytes": 269488
     },
     "VIC": {
       "station_count": 1739,
       "price_count": 7147,
       "file": "vic/latest.json",
-      "checksum": "67efa99b",
+      "checksum": "1ac530e7",
       "size_bytes": 781433
     },
     "WA": {
       "station_count": 995,
       "price_count": 3372,
       "file": "wa/latest.json",
-      "checksum": "a077a841",
+      "checksum": "8927d160",
       "size_bytes": 509740
     }
   },

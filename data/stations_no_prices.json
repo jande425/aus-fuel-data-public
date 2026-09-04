@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-04T12:12:41Z",
+  "fetched_at": "2026-09-04T12:42:05Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1268,
+  "station_count": 1269,
   "by_state": {
     "ACT": 8,
     "NSW": 1154,
     "NT": 29,
-    "QLD": 30,
+    "QLD": 31,
     "SA": 29,
     "TAS": 1,
     "VIC": 17
@@ -46,6 +46,7 @@
     "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
+    "U-Go": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "PRIME ROUTE": 1,
@@ -11060,6 +11061,21 @@
       "state": "QLD",
       "lat": -18.290183,
       "lng": 143.549026
+    },
+    {
+      "brand": "U-Go",
+      "code": "QLD:61401828",
+      "name": "U-Go Tewantin",
+      "address": "44 Doonella St (Cnr Memorial Ave), QLD 4565",
+      "state": "QLD",
+      "lat": -26.39253276459048,
+      "lng": 153.0391744714785,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95"
+      ]
     },
     {
       "brand": "United",

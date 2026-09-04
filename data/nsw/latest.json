@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-04T12:12:41Z",
+  "fetched_at": "2026-09-04T12:42:05Z",
   "station_count": 2096,
   "fuel_types": [
     "E10",
@@ -125,11 +125,11 @@
       "address": "39 Pangee St, NYNGAN NSW 2825",
       "state": "NSW",
       "prices": {
-        "Diesel": 255.5,
+        "Diesel": 257.5,
         "U98": 236.5,
         "U91": 214.5
       },
-      "updated": "2026-09-03T12:15:47Z",
+      "updated": "2026-09-04T12:32:41Z",
       "lat": -31.560944,
       "lng": 147.191497
     },
@@ -4152,12 +4152,12 @@
       "address": "36-38 Lane Cove Rd, RYDE NSW 2112",
       "state": "NSW",
       "prices": {
-        "E10": 192.5,
+        "E10": 197.5,
         "U98": 219.5,
-        "Premium Diesel": 234.9,
+        "Premium Diesel": 239.9,
         "U91": 199.5
       },
-      "updated": "2026-09-04T09:52:34Z",
+      "updated": "2026-09-04T12:35:44Z",
       "lat": -33.807511,
       "lng": 151.108604
     },
@@ -6944,13 +6944,13 @@
       "address": "5 Hanrahan Place, ORANGE NSW 2800",
       "state": "NSW",
       "prices": {
-        "Diesel": 240.5,
-        "E10": 196.5,
-        "U95": 212.5,
-        "Premium Diesel": 242.5,
-        "U91": 198.5
+        "Diesel": 248.5,
+        "E10": 198.5,
+        "U95": 214.5,
+        "Premium Diesel": 250.5,
+        "U91": 200.5
       },
-      "updated": "2026-09-03T12:16:12Z",
+      "updated": "2026-09-04T12:39:24Z",
       "lat": -33.259595,
       "lng": 149.114342
     },
@@ -12704,12 +12704,12 @@
       "address": "62 Walters Road, Blacktown NSW 2148",
       "state": "NSW",
       "prices": {
-        "E10": 202.9,
-        "U98": 230.9,
-        "Premium Diesel": 254.9,
-        "U91": 204.9
+        "E10": 204.9,
+        "U98": 232.9,
+        "Premium Diesel": 255.9,
+        "U91": 206.9
       },
-      "updated": "2026-09-03T22:18:19Z",
+      "updated": "2026-09-04T12:15:18Z",
       "lat": -33.775908,
       "lng": 150.894749
     },
@@ -19883,12 +19883,12 @@
       "address": "124 Nymagee Street, Nyngan NSW 2825",
       "state": "NSW",
       "prices": {
-        "Diesel": 253.5,
+        "Diesel": 255.5,
         "E10": 211.5,
         "U95": 227.5,
         "U91": 213.5
       },
-      "updated": "2026-09-03T12:16:15Z",
+      "updated": "2026-09-04T12:32:12Z",
       "lat": -31.563144,
       "lng": 147.200133
     },
@@ -24151,13 +24151,13 @@
       "address": "9 Davies Rd, Padstow NSW 2211",
       "state": "NSW",
       "prices": {
-        "Diesel": 249.9,
-        "E10": 197.9,
-        "U98": 226.9,
-        "Premium Diesel": 249.9,
-        "U91": 199.9
+        "Diesel": 252.9,
+        "E10": 199.9,
+        "U98": 229.9,
+        "Premium Diesel": 252.9,
+        "U91": 201.9
       },
-      "updated": "2026-09-03T05:57:52Z",
+      "updated": "2026-09-04T12:31:34Z",
       "lat": -33.947202,
       "lng": 151.037156
     },
@@ -29620,9 +29620,10 @@
       "prices": {
         "U95": 197.9,
         "U98": 207.9,
-        "Premium Diesel": 233.9
+        "Premium Diesel": 233.9,
+        "U91": 185.9
       },
-      "updated": "2026-09-03T23:13:56Z",
+      "updated": "2026-09-04T12:20:49Z",
       "lat": -33.891991,
       "lng": 151.057247
     },

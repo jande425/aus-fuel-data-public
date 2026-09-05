@@ -1,11 +1,13 @@
 {
-  "last_updated": "2026-09-05T21:29:36Z",
-  "total_stations": 5416,
-  "total_states": 5,
+  "last_updated": "2026-09-05T22:02:39Z",
+  "total_stations": 7869,
+  "total_states": 8,
   "fuel_types": [
+    "B20",
     "Diesel",
     "E10",
     "E85",
+    "EV",
     "LAF",
     "LNG",
     "LPG",
@@ -16,39 +18,60 @@
     "U98"
   ],
   "states": {
+    "ACT": {
+      "station_count": 63,
+      "price_count": 267,
+      "file": "act/latest.json",
+      "checksum": "4a8b985c",
+      "size_bytes": 25650
+    },
+    "NSW": {
+      "station_count": 2092,
+      "price_count": 8385,
+      "file": "nsw/latest.json",
+      "checksum": "b5422be8",
+      "size_bytes": 831675
+    },
     "NT": {
       "station_count": 210,
       "price_count": 573,
       "file": "nt/latest.json",
-      "checksum": "d3348351",
+      "checksum": "019dae30",
       "size_bytes": 79572
     },
     "QLD": {
-      "station_count": 1776,
-      "price_count": 6896,
+      "station_count": 1777,
+      "price_count": 6902,
       "file": "qld/latest.json",
-      "checksum": "e348df09",
-      "size_bytes": 700614
+      "checksum": "2ebcd940",
+      "size_bytes": 701044
     },
     "SA": {
       "station_count": 696,
       "price_count": 2470,
       "file": "sa/latest.json",
-      "checksum": "3597e225",
+      "checksum": "9f56fc8b",
       "size_bytes": 269279
     },
+    "TAS": {
+      "station_count": 296,
+      "price_count": 1442,
+      "file": "tas/latest.json",
+      "checksum": "05987697",
+      "size_bytes": 124924
+    },
     "VIC": {
-      "station_count": 1739,
-      "price_count": 7151,
+      "station_count": 1740,
+      "price_count": 7154,
       "file": "vic/latest.json",
-      "checksum": "4b13c28d",
-      "size_bytes": 781264
+      "checksum": "de4be1ff",
+      "size_bytes": 781694
     },
     "WA": {
       "station_count": 995,
       "price_count": 3371,
       "file": "wa/latest.json",
-      "checksum": "e450002b",
+      "checksum": "f38de8d1",
       "size_bytes": 509708
     }
   },

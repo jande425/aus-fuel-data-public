@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-05T07:19:28Z",
+  "fetched_at": "2026-09-05T11:21:21Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1269,
+  "station_count": 1271,
   "by_state": {
     "ACT": 8,
-    "NSW": 1156,
+    "NSW": 1158,
     "NT": 29,
     "QLD": 29,
     "SA": 29,
@@ -19,7 +19,7 @@
     "Reddy Express": 79,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 67,
+    "7-Eleven": 68,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -42,6 +42,7 @@
     "Indervon": 2,
     "Westside": 1,
     "EG Ampol": 1,
+    "Lowes": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
@@ -513,6 +514,15 @@
       "state": "NSW",
       "lat": -33.951306,
       "lng": 151.24905
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:17120",
+      "name": "7-Eleven McGraths Hill",
+      "address": "142 Windsor RD, Mcgraths Hill NSW 2756",
+      "state": "NSW",
+      "lat": -33.616849,
+      "lng": 150.834184
     },
     {
       "brand": "7-Eleven",
@@ -6300,6 +6310,15 @@
       "state": "NSW",
       "lat": -34.311796,
       "lng": 148.294912
+    },
+    {
+      "brand": "Lowes",
+      "code": "NSW:1943",
+      "name": "Lowes Orange(Unmanned)",
+      "address": "76-82 Peisley ST, Orange NSW 2800",
+      "state": "NSW",
+      "lat": -33.290252,
+      "lng": 149.102721
     },
     {
       "brand": "NRMA",

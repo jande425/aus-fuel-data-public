@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-05T22:02:39Z",
+  "fetched_at": "2026-09-05T22:36:35Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1270,
   "by_state": {
     "ACT": 8,
-    "NSW": 1158,
+    "NSW": 1157,
     "NT": 29,
     "QLD": 29,
     "SA": 29,
@@ -41,7 +41,6 @@
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
-    "EG Ampol": 1,
     "Lowes": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
@@ -4330,15 +4329,6 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "NSW:660",
-      "name": "EG Ampol Chatswood East",
-      "address": "364-366 Eastern Valley Way, Chatswood East NSW 2067",
-      "state": "NSW",
-      "lat": -33.786662,
-      "lng": 151.201055
     },
     {
       "brand": "EVUp",

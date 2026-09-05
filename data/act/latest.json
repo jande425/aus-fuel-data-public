@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-05T22:02:39Z",
+  "fetched_at": "2026-09-05T22:36:35Z",
   "station_count": 63,
   "fuel_types": [
     "E10",
@@ -394,13 +394,13 @@
       "address": "Cnr Tharwa Drive & Norman Lindsay Street, Conder ACT 2906",
       "state": "ACT",
       "prices": {
-        "E10": 212.9,
-        "U95": 232.9,
-        "U98": 242.9,
+        "E10": 213.9,
+        "U95": 233.9,
+        "U98": 243.9,
         "Premium Diesel": 270.9,
-        "U91": 214.9
+        "U91": 215.9
       },
-      "updated": "2026-09-05T03:15:22Z",
+      "updated": "2026-09-05T22:33:15Z",
       "lat": -35.4582,
       "lng": 149.092
     },
@@ -427,12 +427,12 @@
       "address": "1 Cape Street, Dickson ACT 2602",
       "state": "ACT",
       "prices": {
-        "U95": 231.9,
-        "U98": 241.9,
+        "U95": 232.9,
+        "U98": 242.9,
         "Premium Diesel": 268.9,
-        "U91": 214.9
+        "U91": 215.9
       },
-      "updated": "2026-09-04T21:48:16Z",
+      "updated": "2026-09-05T22:15:13Z",
       "lat": -35.2511,
       "lng": 149.137
     },
@@ -524,12 +524,12 @@
       "address": "Cnr Scollay St & Soward Way, Greenway ACT 2900",
       "state": "ACT",
       "prices": {
-        "U95": 231.9,
-        "U98": 241.9,
+        "U95": 232.9,
+        "U98": 242.9,
         "Premium Diesel": 268.9,
-        "U91": 214.9
+        "U91": 215.9
       },
-      "updated": "2026-09-04T21:48:16Z",
+      "updated": "2026-09-05T22:15:13Z",
       "lat": -35.4188,
       "lng": 149.067
     },
@@ -848,14 +848,14 @@
       "state": "ACT",
       "prices": {
         "Diesel": 268.9,
-        "E10": 212.9,
+        "E10": 213.9,
         "E85": 239.9,
         "LPG": 120.9,
-        "U95": 230.9,
-        "U98": 238.9,
-        "U91": 214.9
+        "U95": 231.9,
+        "U98": 239.9,
+        "U91": 215.9
       },
-      "updated": "2026-09-04T23:40:04Z",
+      "updated": "2026-09-05T22:35:23Z",
       "lat": -35.3924,
       "lng": 149.069
     },

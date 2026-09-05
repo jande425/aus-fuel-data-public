@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-05T19:01:03Z",
+  "fetched_at": "2026-09-05T19:50:26Z",
   "station_count": 2092,
   "fuel_types": [
     "E10",
@@ -140,13 +140,13 @@
       "address": "924 Victoria Rd, WEST RYDE NSW 2114",
       "state": "NSW",
       "prices": {
-        "E10": 192.9,
-        "U95": 211.9,
-        "U98": 221.9,
-        "Premium Diesel": 237.9,
-        "U91": 194.9
+        "E10": 194.9,
+        "U95": 213.9,
+        "U98": 223.9,
+        "Premium Diesel": 239.9,
+        "U91": 196.9
       },
-      "updated": "2026-08-25T23:27:16Z",
+      "updated": "2026-09-05T19:27:12Z",
       "lat": -33.810887,
       "lng": 151.093485
     },
@@ -1904,13 +1904,13 @@
       "address": "2 Alison Rd, RANDWICK NSW 2031",
       "state": "NSW",
       "prices": {
-        "E10": 207.9,
-        "U95": 226.9,
-        "U98": 236.9,
+        "E10": 206.9,
+        "U95": 225.9,
+        "U98": 235.9,
         "Premium Diesel": 259.9,
-        "U91": 209.9
+        "U91": 208.9
       },
-      "updated": "2026-09-04T02:57:24Z",
+      "updated": "2026-09-05T19:12:27Z",
       "lat": -33.906604,
       "lng": 151.232031
     },
@@ -9499,11 +9499,11 @@
       "address": "114 Bathurst ST, Condobolin NSW 2877",
       "state": "NSW",
       "prices": {
-        "Diesel": 257.9,
+        "Diesel": 260.9,
         "U98": 240.9,
-        "U91": 212.9
+        "U91": 215.9
       },
-      "updated": "2026-08-11T04:09:12Z",
+      "updated": "2026-09-05T19:45:18Z",
       "lat": -33.088715,
       "lng": 147.146895
     },
@@ -13725,8 +13725,6 @@
       "state": "NSW",
       "prices": {
         "E10": 199.9,
-        "U95": 218.9,
-        "Premium Diesel": 252.9,
         "U91": 201.9
       },
       "updated": "2026-09-04T07:48:15Z",
@@ -19683,14 +19681,14 @@
       "address": "740 Hume Highway, Yagoona NSW 2199",
       "state": "NSW",
       "prices": {
-        "Diesel": 249.9,
-        "E10": 196.5,
-        "U95": 217.9,
-        "U98": 225.9,
-        "Premium Diesel": 251.9,
-        "U91": 198.5
+        "Diesel": 250.9,
+        "E10": 198.5,
+        "U95": 218.9,
+        "U98": 227.9,
+        "Premium Diesel": 252.9,
+        "U91": 200.5
       },
-      "updated": "2026-09-04T22:40:39Z",
+      "updated": "2026-09-05T19:50:21Z",
       "lat": -33.904856,
       "lng": 151.011464
     },
@@ -24839,12 +24837,12 @@
       "address": "320 Lane Cove Road, North Ryde NSW 2113",
       "state": "NSW",
       "prices": {
-        "U95": 219.9,
-        "U98": 222.9,
+        "U95": 215.9,
+        "U98": 217.9,
         "Premium Diesel": 238.9,
         "U91": 196.9
       },
-      "updated": "2026-09-04T23:56:54Z",
+      "updated": "2026-09-05T19:16:34Z",
       "lat": -33.792349,
       "lng": 151.120171
     },
@@ -31296,12 +31294,12 @@
       "address": "67 Stewart Av, Hamilton South NSW 2303",
       "state": "NSW",
       "prices": {
-        "E10": 196.5,
-        "U98": 223.5,
-        "Premium Diesel": 243.5,
-        "U91": 199.5
+        "E10": 199.5,
+        "U98": 225.5,
+        "Premium Diesel": 245.5,
+        "U91": 203.5
       },
-      "updated": "2026-09-03T22:42:28Z",
+      "updated": "2026-09-05T19:08:23Z",
       "lat": -32.932128,
       "lng": 151.753307
     },
@@ -32233,13 +32231,13 @@
       "address": "57 Central Coast HWY, West Gosford NSW 2250",
       "state": "NSW",
       "prices": {
-        "E10": 194.9,
+        "E10": 199.9,
         "U95": 219.7,
         "U98": 226.7,
-        "Premium Diesel": 249.9,
+        "Premium Diesel": 254.9,
         "U91": 201.9
       },
-      "updated": "2026-09-05T09:01:11Z",
+      "updated": "2026-09-05T19:47:51Z",
       "lat": -33.42695,
       "lng": 151.32893
     },
@@ -33120,12 +33118,12 @@
       "address": "105 Wyee RD, Wyee NSW 2259",
       "state": "NSW",
       "prices": {
-        "Diesel": 238.5,
-        "U95": 207.5,
-        "U98": 219.5,
-        "U91": 199.5
+        "Diesel": 245.5,
+        "U95": 211.5,
+        "U98": 224.5,
+        "U91": 202.5
       },
-      "updated": "2026-09-01T01:22:22Z",
+      "updated": "2026-09-05T19:31:15Z",
       "lat": -33.17521,
       "lng": 151.480739
     },

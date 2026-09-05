@@ -1,13 +1,11 @@
 {
-  "last_updated": "2026-09-05T02:37:15Z",
-  "total_stations": 7869,
-  "total_states": 8,
+  "last_updated": "2026-09-05T06:04:53Z",
+  "total_stations": 5418,
+  "total_states": 5,
   "fuel_types": [
-    "B20",
     "Diesel",
     "E10",
     "E85",
-    "EV",
     "LAF",
     "LNG",
     "LPG",
@@ -18,60 +16,39 @@
     "U98"
   ],
   "states": {
-    "ACT": {
-      "station_count": 63,
-      "price_count": 268,
-      "file": "act/latest.json",
-      "checksum": "a822d976",
-      "size_bytes": 25683
-    },
-    "NSW": {
-      "station_count": 2093,
-      "price_count": 8388,
-      "file": "nsw/latest.json",
-      "checksum": "568f9930",
-      "size_bytes": 832053
-    },
     "NT": {
       "station_count": 210,
       "price_count": 573,
       "file": "nt/latest.json",
-      "checksum": "052cb66e",
+      "checksum": "a508a780",
       "size_bytes": 79571
     },
     "QLD": {
       "station_count": 1777,
-      "price_count": 6903,
+      "price_count": 6901,
       "file": "qld/latest.json",
-      "checksum": "44dd6b9f",
-      "size_bytes": 701014
+      "checksum": "9807ac45",
+      "size_bytes": 701074
     },
     "SA": {
       "station_count": 696,
       "price_count": 2469,
       "file": "sa/latest.json",
-      "checksum": "2bfca111",
-      "size_bytes": 269271
-    },
-    "TAS": {
-      "station_count": 296,
-      "price_count": 1443,
-      "file": "tas/latest.json",
-      "checksum": "0f43183d",
-      "size_bytes": 124949
+      "checksum": "103209eb",
+      "size_bytes": 269272
     },
     "VIC": {
-      "station_count": 1739,
-      "price_count": 7149,
+      "station_count": 1740,
+      "price_count": 7153,
       "file": "vic/latest.json",
-      "checksum": "03aad95e",
-      "size_bytes": 781301
+      "checksum": "743621c1",
+      "size_bytes": 781719
     },
     "WA": {
       "station_count": 995,
       "price_count": 3372,
       "file": "wa/latest.json",
-      "checksum": "73155739",
+      "checksum": "5cece44b",
       "size_bytes": 509740
     }
   },

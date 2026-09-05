@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-04T23:20:13Z",
+  "fetched_at": "2026-09-05T00:15:54Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1267,
+  "station_count": 1268,
   "by_state": {
     "ACT": 8,
     "NSW": 1154,
@@ -9,7 +9,7 @@
     "QLD": 29,
     "SA": 29,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
@@ -50,6 +50,7 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
+    "Endeavour Energy Fuels": 1,
     "Apco": 1,
     "ETA PETROLEUM": 1
   },
@@ -11557,6 +11558,20 @@
       "unavailable_fuels": [
         "U91",
         "U98"
+      ]
+    },
+    {
+      "brand": "Endeavour Energy Fuels",
+      "code": "VIC:sW4ZIaEtoaQviCRTJqgjZe+5U1gAz8o92udeHXQCw2Q=",
+      "name": "Endeavour Rhyll",
+      "address": "14 Beach Road, Rhyll, 3923",
+      "state": "VIC",
+      "lat": -38.46521812,
+      "lng": 145.30884865,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95"
       ]
     },
     {

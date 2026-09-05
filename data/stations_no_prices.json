@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-05T00:15:54Z",
+  "fetched_at": "2026-09-05T02:37:15Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1268,
+  "station_count": 1271,
   "by_state": {
     "ACT": 8,
-    "NSW": 1154,
+    "NSW": 1157,
     "NT": 29,
     "QLD": 29,
     "SA": 29,
@@ -19,7 +19,7 @@
     "Reddy Express": 79,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 67,
+    "7-Eleven": 68,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -36,11 +36,12 @@
     "Mobil": 7,
     "Pearl Energy": 5,
     "Everty": 4,
+    "Ampol Foodary": 3,
     "Speedway": 3,
-    "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
+    "EG Ampol": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
@@ -648,6 +649,15 @@
       "state": "NSW",
       "lat": -33.952566,
       "lng": 151.135774
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:20656",
+      "name": "7-Eleven Rouse Hill",
+      "address": "294 Annangrove RD, Rouse Hill NSW 2155",
+      "state": "NSW",
+      "lat": -33.662153,
+      "lng": 150.922971
     },
     {
       "brand": "7-Eleven",
@@ -2241,6 +2251,15 @@
       "state": "NSW",
       "lat": -32.216448,
       "lng": 152.322777
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:17581",
+      "name": "Ampol Foodary Five Dock",
+      "address": "Ramsay Rd & Fairlight Street, FIVE DOCK NSW 2046",
+      "state": "NSW",
+      "lat": -33.870023,
+      "lng": 151.130434
     },
     {
       "brand": "Ampol Foodary",
@@ -4311,6 +4330,15 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "NSW:660",
+      "name": "EG Ampol Chatswood East",
+      "address": "364-366 Eastern Valley Way, Chatswood East NSW 2067",
+      "state": "NSW",
+      "lat": -33.786662,
+      "lng": 151.201055
     },
     {
       "brand": "EVUp",

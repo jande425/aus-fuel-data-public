@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-06T16:23:14Z",
+  "fetched_at": "2026-09-06T18:31:07Z",
   "station_count": 2094,
   "fuel_types": [
     "E10",
@@ -9218,11 +9218,11 @@
       "address": "190 Waterloo RD, Greenacre NSW 2190",
       "state": "NSW",
       "prices": {
-        "Diesel": 233.7,
-        "U98": 209.7,
-        "U91": 189.7
+        "Diesel": 235.7,
+        "U98": 211.7,
+        "U91": 191.7
       },
-      "updated": "2026-09-04T17:54:33Z",
+      "updated": "2026-09-06T17:54:00Z",
       "lat": -33.906395,
       "lng": 151.056994
     },
@@ -12043,11 +12043,11 @@
       "state": "NSW",
       "prices": {
         "E10": 197.9,
-        "U98": 229.9,
-        "Premium Diesel": 244.9,
+        "U98": 219.9,
+        "Premium Diesel": 239.9,
         "U91": 199.9
       },
-      "updated": "2026-09-01T23:20:50Z",
+      "updated": "2026-09-06T18:09:34Z",
       "lat": -33.915343,
       "lng": 150.974987
     },
@@ -13539,14 +13539,14 @@
       "address": "24 Barrenjoey Road (Corner Darley Street East), Mona Vale NSW 2103",
       "state": "NSW",
       "prices": {
-        "E10": 205.9,
+        "E10": 204.9,
         "LPG": 111.9,
-        "U95": 224.9,
-        "U98": 233.9,
+        "U95": 223.9,
+        "U98": 232.9,
         "Premium Diesel": 262.9,
-        "U91": 207.9
+        "U91": 206.9
       },
-      "updated": "2026-09-05T20:27:14Z",
+      "updated": "2026-09-06T17:12:11Z",
       "lat": -33.676825,
       "lng": 151.308231
     },
@@ -15817,7 +15817,6 @@
       "address": "100 Briens Road, Northmead NSW 2152",
       "state": "NSW",
       "prices": {
-        "Diesel": 257.9,
         "E10": 207.9,
         "U98": 234.9
       },

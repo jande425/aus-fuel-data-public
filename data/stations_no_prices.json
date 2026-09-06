@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-06T12:33:45Z",
+  "fetched_at": "2026-09-06T15:47:02Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1272,
   "by_state": {
     "ACT": 8,
     "NSW": 1156,
@@ -9,7 +9,7 @@
     "QLD": 30,
     "SA": 29,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 19
   },
   "by_brand": {
     "Exploren": 236,
@@ -52,6 +52,7 @@
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
     "ETA PETROLEUM": 1,
+    "24Xpress": 1,
     "Apco": 1
   },
   "stations": [
@@ -11473,6 +11474,21 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
+    },
+    {
+      "brand": "24Xpress",
+      "code": "VIC:uzED/LUsf18+hfDpuwbNIwEo7RbfLOCgiCW7rrhX6Dk=",
+      "name": "24Xpress Taylors Lakes",
+      "address": "25 Melton Highway, Taylors Lakes, 3038",
+      "state": "VIC",
+      "lat": -37.70110869,
+      "lng": 144.79702784,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U98"
+      ]
     },
     {
       "brand": "7-Eleven",

@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-06T12:33:45Z",
+  "fetched_at": "2026-09-06T15:47:02Z",
   "station_count": 63,
   "fuel_types": [
     "E10",
@@ -251,8 +251,7 @@
       "address": "149 Canberra Ave, Fyshwick ACT 2609",
       "state": "ACT",
       "prices": {
-        "U98": 234.9,
-        "U91": 208.9
+        "U98": 234.9
       },
       "updated": "2026-09-04T01:18:16Z",
       "lat": -35.3251,

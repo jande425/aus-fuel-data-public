@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-06T19:53:58Z",
+  "fetched_at": "2026-09-06T21:32:50Z",
   "station_count": 63,
   "fuel_types": [
     "E10",
@@ -22,12 +22,12 @@
       "address": "6 Gold Creek RD, Nicholls ACT 2913",
       "state": "ACT",
       "prices": {
-        "E10": 211.9,
-        "U98": 237.9,
+        "E10": 213.9,
+        "U98": 239.9,
         "Premium Diesel": 269.9,
-        "U91": 213.9
+        "U91": 215.9
       },
-      "updated": "2026-09-04T20:19:26Z",
+      "updated": "2026-09-06T21:07:21Z",
       "lat": -35.19353,
       "lng": 149.086935
     },
@@ -475,12 +475,12 @@
       "address": "94-96 Sheppard St, Hume ACT 2620",
       "state": "ACT",
       "prices": {
-        "U95": 223.9,
-        "U98": 233.9,
+        "U95": 224.9,
+        "U98": 234.9,
         "Premium Diesel": 264.9,
-        "U91": 206.9
+        "U91": 207.9
       },
-      "updated": "2026-09-05T06:09:13Z",
+      "updated": "2026-09-06T21:27:14Z",
       "lat": -35.3923,
       "lng": 149.162
     },
@@ -998,10 +998,10 @@
       "prices": {
         "U95": 239.9,
         "U98": 249.9,
-        "Premium Diesel": 264.9,
-        "U91": 212.9
+        "Premium Diesel": 269.9,
+        "U91": 216.9
       },
-      "updated": "2026-08-25T23:37:42Z",
+      "updated": "2026-09-06T21:20:52Z",
       "lat": -35.334119,
       "lng": 149.169884
     },

@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-06T00:53:55Z",
+  "fetched_at": "2026-09-06T02:33:57Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1274,
+  "station_count": 1272,
   "by_state": {
     "ACT": 8,
     "NSW": 1157,
@@ -9,7 +9,7 @@
     "QLD": 30,
     "SA": 29,
     "TAS": 1,
-    "VIC": 20
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
@@ -20,7 +20,7 @@
     "Chargefox": 72,
     "Independent": 72,
     "7-Eleven": 70,
-    "BP": 55,
+    "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -11570,36 +11570,6 @@
       "lng": 144.94941372,
       "unavailable_fuels": [
         "Diesel",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "BP",
-      "code": "VIC:FTXvNfbzZb33MQCYs5S1GcVHrvuxnM7O2YZCyYvnpgM=",
-      "name": "BP Williamstown North",
-      "address": "268 Kororoit Creek Road, WILLIAMSTOWN NORTH, 3016",
-      "state": "VIC",
-      "lat": -37.85552979,
-      "lng": 144.87012294,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "BP",
-      "code": "VIC:E7GIVtwIgY3PN0X5RlWqLca9jPRlvnM1DIqbyHtNntY=",
-      "name": "Bp Rye",
-      "address": "2053 Point Nepean Road, RYE, 3941",
-      "state": "VIC",
-      "lat": -38.37105483,
-      "lng": 144.8393839,
-      "unavailable_fuels": [
         "Premium Diesel",
         "U91",
         "U95",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T21:32:50Z",
+  "last_updated": "2026-09-06T22:06:25Z",
   "total_stations": 7867,
   "total_states": 8,
   "fuel_types": [
@@ -22,56 +22,56 @@
       "station_count": 63,
       "price_count": 266,
       "file": "act/latest.json",
-      "checksum": "489ba6a4",
+      "checksum": "0a299d4e",
       "size_bytes": 25628
     },
     "NSW": {
       "station_count": 2093,
-      "price_count": 8387,
+      "price_count": 8388,
       "file": "nsw/latest.json",
-      "checksum": "b38a2b27",
-      "size_bytes": 832075
+      "checksum": "d88a6a3b",
+      "size_bytes": 832095
     },
     "NT": {
       "station_count": 210,
       "price_count": 573,
       "file": "nt/latest.json",
-      "checksum": "ad8a4e83",
+      "checksum": "980a07f5",
       "size_bytes": 79572
     },
     "QLD": {
-      "station_count": 1776,
-      "price_count": 6893,
+      "station_count": 1775,
+      "price_count": 6888,
       "file": "qld/latest.json",
-      "checksum": "63402959",
-      "size_bytes": 700695
+      "checksum": "1ea03961",
+      "size_bytes": 700235
     },
     "SA": {
       "station_count": 696,
-      "price_count": 2468,
+      "price_count": 2466,
       "file": "sa/latest.json",
-      "checksum": "6350d9d8",
-      "size_bytes": 269302
+      "checksum": "fe178350",
+      "size_bytes": 269362
     },
     "TAS": {
       "station_count": 296,
-      "price_count": 1443,
+      "price_count": 1442,
       "file": "tas/latest.json",
-      "checksum": "3d5c06f1",
-      "size_bytes": 124949
+      "checksum": "2b8eaf35",
+      "size_bytes": 124916
     },
     "VIC": {
-      "station_count": 1738,
-      "price_count": 7147,
+      "station_count": 1739,
+      "price_count": 7151,
       "file": "vic/latest.json",
-      "checksum": "d80a2b6f",
-      "size_bytes": 780829
+      "checksum": "f85af1ab",
+      "size_bytes": 781262
     },
     "WA": {
       "station_count": 995,
       "price_count": 3371,
       "file": "wa/latest.json",
-      "checksum": "fcde8922",
+      "checksum": "61994331",
       "size_bytes": 509708
     }
   },

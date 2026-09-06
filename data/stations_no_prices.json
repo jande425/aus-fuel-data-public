@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-06T02:33:57Z",
+  "fetched_at": "2026-09-06T06:17:44Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1271,
   "by_state": {
     "ACT": 8,
-    "NSW": 1157,
+    "NSW": 1156,
     "NT": 29,
     "QLD": 30,
     "SA": 29,
@@ -19,7 +19,7 @@
     "Reddy Express": 79,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 70,
+    "7-Eleven": 69,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -513,15 +513,6 @@
       "state": "NSW",
       "lat": -33.951306,
       "lng": 151.24905
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:17120",
-      "name": "7-Eleven McGraths Hill",
-      "address": "142 Windsor RD, Mcgraths Hill NSW 2756",
-      "state": "NSW",
-      "lat": -33.616849,
-      "lng": 150.834184
     },
     {
       "brand": "7-Eleven",

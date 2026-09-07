@@ -2,8 +2,8 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-07T07:49:37Z",
-  "station_count": 63,
+  "fetched_at": "2026-09-07T13:36:56Z",
+  "station_count": 62,
   "fuel_types": [
     "E10",
     "U91",
@@ -244,19 +244,6 @@
       "lng": 149.057
     },
     {
-      "brand": "7-Eleven",
-      "code": "ACT:18790",
-      "name": "7-Eleven Fyshwick",
-      "address": "149 Canberra Ave, Fyshwick ACT 2609",
-      "state": "ACT",
-      "prices": {
-        "U98": 234.9
-      },
-      "updated": "2026-09-04T01:18:16Z",
-      "lat": -35.3251,
-      "lng": 149.154
-    },
-    {
       "brand": "BP",
       "code": "ACT:18808",
       "name": "BP Braddon",
@@ -346,9 +333,9 @@
         "E10": 213.9,
         "U95": 232.9,
         "U98": 241.9,
-        "Premium Diesel": 263.9
+        "Premium Diesel": 265.9
       },
-      "updated": "2026-09-07T07:06:14Z",
+      "updated": "2026-09-07T09:22:53Z",
       "lat": -35.224985,
       "lng": 149.165864
     },
@@ -443,10 +430,10 @@
       "prices": {
         "U95": 225.9,
         "U98": 235.9,
-        "Premium Diesel": 272.9,
+        "Premium Diesel": 274.9,
         "U91": 208.9
       },
-      "updated": "2026-09-07T04:39:15Z",
+      "updated": "2026-09-07T07:51:13Z",
       "lat": -35.183622,
       "lng": 149.125917
     },
@@ -460,10 +447,10 @@
         "E10": 206.9,
         "U95": 225.9,
         "U98": 235.9,
-        "Premium Diesel": 263.9,
+        "Premium Diesel": 265.9,
         "U91": 208.9
       },
-      "updated": "2026-09-07T06:54:16Z",
+      "updated": "2026-09-07T09:09:16Z",
       "lat": -35.2301,
       "lng": 149.151
     },
@@ -508,10 +495,10 @@
       "prices": {
         "U95": 230.9,
         "U98": 240.9,
-        "Premium Diesel": 268.9,
+        "Premium Diesel": 270.9,
         "U91": 213.9
       },
-      "updated": "2026-09-04T04:30:31Z",
+      "updated": "2026-09-07T08:00:31Z",
       "lat": -35.3665,
       "lng": 149.094
     },
@@ -766,10 +753,10 @@
         "E10": 211.9,
         "LPG": 120.9,
         "U98": 239.9,
-        "Premium Diesel": 268.9,
+        "Premium Diesel": 269.9,
         "U91": 213.9
       },
-      "updated": "2026-09-05T01:27:15Z",
+      "updated": "2026-09-07T09:45:18Z",
       "lat": -35.365,
       "lng": 149.094
     },
@@ -931,10 +918,10 @@
         "E10": 211.9,
         "U95": 230.9,
         "U98": 239.9,
-        "Premium Diesel": 268.9,
+        "Premium Diesel": 269.9,
         "U91": 213.9
       },
-      "updated": "2026-09-05T01:24:16Z",
+      "updated": "2026-09-07T09:45:18Z",
       "lat": -35.355061,
       "lng": 149.091106
     },
@@ -1011,12 +998,12 @@
       "address": "Mobil Outlet 15 Barrier ST, Fyshwick ACT 2609",
       "state": "ACT",
       "prices": {
-        "E10": 199.9,
-        "U98": 225.9,
-        "Premium Diesel": 245.9,
-        "U91": 205.9
+        "E10": 194.9,
+        "U98": 220.9,
+        "Premium Diesel": 240.9,
+        "U91": 200.9
       },
-      "updated": "2026-09-06T19:06:32Z",
+      "updated": "2026-09-07T08:59:54Z",
       "lat": -35.329111,
       "lng": 149.172604
     },

@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-07T07:49:37Z",
+  "fetched_at": "2026-09-07T13:36:56Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1274,
+  "station_count": 1275,
   "by_state": {
-    "ACT": 8,
+    "ACT": 9,
     "NSW": 1159,
     "NT": 29,
     "QLD": 30,
@@ -19,7 +19,7 @@
     "Reddy Express": 80,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 68,
+    "7-Eleven": 69,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -50,12 +50,21 @@
     "Pacific Fuel Solutions": 1,
     "Woodham Petroleum": 1,
     "Perrys": 1,
-    "Apco": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
+    "Apco": 1,
     "ETA PETROLEUM": 1
   },
   "stations": [
+    {
+      "brand": "7-Eleven",
+      "code": "ACT:18790",
+      "name": "7-Eleven Fyshwick",
+      "address": "149 Canberra Ave, Fyshwick ACT 2609",
+      "state": "ACT",
+      "lat": -35.3251,
+      "lng": 149.154
+    },
     {
       "brand": "Chargefox",
       "code": "ACT:20174",

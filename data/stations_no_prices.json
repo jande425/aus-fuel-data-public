@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-06T22:38:24Z",
+  "fetched_at": "2026-09-07T00:10:41Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1274,
   "by_state": {
     "ACT": 8,
     "NSW": 1157,
     "NT": 29,
     "QLD": 31,
-    "SA": 29,
+    "SA": 30,
     "TAS": 1,
     "VIC": 18
   },
@@ -23,7 +23,7 @@
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 20,
+    "Ampol": 21,
     "JOLT": 20,
     "Caltex": 12,
     "Shell": 10,
@@ -51,8 +51,8 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "Apco": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -11150,6 +11150,21 @@
       "lng": 140.359687,
       "unavailable_fuels": [
         "Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "SA:61501547",
+      "name": "Ampol Redhill",
+      "address": "Cnr Pt Augusta Highway and Ellis St West, SA 5521",
+      "state": "SA",
+      "lat": -33.538058,
+      "lng": 138.216287,
+      "unavailable_fuels": [
+        "Diesel",
+        "LPG",
         "U91",
         "U98"
       ]

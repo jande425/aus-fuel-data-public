@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-07T00:59:32Z",
+  "fetched_at": "2026-09-07T02:31:55Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1273,
   "by_state": {
     "ACT": 8,
     "NSW": 1157,
     "NT": 29,
-    "QLD": 32,
+    "QLD": 30,
     "SA": 30,
     "TAS": 1,
     "VIC": 18
@@ -19,11 +19,11 @@
     "Reddy Express": 79,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 69,
+    "7-Eleven": 68,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 21,
+    "Ampol": 20,
     "JOLT": 20,
     "Caltex": 12,
     "Shell": 10,
@@ -52,8 +52,8 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -10804,22 +10804,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "QLD:61478116",
-      "name": "7-Eleven Bushland Beach",
-      "address": "Cnr Lynwood Ave & Mount Low Parkway, Bushland Beach, QLD 4818",
-      "state": "QLD",
-      "lat": -19.200499188392765,
-      "lng": 146.67363918650818,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "QLD:61402130",
       "name": "7-Eleven Robina",
       "address": "Robina Town Centre Dr, QLD 4226",
@@ -10831,22 +10815,6 @@
         "LPG",
         "Premium Diesel",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "QLD:61401762",
-      "name": "Ampol Foodary Southport",
-      "address": "152 Smith St & Kumbari Av, QLD 4215",
-      "state": "QLD",
-      "lat": -27.962425,
-      "lng": 153.395366,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

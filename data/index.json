@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T00:59:32Z",
-  "total_stations": 7865,
+  "last_updated": "2026-09-07T02:31:55Z",
+  "total_stations": 7867,
   "total_states": 8,
   "fuel_types": [
     "B20",
@@ -22,56 +22,56 @@
       "station_count": 63,
       "price_count": 265,
       "file": "act/latest.json",
-      "checksum": "73b7e86a",
+      "checksum": "5b12f852",
       "size_bytes": 25606
     },
     "NSW": {
       "station_count": 2093,
-      "price_count": 8384,
+      "price_count": 8388,
       "file": "nsw/latest.json",
-      "checksum": "f4dd6050",
-      "size_bytes": 832024
+      "checksum": "9ddca96f",
+      "size_bytes": 832123
     },
     "NT": {
       "station_count": 210,
-      "price_count": 572,
+      "price_count": 573,
       "file": "nt/latest.json",
-      "checksum": "7267c9f0",
-      "size_bytes": 79547
+      "checksum": "34d8a9ba",
+      "size_bytes": 79572
     },
     "QLD": {
-      "station_count": 1774,
-      "price_count": 6887,
+      "station_count": 1776,
+      "price_count": 6898,
       "file": "qld/latest.json",
-      "checksum": "79bbebf5",
-      "size_bytes": 699847
+      "checksum": "9e003132",
+      "size_bytes": 700709
     },
     "SA": {
       "station_count": 695,
-      "price_count": 2464,
+      "price_count": 2465,
       "file": "sa/latest.json",
-      "checksum": "b4c0f486",
-      "size_bytes": 268906
+      "checksum": "ba775895",
+      "size_bytes": 268876
     },
     "TAS": {
       "station_count": 296,
-      "price_count": 1442,
+      "price_count": 1441,
       "file": "tas/latest.json",
-      "checksum": "24322470",
-      "size_bytes": 124927
+      "checksum": "add9cfaa",
+      "size_bytes": 124896
     },
     "VIC": {
       "station_count": 1739,
-      "price_count": 7151,
+      "price_count": 7150,
       "file": "vic/latest.json",
-      "checksum": "126ea383",
-      "size_bytes": 781262
+      "checksum": "1224b72e",
+      "size_bytes": 781291
     },
     "WA": {
       "station_count": 995,
       "price_count": 3371,
       "file": "wa/latest.json",
-      "checksum": "a8ad1c17",
+      "checksum": "7879f3fe",
       "size_bytes": 509708
     }
   },

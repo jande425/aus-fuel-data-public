@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-07T02:31:55Z",
+  "fetched_at": "2026-09-07T06:26:00Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1273,
   "by_state": {
     "ACT": 8,
-    "NSW": 1157,
+    "NSW": 1158,
     "NT": 29,
     "QLD": 30,
-    "SA": 30,
+    "SA": 29,
     "TAS": 1,
     "VIC": 18
   },
@@ -23,8 +23,8 @@
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 20,
     "JOLT": 20,
+    "Ampol": 19,
     "Caltex": 12,
     "Shell": 10,
     "Puma Energy": 10,
@@ -35,8 +35,8 @@
     "Liberty": 7,
     "Mobil": 7,
     "Pearl Energy": 5,
+    "Ampol Foodary": 4,
     "Everty": 4,
-    "Ampol Foodary": 3,
     "Speedway": 3,
     "Budget": 2,
     "Indervon": 2,
@@ -2260,6 +2260,15 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:2364",
+      "name": "Ampol Foodary Kellyville",
+      "address": "3-5 Windsor Rd, KELLYVILLE NSW 2155",
+      "state": "NSW",
+      "lat": -33.714327,
+      "lng": 150.960633
     },
     {
       "brand": "Ampol",
@@ -11128,21 +11137,6 @@
       "lng": 140.359687,
       "unavailable_fuels": [
         "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "SA:61501547",
-      "name": "Ampol Redhill",
-      "address": "Cnr Pt Augusta Highway and Ellis St West, SA 5521",
-      "state": "SA",
-      "lat": -33.538058,
-      "lng": 138.216287,
-      "unavailable_fuels": [
-        "Diesel",
-        "LPG",
         "U91",
         "U98"
       ]

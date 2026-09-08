@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-08T12:50:57Z",
+  "fetched_at": "2026-09-08T13:14:31Z",
   "station_count": 2094,
   "fuel_types": [
     "E10",
@@ -3655,13 +3655,13 @@
       "address": "41-43 Princes Hwy, UNANDERRA NSW 2526",
       "state": "NSW",
       "prices": {
-        "E10": 207.9,
-        "U95": 226.9,
-        "U98": 235.9,
+        "E10": 209.9,
+        "U95": 228.9,
+        "U98": 237.9,
         "Premium Diesel": 255.7,
-        "U91": 209.9
+        "U91": 211.9
       },
-      "updated": "2026-09-08T04:45:23Z",
+      "updated": "2026-09-08T12:54:17Z",
       "lat": -34.450291,
       "lng": 150.849268
     },
@@ -5662,11 +5662,11 @@
       "address": "32 Bryant St, NARWEE NSW 2209",
       "state": "NSW",
       "prices": {
-        "E10": 192.9,
-        "Premium Diesel": 240.9,
+        "E10": 197.9,
+        "Premium Diesel": 245.9,
         "U91": 199.9
       },
-      "updated": "2026-09-08T09:27:19Z",
+      "updated": "2026-09-08T13:10:07Z",
       "lat": -33.948554,
       "lng": 151.071512
     },
@@ -6743,12 +6743,12 @@
       "address": "3055 New England Highway, WALLABADAH NSW 2343",
       "state": "NSW",
       "prices": {
-        "Diesel": 254.9,
+        "Diesel": 255.9,
         "U98": 236.9,
         "Premium Diesel": 257.9,
         "U91": 217.9
       },
-      "updated": "2026-09-07T20:15:40Z",
+      "updated": "2026-09-08T13:07:20Z",
       "lat": -31.55065,
       "lng": 150.826803
     },
@@ -10926,11 +10926,12 @@
       "address": "111 Bridge Street, Uralla NSW 2358",
       "state": "NSW",
       "prices": {
+        "Diesel": 249.9,
         "E10": 207.9,
         "U98": 233.9,
         "U91": 209.9
       },
-      "updated": "2026-09-08T01:53:50Z",
+      "updated": "2026-09-08T13:04:54Z",
       "lat": -30.64696,
       "lng": 151.49219
     },
@@ -28620,13 +28621,13 @@
       "address": "2 Bakehouse RD, North Rothbury NSW 2335",
       "state": "NSW",
       "prices": {
-        "E10": 203.9,
-        "U95": 222.9,
-        "U98": 231.9,
+        "E10": 205.9,
+        "U95": 224.9,
+        "U98": 233.9,
         "Premium Diesel": 252.9,
-        "U91": 205.9
+        "U91": 207.9
       },
-      "updated": "2026-09-07T22:36:18Z",
+      "updated": "2026-09-08T12:54:17Z",
       "lat": -32.67357,
       "lng": 151.350631
     },

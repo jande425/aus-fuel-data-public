@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-07T23:15:08Z",
+  "fetched_at": "2026-09-08T00:36:01Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1289,
   "by_state": {
     "ACT": 9,
     "NSW": 1156,
     "NT": 29,
-    "QLD": 31,
+    "QLD": 32,
     "SA": 29,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 33
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,21 +19,22 @@
     "Reddy Express": 79,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 69,
-    "BP": 54,
+    "7-Eleven": 67,
+    "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
+    "Ampol": 20,
     "JOLT": 20,
-    "Ampol": 19,
-    "Caltex": 12,
+    "Caltex": 15,
+    "On the Run": 13,
     "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
     "Evie Networks": 8,
+    "Mobil": 8,
     "Metro Fuel": 7,
     "Liberty": 7,
-    "Mobil": 7,
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
@@ -45,14 +46,13 @@
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
-    "On the Run": 1,
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
     "Woodham Petroleum": 1,
     "Perrys": 1,
-    "Apco": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
+    "Apco": 1,
     "ETA PETROLEUM": 1
   },
   "stations": [
@@ -703,15 +703,6 @@
       "state": "NSW",
       "lat": -33.74687,
       "lng": 151.050803
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:20891",
-      "name": "7-Eleven West Wagga Wagga",
-      "address": "29 Pearson ST, Wagga Wagga NSW 2650",
-      "state": "NSW",
-      "lat": -35.118783,
-      "lng": 147.345433
     },
     {
       "brand": "Exploren",
@@ -6744,6 +6735,15 @@
       "lng": 146.054109
     },
     {
+      "brand": "Mobil",
+      "code": "NSW:16883",
+      "name": "Mobil Gunning",
+      "address": "56 Yass Street, GUNNING NSW 2581",
+      "state": "NSW",
+      "lat": -34.781544,
+      "lng": 149.268344
+    },
+    {
       "brand": "Independent",
       "code": "NSW:2339",
       "name": "Mogas - Dales Highway Store",
@@ -10820,6 +10820,22 @@
     },
     {
       "brand": "Ampol",
+      "code": "QLD:61401167",
+      "name": "Ampol Foodary Kenmore",
+      "address": "888 Moggill Rd & Marshall Ln, QLD 4069",
+      "state": "QLD",
+      "lat": -27.507802,
+      "lng": 152.948185,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -11113,8 +11129,8 @@
       "name": "Woodham Petroleum Stuart",
       "address": "132-138 Southwood Rd, QLD 4811",
       "state": "QLD",
-      "lat": -19.347475588511774,
-      "lng": 146.85546663164874
+      "lat": -19.347295588511773,
+      "lng": 146.85534663164873
     },
     {
       "brand": "Independent",
@@ -11525,22 +11541,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "VIC:Z5H11+yfs5/NBC3f4jSmWASssfGklqv9r4qn2TCpI40=",
-      "name": "7-Eleven Tarneit West",
-      "address": "32 Escapade Street, Tarneit West, 3029",
-      "state": "VIC",
-      "lat": -37.83317865009464,
-      "lng": 144.65281444219622,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "VIC:BM+aME+oAYpdtc4YR924Q8oBCmOwlRyz6ffgSsWygs4=",
       "name": "7-Eleven Wangaratta",
       "address": "22-28 Ryley Street, WANGARATTA, 3677",
@@ -11568,6 +11568,20 @@
         "LPG",
         "U91",
         "U95"
+      ]
+    },
+    {
+      "brand": "BP",
+      "code": "VIC:O07AOFpv7ok3WPMp/6hloVgVJ/MV2/VDHL33trXvlg0=",
+      "name": "BP Buninyong",
+      "address": "501 Warrenheip Street, BUNINYONG, 3357",
+      "state": "VIC",
+      "lat": -37.64938061,
+      "lng": 143.88451787,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
       ]
     },
     {
@@ -11670,6 +11684,218 @@
       ]
     },
     {
+      "brand": "On the Run",
+      "code": "VIC:l2cISCtR6JNQMk+GMvMa22ZljzPSch4subNmMdV+bvk=",
+      "name": "Otr Alphington",
+      "address": "779-785 Heidelberg RD, ALPHINGTON, 3078",
+      "state": "VIC",
+      "lat": -37.7800525413491,
+      "lng": 145.0325652257291,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "On the Run",
+      "code": "VIC:tofRSlD/gXsODLoFzBGikQjxXHp+wn5zDinqReQZI3Y=",
+      "name": "Otr Frankston Flinders Road",
+      "address": "38 Frankston-Flinders RD, FRANKSTON, 3199",
+      "state": "VIC",
+      "lat": -38.154900384596495,
+      "lng": 145.1337042922625,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Caltex",
+      "code": "VIC:px1c8KfxX1GF8hk5HwmgROpmZLx7oEUBULlq2c9RqWY=",
+      "name": "Otr Hamilton",
+      "address": "86-90 Coleraine Road RD, HAMILTON, 3300",
+      "state": "VIC",
+      "lat": -37.73566247574912,
+      "lng": 142.01416009689174,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "On the Run",
+      "code": "VIC:yH6Tv9WgYsqWVMuAF8VBRVn+5j/sTfV9XqkTCG/gj1g=",
+      "name": "Otr Horsham Dimboola Road",
+      "address": "20 Dimboola RD, HORSHAM, 3400",
+      "state": "VIC",
+      "lat": -36.70985876,
+      "lng": 142.19606007,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "On the Run",
+      "code": "VIC:MJ1KOC70nBRKK3QPH+26+QN4P+e3vGfxHEaic/Q14T0=",
+      "name": "Otr Horsham Wilson Street",
+      "address": "95 Wilson ST, HORSHAM, 3400",
+      "state": "VIC",
+      "lat": -36.71666246530237,
+      "lng": 142.19652029500293,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "On the Run",
+      "code": "VIC:LXCBNLEwFmuKlGM2+mMOjjS3VZ6z1DFHiydPGxQSl1I=",
+      "name": "Otr Irymple",
+      "address": "2090 Fifteenth ST, IRYMPLE, 3498",
+      "state": "VIC",
+      "lat": -34.23120533,
+      "lng": 142.16532418,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Caltex",
+      "code": "VIC:oKU7tCPTwdqoylihYgHM8nTxAGl8ntqdS+4xenxfcUY=",
+      "name": "Otr Keilor Park",
+      "address": "614 Fullarton RD, KEILOR PARK, 3042",
+      "state": "VIC",
+      "lat": -37.72528113,
+      "lng": 144.85185968,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "On the Run",
+      "code": "VIC:ZtDu/ZD8zOJfqpsN+hNRw6Ad9BKVMExFaLe/mUPiKv4=",
+      "name": "Otr Melton South",
+      "address": "1-9 Station RD, Melton South, 3338",
+      "state": "VIC",
+      "lat": -37.70277781,
+      "lng": 144.57479302,
+      "unavailable_fuels": [
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "On the Run",
+      "code": "VIC:09J3MFaeOvkel8Qogy5pLaBBcv2R6BTaJEq3RR7TXjQ=",
+      "name": "Otr Mildura",
+      "address": "463-469 Deakin AVE, MILDURA, 3500",
+      "state": "VIC",
+      "lat": -34.20619381,
+      "lng": 142.13648966,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "On the Run",
+      "code": "VIC:n0AJGFnE6EBXqdXiTFph6S8a75Ug7SfsZwP3I9uC1FI=",
+      "name": "Otr Portland",
+      "address": "142 Percy ST, Portland, 3305",
+      "state": "VIC",
+      "lat": -38.34184156,
+      "lng": 141.60421843,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "On the Run",
+      "code": "VIC:is3QWIwuoWV3rY7BbX6Hn7K9CBv09RtiJfc5l+hPJ8Q=",
+      "name": "Otr ST Kilda Marina",
+      "address": "54a Marine PDE, ST Kilda Marina, 3184",
+      "state": "VIC",
+      "lat": -37.875748209660856,
+      "lng": 144.97657678155545,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "On the Run",
+      "code": "VIC:0XzC891RTFfkqnMcmTl4UnnNDeTA5aDvP2OD81o3lPY=",
+      "name": "Otr Stawell",
+      "address": "34 Ararat RD, STAWELL, 3380",
+      "state": "VIC",
+      "lat": -37.07250413,
+      "lng": 142.77256326,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Caltex",
+      "code": "VIC:ibmwVnp9l1Nol5y2LTSylb6APJCUBsz7RKuL/HPUb6w=",
+      "name": "Otr West Wodonga",
+      "address": "5 Moorefield Park DR, WEST WODONGA, 3690",
+      "state": "VIC",
+      "lat": -36.11292276,
+      "lng": 146.85754485,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "On the Run",
+      "code": "VIC:HTT3NrNjJpNClG+W4Kt1q/sWKBbFUmyIxPSaxfcIEfM=",
+      "name": "Otr Wodonga High Street",
+      "address": "10-12 High ST, Wodonga, 3690",
+      "state": "VIC",
+      "lat": -36.11211629100061,
+      "lng": 146.89375422751186,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Pearl Energy",
       "code": "VIC:CH4hjiK/bCb66Xaj/YI683K8sR+PjmakUsEuiLcMQi8=",
       "name": "Pearl Energy Bairnsdale",
@@ -11711,6 +11937,23 @@
         "Diesel",
         "U91",
         "U95"
+      ]
+    },
+    {
+      "brand": "On the Run",
+      "code": "VIC:zTR7q0/cpnbpZT0SiYDERSOwQY3DZ2vtxFCiOsipDd0=",
+      "name": "S24 Diamond Creek",
+      "address": "52 Chute ST, Diamond Creek, 3089",
+      "state": "VIC",
+      "lat": -37.67333085,
+      "lng": 145.15188892,
+      "unavailable_fuels": [
+        "Diesel",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
       ]
     },
     {

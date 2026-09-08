@@ -1,13 +1,11 @@
 {
-  "last_updated": "2026-09-08T06:14:58Z",
-  "total_stations": 7868,
-  "total_states": 8,
+  "last_updated": "2026-09-08T07:13:05Z",
+  "total_stations": 5416,
+  "total_states": 5,
   "fuel_types": [
-    "B20",
     "Diesel",
     "E10",
     "E85",
-    "EV",
     "LAF",
     "LNG",
     "LPG",
@@ -18,61 +16,40 @@
     "U98"
   ],
   "states": {
-    "ACT": {
-      "station_count": 62,
-      "price_count": 264,
-      "file": "act/latest.json",
-      "checksum": "1efddee3",
-      "size_bytes": 25293
-    },
-    "NSW": {
-      "station_count": 2094,
-      "price_count": 8400,
-      "file": "nsw/latest.json",
-      "checksum": "d63904be",
-      "size_bytes": 832649
-    },
     "NT": {
       "station_count": 210,
-      "price_count": 573,
+      "price_count": 572,
       "file": "nt/latest.json",
-      "checksum": "70ff4839",
-      "size_bytes": 79573
+      "checksum": "fcaa663a",
+      "size_bytes": 79551
     },
     "QLD": {
       "station_count": 1775,
       "price_count": 6889,
       "file": "qld/latest.json",
-      "checksum": "78cb4f33",
+      "checksum": "bfb6573c",
       "size_bytes": 700268
     },
     "SA": {
       "station_count": 696,
-      "price_count": 2464,
+      "price_count": 2463,
       "file": "sa/latest.json",
-      "checksum": "563f2d62",
-      "size_bytes": 269422
-    },
-    "TAS": {
-      "station_count": 296,
-      "price_count": 1444,
-      "file": "tas/latest.json",
-      "checksum": "8d504987",
-      "size_bytes": 124976
+      "checksum": "a50d4214",
+      "size_bytes": 269452
     },
     "VIC": {
       "station_count": 1740,
-      "price_count": 7146,
+      "price_count": 7147,
       "file": "vic/latest.json",
-      "checksum": "a5b5fdbf",
-      "size_bytes": 781701
+      "checksum": "5ceceacc",
+      "size_bytes": 781671
     },
     "WA": {
       "station_count": 995,
-      "price_count": 3372,
+      "price_count": 3371,
       "file": "wa/latest.json",
-      "checksum": "0e0845c3",
-      "size_bytes": 509730
+      "checksum": "d9926cbd",
+      "size_bytes": 624747
     }
   },
   "files": {

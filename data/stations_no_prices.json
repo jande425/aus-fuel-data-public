@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-08T18:15:35Z",
+  "fetched_at": "2026-09-08T21:25:18Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1270,
   "by_state": {
     "ACT": 9,
     "NSW": 1155,
@@ -9,7 +9,7 @@
     "QLD": 31,
     "SA": 29,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 16
   },
   "by_brand": {
     "Exploren": 236,
@@ -20,7 +20,7 @@
     "Independent": 73,
     "Chargefox": 72,
     "7-Eleven": 67,
-    "BP": 55,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -11536,20 +11536,6 @@
         "LPG",
         "U91",
         "U95"
-      ]
-    },
-    {
-      "brand": "BP",
-      "code": "VIC:O07AOFpv7ok3WPMp/6hloVgVJ/MV2/VDHL33trXvlg0=",
-      "name": "BP Buninyong",
-      "address": "501 Warrenheip Street, BUNINYONG, 3357",
-      "state": "VIC",
-      "lat": -37.64938061,
-      "lng": 143.88451787,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
       ]
     },
     {

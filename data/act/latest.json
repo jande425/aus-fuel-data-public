@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-08T21:25:18Z",
+  "fetched_at": "2026-09-08T21:57:28Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -379,13 +379,13 @@
       "address": "Cnr Tharwa Drive & Norman Lindsay Street, Conder ACT 2906",
       "state": "ACT",
       "prices": {
-        "E10": 218.9,
-        "U95": 238.9,
-        "U98": 248.9,
-        "Premium Diesel": 275.9,
-        "U91": 220.9
+        "E10": 220.9,
+        "U95": 240.9,
+        "U98": 250.9,
+        "Premium Diesel": 277.9,
+        "U91": 222.9
       },
-      "updated": "2026-09-07T21:36:16Z",
+      "updated": "2026-09-08T21:51:14Z",
       "lat": -35.4582,
       "lng": 149.092
     },
@@ -884,12 +884,12 @@
       "address": "2 Chinner Cres, Melba ACT 2615",
       "state": "ACT",
       "prices": {
-        "E10": 212.9,
-        "U98": 240.9,
+        "E10": 211.9,
+        "U98": 239.9,
         "Premium Diesel": 269.9,
-        "U91": 214.9
+        "U91": 213.9
       },
-      "updated": "2026-09-08T02:18:16Z",
+      "updated": "2026-09-08T21:33:31Z",
       "lat": -35.2078,
       "lng": 149.048
     },

@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-09T13:20:17Z",
+  "fetched_at": "2026-09-09T17:13:09Z",
   "station_count": 2094,
   "fuel_types": [
     "E10",
@@ -4925,12 +4925,12 @@
       "address": "136-138 Adelaide ST, Raymond Terrace NSW 2324",
       "state": "NSW",
       "prices": {
-        "E10": 204.9,
+        "E10": 203.9,
         "U95": 216.9,
         "U98": 221.9,
         "Premium Diesel": 249.9
       },
-      "updated": "2026-09-09T13:02:26Z",
+      "updated": "2026-09-09T13:32:26Z",
       "lat": -32.765038,
       "lng": 151.742527
     },
@@ -5451,10 +5451,10 @@
       "prices": {
         "E10": 209.7,
         "U98": 238.7,
-        "Premium Diesel": 259.5,
+        "Premium Diesel": 261.5,
         "U91": 211.7
       },
-      "updated": "2026-09-09T05:03:50Z",
+      "updated": "2026-09-09T17:06:02Z",
       "lat": -33.906507,
       "lng": 151.252581
     },
@@ -5664,11 +5664,11 @@
       "address": "32 Bryant St, NARWEE NSW 2209",
       "state": "NSW",
       "prices": {
-        "E10": 192.9,
-        "Premium Diesel": 240.9,
+        "E10": 197.9,
+        "Premium Diesel": 245.9,
         "U91": 199.9
       },
-      "updated": "2026-09-09T09:48:41Z",
+      "updated": "2026-09-09T15:10:45Z",
       "lat": -33.948554,
       "lng": 151.071512
     },
@@ -5722,13 +5722,13 @@
       "address": "7 Raby RD, Leppington NSW 2179",
       "state": "NSW",
       "prices": {
-        "E10": 203.9,
-        "U95": 222.9,
-        "U98": 231.9,
+        "E10": 204.9,
+        "U95": 223.9,
+        "U98": 232.9,
         "Premium Diesel": 249.9,
-        "U91": 205.9
+        "U91": 206.9
       },
-      "updated": "2026-09-08T08:45:19Z",
+      "updated": "2026-09-09T16:48:12Z",
       "lat": -33.99533,
       "lng": 150.789746
     },
@@ -6316,12 +6316,12 @@
       "address": "8-10 Perouse Road, RANDWICK NSW 2031",
       "state": "NSW",
       "prices": {
-        "E10": 223.7,
-        "U98": 243.7,
+        "E10": 209.7,
+        "U98": 233.7,
         "Premium Diesel": 258.5,
-        "U91": 225.7
+        "U91": 211.7
       },
-      "updated": "2026-09-09T00:12:32Z",
+      "updated": "2026-09-09T16:50:32Z",
       "lat": -33.91899,
       "lng": 151.242152
     },
@@ -9301,12 +9301,12 @@
       "address": "Unit 2 3030 Remembrance Dvwy, Bargo NSW 2574",
       "state": "NSW",
       "prices": {
-        "E10": 207.7,
-        "U98": 229.7,
-        "Premium Diesel": 249.7,
-        "U91": 209.7
+        "E10": 203.7,
+        "U98": 227.7,
+        "Premium Diesel": 247.7,
+        "U91": 205.7
       },
-      "updated": "2026-09-09T12:50:21Z",
+      "updated": "2026-09-09T13:23:27Z",
       "lat": -34.254584,
       "lng": 150.572656
     },
@@ -12351,12 +12351,12 @@
       "address": "64 Church ST, Glen Innes NSW 2370",
       "state": "NSW",
       "prices": {
-        "E10": 206.9,
-        "U98": 237.9,
-        "Premium Diesel": 256.9,
-        "U91": 209.9
+        "E10": 216.9,
+        "U98": 239.9,
+        "Premium Diesel": 259.9,
+        "U91": 219.9
       },
-      "updated": "2026-08-03T15:12:57Z",
+      "updated": "2026-09-09T17:06:19Z",
       "lat": -29.747563,
       "lng": 151.735988
     },
@@ -13208,13 +13208,13 @@
       "state": "NSW",
       "prices": {
         "E10": 205.9,
-        "LPG": 111.9,
+        "LPG": 116.9,
         "U95": 224.9,
         "U98": 233.9,
         "Premium Diesel": 260.9,
         "U91": 207.9
       },
-      "updated": "2026-09-09T00:45:20Z",
+      "updated": "2026-09-09T13:54:14Z",
       "lat": -33.749095,
       "lng": 151.290234
     },
@@ -13546,13 +13546,13 @@
       "address": "Corner Allison Crescent & Menai Road, Menai NSW 2234",
       "state": "NSW",
       "prices": {
-        "E10": 205.9,
-        "U95": 225.9,
-        "U98": 233.9,
+        "E10": 206.9,
+        "U95": 224.9,
+        "U98": 234.9,
         "Premium Diesel": 264.9,
-        "U91": 207.9
+        "U91": 208.9
       },
-      "updated": "2026-09-09T12:45:14Z",
+      "updated": "2026-09-09T16:18:11Z",
       "lat": -34.01574,
       "lng": 151.013222
     },
@@ -13704,7 +13704,7 @@
         "U98": 230.9,
         "U91": 203.9
       },
-      "updated": "2026-09-09T08:30:33Z",
+      "updated": "2026-09-09T16:35:21Z",
       "lat": -34.049459,
       "lng": 150.760159
     },
@@ -13738,7 +13738,7 @@
         "Premium Diesel": 263.9,
         "U91": 211.9
       },
-      "updated": "2026-09-09T11:15:16Z",
+      "updated": "2026-09-09T16:48:12Z",
       "lat": -33.727446,
       "lng": 150.89666
     },
@@ -19554,14 +19554,14 @@
       "address": "1443 Elizabeth Drive, Kemps Creek NSW 2178",
       "state": "NSW",
       "prices": {
-        "Diesel": 238.7,
+        "Diesel": 240.7,
         "E10": 202.7,
         "U95": 209.7,
         "U98": 222.7,
-        "Premium Diesel": 240.7,
+        "Premium Diesel": 242.7,
         "U91": 205.7
       },
-      "updated": "2026-09-08T18:23:08Z",
+      "updated": "2026-09-09T16:12:15Z",
       "lat": -33.880059,
       "lng": 150.791769
     },
@@ -20362,13 +20362,13 @@
       "address": "898-902 Victoria Rd, West Ryde NSW 2114",
       "state": "NSW",
       "prices": {
-        "E10": 198.7,
+        "E10": 200.7,
         "U95": 215.7,
         "U98": 222.7,
         "Premium Diesel": 241.7,
-        "U91": 200.7
+        "U91": 202.7
       },
-      "updated": "2026-09-08T17:58:16Z",
+      "updated": "2026-09-09T16:03:03Z",
       "lat": -33.81186,
       "lng": 151.094724
     },
@@ -20546,13 +20546,13 @@
       "address": "127 Loftus Ave, Loftus NSW 2232",
       "state": "NSW",
       "prices": {
-        "E10": 211.9,
-        "U95": 225.9,
-        "U98": 232.9,
+        "E10": 227.9,
+        "U95": 241.9,
+        "U98": 247.9,
         "Premium Diesel": 258.9,
-        "U91": 213.9
+        "U91": 229.9
       },
-      "updated": "2026-09-09T04:24:52Z",
+      "updated": "2026-09-09T14:28:45Z",
       "lat": -34.045708,
       "lng": 151.050799
     },
@@ -27864,14 +27864,14 @@
       "address": "100 Rookwood RD, Yagoona NSW 2199",
       "state": "NSW",
       "prices": {
-        "Diesel": 239.9,
+        "Diesel": 245.9,
         "E10": 198.9,
         "E85": 229.9,
         "LPG": 109.9,
-        "U98": 229.9,
+        "U98": 233.9,
         "U91": 201.4
       },
-      "updated": "2026-09-09T06:06:31Z",
+      "updated": "2026-09-09T13:46:32Z",
       "lat": -33.899293,
       "lng": 151.036862
     },
@@ -28717,15 +28717,15 @@
       "address": "262 - 272 VICTORIA RD Rydalmere NSW 2116",
       "state": "NSW",
       "prices": {
-        "Diesel": 249.9,
-        "E10": 199.9,
+        "Diesel": 255.9,
+        "E10": 209.9,
         "E85": 229.9,
         "LPG": 111.9,
-        "U95": 223.9,
-        "U98": 229.9,
-        "U91": 203.9
+        "U95": 227.9,
+        "U98": 236.9,
+        "U91": 211.9
       },
-      "updated": "2026-09-09T07:52:34Z",
+      "updated": "2026-09-09T13:44:42Z",
       "lat": -33.810076,
       "lng": 151.032389
     },
@@ -28775,7 +28775,6 @@
       "address": "335 Henry Lawson DR, Bankstown Aerodrome NSW 2200",
       "state": "NSW",
       "prices": {
-        "E10": 199.9,
         "U95": 218.9,
         "U98": 227.9,
         "Premium Diesel": 252.9,

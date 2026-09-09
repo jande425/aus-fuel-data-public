@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-09T21:49:19Z",
+  "fetched_at": "2026-09-09T22:31:56Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1272,
   "by_state": {
     "ACT": 9,
-    "NSW": 1156,
+    "NSW": 1155,
     "NT": 29,
     "QLD": 31,
     "SA": 30,
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 79,
-    "Independent": 74,
+    "Independent": 73,
     "Chargefox": 72,
     "7-Eleven": 68,
     "BP": 53,
@@ -5130,15 +5130,6 @@
       "state": "NSW",
       "lat": -33.875181,
       "lng": 151.199863
-    },
-    {
-      "brand": "Independent",
-      "code": "NSW:1759",
-      "name": "Independent Casino",
-      "address": "169 Canterbury St, CASINO NSW 2470",
-      "state": "NSW",
-      "lat": -28.862723,
-      "lng": 153.046427
     },
     {
       "brand": "Independent",

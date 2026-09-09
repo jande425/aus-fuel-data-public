@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-09T22:31:56Z",
+  "fetched_at": "2026-09-09T23:30:03Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1277,
   "by_state": {
     "ACT": 9,
-    "NSW": 1155,
+    "NSW": 1156,
     "NT": 29,
-    "QLD": 31,
-    "SA": 30,
+    "QLD": 33,
+    "SA": 31,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 79,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 68,
+    "7-Eleven": 70,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -33,13 +33,14 @@
     "Metro Fuel": 8,
     "Evie Networks": 8,
     "Liberty": 8,
-    "Mobil": 7,
+    "Mobil": 8,
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
+    "EG Ampol": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Ampol Foodary": 1,
@@ -51,8 +52,9 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "24Xpress": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -4311,6 +4313,15 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "NSW:633",
+      "name": "EG Ampol Singleton",
+      "address": "Cnr Ryan Avenue & Burn Lane, Singleton NSW 2330",
+      "state": "NSW",
+      "lat": -32.564936,
+      "lng": 151.165807
     },
     {
       "brand": "EVUp",
@@ -10794,6 +10805,37 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "QLD:61402432",
+      "name": "7-Eleven Marcoola",
+      "address": "946-948 David Low Wy, QLD 4564",
+      "state": "QLD",
+      "lat": -26.600753,
+      "lng": 153.095415,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61477091",
+      "name": "7-Eleven North Lakes",
+      "address": "64 Flinders Parade, QLD 4509",
+      "state": "QLD",
+      "lat": -27.220937,
+      "lng": 152.999794,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "QLD:61402130",
       "name": "7-Eleven Robina",
       "address": "Robina Town Centre Dr, QLD 4226",
@@ -11328,6 +11370,15 @@
     },
     {
       "brand": "Mobil",
+      "code": "SA:61501026",
+      "name": "Mobil Blair Athol",
+      "address": "351 Prospect Rd, SA 5084",
+      "state": "SA",
+      "lat": -34.86346166281097,
+      "lng": 138.59260236441807
+    },
+    {
+      "brand": "Mobil",
       "code": "SA:61501289",
       "name": "Mobil Torrensville",
       "address": "239 Henley Beach Rd, SA 5031",
@@ -11496,6 +11547,21 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
+    },
+    {
+      "brand": "24Xpress",
+      "code": "VIC:uzED/LUsf18+hfDpuwbNIwEo7RbfLOCgiCW7rrhX6Dk=",
+      "name": "24Xpress Taylors Lakes",
+      "address": "25 Melton Highway, Taylors Lakes, 3038",
+      "state": "VIC",
+      "lat": -37.70110869,
+      "lng": 144.79702784,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U98"
+      ]
     },
     {
       "brand": "7-Eleven",

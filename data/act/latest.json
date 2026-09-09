@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-09T22:31:56Z",
+  "fetched_at": "2026-09-09T23:30:03Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -266,12 +266,12 @@
       "address": "3 Benham St, Chisholm ACT 2905",
       "state": "ACT",
       "prices": {
-        "E10": 215.9,
-        "U95": 232.9,
-        "U98": 241.9,
+        "E10": 216.9,
+        "U95": 233.9,
+        "U98": 242.9,
         "Premium Diesel": 264.9
       },
-      "updated": "2026-09-09T05:52:02Z",
+      "updated": "2026-09-09T22:52:06Z",
       "lat": -35.4129,
       "lng": 149.128
     },
@@ -379,13 +379,13 @@
       "address": "Cnr Tharwa Drive & Norman Lindsay Street, Conder ACT 2906",
       "state": "ACT",
       "prices": {
-        "E10": 220.9,
-        "U95": 240.9,
-        "U98": 250.9,
-        "Premium Diesel": 277.9,
-        "U91": 222.9
+        "E10": 223.9,
+        "U95": 243.9,
+        "U98": 253.9,
+        "Premium Diesel": 279.9,
+        "U91": 225.9
       },
-      "updated": "2026-09-08T21:51:14Z",
+      "updated": "2026-09-09T22:36:18Z",
       "lat": -35.4582,
       "lng": 149.092
     },
@@ -461,12 +461,12 @@
       "address": "94-96 Sheppard St, Hume ACT 2620",
       "state": "ACT",
       "prices": {
-        "U95": 228.9,
-        "U98": 238.9,
+        "U95": 230.9,
+        "U98": 240.9,
         "Premium Diesel": 264.9,
-        "U91": 211.9
+        "U91": 213.9
       },
-      "updated": "2026-09-08T09:09:15Z",
+      "updated": "2026-09-09T22:42:14Z",
       "lat": -35.3923,
       "lng": 149.162
     },
@@ -900,11 +900,11 @@
       "address": "39-41 Mustang Avenue, Canberra Airport ACT 2609",
       "state": "ACT",
       "prices": {
-        "U98": 212.7,
-        "Premium Diesel": 236.7,
-        "U91": 194.7
+        "U98": 222.7,
+        "Premium Diesel": 246.7,
+        "U91": 202.7
       },
-      "updated": "2026-09-05T22:57:44Z",
+      "updated": "2026-09-09T22:53:56Z",
       "lat": -35.2966,
       "lng": 149.189
     },

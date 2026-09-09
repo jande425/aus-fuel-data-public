@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-09T12:56:52Z",
+  "fetched_at": "2026-09-09T13:20:17Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1276,
+  "station_count": 1275,
   "by_state": {
     "ACT": 9,
-    "NSW": 1159,
+    "NSW": 1158,
     "NT": 29,
     "QLD": 31,
     "SA": 30,
@@ -19,7 +19,7 @@
     "Reddy Express": 79,
     "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 69,
+    "7-Eleven": 68,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -208,15 +208,6 @@
       "state": "NSW",
       "lat": -34.476871,
       "lng": 150.839335
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:176",
-      "name": "7-Eleven Blacktown",
-      "address": "62 Walters Road, Blacktown NSW 2148",
-      "state": "NSW",
-      "lat": -33.775908,
-      "lng": 150.894749
     },
     {
       "brand": "7-Eleven",

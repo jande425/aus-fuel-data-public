@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-09T12:56:52Z",
-  "station_count": 2093,
+  "fetched_at": "2026-09-09T13:20:17Z",
+  "station_count": 2094,
   "fuel_types": [
     "E10",
     "U91",
@@ -4926,11 +4926,11 @@
       "state": "NSW",
       "prices": {
         "E10": 204.9,
-        "U95": 217.9,
+        "U95": 216.9,
         "U98": 221.9,
         "Premium Diesel": 249.9
       },
-      "updated": "2026-09-09T12:22:26Z",
+      "updated": "2026-09-09T13:02:26Z",
       "lat": -32.765038,
       "lng": 151.742527
     },
@@ -12706,6 +12706,22 @@
       "lng": 151.38063
     },
     {
+      "brand": "7-Eleven",
+      "code": "NSW:176",
+      "name": "7-Eleven Blacktown",
+      "address": "62 Walters Road, Blacktown NSW 2148",
+      "state": "NSW",
+      "prices": {
+        "E10": 206.9,
+        "U98": 234.9,
+        "Premium Diesel": 256.9,
+        "U91": 208.9
+      },
+      "updated": "2026-09-09T13:03:22Z",
+      "lat": -33.775908,
+      "lng": 150.894749
+    },
+    {
       "brand": "Reddy Express",
       "code": "NSW:82",
       "name": "Shell Reddy Express Faulconbridge",
@@ -13413,13 +13429,13 @@
       "address": "291 Rooty Hill Road North, Plumpton NSW 2761",
       "state": "NSW",
       "prices": {
-        "E10": 207.9,
-        "U95": 226.9,
-        "U98": 235.9,
+        "E10": 208.9,
+        "U95": 227.9,
+        "U98": 236.9,
         "Premium Diesel": 264.9,
-        "U91": 209.9
+        "U91": 210.9
       },
-      "updated": "2026-09-09T05:39:16Z",
+      "updated": "2026-09-09T13:15:14Z",
       "lat": -33.753565,
       "lng": 150.840322
     },

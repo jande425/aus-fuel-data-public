@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-09T01:13:53Z",
+  "fetched_at": "2026-09-09T02:44:30Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1273,
   "by_state": {
     "ACT": 9,
     "NSW": 1156,
@@ -9,7 +9,7 @@
     "QLD": 32,
     "SA": 29,
     "TAS": 1,
-    "VIC": 16
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,10 +17,10 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 79,
-    "Independent": 73,
+    "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 67,
-    "BP": 54,
+    "7-Eleven": 68,
+    "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -53,8 +53,8 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -10838,15 +10838,6 @@
       "lng": 151.411238
     },
     {
-      "brand": "BP",
-      "code": "QLD:61402271",
-      "name": "BP Townsville Truckstop",
-      "address": "Racecourse Road, QLD 4810",
-      "state": "QLD",
-      "lat": -19.316049,
-      "lng": 146.819903
-    },
-    {
       "brand": "Independent",
       "code": "QLD:61402385",
       "name": "Blue Topaz Caravan Park",
@@ -11049,6 +11040,21 @@
       "state": "QLD",
       "lat": -22.135863,
       "lng": 150.035355
+    },
+    {
+      "brand": "Independent",
+      "code": "QLD:61401730",
+      "name": "Quill Petroleum",
+      "address": "155 Musgrave Rd, QLD 4059",
+      "state": "QLD",
+      "lat": -27.455124731985503,
+      "lng": 153.0070409067459,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U98"
+      ]
     },
     {
       "brand": "Independent",
@@ -11511,6 +11517,21 @@
       "lat": -37.91256684,
       "lng": 145.05199391,
       "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:gOLrE3rte8ewrgyJlTWGv5xMmBL6F3+elDRtRkdMFIM=",
+      "name": "7-Eleven Mornington Tyabb",
+      "address": "19-21 Mornington-Tyabb Road, Mornington, 3931",
+      "state": "VIC",
+      "lat": -38.23150868,
+      "lng": 145.04628937,
+      "unavailable_fuels": [
+        "LPG",
         "Premium Diesel",
         "U91",
         "U98"

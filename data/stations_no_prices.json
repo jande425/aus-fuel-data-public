@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-09T07:47:34Z",
+  "fetched_at": "2026-09-09T12:25:22Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1277,
   "by_state": {
     "ACT": 9,
-    "NSW": 1158,
+    "NSW": 1159,
     "NT": 29,
     "QLD": 32,
-    "SA": 29,
+    "SA": 30,
     "TAS": 1,
     "VIC": 17
   },
@@ -17,14 +17,14 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 79,
-    "Independent": 75,
+    "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 68,
+    "7-Eleven": 70,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
+    "Ampol": 20,
     "JOLT": 20,
-    "Ampol": 19,
     "Caltex": 12,
     "Shell": 11,
     "Puma Energy": 10,
@@ -208,6 +208,15 @@
       "state": "NSW",
       "lat": -34.476871,
       "lng": 150.839335
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:176",
+      "name": "7-Eleven Blacktown",
+      "address": "62 Walters Road, Blacktown NSW 2148",
+      "state": "NSW",
+      "lat": -33.775908,
+      "lng": 150.894749
     },
     {
       "brand": "7-Eleven",
@@ -10822,6 +10831,22 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "QLD:61477772",
+      "name": "7-Eleven Flagstone",
+      "address": "1 Cusack Lane, QLD 4280",
+      "state": "QLD",
+      "lat": -27.812341,
+      "lng": 152.977598,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "QLD:61402130",
       "name": "7-Eleven Robina",
       "address": "Robina Town Centre Dr, QLD 4226",
@@ -11061,21 +11086,6 @@
     },
     {
       "brand": "Independent",
-      "code": "QLD:61401730",
-      "name": "Quill Petroleum",
-      "address": "155 Musgrave Rd, QLD 4059",
-      "state": "QLD",
-      "lat": -27.455124731985503,
-      "lng": 153.0070409067459,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Independent",
       "code": "QLD:61401667",
       "name": "Raceview Fuels",
       "address": "138 Whitehill Road, QLD 4305",
@@ -11166,6 +11176,20 @@
       "state": "QLD",
       "lat": -16.916483,
       "lng": 145.871647
+    },
+    {
+      "brand": "Ampol",
+      "code": "SA:61577046",
+      "name": "Ampol Berri",
+      "address": "2 Wilson St, SA 5343",
+      "state": "SA",
+      "lat": -34.28635986450745,
+      "lng": 140.59938162698364,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
+      ]
     },
     {
       "brand": "Ampol",

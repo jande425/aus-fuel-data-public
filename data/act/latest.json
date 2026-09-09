@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-09T06:21:57Z",
+  "fetched_at": "2026-09-09T07:21:21Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -832,15 +832,15 @@
       "address": "150 O'Halloran Circuit, Kambah ACT 2902",
       "state": "ACT",
       "prices": {
-        "Diesel": 274.9,
-        "E10": 217.9,
+        "Diesel": 275.9,
+        "E10": 220.9,
         "E85": 239.9,
         "LPG": 119.9,
-        "U95": 235.9,
-        "U98": 243.9,
-        "U91": 219.9
+        "U95": 238.9,
+        "U98": 246.9,
+        "U91": 222.9
       },
-      "updated": "2026-09-09T03:55:04Z",
+      "updated": "2026-09-09T06:25:05Z",
       "lat": -35.3924,
       "lng": 149.069
     },

@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-10T12:53:52Z",
+  "fetched_at": "2026-09-10T13:16:59Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1277,
+  "station_count": 1276,
   "by_state": {
     "ACT": 9,
-    "NSW": 1156,
+    "NSW": 1155,
     "NT": 29,
     "QLD": 34,
     "SA": 30,
@@ -19,7 +19,7 @@
     "Reddy Express": 79,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 71,
+    "7-Eleven": 70,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -495,15 +495,6 @@
       "state": "NSW",
       "lat": -36.049254,
       "lng": 146.932054
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:20520",
-      "name": "7-Eleven Leppington",
-      "address": "96 Rickard RD, Leppington NSW 2179",
-      "state": "NSW",
-      "lat": -33.962757,
-      "lng": 150.807126
     },
     {
       "brand": "7-Eleven",

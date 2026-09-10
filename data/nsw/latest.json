@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-10T17:04:31Z",
+  "fetched_at": "2026-09-10T17:41:12Z",
   "station_count": 2097,
   "fuel_types": [
     "E10",
@@ -5648,12 +5648,12 @@
       "address": "780 Main RD, Edgeworth NSW 2285",
       "state": "NSW",
       "prices": {
-        "E10": 206.5,
-        "U98": 229.5,
-        "Premium Diesel": 246.9,
-        "U91": 209.5
+        "E10": 205.7,
+        "U98": 229.7,
+        "Premium Diesel": 246.7,
+        "U91": 207.7
       },
-      "updated": "2026-09-10T04:31:26Z",
+      "updated": "2026-09-10T17:34:30Z",
       "lat": -32.924181,
       "lng": 151.614763
     },
@@ -12708,12 +12708,12 @@
       "address": "62 Walters Road, Blacktown NSW 2148",
       "state": "NSW",
       "prices": {
-        "E10": 211.9,
-        "U98": 239.9,
+        "E10": 209.9,
+        "U98": 237.9,
         "Premium Diesel": 258.9,
-        "U91": 213.9
+        "U91": 211.9
       },
-      "updated": "2026-09-10T07:15:20Z",
+      "updated": "2026-09-10T17:09:15Z",
       "lat": -33.775908,
       "lng": 150.894749
     },
@@ -19549,14 +19549,14 @@
       "address": "1443 Elizabeth Drive, Kemps Creek NSW 2178",
       "state": "NSW",
       "prices": {
-        "Diesel": 240.7,
-        "E10": 202.7,
-        "U95": 209.7,
-        "U98": 222.7,
-        "Premium Diesel": 242.7,
-        "U91": 205.7
+        "Diesel": 243.7,
+        "E10": 204.7,
+        "U95": 218.7,
+        "U98": 225.7,
+        "Premium Diesel": 245.7,
+        "U91": 206.7
       },
-      "updated": "2026-09-09T16:12:15Z",
+      "updated": "2026-09-10T17:40:24Z",
       "lat": -33.880059,
       "lng": 150.791769
     },
@@ -24591,11 +24591,11 @@
       "address": "24 Glen Innes Road, Inverell NSW 2360",
       "state": "NSW",
       "prices": {
-        "Diesel": 259.9,
-        "U98": 239.9,
-        "U91": 215.9
+        "Diesel": 261.9,
+        "U98": 241.9,
+        "U91": 217.9
       },
-      "updated": "2026-09-09T17:40:14Z",
+      "updated": "2026-09-10T17:39:13Z",
       "lat": -29.779537,
       "lng": 151.119398
     },

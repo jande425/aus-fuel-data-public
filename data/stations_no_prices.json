@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-10T21:44:33Z",
+  "fetched_at": "2026-09-10T22:33:03Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1275,
   "by_state": {
     "ACT": 9,
-    "NSW": 1155,
+    "NSW": 1156,
     "NT": 29,
     "QLD": 34,
     "SA": 30,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 16
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 79,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 70,
+    "7-Eleven": 69,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -41,6 +41,7 @@
     "Indervon": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
+    "Linmac Co Pty Ltd": 1,
     "Astron": 1,
     "Ampol Foodary": 1,
     "Arko Energy": 1,
@@ -6140,6 +6141,15 @@
       "lng": 151.17021
     },
     {
+      "brand": "Linmac Co Pty Ltd",
+      "code": "NSW:20862",
+      "name": "Linmac Co Pty Ltd",
+      "address": "211n Pakington ST, Walcha NSW 2354",
+      "state": "NSW",
+      "lat": -30.975649,
+      "lng": 151.597143
+    },
+    {
       "brand": "Tesla",
       "code": "NSW:19296",
       "name": "Lismore Bounty Motel",
@@ -11593,21 +11603,6 @@
       "lng": 145.17289763,
       "unavailable_fuels": [
         "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:BM+aME+oAYpdtc4YR924Q8oBCmOwlRyz6ffgSsWygs4=",
-      "name": "7-Eleven Wangaratta",
-      "address": "22-28 Ryley Street, WANGARATTA, 3677",
-      "state": "VIC",
-      "lat": -36.35893953,
-      "lng": 146.31888539,
-      "unavailable_fuels": [
         "Premium Diesel",
         "U91",
         "U95",

@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-09-10T21:12:11Z",
+  "fetched_at": "2026-09-10T21:44:33Z",
   "station_count": 296,
   "fuel_types": [
     "E10",
@@ -258,12 +258,13 @@
       "address": "Cnr 6 Circassion & Cecilia Streets, St Helens TAS 7216",
       "state": "TAS",
       "prices": {
+        "Diesel": 258.9,
         "U95": 228.4,
         "U98": 238.9,
         "U91": 213.9,
         "Premium Diesel": 256.9
       },
-      "updated": "2026-09-10T01:04:10Z",
+      "updated": "2026-09-10T21:35:19Z",
       "lat": -41.3236,
       "lng": 148.24981
     },
@@ -1521,14 +1522,14 @@
       "address": "14 Gordon Street, SORELL TAS 7172",
       "state": "TAS",
       "prices": {
-        "Diesel": 267.9,
+        "Diesel": 266.9,
         "E10": 210.9,
         "E85": 239.9,
         "U95": 229.9,
         "U98": 238.9,
         "U91": 215.9
       },
-      "updated": "2026-09-10T01:25:06Z",
+      "updated": "2026-09-10T21:30:13Z",
       "lat": -42.7829702,
       "lng": 147.5627379
     },
@@ -1557,11 +1558,11 @@
       "state": "TAS",
       "prices": {
         "Diesel": 248.9,
-        "U95": 222.9,
-        "U98": 231.9,
-        "U91": 208.9
+        "U95": 223.9,
+        "U98": 232.9,
+        "U91": 209.9
       },
-      "updated": "2026-09-10T02:30:10Z",
+      "updated": "2026-09-10T21:35:05Z",
       "lat": -42.8683231,
       "lng": 147.3712637
     },
@@ -1619,14 +1620,14 @@
       "address": "7 Reid Street, STRAHAN TAS 7468",
       "state": "TAS",
       "prices": {
-        "Diesel": 259.9,
+        "Diesel": 264.9,
         "E10": 209.9,
         "U95": 227.9,
         "U98": 254.9,
         "Premium Diesel": 259.9,
-        "U91": 224.9
+        "U91": 229.9
       },
-      "updated": "2026-09-10T05:33:36Z",
+      "updated": "2026-09-10T21:32:37Z",
       "lat": -42.1500753,
       "lng": 145.3280146
     },
@@ -2832,13 +2833,13 @@
       "address": "29 Bass Hwy, Deloraine TAS 7304",
       "state": "TAS",
       "prices": {
-        "E10": 209.9,
+        "E10": 208.9,
         "U95": 239.9,
         "U98": 254.9,
         "Premium Diesel": 269.9,
         "U91": 226.9
       },
-      "updated": "2026-09-10T04:19:18Z",
+      "updated": "2026-09-10T21:12:16Z",
       "lat": -41.524852,
       "lng": 146.664088
     },
@@ -2970,14 +2971,14 @@
       "address": "2233 Arthur Highway, Copping TAS 7174",
       "state": "TAS",
       "prices": {
-        "E10": 206.9,
+        "E10": 210.9,
         "U95": 228.9,
-        "U98": 234.9,
+        "U98": 238.9,
         "Premium Diesel": 263.9,
         "U91": 213.9,
         "Diesel": 257.9
       },
-      "updated": "2026-09-10T12:09:20Z",
+      "updated": "2026-09-10T21:39:30Z",
       "lat": -42.8194331,
       "lng": 147.8015479
     },
@@ -3884,14 +3885,14 @@
       "address": "Service Station 5918 Bass HWY, Elizabeth Town TAS 7304",
       "state": "TAS",
       "prices": {
-        "Diesel": 257.9,
-        "E10": 208.9,
-        "U95": 227.9,
-        "U98": 236.9,
-        "Premium Diesel": 259.9,
-        "U91": 213.9
+        "Diesel": 256.9,
+        "E10": 210.9,
+        "U95": 229.9,
+        "U98": 238.9,
+        "Premium Diesel": 258.9,
+        "U91": 215.9
       },
-      "updated": "2026-08-26T04:15:07Z",
+      "updated": "2026-09-10T21:30:13Z",
       "lat": -41.45248243,
       "lng": 146.56625935
     },

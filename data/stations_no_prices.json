@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-10T07:48:34Z",
+  "fetched_at": "2026-09-10T12:19:04Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1276,
+  "station_count": 1277,
   "by_state": {
     "ACT": 9,
-    "NSW": 1155,
+    "NSW": 1156,
     "NT": 29,
-    "QLD": 33,
+    "QLD": 34,
     "SA": 30,
     "TAS": 1,
-    "VIC": 19
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,16 +19,16 @@
     "Reddy Express": 79,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 70,
+    "7-Eleven": 71,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 20,
+    "Ampol": 21,
     "JOLT": 20,
     "Caltex": 12,
     "Shell": 11,
-    "United": 10,
     "Puma Energy": 10,
+    "United": 9,
     "EVUp": 9,
     "Metro Fuel": 8,
     "Evie Networks": 8,
@@ -495,6 +495,15 @@
       "state": "NSW",
       "lat": -36.049254,
       "lng": 146.932054
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:20520",
+      "name": "7-Eleven Leppington",
+      "address": "96 Rickard RD, Leppington NSW 2179",
+      "state": "NSW",
+      "lat": -33.962757,
+      "lng": 150.807126
     },
     {
       "brand": "7-Eleven",
@@ -10825,6 +10834,20 @@
     },
     {
       "brand": "Ampol",
+      "code": "QLD:61401755",
+      "name": "Ampol Foodary Waterford West",
+      "address": "76 Chambers Flat Rd & Mark Ln, QLD 4133",
+      "state": "QLD",
+      "lat": -27.681393,
+      "lng": 153.114674,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95"
+      ]
+    },
+    {
+      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -11785,23 +11808,6 @@
         "Diesel",
         "U91",
         "U95"
-      ]
-    },
-    {
-      "brand": "United",
-      "code": "VIC:5eftgQ1g/pAg/hCMAz3GFrkA3UbIoejipS1+6msNXgg=",
-      "name": "United Narre Warren South",
-      "address": "25 Narre Warren - Cranbourne Road, Narre Warren South, 3805",
-      "state": "VIC",
-      "lat": -38.032563865140226,
-      "lng": 145.3054607639177,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "LPG",
-        "U91",
-        "U95",
-        "U98"
       ]
     }
   ]

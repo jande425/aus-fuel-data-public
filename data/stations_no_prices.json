@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T23:30:03Z",
+  "fetched_at": "2026-09-10T00:25:03Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1277,
   "by_state": {
@@ -7,9 +7,9 @@
     "NSW": 1156,
     "NT": 29,
     "QLD": 33,
-    "SA": 31,
+    "SA": 30,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 19
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 79,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 70,
+    "7-Eleven": 71,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -33,7 +33,7 @@
     "Metro Fuel": 8,
     "Evie Networks": 8,
     "Liberty": 8,
-    "Mobil": 8,
+    "Mobil": 7,
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
@@ -52,9 +52,9 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "ETA PETROLEUM": 1,
-    "24Xpress": 1,
-    "Apco": 1
+    "Apco": 1,
+    "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -11370,15 +11370,6 @@
     },
     {
       "brand": "Mobil",
-      "code": "SA:61501026",
-      "name": "Mobil Blair Athol",
-      "address": "351 Prospect Rd, SA 5084",
-      "state": "SA",
-      "lat": -34.86346166281097,
-      "lng": 138.59260236441807
-    },
-    {
-      "brand": "Mobil",
       "code": "SA:61501289",
       "name": "Mobil Torrensville",
       "address": "239 Henley Beach Rd, SA 5031",
@@ -11549,17 +11540,18 @@
       "lng": 146.96061311
     },
     {
-      "brand": "24Xpress",
-      "code": "VIC:uzED/LUsf18+hfDpuwbNIwEo7RbfLOCgiCW7rrhX6Dk=",
-      "name": "24Xpress Taylors Lakes",
-      "address": "25 Melton Highway, Taylors Lakes, 3038",
+      "brand": "7-Eleven",
+      "code": "VIC:3dQb5K6eAy2jD310gI/OAPZyaD6AYkk3jy4OrVgUcs8=",
+      "name": "7-Eleven Fairfield East",
+      "address": "324 Station Street, Fairfield, 3078",
       "state": "VIC",
-      "lat": -37.70110869,
-      "lng": 144.79702784,
+      "lat": -37.765467377853085,
+      "lng": 145.02001164378012,
       "unavailable_fuels": [
-        "Diesel",
-        "E10",
+        "LPG",
+        "Premium Diesel",
         "U91",
+        "U95",
         "U98"
       ]
     },
@@ -11709,6 +11701,21 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "Metro Petroleum",
+      "code": "VIC:rWzBabl5XWgVh3HRwlGuVU1XYJNaRt1EPJNGCl/xAh0=",
+      "name": "Metro Sunshine",
+      "address": "147-151 Devonshire Road, SUNSHINE, 3020",
+      "state": "VIC",
+      "lat": -37.78625411,
+      "lng": 144.84557921,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U98"
       ]
     },
     {

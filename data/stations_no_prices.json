@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-10T00:25:03Z",
+  "fetched_at": "2026-09-10T01:02:14Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1277,
+  "station_count": 1275,
   "by_state": {
     "ACT": 9,
-    "NSW": 1156,
+    "NSW": 1155,
     "NT": 29,
     "QLD": 33,
     "SA": 30,
     "TAS": 1,
-    "VIC": 19
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
@@ -40,7 +40,6 @@
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
-    "EG Ampol": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Ampol Foodary": 1,
@@ -53,7 +52,6 @@
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
     "Apco": 1,
-    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1
   },
   "stations": [
@@ -4313,15 +4311,6 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "NSW:633",
-      "name": "EG Ampol Singleton",
-      "address": "Cnr Ryan Avenue & Burn Lane, Singleton NSW 2330",
-      "state": "NSW",
-      "lat": -32.564936,
-      "lng": 151.165807
     },
     {
       "brand": "EVUp",
@@ -11701,21 +11690,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Metro Petroleum",
-      "code": "VIC:rWzBabl5XWgVh3HRwlGuVU1XYJNaRt1EPJNGCl/xAh0=",
-      "name": "Metro Sunshine",
-      "address": "147-151 Devonshire Road, SUNSHINE, 3020",
-      "state": "VIC",
-      "lat": -37.78625411,
-      "lng": 144.84557921,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
       ]
     },
     {

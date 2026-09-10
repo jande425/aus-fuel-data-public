@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-10T02:46:43Z",
+  "fetched_at": "2026-09-10T06:20:31Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1276,
   "by_state": {
     "ACT": 9,
     "NSW": 1155,
@@ -9,7 +9,7 @@
     "QLD": 33,
     "SA": 30,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 19
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,16 +19,16 @@
     "Reddy Express": 79,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 71,
+    "7-Eleven": 70,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "Ampol": 20,
     "JOLT": 20,
     "Caltex": 12,
-    "Shell": 10,
+    "Shell": 11,
+    "United": 10,
     "Puma Energy": 10,
-    "United": 9,
     "EVUp": 9,
     "Metro Fuel": 8,
     "Evie Networks": 8,
@@ -51,8 +51,8 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "Apco": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -7450,8 +7450,8 @@
       "name": "Pearl Energy Annangrove",
       "address": "169 Annangrove RD, Annangrove NSW 2156",
       "state": "NSW",
-      "lat": -33.671068,
-      "lng": 150.956254
+      "lat": -33.67105,
+      "lng": 150.95628
     },
     {
       "brand": "Pearl Energy",
@@ -10809,22 +10809,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "QLD:61477091",
-      "name": "7-Eleven North Lakes",
-      "address": "64 Flinders Parade, QLD 4509",
-      "state": "QLD",
-      "lat": -27.220937,
-      "lng": 152.999794,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "QLD:61402130",
       "name": "7-Eleven Robina",
       "address": "Robina Town Centre Dr, QLD 4226",
@@ -11093,6 +11077,18 @@
       "state": "QLD",
       "lat": -25.634965,
       "lng": 149.797847
+    },
+    {
+      "brand": "Shell",
+      "code": "QLD:61477803",
+      "name": "Shell Warwick",
+      "address": "2 Wood Street, QLD 4370",
+      "state": "QLD",
+      "lat": -28.221847,
+      "lng": 152.038417,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
     },
     {
       "brand": "Independent",
@@ -11789,6 +11785,23 @@
         "Diesel",
         "U91",
         "U95"
+      ]
+    },
+    {
+      "brand": "United",
+      "code": "VIC:5eftgQ1g/pAg/hCMAz3GFrkA3UbIoejipS1+6msNXgg=",
+      "name": "United Narre Warren South",
+      "address": "25 Narre Warren - Cranbourne Road, Narre Warren South, 3805",
+      "state": "VIC",
+      "lat": -38.032563865140226,
+      "lng": 145.3054607639177,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "LPG",
+        "U91",
+        "U95",
+        "U98"
       ]
     }
   ]

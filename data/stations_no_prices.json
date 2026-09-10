@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-10T22:33:03Z",
+  "fetched_at": "2026-09-10T23:23:55Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1276,
   "by_state": {
     "ACT": 9,
     "NSW": 1156,
     "NT": 29,
-    "QLD": 34,
+    "QLD": 35,
     "SA": 30,
     "TAS": 1,
     "VIC": 16
@@ -16,7 +16,7 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 79,
+    "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 72,
     "7-Eleven": 69,
@@ -11101,6 +11101,22 @@
       "state": "QLD",
       "lat": -25.634965,
       "lng": 149.797847
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "QLD:61401569",
+      "name": "Shell Reddy Express Marsden",
+      "address": "604-614 Browns Plains Rd (Cnr Second Ave), QLD 4132",
+      "state": "QLD",
+      "lat": -27.680743,
+      "lng": 153.092073,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Shell",

@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-10T12:19:04Z",
+  "fetched_at": "2026-09-10T12:53:52Z",
   "station_count": 2096,
   "fuel_types": [
     "E10",
@@ -361,13 +361,13 @@
       "address": "257 Guildford Rd, GUILDFORD NSW 2161",
       "state": "NSW",
       "prices": {
-        "Diesel": 250.5,
-        "E10": 204.5,
-        "U98": 234.5,
-        "Premium Diesel": 252.5,
-        "U91": 206.5
+        "Diesel": 253.5,
+        "E10": 207.5,
+        "U98": 237.5,
+        "Premium Diesel": 255.5,
+        "U91": 209.5
       },
-      "updated": "2026-09-08T13:57:19Z",
+      "updated": "2026-09-10T12:29:30Z",
       "lat": -33.85437,
       "lng": 150.988836
     },
@@ -8401,10 +8401,10 @@
         "E10": 205.9,
         "U95": 224.9,
         "U98": 233.9,
-        "Premium Diesel": 258.9,
+        "Premium Diesel": 260.9,
         "U91": 207.9
       },
-      "updated": "2026-09-09T10:12:17Z",
+      "updated": "2026-09-10T12:21:14Z",
       "lat": -32.569388,
       "lng": 151.179967
     },
@@ -11420,12 +11420,12 @@
       "address": "127-129 Marion ST, Leichhardt NSW 2040",
       "state": "NSW",
       "prices": {
-        "E10": 199.5,
+        "E10": 205.7,
         "U98": 232.8,
         "Premium Diesel": 249.6,
         "U91": 209.8
       },
-      "updated": "2026-09-10T05:44:32Z",
+      "updated": "2026-09-10T12:25:06Z",
       "lat": -33.88394,
       "lng": 151.150779
     },
@@ -12445,12 +12445,12 @@
       "address": "12 Pacific HWY, Ourimbah NSW 2258",
       "state": "NSW",
       "prices": {
-        "LPG": 94.9,
-        "U98": 221.9,
-        "Premium Diesel": 248.9,
-        "U91": 201.9
+        "LPG": 99.9,
+        "U98": 226.9,
+        "Premium Diesel": 253.9,
+        "U91": 206.9
       },
-      "updated": "2026-09-10T06:38:06Z",
+      "updated": "2026-09-10T12:24:51Z",
       "lat": -33.36297,
       "lng": 151.371353
     },
@@ -12951,13 +12951,13 @@
       "address": "45 Spit Road, Mosman NSW 2088",
       "state": "NSW",
       "prices": {
-        "E10": 210.9,
-        "U95": 229.9,
-        "U98": 238.9,
+        "E10": 209.9,
+        "U95": 228.9,
+        "U98": 237.9,
         "Premium Diesel": 263.9,
-        "U91": 212.9
+        "U91": 211.9
       },
-      "updated": "2026-09-10T02:33:15Z",
+      "updated": "2026-09-10T12:45:22Z",
       "lat": -33.823058,
       "lng": 151.243459
     },
@@ -13238,13 +13238,13 @@
       "address": "Shop 1, 135-137 Popondetta Road, Emerton NSW 2770",
       "state": "NSW",
       "prices": {
-        "E10": 212.9,
-        "U95": 231.9,
-        "U98": 240.9,
+        "E10": 211.9,
+        "U95": 230.9,
+        "U98": 239.9,
         "Premium Diesel": 259.9,
-        "U91": 214.9
+        "U91": 213.9
       },
-      "updated": "2026-09-10T06:30:38Z",
+      "updated": "2026-09-10T12:48:22Z",
       "lat": -33.744639,
       "lng": 150.810225
     },
@@ -14303,10 +14303,10 @@
       "prices": {
         "U95": 226.9,
         "U98": 235.9,
-        "Premium Diesel": 253.9,
+        "Premium Diesel": 255.9,
         "U91": 209.9
       },
-      "updated": "2026-09-10T03:09:14Z",
+      "updated": "2026-09-10T12:21:14Z",
       "lat": -33.265167,
       "lng": 151.454858
     },
@@ -21930,10 +21930,10 @@
       "state": "NSW",
       "prices": {
         "Diesel": 257.9,
-        "U98": 231.9,
-        "U91": 208.9
+        "U98": 234.9,
+        "U91": 209.9
       },
-      "updated": "2026-09-07T11:23:08Z",
+      "updated": "2026-09-10T12:27:18Z",
       "lat": -28.318804,
       "lng": 153.429415
     },
@@ -24748,9 +24748,12 @@
       "address": "152 Moorefields Road, Kingsgrove NSW 2208",
       "state": "NSW",
       "prices": {
-        "Premium Diesel": 259.9
+        "U95": 227.9,
+        "U98": 236.9,
+        "Premium Diesel": 259.9,
+        "U91": 209.9
       },
-      "updated": "2026-09-03T21:46:09Z",
+      "updated": "2026-09-10T12:48:04Z",
       "lat": -33.935501,
       "lng": 151.086374
     },

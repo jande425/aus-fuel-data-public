@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-11T07:41:52Z",
+  "fetched_at": "2026-09-11T12:17:43Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1273,
   "by_state": {
     "ACT": 9,
     "NSW": 1155,
     "NT": 29,
-    "QLD": 33,
+    "QLD": 32,
     "SA": 30,
     "TAS": 1,
-    "VIC": 15
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -23,16 +23,16 @@
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 21,
+    "Ampol": 20,
     "JOLT": 20,
     "Caltex": 12,
     "Shell": 11,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
+    "Liberty": 9,
     "Metro Fuel": 8,
     "Evie Networks": 8,
-    "Liberty": 8,
     "Mobil": 7,
     "Pearl Energy": 5,
     "Everty": 4,
@@ -50,8 +50,9 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
-    "ETA PETROLEUM": 1
+    "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -10824,20 +10825,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61401755",
-      "name": "Ampol Foodary Waterford West",
-      "address": "76 Chambers Flat Rd & Mark Ln, QLD 4133",
-      "state": "QLD",
-      "lat": -27.681393,
-      "lng": 153.114674,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -11650,6 +11637,20 @@
     },
     {
       "brand": "Liberty",
+      "code": "VIC:q0ZDVB2DzQfwVyp7ktR+dDrSAKuqCQtqwmcwqq5OheQ=",
+      "name": "LIberty Stanhope",
+      "address": "86 Midland Highway, STANHOPE, 3623",
+      "state": "VIC",
+      "lat": -36.44672091,
+      "lng": 144.99345538,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91"
+      ]
+    },
+    {
+      "brand": "Liberty",
       "code": "VIC:B9Abo+4raxqqCo4w9FjYBkKULRTDuLrShdpOhuPF4Sw=",
       "name": "Liberty Merbein South",
       "address": "1202 Sturt HWY, Merbein South, 3505",
@@ -11659,6 +11660,21 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "Metro Petroleum",
+      "code": "VIC:rWzBabl5XWgVh3HRwlGuVU1XYJNaRt1EPJNGCl/xAh0=",
+      "name": "Metro Sunshine",
+      "address": "147-151 Devonshire Road, SUNSHINE, 3020",
+      "state": "VIC",
+      "lat": -37.78625411,
+      "lng": 144.84557921,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U98"
       ]
     },
     {

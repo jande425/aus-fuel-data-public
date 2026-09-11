@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-09-11T12:17:43Z",
+  "fetched_at": "2026-09-11T12:48:25Z",
   "station_count": 296,
   "fuel_types": [
     "E10",
@@ -42,12 +42,12 @@
       "prices": {
         "Diesel": 251.9,
         "E10": 205.9,
-        "Premium Diesel": 261.9,
-        "U91": 215.9,
         "U95": 232.9,
-        "U98": 240.9
+        "U98": 240.9,
+        "Premium Diesel": 261.9,
+        "U91": 215.9
       },
-      "updated": "2026-09-11T09:20:38Z",
+      "updated": "2026-09-11T12:35:22Z",
       "lat": -42.8700379,
       "lng": 147.3214497
     },

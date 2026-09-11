@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-11T02:39:56Z",
+  "fetched_at": "2026-09-11T06:23:44Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1273,
   "by_state": {
     "ACT": 9,
     "NSW": 1155,
     "NT": 29,
-    "QLD": 35,
-    "SA": 31,
+    "QLD": 34,
+    "SA": 30,
     "TAS": 1,
     "VIC": 15
   },
@@ -16,7 +16,7 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 80,
+    "Reddy Express": 79,
     "Chargefox": 72,
     "Independent": 72,
     "7-Eleven": 68,
@@ -48,12 +48,11 @@
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
     "Woodham Petroleum": 1,
-    "EG Ampol": 1,
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -11094,22 +11093,6 @@
       "lng": 149.797847
     },
     {
-      "brand": "Reddy Express",
-      "code": "QLD:61401569",
-      "name": "Shell Reddy Express Marsden",
-      "address": "604-614 Browns Plains Rd (Cnr Second Ave), QLD 4132",
-      "state": "QLD",
-      "lat": -27.680743,
-      "lng": 153.092073,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Shell",
       "code": "QLD:61477803",
       "name": "Shell Warwick",
@@ -11283,20 +11266,6 @@
         "Diesel",
         "U91",
         "U98"
-      ]
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "SA:61501485",
-      "name": "EG Ampol Port Augusta",
-      "address": "Cnr Almein St & Maryatt St, SA 5700",
-      "state": "SA",
-      "lat": -32.489605,
-      "lng": 137.762901,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95"
       ]
     },
     {

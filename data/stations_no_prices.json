@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-12T02:49:25Z",
+  "fetched_at": "2026-09-12T06:10:02Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1274,
+  "station_count": 1276,
   "by_state": {
     "ACT": 9,
-    "NSW": 1155,
+    "NSW": 1156,
     "NT": 29,
     "QLD": 33,
-    "SA": 31,
+    "SA": 30,
     "TAS": 1,
-    "VIC": 16
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,11 +19,11 @@
     "Reddy Express": 79,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 69,
-    "BP": 53,
+    "7-Eleven": 70,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 21,
+    "Ampol": 20,
     "JOLT": 20,
     "Caltex": 12,
     "Shell": 11,
@@ -50,8 +50,9 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "U-Go": 1,
+    "Apco": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -2735,6 +2736,15 @@
       "state": "NSW",
       "lat": -28.852633,
       "lng": 153.556322
+    },
+    {
+      "brand": "BP",
+      "code": "NSW:1496",
+      "name": "BP North Rocks",
+      "address": "369 North Rocks Rd, North Rocks NSW 2151",
+      "state": "NSW",
+      "lat": -33.769346,
+      "lng": 151.031858
     },
     {
       "brand": "BP",
@@ -11173,21 +11183,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "SA:61501044",
-      "name": "Ampol Foodary Broadview",
-      "address": "76-80 Hampstead Road (Cnr Ian Street), SA 5083",
-      "state": "SA",
-      "lat": -34.876228,
-      "lng": 138.619101,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "SA:61501487",
       "name": "Ampol Millicent",
       "address": "George Road, SA 5280",
@@ -11547,6 +11542,21 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:tTES/z0wwv8W0TUmNWUl3r+90BWde+QXxgSgdapZ2nY=",
+      "name": "7-Eleven Greenvale South",
+      "address": "20 Bonds Lane, GREENVALE, 3059",
+      "state": "VIC",
+      "lat": -37.64217158,
+      "lng": 144.87966558,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:hnYD2k+KMHFhfu2g4CH/mOlNhIBaam5Vn/WkeXtdsjA=",
       "name": "7-Eleven McKinnon",
       "address": "211 Tucker Road, McKinnon, 3204",
@@ -11774,6 +11784,21 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "U-Go",
+      "code": "VIC:RayUmumf48MYUiAL64fBtn2JMYUtxn/Sn0srxC2gyLE=",
+      "name": "U-Go ST Albans",
+      "address": "151-167 Kings Road, ST Albans, 3021",
+      "state": "VIC",
+      "lat": -37.72791037229388,
+      "lng": 144.78167366821583,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     }

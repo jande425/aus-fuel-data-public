@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-09-12T07:37:38Z",
+  "fetched_at": "2026-09-12T11:41:17Z",
   "station_count": 296,
   "fuel_types": [
     "E10",
@@ -2675,14 +2675,11 @@
       "address": "167-169 Cambridge Street, West Launceston TAS 7250",
       "state": "TAS",
       "prices": {
-        "E10": 212.9,
+        "Diesel": 257.9,
         "U95": 228.9,
-        "U98": 240.9,
-        "Premium Diesel": 264.9,
-        "U91": 214.9,
-        "Diesel": 257.9
+        "U91": 214.9
       },
-      "updated": "2026-09-12T07:21:12Z",
+      "updated": "2026-09-10T08:34:14Z",
       "lat": -41.4618432,
       "lng": 147.1326733
     },
@@ -3935,12 +3932,12 @@
       "address": "Service Station 361-365 Bass HWY, Camdale TAS 7320",
       "state": "TAS",
       "prices": {
-        "Diesel": 254.9,
-        "U98": 237.9,
-        "Premium Diesel": 257.9,
-        "U91": 211.9
+        "Diesel": 256.9,
+        "U98": 239.9,
+        "Premium Diesel": 259.9,
+        "U91": 213.9
       },
-      "updated": "2026-09-11T09:19:38Z",
+      "updated": "2026-09-12T08:06:56Z",
       "lat": -41.04067542,
       "lng": 145.84945493
     },
@@ -4903,11 +4900,11 @@
         "LPG": 112.5,
         "U98": 236.9,
         "Premium Diesel": 257.9,
-        "U91": 216.9,
-        "Diesel": 262.9,
+        "U91": 218.9,
+        "Diesel": 264.9,
         "U95": 230.9
       },
-      "updated": "2026-09-11T11:12:39Z",
+      "updated": "2026-09-12T07:55:34Z",
       "lat": -41.78115735,
       "lng": 147.72109419
     },

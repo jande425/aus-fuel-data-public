@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-12T00:27:18Z",
+  "fetched_at": "2026-09-12T02:49:25Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1274,
   "by_state": {
     "ACT": 9,
     "NSW": 1155,
     "NT": 29,
-    "QLD": 32,
-    "SA": 30,
+    "QLD": 33,
+    "SA": 31,
     "TAS": 1,
     "VIC": 16
   },
@@ -19,11 +19,11 @@
     "Reddy Express": 79,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 68,
+    "7-Eleven": 69,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 20,
+    "Ampol": 21,
     "JOLT": 20,
     "Caltex": 12,
     "Shell": 11,
@@ -50,8 +50,8 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -10808,6 +10808,22 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "QLD:61401750",
+      "name": "7-Eleven Nerang",
+      "address": "Price St, QLD 4211",
+      "state": "QLD",
+      "lat": -27.993111,
+      "lng": 153.333047,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "QLD:61402130",
       "name": "7-Eleven Robina",
       "address": "Robina Town Centre Dr, QLD 4226",
@@ -11152,6 +11168,21 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "SA:61501044",
+      "name": "Ampol Foodary Broadview",
+      "address": "76-80 Hampstead Road (Cnr Ian Street), SA 5083",
+      "state": "SA",
+      "lat": -34.876228,
+      "lng": 138.619101,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

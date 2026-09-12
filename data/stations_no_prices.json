@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-11T23:31:46Z",
+  "fetched_at": "2026-09-12T00:27:18Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1272,
   "by_state": {
     "ACT": 9,
     "NSW": 1155,
@@ -9,7 +9,7 @@
     "QLD": 32,
     "SA": 30,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 16
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 79,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 69,
+    "7-Eleven": 68,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -11551,22 +11551,6 @@
       "state": "VIC",
       "lat": -37.96512786,
       "lng": 145.17289763,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:cOj8ij/UE1R/4SmrSMSmXQOKmkqohXIjWxknZIf80fA=",
-      "name": "7-Eleven St Albans",
-      "address": "70 Kings Road, St Albans, 3021",
-      "state": "VIC",
-      "lat": -37.73448582,
-      "lng": 144.78123498,
       "unavailable_fuels": [
         "LPG",
         "Premium Diesel",

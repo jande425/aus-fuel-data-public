@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-13T12:48:08Z",
+  "fetched_at": "2026-09-13T13:17:42Z",
   "station_count": 2097,
   "fuel_types": [
     "E10",
@@ -20549,8 +20549,6 @@
       "prices": {
         "Diesel": 253.9,
         "E10": 220.9,
-        "U95": 243.9,
-        "U98": 249.9,
         "Premium Diesel": 257.9
       },
       "updated": "2026-09-13T01:45:44Z",
@@ -24669,11 +24667,11 @@
       "state": "NSW",
       "prices": {
         "U95": 239.9,
-        "U98": 249.9,
+        "U98": 254.9,
         "Premium Diesel": 269.9,
         "U91": 229.9
       },
-      "updated": "2026-09-08T22:14:32Z",
+      "updated": "2026-09-13T12:55:26Z",
       "lat": -34.430039,
       "lng": 150.892405
     },
@@ -33386,12 +33384,12 @@
       "address": "105 Bent ST, South Grafton NSW 2460",
       "state": "NSW",
       "prices": {
-        "Diesel": 259.7,
-        "E10": 217.7,
+        "Diesel": 263.7,
+        "E10": 219.7,
         "U98": 246.7,
-        "U91": 219.7
+        "U91": 221.7
       },
-      "updated": "2026-09-12T04:59:58Z",
+      "updated": "2026-09-13T12:50:35Z",
       "lat": -29.706855,
       "lng": 152.939793
     },

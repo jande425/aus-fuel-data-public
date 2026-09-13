@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-13T17:52:24Z",
+  "fetched_at": "2026-09-13T20:11:25Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1272,
   "by_state": {
     "ACT": 9,
     "NSW": 1155,
@@ -9,7 +9,7 @@
     "QLD": 33,
     "SA": 30,
     "TAS": 1,
-    "VIC": 16
+    "VIC": 15
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 79,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 68,
+    "7-Eleven": 67,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -50,8 +50,8 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -11533,22 +11533,6 @@
       "unavailable_fuels": [
         "Premium Diesel",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:gOLrE3rte8ewrgyJlTWGv5xMmBL6F3+elDRtRkdMFIM=",
-      "name": "7-Eleven Mornington Tyabb",
-      "address": "19-21 Mornington-Tyabb Road, Mornington, 3931",
-      "state": "VIC",
-      "lat": -38.23150868,
-      "lng": 145.04628937,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

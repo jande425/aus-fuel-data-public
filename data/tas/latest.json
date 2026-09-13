@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-09-13T07:26:12Z",
+  "fetched_at": "2026-09-13T07:55:58Z",
   "station_count": 296,
   "fuel_types": [
     "E10",
@@ -1653,13 +1653,13 @@
       "address": "42 Mary Street, CYGNET TAS 7112",
       "state": "TAS",
       "prices": {
-        "E10": 211.9,
-        "U98": 238.9,
+        "E10": 213.9,
+        "U98": 239.9,
         "Premium Diesel": 277.9,
         "U91": 239.9,
         "U95": 252.9
       },
-      "updated": "2026-09-13T03:22:37Z",
+      "updated": "2026-09-13T07:41:44Z",
       "lat": -43.1598687,
       "lng": 147.0760916
     },
@@ -2886,13 +2886,13 @@
       "prices": {
         "E10": 215.9,
         "LPG": 112.5,
-        "U95": 235.9,
+        "U95": 239.9,
         "U98": 243.9,
         "Premium Diesel": 272.9,
-        "U91": 215.9,
-        "Diesel": 257.9
+        "U91": 219.9,
+        "Diesel": 263.9
       },
-      "updated": "2026-09-10T21:57:15Z",
+      "updated": "2026-09-13T07:50:24Z",
       "lat": -41.3463891,
       "lng": 146.4216822
     },

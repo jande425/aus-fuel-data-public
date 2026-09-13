@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-13T02:47:33Z",
+  "fetched_at": "2026-09-13T06:32:06Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1270,
+  "station_count": 1272,
   "by_state": {
     "ACT": 9,
     "NSW": 1155,
     "NT": 29,
-    "QLD": 31,
+    "QLD": 33,
     "SA": 30,
     "TAS": 1,
     "VIC": 15
@@ -17,8 +17,8 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 79,
+    "Independent": 73,
     "Chargefox": 72,
-    "Independent": 72,
     "7-Eleven": 68,
     "BP": 53,
     "NRMA": 45,
@@ -39,6 +39,7 @@
     "Speedway": 3,
     "Budget": 2,
     "Indervon": 2,
+    "Pacific Fuel Solutions": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
@@ -46,7 +47,6 @@
     "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
-    "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
@@ -11003,6 +11003,18 @@
     },
     {
       "brand": "Pacific Fuel Solutions",
+      "code": "QLD:61477872",
+      "name": "Pacific Fuel Solutions Barcaldine",
+      "address": "13 Needlewood Rd, QLD 4725",
+      "state": "QLD",
+      "lat": -23.568166648606315,
+      "lng": 145.28090476686478,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
+    },
+    {
+      "brand": "Pacific Fuel Solutions",
       "code": "QLD:61477735",
       "name": "Pacific Fuel Solutions Gladstone",
       "address": "11 Red River Road, QLD 4680",
@@ -11104,6 +11116,19 @@
         "LPG",
         "U91",
         "U98"
+      ]
+    },
+    {
+      "brand": "Independent",
+      "code": "QLD:61478017",
+      "name": "Wondai Servo",
+      "address": "81 Haly Street, QLD 4606",
+      "state": "QLD",
+      "lat": -26.318375,
+      "lng": 151.871619,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91"
       ]
     },
     {

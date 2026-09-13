@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-13T21:33:37Z",
+  "fetched_at": "2026-09-13T22:22:57Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -832,7 +832,7 @@
       "address": "150 O'Halloran Circuit, Kambah ACT 2902",
       "state": "ACT",
       "prices": {
-        "Diesel": 276.9,
+        "Diesel": 279.9,
         "E10": 226.9,
         "E85": 239.9,
         "LPG": 119.9,
@@ -840,7 +840,7 @@
         "U98": 252.9,
         "U91": 228.9
       },
-      "updated": "2026-09-12T20:35:06Z",
+      "updated": "2026-09-13T22:05:06Z",
       "lat": -35.3924,
       "lng": 149.069
     },
@@ -868,12 +868,12 @@
       "address": "51 Whyalla St, Fyshwick ACT 2609",
       "state": "ACT",
       "prices": {
-        "E10": 215.9,
+        "E10": 217.9,
         "U98": 243.9,
-        "Premium Diesel": 257.9,
-        "U91": 217.9
+        "Premium Diesel": 259.9,
+        "U91": 219.9
       },
-      "updated": "2026-09-10T22:06:44Z",
+      "updated": "2026-09-13T21:59:43Z",
       "lat": -35.3326,
       "lng": 149.176
     },
@@ -935,10 +935,10 @@
         "E10": 219.9,
         "U95": 238.9,
         "U98": 247.9,
-        "Premium Diesel": 275.9,
+        "Premium Diesel": 278.9,
         "U91": 221.9
       },
-      "updated": "2026-09-12T05:39:30Z",
+      "updated": "2026-09-13T21:39:18Z",
       "lat": -35.19471,
       "lng": 149.0623
     },
@@ -1016,10 +1016,10 @@
       "prices": {
         "E10": 219.7,
         "U98": 247.7,
-        "Premium Diesel": 269.9,
+        "Premium Diesel": 271.9,
         "U91": 221.7
       },
-      "updated": "2026-09-10T22:03:37Z",
+      "updated": "2026-09-13T21:55:39Z",
       "lat": -35.375911,
       "lng": 149.101739
     }

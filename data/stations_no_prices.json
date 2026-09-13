@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-13T06:32:06Z",
+  "fetched_at": "2026-09-13T07:26:12Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1273,
   "by_state": {
     "ACT": 9,
     "NSW": 1155,
     "NT": 29,
     "QLD": 33,
-    "SA": 30,
+    "SA": 31,
     "TAS": 1,
     "VIC": 15
   },
@@ -48,6 +48,7 @@
     "On the Run": 1,
     "Enhance": 1,
     "Perrys": 1,
+    "AM/PM": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
     "ETA PETROLEUM": 1,
@@ -11148,6 +11149,21 @@
       "state": "QLD",
       "lat": -16.916483,
       "lng": 145.871647
+    },
+    {
+      "brand": "AM/PM",
+      "code": "SA:61570350",
+      "name": "AMPM Roxby Downs",
+      "address": "26 Olympic Way, SA 5725",
+      "state": "SA",
+      "lat": -30.553732,
+      "lng": 136.893838,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Ampol",

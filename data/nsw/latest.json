@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-13T06:32:06Z",
+  "fetched_at": "2026-09-13T07:26:12Z",
   "station_count": 2097,
   "fuel_types": [
     "E10",
@@ -583,11 +583,11 @@
       "address": "82 Cowabbie St, COOLAMON NSW 2701",
       "state": "NSW",
       "prices": {
-        "Diesel": 250.9,
-        "U95": 225.9,
-        "U91": 210.9
+        "Diesel": 258.9,
+        "U95": 236.9,
+        "U91": 219.9
       },
-      "updated": "2026-09-07T21:49:01Z",
+      "updated": "2026-09-13T06:48:17Z",
       "lat": -34.817305,
       "lng": 147.200239
     },
@@ -3262,10 +3262,10 @@
         "E10": 189.5,
         "U95": 218.9,
         "U98": 227.9,
-        "Premium Diesel": 240.5,
+        "Premium Diesel": 242.5,
         "U91": 193.5
       },
-      "updated": "2026-09-12T22:22:37Z",
+      "updated": "2026-09-13T07:02:26Z",
       "lat": -33.894328,
       "lng": 150.957208
     },
@@ -3808,10 +3808,10 @@
         "LPG": 116.9,
         "U95": 232.9,
         "U98": 241.9,
-        "Premium Diesel": 266.9,
+        "Premium Diesel": 268.9,
         "U91": 215.9
       },
-      "updated": "2026-09-11T23:30:32Z",
+      "updated": "2026-09-13T07:03:13Z",
       "lat": -33.755512,
       "lng": 150.963514
     },
@@ -6240,9 +6240,9 @@
         "E10": 189.5,
         "U95": 219.5,
         "U98": 220.5,
-        "Premium Diesel": 240.5
+        "Premium Diesel": 242.5
       },
-      "updated": "2026-09-13T01:37:25Z",
+      "updated": "2026-09-13T06:47:27Z",
       "lat": -33.883924,
       "lng": 150.924202
     },
@@ -10301,7 +10301,6 @@
       "prices": {
         "Diesel": 252.5,
         "E10": 209.5,
-        "U95": 223.5,
         "U98": 233.5,
         "U91": 211.5
       },
@@ -10319,9 +10318,9 @@
         "E10": 227.9,
         "U95": 246.9,
         "U98": 256.9,
-        "Premium Diesel": 267.9
+        "Premium Diesel": 270.9
       },
-      "updated": "2026-09-09T03:31:29Z",
+      "updated": "2026-09-13T06:46:12Z",
       "lat": -34.38925,
       "lng": 150.894106
     },
@@ -10703,12 +10702,12 @@
       "address": "203 Burns Bay RD, Lane Cove NSW 2066",
       "state": "NSW",
       "prices": {
-        "E10": 211.5,
-        "U98": 239.5,
-        "Premium Diesel": 263.5,
-        "U91": 213.5
+        "E10": 213.5,
+        "U98": 241.5,
+        "Premium Diesel": 265.5,
+        "U91": 215.5
       },
-      "updated": "2026-09-11T09:13:04Z",
+      "updated": "2026-09-13T07:01:46Z",
       "lat": -33.814598,
       "lng": 151.154353
     },
@@ -10795,7 +10794,6 @@
       "state": "NSW",
       "prices": {
         "E10": 209.9,
-        "LPG": 97.9,
         "U98": 231.9,
         "Premium Diesel": 254.9,
         "U91": 211.9
@@ -12439,12 +12437,12 @@
       "address": "12 Pacific HWY, Ourimbah NSW 2258",
       "state": "NSW",
       "prices": {
-        "LPG": 99.9,
-        "U98": 226.9,
-        "Premium Diesel": 253.9,
-        "U91": 206.9
+        "LPG": 94.9,
+        "U98": 221.9,
+        "Premium Diesel": 248.9,
+        "U91": 201.9
       },
-      "updated": "2026-09-11T13:30:39Z",
+      "updated": "2026-09-13T06:41:34Z",
       "lat": -33.36297,
       "lng": 151.371353
     },
@@ -23299,12 +23297,12 @@
       "state": "NSW",
       "prices": {
         "E10": 215.9,
-        "U95": 232.9,
-        "U98": 239.9,
-        "Premium Diesel": 258.9,
+        "U95": 235.9,
+        "U98": 242.9,
+        "Premium Diesel": 262.9,
         "U91": 219.9
       },
-      "updated": "2026-09-12T05:19:30Z",
+      "updated": "2026-09-13T06:56:19Z",
       "lat": -33.890625,
       "lng": 150.618748
     },
@@ -27097,14 +27095,14 @@
       "address": "4949 New England Hwy, McDougalls Hill NSW 2330",
       "state": "NSW",
       "prices": {
-        "Diesel": 265.9,
+        "Diesel": 268.9,
         "E10": 215.9,
         "U95": 234.9,
         "U98": 244.9,
-        "Premium Diesel": 268.9,
+        "Premium Diesel": 271.9,
         "U91": 217.9
       },
-      "updated": "2026-09-12T06:22:26Z",
+      "updated": "2026-09-13T06:37:26Z",
       "lat": -32.54549,
       "lng": 151.149261
     },
@@ -31731,11 +31729,11 @@
       "address": "128 Duffy Av, Westleigh NSW 2120",
       "state": "NSW",
       "prices": {
-        "U98": 235.9,
-        "Premium Diesel": 257.9,
-        "U91": 211.9
+        "U98": 239.9,
+        "Premium Diesel": 261.9,
+        "U91": 213.9
       },
-      "updated": "2026-09-12T04:59:29Z",
+      "updated": "2026-09-13T06:52:35Z",
       "lat": -33.720391,
       "lng": 151.068932
     },
@@ -33265,12 +33263,12 @@
       "address": "7 Northwood RD, Longueville NSW 2066",
       "state": "NSW",
       "prices": {
-        "E10": 215.5,
-        "U95": 235.5,
-        "U98": 243.5,
-        "Premium Diesel": 266.5
+        "E10": 217.5,
+        "U95": 238.5,
+        "U98": 246.5,
+        "Premium Diesel": 268.5
       },
-      "updated": "2026-09-11T11:57:55Z",
+      "updated": "2026-09-13T07:02:31Z",
       "lat": -33.824553,
       "lng": 151.172574
     },

@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-13T22:48:18Z",
+  "fetched_at": "2026-09-14T00:20:05Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1277,
   "by_state": {
     "ACT": 9,
-    "NSW": 1156,
+    "NSW": 1158,
     "NT": 29,
     "QLD": 36,
     "SA": 30,
@@ -16,7 +16,7 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
+    "Reddy Express": 83,
     "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 67,
@@ -39,19 +39,20 @@
     "Speedway": 3,
     "Budget": 2,
     "Indervon": 2,
-    "Pacific Fuel Solutions": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
+    "IOR": 1,
     "Ampol Foodary": 1,
     "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
+    "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -5131,6 +5132,15 @@
       "lng": 151.199863
     },
     {
+      "brand": "IOR",
+      "code": "NSW:20936",
+      "name": "IOR Yass",
+      "address": "10 Industrial CL, Yass NSW 2582",
+      "state": "NSW",
+      "lat": -34.809445,
+      "lng": 148.879457
+    },
+    {
       "brand": "Independent",
       "code": "NSW:1666",
       "name": "Independent Glen Innes",
@@ -8705,6 +8715,15 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "NSW:558",
+      "name": "Shell Reddy Express Stanmore",
+      "address": "308-310 Parramatta Road, Stanmore NSW 2048",
+      "state": "NSW",
+      "lat": -33.888444,
+      "lng": 151.164376
+    },
+    {
+      "brand": "Reddy Express",
       "code": "NSW:39",
       "name": "Shell Reddy Express Sutton Forest",
       "address": "13125 Hume Highway (Cnr Sally Corner Rd), Sutton Forest NSW 2577",
@@ -11027,18 +11046,6 @@
     },
     {
       "brand": "Pacific Fuel Solutions",
-      "code": "QLD:61477872",
-      "name": "Pacific Fuel Solutions Barcaldine",
-      "address": "13 Needlewood Rd, QLD 4725",
-      "state": "QLD",
-      "lat": -23.568166648606315,
-      "lng": 145.28090476686478,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
-    },
-    {
-      "brand": "Pacific Fuel Solutions",
       "code": "QLD:61477735",
       "name": "Pacific Fuel Solutions Gladstone",
       "address": "11 Red River Road, QLD 4680",
@@ -11098,6 +11105,20 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "QLD:61402891",
+      "name": "Shell Reddy Express Edmonton",
+      "address": "9-11 Walker Rd (Cnr Hambledon Dr), QLD 4869",
+      "state": "QLD",
+      "lat": -17.020120981097687,
+      "lng": 145.72843333498764,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91"
+      ]
+    },
+    {
+      "brand": "Reddy Express",
       "code": "QLD:61451570",
       "name": "Shell Reddy Express Garbutt",
       "address": "346 Ingham Road, QLD 4814",
@@ -11114,17 +11135,16 @@
     },
     {
       "brand": "Reddy Express",
-      "code": "QLD:61401473",
-      "name": "Shell Reddy Express Woodridge",
-      "address": "188-192 Kingston Rd (Cnr Moss St), QLD 4114",
+      "code": "QLD:61401426",
+      "name": "Shell Reddy Express Granard Rd",
+      "address": "53 Beatty Rd (Cnr Granard Rd), QLD 4106",
       "state": "QLD",
-      "lat": -27.624443,
-      "lng": 153.116876,
+      "lat": -27.558051,
+      "lng": 153.015628,
       "unavailable_fuels": [
         "Diesel",
         "E10",
         "U91",
-        "U95",
         "U98"
       ]
     },

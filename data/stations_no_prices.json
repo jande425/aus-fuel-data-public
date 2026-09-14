@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T03:02:02Z",
+  "fetched_at": "2026-09-14T06:43:11Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1275,
   "by_state": {
@@ -16,16 +16,16 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 82,
+    "Reddy Express": 80,
     "Independent": 73,
     "Chargefox": 72,
     "7-Eleven": 67,
-    "BP": 53,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "Ampol": 20,
     "JOLT": 20,
-    "Caltex": 12,
+    "Caltex": 13,
     "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
@@ -51,9 +51,9 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
+    "Apco": 1,
     "R R D FUELS": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -2683,6 +2683,15 @@
       "state": "NSW",
       "lat": -34.718471,
       "lng": 150.001042
+    },
+    {
+      "brand": "BP",
+      "code": "NSW:1994",
+      "name": "BP Mascot",
+      "address": "1077 Botany Road, Mascot NSW 2020",
+      "state": "NSW",
+      "lat": -33.928442,
+      "lng": 151.195476
     },
     {
       "brand": "BP",
@@ -8716,15 +8725,6 @@
     },
     {
       "brand": "Reddy Express",
-      "code": "NSW:558",
-      "name": "Shell Reddy Express Stanmore",
-      "address": "308-310 Parramatta Road, Stanmore NSW 2048",
-      "state": "NSW",
-      "lat": -33.888444,
-      "lng": 151.164376
-    },
-    {
-      "brand": "Reddy Express",
       "code": "NSW:39",
       "name": "Shell Reddy Express Sutton Forest",
       "address": "13125 Hume Highway (Cnr Sally Corner Rd), Sutton Forest NSW 2577",
@@ -10888,6 +10888,20 @@
       "lng": 152.802848
     },
     {
+      "brand": "Caltex",
+      "code": "QLD:61401728",
+      "name": "Caltex Holland Park",
+      "address": "779 Logan Rd, QLD 4121",
+      "state": "QLD",
+      "lat": -27.514227097218736,
+      "lng": 153.05476872883602,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "QLD:61477908",
       "name": "Cameron Corner Store",
@@ -11101,22 +11115,6 @@
         "Diesel",
         "E10",
         "U91"
-      ]
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "QLD:61451570",
-      "name": "Shell Reddy Express Garbutt",
-      "address": "346 Ingham Road, QLD 4814",
-      "state": "QLD",
-      "lat": -19.265049,
-      "lng": 146.770678,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {

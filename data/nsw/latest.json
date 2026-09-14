@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-14T14:20:02Z",
+  "fetched_at": "2026-09-14T14:59:17Z",
   "station_count": 2097,
   "fuel_types": [
     "E10",
@@ -7329,13 +7329,13 @@
       "address": "601-605 Great Western Highway, GREYSTANES NSW 2145",
       "state": "NSW",
       "prices": {
-        "E10": 222.9,
-        "U95": 241.9,
-        "U98": 250.9,
+        "E10": 223.9,
+        "U95": 242.9,
+        "U98": 251.9,
         "Premium Diesel": 263.9,
-        "U91": 224.9
+        "U91": 225.9
       },
-      "updated": "2026-09-14T03:12:16Z",
+      "updated": "2026-09-14T14:48:13Z",
       "lat": -33.808609,
       "lng": 150.935941
     },
@@ -14055,13 +14055,13 @@
       "address": "3 Metella Road & Corner Cornelia Road, Toongabbie NSW 2146",
       "state": "NSW",
       "prices": {
-        "E10": 222.9,
+        "E10": 223.9,
         "U95": 242.9,
-        "U98": 250.9,
+        "U98": 251.9,
         "Premium Diesel": 264.9,
-        "U91": 224.9
+        "U91": 225.9
       },
-      "updated": "2026-09-14T13:21:12Z",
+      "updated": "2026-09-14T14:21:12Z",
       "lat": -33.786881,
       "lng": 150.946621
     },
@@ -20831,12 +20831,13 @@
       "address": "105 ST James RD, New Lambton NSW 2305",
       "state": "NSW",
       "prices": {
+        "E10": 217.9,
         "LPG": 121.9,
         "U98": 245.9,
         "Premium Diesel": 267.9,
         "U91": 219.9
       },
-      "updated": "2026-09-13T20:23:13Z",
+      "updated": "2026-09-14T14:34:50Z",
       "lat": -32.92905,
       "lng": 151.715598
     },
@@ -27949,11 +27950,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 253.5,
-        "E10": 211.5,
-        "U98": 234.5,
-        "U91": 213.5
+        "E10": 212.5,
+        "U98": 239.5,
+        "U91": 214.5
       },
-      "updated": "2026-09-14T07:17:51Z",
+      "updated": "2026-09-14T14:35:53Z",
       "lat": -32.898667,
       "lng": 151.722278
     },

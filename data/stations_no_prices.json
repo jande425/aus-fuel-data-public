@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-14T23:59:00Z",
+  "fetched_at": "2026-09-15T00:46:50Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1274,
   "by_state": {
     "ACT": 9,
     "NSW": 1156,
@@ -9,24 +9,24 @@
     "QLD": 32,
     "SA": 30,
     "TAS": 1,
-    "VIC": 14
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 80,
+    "Reddy Express": 81,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 67,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "Ampol": 20,
     "JOLT": 20,
     "Caltex": 13,
-    "Shell": 10,
+    "Shell": 11,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
@@ -51,8 +51,8 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "Apco": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -7256,6 +7256,15 @@
       "lng": 150.868543
     },
     {
+      "brand": "Shell",
+      "code": "NSW:20937",
+      "name": "OTR Warrawong South",
+      "address": "75-77 King ST, Warrawong NSW 2502",
+      "state": "NSW",
+      "lat": -34.490381,
+      "lng": 150.888815
+    },
+    {
       "brand": "Tesla",
       "code": "NSW:19359",
       "name": "Oakvale Wines",
@@ -8532,15 +8541,6 @@
       "state": "NSW",
       "lat": -32.940904,
       "lng": 151.708827
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:123",
-      "name": "Shell Reddy Express Lavington",
-      "address": "575 Wagga Rd, Lavington NSW 2641",
-      "state": "NSW",
-      "lat": -36.03665,
-      "lng": 146.963037
     },
     {
       "brand": "Reddy Express",
@@ -11538,6 +11538,22 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:gOLrE3rte8ewrgyJlTWGv5xMmBL6F3+elDRtRkdMFIM=",
+      "name": "7-Eleven Mornington Tyabb",
+      "address": "19-21 Mornington-Tyabb Road, Mornington, 3931",
+      "state": "VIC",
+      "lat": -38.23150868,
+      "lng": 145.04628937,
+      "unavailable_fuels": [
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:VkvBa8whRgy6Z46L367DlDXkAoFePQygEgkFhtVuUPE=",
       "name": "7-Eleven Noble Park",
       "address": "1100-1106 Heatherton Road, Noble Park, 3174",
@@ -11722,6 +11738,35 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "VIC:h2miyPFhCHjLKzUNkxtFdu6bMtKLoLQh6A+JBsb1A1k=",
+      "name": "Shell Reddy Express Mernda",
+      "address": "1444 Plenty Road, MERNDA, 3754",
+      "state": "VIC",
+      "lat": -37.59814738165172,
+      "lng": 145.09772957951898,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "VIC:Nv0DvM/96P/pNzh1+aNjXauV8SvQq1jHMXD0ilreNWE=",
+      "name": "Shell Reddy Express Moe",
+      "address": "92-98 Albert ST, MOE, 3825",
+      "state": "VIC",
+      "lat": -38.1740045225884,
+      "lng": 146.2596020680343,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     }

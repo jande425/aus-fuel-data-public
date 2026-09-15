@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-15T12:47:11Z",
-  "station_count": 2098,
+  "fetched_at": "2026-09-15T13:30:20Z",
+  "station_count": 2099,
   "fuel_types": [
     "E10",
     "U91",
@@ -1821,11 +1821,11 @@
       "address": "10 Langford Drive, MARSDEN PARK NSW 2765",
       "state": "NSW",
       "prices": {
-        "E10": 202.7,
-        "U98": 226.7,
-        "Premium Diesel": 246.7
+        "E10": 212.7,
+        "U98": 232.7,
+        "Premium Diesel": 252.7
       },
-      "updated": "2026-09-13T23:29:14Z",
+      "updated": "2026-09-15T13:29:47Z",
       "lat": -33.722985,
       "lng": 150.840858
     },
@@ -6721,13 +6721,13 @@
       "address": "1 Bridgman Road, DUNOLLY NSW 2330",
       "state": "NSW",
       "prices": {
-        "E10": 215.9,
-        "U95": 229.9,
-        "U98": 239.9,
-        "Premium Diesel": 261.9,
-        "U91": 217.9
+        "E10": 219.5,
+        "U95": 233.5,
+        "U98": 243.5,
+        "Premium Diesel": 261.5,
+        "U91": 221.5
       },
-      "updated": "2026-09-14T11:25:54Z",
+      "updated": "2026-09-15T13:22:19Z",
       "lat": -32.555948,
       "lng": 151.166897
     },
@@ -8954,11 +8954,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 276.9,
-        "E10": 225.9,
-        "U95": 244.9,
+        "E10": 227.9,
+        "U95": 246.9,
         "Premium Diesel": 279.9
       },
-      "updated": "2026-09-15T07:12:26Z",
+      "updated": "2026-09-15T13:07:26Z",
       "lat": -30.709747,
       "lng": 152.919821
     },
@@ -9927,12 +9927,12 @@
       "address": "261 Anderson DR, Beresfield NSW 2322",
       "state": "NSW",
       "prices": {
-        "Diesel": 253.5,
-        "E10": 211.5,
-        "U98": 234.5,
-        "U91": 213.5
+        "Diesel": 259.9,
+        "E10": 219.9,
+        "U98": 242.9,
+        "U91": 221.9
       },
-      "updated": "2026-09-14T04:32:44Z",
+      "updated": "2026-09-15T12:56:51Z",
       "lat": -32.799112,
       "lng": 151.645069
     },
@@ -11409,11 +11409,11 @@
       "state": "NSW",
       "prices": {
         "E10": 217.4,
-        "U98": 246.9,
-        "Premium Diesel": 259.4,
-        "U91": 219.4
+        "U98": 247.8,
+        "Premium Diesel": 264.5,
+        "U91": 221.8
       },
-      "updated": "2026-09-15T06:19:12Z",
+      "updated": "2026-09-15T13:24:14Z",
       "lat": -33.88394,
       "lng": 151.150779
     },
@@ -13778,17 +13778,35 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:275",
+      "name": "7-Eleven Rockdale",
+      "address": "293 West Botany Street (Corner Bestic Street), Rockdale NSW 2216",
+      "state": "NSW",
+      "prices": {
+        "E10": 221.9,
+        "LPG": 111.9,
+        "U95": 240.9,
+        "U98": 249.9,
+        "Premium Diesel": 266.9,
+        "U91": 223.9
+      },
+      "updated": "2026-09-15T12:59:06Z",
+      "lat": -33.949919,
+      "lng": 151.148692
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:276",
       "name": "7-Eleven Rooty Hill",
       "address": "108 Rooty Hill RD South, Rooty Hill NSW 2766",
       "state": "NSW",
       "prices": {
-        "E10": 221.9,
-        "U98": 249.9,
+        "E10": 222.9,
+        "U98": 250.9,
         "Premium Diesel": 273.9,
-        "U91": 223.9
+        "U91": 224.9
       },
-      "updated": "2026-09-15T05:09:17Z",
+      "updated": "2026-09-15T12:57:11Z",
       "lat": -33.78036,
       "lng": 150.8502
     },
@@ -20359,12 +20377,12 @@
       "address": "533 Mowbray RD West, Lane Cove North NSW 2066",
       "state": "NSW",
       "prices": {
-        "E10": 217.7,
-        "U98": 246.9,
-        "Premium Diesel": 267.7,
-        "U91": 219.7
+        "E10": 219.5,
+        "U98": 249.9,
+        "Premium Diesel": 269.4,
+        "U91": 221.8
       },
-      "updated": "2026-09-15T11:01:52Z",
+      "updated": "2026-09-15T13:23:24Z",
       "lat": -33.805971,
       "lng": 151.166274
     },
@@ -20995,11 +21013,11 @@
       "address": "20 Parkersfarm Place, Casula NSW 2170",
       "state": "NSW",
       "prices": {
-        "E10": 202.7,
-        "U98": 222.7,
-        "Premium Diesel": 244.7
+        "E10": 212.7,
+        "U98": 232.7,
+        "Premium Diesel": 252.7
       },
-      "updated": "2026-09-13T23:29:02Z",
+      "updated": "2026-09-15T13:28:55Z",
       "lat": -33.958521,
       "lng": 150.880116
     },
@@ -24805,13 +24823,13 @@
       "address": "8 Argyle St, CAMDEN NSW 2570",
       "state": "NSW",
       "prices": {
-        "E10": 208.9,
+        "E10": 218.9,
         "U95": 231.9,
         "U98": 241.9,
         "Premium Diesel": 257.9,
-        "U91": 208.9
+        "U91": 218.9
       },
-      "updated": "2026-09-14T21:38:27Z",
+      "updated": "2026-09-15T13:25:54Z",
       "lat": -34.053773,
       "lng": 150.700165
     },
@@ -25171,10 +25189,12 @@
       "address": "500 Willoughby Rd, Willoughby NSW 2068",
       "state": "NSW",
       "prices": {
-        "E10": 214.9,
-        "U98": 243.9
+        "E10": 219.9,
+        "U98": 248.9,
+        "Premium Diesel": 274.9,
+        "U91": 221.9
       },
-      "updated": "2026-09-14T23:22:27Z",
+      "updated": "2026-09-15T12:57:57Z",
       "lat": -33.810257,
       "lng": 151.19934
     },
@@ -28087,11 +28107,11 @@
       "address": "Costco 17-21 Parramatta RD, Lidcombe NSW 2141",
       "state": "NSW",
       "prices": {
-        "E10": 202.7,
-        "U98": 226.7,
-        "Premium Diesel": 246.7
+        "E10": 212.7,
+        "U98": 232.7,
+        "Premium Diesel": 252.7
       },
-      "updated": "2026-09-13T23:28:48Z",
+      "updated": "2026-09-15T13:27:31Z",
       "lat": -33.848086,
       "lng": 151.049695
     },
@@ -29504,12 +29524,12 @@
       "address": "283 Main RD, Fennell Bay NSW 2283",
       "state": "NSW",
       "prices": {
-        "E10": 207.9,
-        "U95": 221.9,
-        "Premium Diesel": 249.9,
-        "U91": 209.9
+        "E10": 215.9,
+        "U95": 229.9,
+        "Premium Diesel": 255.9,
+        "U91": 217.9
       },
-      "updated": "2026-09-14T21:55:27Z",
+      "updated": "2026-09-15T13:21:34Z",
       "lat": -32.991802,
       "lng": 151.599842
     },
@@ -31128,13 +31148,13 @@
       "address": "3 Blueberry RD, Moree NSW 2400",
       "state": "NSW",
       "prices": {
-        "Diesel": 257.5,
+        "Diesel": 259.5,
         "E10": 214.5,
         "U98": 241.5,
-        "Premium Diesel": 259.5,
+        "Premium Diesel": 261.5,
         "U91": 218.5
       },
-      "updated": "2026-09-15T05:49:00Z",
+      "updated": "2026-09-15T13:27:43Z",
       "lat": -29.490788,
       "lng": 149.850259
     },

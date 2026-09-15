@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-15T06:25:51Z",
+  "fetched_at": "2026-09-15T07:40:50Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -186,10 +186,10 @@
       "prices": {
         "U95": 246.9,
         "U98": 256.9,
-        "Premium Diesel": 272.9,
+        "Premium Diesel": 275.9,
         "U91": 229.9
       },
-      "updated": "2026-09-14T19:27:26Z",
+      "updated": "2026-09-15T06:57:26Z",
       "lat": -35.309323,
       "lng": 149.188209
     },
@@ -200,13 +200,13 @@
       "address": "Curran Drive Cnr O'Hanlon Pl, Nicholls ACT 2913",
       "state": "ACT",
       "prices": {
-        "E10": 225.9,
-        "U95": 244.9,
-        "U98": 254.9,
+        "E10": 227.9,
+        "U95": 246.9,
+        "U98": 256.9,
         "Premium Diesel": 285.9,
-        "U91": 227.9
+        "U91": 229.9
       },
-      "updated": "2026-09-14T19:42:25Z",
+      "updated": "2026-09-15T06:27:26Z",
       "lat": -35.1891,
       "lng": 149.082
     },
@@ -572,13 +572,13 @@
       "address": "88 Hardwick Cres, Holt ACT 2615",
       "state": "ACT",
       "prices": {
-        "E10": 225.9,
+        "E10": 226.9,
         "LPG": 125.9,
-        "U98": 253.9,
+        "U98": 254.9,
         "Premium Diesel": 279.9,
-        "U91": 227.9
+        "U91": 228.9
       },
-      "updated": "2026-09-15T03:33:18Z",
+      "updated": "2026-09-15T06:48:14Z",
       "lat": -35.2207,
       "lng": 149.018
     },
@@ -1013,12 +1013,12 @@
       "address": "Service Station 53 Lambrigg ST, Farrer ACT 2607",
       "state": "ACT",
       "prices": {
-        "E10": 219.7,
-        "U98": 247.7,
-        "Premium Diesel": 271.9,
-        "U91": 221.7
+        "E10": 223.5,
+        "U98": 251.5,
+        "Premium Diesel": 275.5,
+        "U91": 225.5
       },
-      "updated": "2026-09-13T21:55:39Z",
+      "updated": "2026-09-15T06:41:56Z",
       "lat": -35.375911,
       "lng": 149.101739
     }

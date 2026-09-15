@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T13:30:20Z",
+  "fetched_at": "2026-09-15T16:06:17Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1276,
   "by_state": {
@@ -19,7 +19,7 @@
     "Reddy Express": 81,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 67,
+    "7-Eleven": 66,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -51,8 +51,9 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "Apco": 1,
+    "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -11579,22 +11580,6 @@
       ]
     },
     {
-      "brand": "7-Eleven",
-      "code": "VIC:VJ9NFTbW38BuaJYEWo5ymLWq5TV5zzBg3KsqqqrjPLg=",
-      "name": "7-Eleven Truganina",
-      "address": "1 475 Leakes Road, Truganina, 3029",
-      "state": "VIC",
-      "lat": -37.83790205770321,
-      "lng": 144.72791210026222,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Apco",
       "code": "VIC:9qtPVydEOFxcerCfYKlr/EKJJUaP/s+LXDm7L/QUfGM=",
       "name": "APCO Kangaroo Flat - Temporarily Closed",
@@ -11793,6 +11778,22 @@
         "Diesel",
         "U91",
         "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Metro Petroleum",
+      "code": "VIC:V0Y5b6904mzXqKsaVAGuX3wB3edxzI/FrEMUZqmy1zQ=",
+      "name": "metro petroleum wendouree",
+      "address": "1040 Howitt Street, WENDOUREE, 3355",
+      "state": "VIC",
+      "lat": -37.54055696,
+      "lng": 143.83594451,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "LPG",
+        "U91",
         "U98"
       ]
     }

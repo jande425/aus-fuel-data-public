@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-15T00:46:50Z",
+  "fetched_at": "2026-09-15T01:25:13Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -38,12 +38,12 @@
       "address": "2 Callan ST, Mitchell ACT 2911",
       "state": "ACT",
       "prices": {
-        "E10": 216.9,
-        "U98": 246.9,
-        "Premium Diesel": 271.9,
-        "U91": 218.9
+        "E10": 219.9,
+        "U98": 248.9,
+        "Premium Diesel": 274.9,
+        "U91": 221.9
       },
-      "updated": "2026-09-13T23:07:59Z",
+      "updated": "2026-09-15T01:09:02Z",
       "lat": -35.214511,
       "lng": 149.143317
     },
@@ -136,10 +136,10 @@
       "address": "96 Sawmill Cct, Hume ACT 2620",
       "state": "ACT",
       "prices": {
-        "Diesel": 266.9,
-        "Premium Diesel": 269.9
+        "Diesel": 269.9,
+        "Premium Diesel": 272.9
       },
-      "updated": "2026-09-13T22:37:26Z",
+      "updated": "2026-09-15T01:17:25Z",
       "lat": -35.3964,
       "lng": 149.158
     },
@@ -282,12 +282,12 @@
       "address": "77 Canberra Av, Griffith ACT 2603",
       "state": "ACT",
       "prices": {
-        "E10": 223.9,
-        "U95": 241.9,
-        "U98": 250.9,
-        "Premium Diesel": 269.9
+        "E10": 228.9,
+        "U95": 246.9,
+        "U98": 255.9,
+        "Premium Diesel": 271.9
       },
-      "updated": "2026-09-14T06:47:54Z",
+      "updated": "2026-09-15T01:16:19Z",
       "lat": -35.320031,
       "lng": 149.138892
     },
@@ -317,9 +317,9 @@
         "E10": 227.9,
         "U95": 246.9,
         "U98": 255.9,
-        "Premium Diesel": 278.9
+        "Premium Diesel": 279.9
       },
-      "updated": "2026-09-14T21:02:02Z",
+      "updated": "2026-09-15T01:18:21Z",
       "lat": -35.351002,
       "lng": 149.085289
     },
@@ -379,13 +379,13 @@
       "address": "Cnr Tharwa Drive & Norman Lindsay Street, Conder ACT 2906",
       "state": "ACT",
       "prices": {
-        "E10": 229.9,
-        "U95": 249.9,
-        "U98": 259.9,
-        "Premium Diesel": 283.9,
-        "U91": 231.9
+        "E10": 232.9,
+        "U95": 252.9,
+        "U98": 262.9,
+        "Premium Diesel": 284.9,
+        "U91": 234.9
       },
-      "updated": "2026-09-14T23:42:15Z",
+      "updated": "2026-09-15T01:15:22Z",
       "lat": -35.4582,
       "lng": 149.092
     },
@@ -509,12 +509,12 @@
       "address": "Cnr Scollay St & Soward Way, Greenway ACT 2900",
       "state": "ACT",
       "prices": {
-        "U95": 246.9,
-        "U98": 256.9,
+        "U95": 251.9,
+        "U98": 261.9,
         "Premium Diesel": 279.9,
-        "U91": 229.9
+        "U91": 234.9
       },
-      "updated": "2026-09-14T03:24:17Z",
+      "updated": "2026-09-15T01:21:17Z",
       "lat": -35.4188,
       "lng": 149.067
     },
@@ -541,12 +541,12 @@
       "address": "Lathlain St & Wignall Pl, Belconnen ACT 2617",
       "state": "ACT",
       "prices": {
-        "Diesel": 279.9,
+        "Diesel": 284.9,
         "E10": 224.9,
         "U98": 253.9,
         "U91": 226.9
       },
-      "updated": "2026-09-15T00:35:19Z",
+      "updated": "2026-09-15T00:50:18Z",
       "lat": -35.2417,
       "lng": 149.064
     },
@@ -557,12 +557,12 @@
       "address": "Cohen St &, Josephson St,, Belconnen ACT 2617",
       "state": "ACT",
       "prices": {
-        "Diesel": 279.9,
+        "Diesel": 284.9,
         "U95": 244.4,
         "U98": 253.9,
         "U91": 226.9
       },
-      "updated": "2026-09-15T00:35:19Z",
+      "updated": "2026-09-15T00:50:19Z",
       "lat": -35.23931,
       "lng": 149.06156
     },
@@ -590,12 +590,12 @@
       "address": "54 Mort ST, Braddon ACT 2612",
       "state": "ACT",
       "prices": {
-        "Diesel": 279.9,
+        "Diesel": 284.9,
         "U95": 252.4,
         "U98": 261.9,
         "U91": 234.9
       },
-      "updated": "2026-09-15T00:30:25Z",
+      "updated": "2026-09-15T01:00:44Z",
       "lat": -35.270769,
       "lng": 149.132056
     },
@@ -606,12 +606,12 @@
       "address": "Lhotsky St & Charnwood Pl, Charnwood ACT 2615",
       "state": "ACT",
       "prices": {
-        "Diesel": 279.9,
+        "Diesel": 284.9,
         "E10": 225.9,
         "U98": 254.9,
         "U91": 227.9
       },
-      "updated": "2026-09-15T00:30:26Z",
+      "updated": "2026-09-15T00:50:19Z",
       "lat": -35.205599,
       "lng": 149.033258
     },
@@ -622,12 +622,12 @@
       "address": "17 Strangways ST, Curtin ACT 2605",
       "state": "ACT",
       "prices": {
-        "Diesel": 279.9,
+        "Diesel": 284.9,
         "E10": 231.9,
         "U98": 260.9,
         "U91": 233.9
       },
-      "updated": "2026-09-15T00:35:19Z",
+      "updated": "2026-09-15T00:50:19Z",
       "lat": -35.324838,
       "lng": 149.081457
     },
@@ -638,12 +638,12 @@
       "address": "Shop 1 25 Hopetoun CCT, Deakin ACT 2600",
       "state": "ACT",
       "prices": {
-        "Diesel": 277.9,
+        "Diesel": 282.9,
         "E10": 229.9,
         "U98": 258.9,
         "U91": 231.9
       },
-      "updated": "2026-09-15T00:30:26Z",
+      "updated": "2026-09-15T00:50:19Z",
       "lat": -35.314421,
       "lng": 149.107777
     },
@@ -654,12 +654,12 @@
       "address": "30-34 Antill Street, Dickson ACT 2602",
       "state": "ACT",
       "prices": {
-        "Diesel": 279.9,
+        "Diesel": 284.9,
         "E10": 232.9,
         "U98": 261.9,
         "U91": 234.9
       },
-      "updated": "2026-09-15T00:30:26Z",
+      "updated": "2026-09-15T00:50:20Z",
       "lat": -35.2488,
       "lng": 149.138
     },
@@ -670,12 +670,12 @@
       "address": "100 Newcastle ST, Fyshwick ACT 2609",
       "state": "ACT",
       "prices": {
-        "Diesel": 266.9,
+        "Diesel": 271.9,
         "E10": 227.9,
         "U98": 256.9,
         "U91": 229.9
       },
-      "updated": "2026-09-15T00:30:27Z",
+      "updated": "2026-09-15T00:50:20Z",
       "lat": -35.328178,
       "lng": 149.177931
     },
@@ -686,12 +686,12 @@
       "address": "8/12 Wiluna St, Fyshwick Wiluna ACT 2609",
       "state": "ACT",
       "prices": {
-        "Diesel": 266.9,
+        "Diesel": 271.9,
         "U95": 247.4,
         "U98": 256.9,
         "U91": 229.9
       },
-      "updated": "2026-09-15T00:30:27Z",
+      "updated": "2026-09-15T00:50:20Z",
       "lat": -35.328513,
       "lng": 149.163619
     },
@@ -702,12 +702,12 @@
       "address": "Cnr Canberra Avenue & Flinders Way, Express Manuka ACT 2603",
       "state": "ACT",
       "prices": {
-        "Diesel": 274.9,
+        "Diesel": 279.9,
         "E10": 228.9,
         "U98": 257.9,
         "U91": 230.9
       },
-      "updated": "2026-09-15T00:30:27Z",
+      "updated": "2026-09-15T00:50:20Z",
       "lat": -35.3198,
       "lng": 149.134
     },
@@ -718,12 +718,12 @@
       "address": "1 Ginn ST, Gungahlin ACT 2912",
       "state": "ACT",
       "prices": {
-        "Diesel": 279.9,
+        "Diesel": 284.9,
         "E10": 221.9,
         "U98": 250.9,
         "U91": 223.9
       },
-      "updated": "2026-09-15T00:35:20Z",
+      "updated": "2026-09-15T00:50:20Z",
       "lat": -35.183612,
       "lng": 149.126376
     },
@@ -734,12 +734,12 @@
       "address": "20 Springvale Drive, Hawker ACT 2614",
       "state": "ACT",
       "prices": {
-        "Diesel": 279.9,
+        "Diesel": 284.9,
         "E10": 225.9,
         "U98": 254.9,
         "U91": 227.9
       },
-      "updated": "2026-09-15T00:30:28Z",
+      "updated": "2026-09-15T00:50:21Z",
       "lat": -35.244,
       "lng": 149.044
     },
@@ -767,11 +767,11 @@
       "address": "172 Melrose DR, Phillip ACT 2606",
       "state": "ACT",
       "prices": {
-        "Diesel": 279.9,
+        "Diesel": 284.9,
         "U98": 261.9,
         "U91": 234.9
       },
-      "updated": "2026-09-15T00:45:27Z",
+      "updated": "2026-09-15T01:00:45Z",
       "lat": -35.349958,
       "lng": 149.084896
     },
@@ -782,13 +782,13 @@
       "address": "149-165 Soward Way, Anketell St,, Greenway ACT 2900",
       "state": "ACT",
       "prices": {
-        "Diesel": 279.9,
+        "Diesel": 284.9,
         "E10": 232.9,
         "U95": 252.4,
         "U98": 261.9,
         "U91": 234.9
       },
-      "updated": "2026-09-15T00:45:28Z",
+      "updated": "2026-09-15T01:05:18Z",
       "lat": -35.41848,
       "lng": 149.0691
     },
@@ -799,12 +799,12 @@
       "address": "49 Rylah Cr, Wanniassa ACT 2903",
       "state": "ACT",
       "prices": {
-        "Diesel": 279.9,
+        "Diesel": 284.9,
         "U95": 252.4,
         "U98": 261.9,
         "U91": 234.9
       },
-      "updated": "2026-09-15T00:30:28Z",
+      "updated": "2026-09-15T01:00:45Z",
       "lat": -35.390386,
       "lng": 149.085137
     },
@@ -816,12 +816,12 @@
       "state": "ACT",
       "prices": {
         "Diesel": 278.9,
-        "E10": 220.9,
+        "E10": 221.9,
         "LPG": 116.9,
-        "U98": 246.9,
-        "U91": 222.9
+        "U98": 247.9,
+        "U91": 223.9
       },
-      "updated": "2026-09-14T21:40:09Z",
+      "updated": "2026-09-15T01:05:05Z",
       "lat": -35.1641,
       "lng": 149.131
     },

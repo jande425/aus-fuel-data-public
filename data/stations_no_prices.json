@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-15T07:40:50Z",
+  "fetched_at": "2026-09-15T10:54:57Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1277,
   "by_state": {
     "ACT": 9,
-    "NSW": 1156,
+    "NSW": 1157,
     "NT": 29,
     "QLD": 32,
     "SA": 31,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 81,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 68,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -657,6 +657,15 @@
       "state": "NSW",
       "lat": -33.952566,
       "lng": 151.135774
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:275",
+      "name": "7-Eleven Rockdale",
+      "address": "293 West Botany Street (Corner Bestic Street), Rockdale NSW 2216",
+      "state": "NSW",
+      "lat": -33.949919,
+      "lng": 151.148692
     },
     {
       "brand": "7-Eleven",
@@ -11572,6 +11581,22 @@
       "lng": 145.17289763,
       "unavailable_fuels": [
         "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:VJ9NFTbW38BuaJYEWo5ymLWq5TV5zzBg3KsqqqrjPLg=",
+      "name": "7-Eleven Truganina",
+      "address": "1 475 Leakes Road, Truganina, 3029",
+      "state": "VIC",
+      "lat": -37.83790205770321,
+      "lng": 144.72791210026222,
+      "unavailable_fuels": [
+        "E10",
         "Premium Diesel",
         "U91",
         "U95",

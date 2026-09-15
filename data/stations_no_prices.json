@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T01:25:13Z",
+  "fetched_at": "2026-09-15T04:23:54Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1274,
   "by_state": {
@@ -26,7 +26,7 @@
     "Ampol": 20,
     "JOLT": 20,
     "Caltex": 13,
-    "Shell": 11,
+    "Shell": 12,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
@@ -42,7 +42,6 @@
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
-    "IOR": 1,
     "Ampol Foodary": 1,
     "Arko Energy": 1,
     "On the Run": 1,
@@ -5132,15 +5131,6 @@
       "lng": 151.199863
     },
     {
-      "brand": "IOR",
-      "code": "NSW:20936",
-      "name": "IOR Yass",
-      "address": "10 Industrial CL, Yass NSW 2582",
-      "state": "NSW",
-      "lat": -34.809445,
-      "lng": 148.879457
-    },
-    {
       "brand": "Independent",
       "code": "NSW:1666",
       "name": "Independent Glen Innes",
@@ -8847,6 +8837,15 @@
       "state": "NSW",
       "lat": -34.44571,
       "lng": 147.533716
+    },
+    {
+      "brand": "Shell",
+      "code": "NSW:20938",
+      "name": "Shell Willow Tree",
+      "address": "8589 New England HWY, Willow Tree NSW 2339",
+      "state": "NSW",
+      "lat": -31.635735,
+      "lng": 150.72261
     },
     {
       "brand": "Tesla",

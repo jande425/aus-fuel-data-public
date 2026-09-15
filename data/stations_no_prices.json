@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-15T04:23:54Z",
+  "fetched_at": "2026-09-15T06:25:51Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1274,
   "by_state": {
     "ACT": 9,
     "NSW": 1156,
     "NT": 29,
-    "QLD": 32,
-    "SA": 30,
+    "QLD": 31,
+    "SA": 31,
     "TAS": 1,
     "VIC": 17
   },
@@ -17,9 +17,9 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
+    "Independent": 73,
     "Chargefox": 72,
-    "Independent": 72,
-    "7-Eleven": 67,
+    "7-Eleven": 66,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -50,8 +50,8 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -10801,23 +10801,6 @@
       "lng": 131.795078
     },
     {
-      "brand": "7-Eleven",
-      "code": "QLD:61402130",
-      "name": "7-Eleven Robina",
-      "address": "Robina Town Centre Dr, QLD 4226",
-      "state": "QLD",
-      "lat": -28.080405,
-      "lng": 153.383952,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
@@ -11477,6 +11460,19 @@
       "lng": 138.719042,
       "unavailable_fuels": [
         "Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Independent",
+      "code": "SA:61501813",
+      "name": "Sutton Ford",
+      "address": "14 Ian Oliver Drive, SA 5330",
+      "state": "SA",
+      "lat": -34.183221,
+      "lng": 139.991695,
+      "unavailable_fuels": [
         "U91",
         "U98"
       ]

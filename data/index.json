@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-15T23:22:31Z",
-  "total_stations": 7868,
+  "last_updated": "2026-09-16T00:38:57Z",
+  "total_stations": 7867,
   "total_states": 8,
   "fuel_types": [
     "B20",
@@ -22,56 +22,56 @@
       "station_count": 62,
       "price_count": 263,
       "file": "act/latest.json",
-      "checksum": "20466438",
+      "checksum": "920fac9e",
       "size_bytes": 25271
     },
     "NSW": {
       "station_count": 2099,
-      "price_count": 8402,
+      "price_count": 8405,
       "file": "nsw/latest.json",
-      "checksum": "126b4783",
-      "size_bytes": 834195
+      "checksum": "486dac48",
+      "size_bytes": 834244
     },
     "NT": {
       "station_count": 210,
       "price_count": 569,
       "file": "nt/latest.json",
-      "checksum": "3972a06d",
+      "checksum": "d03a6eb8",
       "size_bytes": 79479
     },
     "QLD": {
-      "station_count": 1777,
+      "station_count": 1776,
       "price_count": 6906,
       "file": "qld/latest.json",
-      "checksum": "78b7d9f1",
-      "size_bytes": 701377
+      "checksum": "7083f491",
+      "size_bytes": 700946
     },
     "SA": {
       "station_count": 694,
       "price_count": 2469,
       "file": "sa/latest.json",
-      "checksum": "1564bc09",
-      "size_bytes": 268399
+      "checksum": "1004fea3",
+      "size_bytes": 268401
     },
     "TAS": {
       "station_count": 295,
       "price_count": 1434,
       "file": "tas/latest.json",
-      "checksum": "bfb99738",
-      "size_bytes": 124427
+      "checksum": "3db7a532",
+      "size_bytes": 124438
     },
     "VIC": {
       "station_count": 1738,
-      "price_count": 7135,
+      "price_count": 7130,
       "file": "vic/latest.json",
-      "checksum": "e91ac059",
-      "size_bytes": 780448
+      "checksum": "e649e292",
+      "size_bytes": 780436
     },
     "WA": {
       "station_count": 993,
       "price_count": 3365,
       "file": "wa/latest.json",
-      "checksum": "16008438",
+      "checksum": "887c813b",
       "size_bytes": 508790
     }
   },

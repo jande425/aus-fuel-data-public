@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-16T01:23:06Z",
+  "fetched_at": "2026-09-16T03:00:46Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1280,
+  "station_count": 1277,
   "by_state": {
     "ACT": 9,
     "NSW": 1156,
     "NT": 29,
-    "QLD": 34,
+    "QLD": 31,
     "SA": 31,
     "TAS": 1,
     "VIC": 20
@@ -17,15 +17,15 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "Independent": 75,
+    "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 66,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 21,
+    "Ampol": 20,
     "JOLT": 20,
-    "Caltex": 13,
+    "Caltex": 12,
     "Shell": 11,
     "Puma Energy": 10,
     "United": 9,
@@ -51,9 +51,9 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -10804,23 +10804,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61477775",
-      "name": "Ampol Foodary Narangba",
-      "address": "2 Steel Street, QLD 4504",
-      "state": "QLD",
-      "lat": -27.202741,
-      "lng": 153.010792,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -10839,20 +10822,6 @@
     },
     {
       "brand": "Independent",
-      "code": "QLD:61402817",
-      "name": "Ballandean General Store",
-      "address": "28192 New England Highway, QLD 4382",
-      "state": "QLD",
-      "lat": -28.799498,
-      "lng": 151.842399,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95"
-      ]
-    },
-    {
-      "brand": "Independent",
       "code": "QLD:61402385",
       "name": "Blue Topaz Caravan Park",
       "address": "Cnr New England Hwy & Reid Rd, QLD 4352",
@@ -10868,21 +10837,6 @@
       "state": "QLD",
       "lat": -26.990752,
       "lng": 152.802848
-    },
-    {
-      "brand": "Caltex",
-      "code": "QLD:61401728",
-      "name": "Caltex Holland Park",
-      "address": "779 Logan Rd, QLD 4121",
-      "state": "QLD",
-      "lat": -27.514227097218736,
-      "lng": 153.05476872883602,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "Independent",

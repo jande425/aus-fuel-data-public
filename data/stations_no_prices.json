@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-16T08:50:49Z",
+  "fetched_at": "2026-09-16T12:42:23Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1277,
   "by_state": {
     "ACT": 9,
-    "NSW": 1157,
+    "NSW": 1156,
     "NT": 29,
-    "QLD": 31,
+    "QLD": 32,
     "SA": 31,
     "TAS": 1,
     "VIC": 19
@@ -51,9 +51,9 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -667,15 +667,6 @@
       "state": "NSW",
       "lat": -34.580605,
       "lng": 150.861141
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:18307",
-      "name": "7-Eleven Singleton",
-      "address": "1 Maitland RD, Singleton NSW 2330",
-      "state": "NSW",
-      "lat": -32.569388,
-      "lng": 151.179967
     },
     {
       "brand": "7-Eleven",
@@ -10810,6 +10801,22 @@
       "state": "NT",
       "lat": -22.25346,
       "lng": 131.795078
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61477752",
+      "name": "7-Eleven Logan Reserve",
+      "address": "2-14 Bayes Road, QLD 4133",
+      "state": "QLD",
+      "lat": -27.696584,
+      "lng": 153.102784,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Ampol",

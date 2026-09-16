@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-16T21:43:16Z",
+  "fetched_at": "2026-09-16T22:15:15Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1276,
+  "station_count": 1275,
   "by_state": {
     "ACT": 9,
     "NSW": 1157,
     "NT": 29,
-    "QLD": 31,
+    "QLD": 30,
     "SA": 31,
     "TAS": 1,
     "VIC": 18
@@ -46,7 +46,6 @@
     "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
-    "U-Go": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "PRIME ROUTE": 1,
@@ -11092,20 +11091,6 @@
       "state": "QLD",
       "lat": -18.290183,
       "lng": 143.549026
-    },
-    {
-      "brand": "U-Go",
-      "code": "QLD:61402082",
-      "name": "U-Go Toowoomba Central",
-      "address": "646 Ruthven St, QLD 4350",
-      "state": "QLD",
-      "lat": -27.56865298781202,
-      "lng": 151.9527145042992,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "United",

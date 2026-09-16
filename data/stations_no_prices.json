@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T06:24:51Z",
+  "fetched_at": "2026-09-16T07:39:07Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1277,
   "by_state": {
@@ -19,14 +19,14 @@
     "Reddy Express": 81,
     "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 67,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "Ampol": 20,
     "JOLT": 20,
     "Caltex": 12,
-    "Shell": 11,
+    "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
@@ -51,9 +51,9 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -667,6 +667,15 @@
       "state": "NSW",
       "lat": -34.580605,
       "lng": 150.861141
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:18307",
+      "name": "7-Eleven Singleton",
+      "address": "1 Maitland RD, Singleton NSW 2330",
+      "state": "NSW",
+      "lat": -32.569388,
+      "lng": 151.179967
     },
     {
       "brand": "7-Eleven",
@@ -7255,15 +7264,6 @@
       "state": "NSW",
       "lat": -33.939105,
       "lng": 150.868543
-    },
-    {
-      "brand": "Shell",
-      "code": "NSW:20937",
-      "name": "OTR Warrawong South",
-      "address": "75-77 King ST, Warrawong NSW 2502",
-      "state": "NSW",
-      "lat": -34.490381,
-      "lng": 150.888815
     },
     {
       "brand": "Tesla",

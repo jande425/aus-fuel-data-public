@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T22:54:30Z",
+  "last_updated": "2026-09-16T23:52:48Z",
   "total_stations": 7871,
   "total_states": 8,
   "fuel_types": [
@@ -22,56 +22,56 @@
       "station_count": 62,
       "price_count": 263,
       "file": "act/latest.json",
-      "checksum": "1bed63fc",
+      "checksum": "1f61e4fd",
       "size_bytes": 25271
     },
     "NSW": {
       "station_count": 2098,
-      "price_count": 8388,
+      "price_count": 8385,
       "file": "nsw/latest.json",
-      "checksum": "6ccd09ff",
-      "size_bytes": 833506
+      "checksum": "b9c3897c",
+      "size_bytes": 833447
     },
     "NT": {
       "station_count": 210,
       "price_count": 571,
       "file": "nt/latest.json",
-      "checksum": "6a907ac3",
+      "checksum": "092442c7",
       "size_bytes": 79526
     },
     "QLD": {
       "station_count": 1778,
-      "price_count": 6908,
+      "price_count": 6911,
       "file": "qld/latest.json",
-      "checksum": "2e5353ba",
-      "size_bytes": 701842
+      "checksum": "b21bd08f",
+      "size_bytes": 701752
     },
     "SA": {
       "station_count": 694,
-      "price_count": 2479,
+      "price_count": 2481,
       "file": "sa/latest.json",
-      "checksum": "950b8825",
-      "size_bytes": 268136
+      "checksum": "66591f4e",
+      "size_bytes": 268113
     },
     "TAS": {
       "station_count": 295,
-      "price_count": 1431,
+      "price_count": 1429,
       "file": "tas/latest.json",
-      "checksum": "c13fae48",
-      "size_bytes": 124366
+      "checksum": "ca0ca034",
+      "size_bytes": 124322
     },
     "VIC": {
       "station_count": 1739,
       "price_count": 7141,
       "file": "vic/latest.json",
-      "checksum": "a6e00115",
-      "size_bytes": 780869
+      "checksum": "71a47a41",
+      "size_bytes": 780868
     },
     "WA": {
       "station_count": 995,
       "price_count": 3368,
       "file": "wa/latest.json",
-      "checksum": "77796889",
+      "checksum": "c549791c",
       "size_bytes": 509561
     }
   },

@@ -1,22 +1,22 @@
 {
-  "fetched_at": "2026-09-16T18:37:09Z",
+  "fetched_at": "2026-09-16T21:43:16Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1276,
   "by_state": {
     "ACT": 9,
-    "NSW": 1156,
+    "NSW": 1157,
     "NT": 29,
     "QLD": 31,
     "SA": 31,
     "TAS": 1,
-    "VIC": 19
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
+    "Reddy Express": 82,
     "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 66,
@@ -33,7 +33,7 @@
     "Liberty": 9,
     "Metro Fuel": 8,
     "Evie Networks": 8,
-    "Mobil": 8,
+    "Mobil": 7,
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
@@ -51,9 +51,9 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -8392,6 +8392,15 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "NSW:202",
+      "name": "Shell Reddy Express Campbelltown",
+      "address": "27 Queen Street, Campbelltown NSW 2560",
+      "state": "NSW",
+      "lat": -34.060434,
+      "lng": 150.819361
+    },
+    {
+      "brand": "Reddy Express",
       "code": "NSW:47",
       "name": "Shell Reddy Express Carlton",
       "address": "277-281 Princes Highway, Carlton NSW 2218",
@@ -11663,21 +11672,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Mobil",
-      "code": "VIC:4Rg8zFHx5qtttRchf8OzmKJysLJ3XE7dySW5OB/i2rY=",
-      "name": "Mobil Lakes Entrance",
-      "address": "27 Golf Link Rd, Lakes Entrance, 3909",
-      "state": "VIC",
-      "lat": -37.87040762,
-      "lng": 148.01075879,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

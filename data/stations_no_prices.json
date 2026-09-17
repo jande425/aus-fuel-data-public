@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-17T18:44:54Z",
+  "fetched_at": "2026-09-17T21:47:49Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1282,
+  "station_count": 1279,
   "by_state": {
     "ACT": 9,
-    "NSW": 1159,
+    "NSW": 1157,
     "NT": 29,
-    "QLD": 32,
+    "QLD": 31,
     "SA": 32,
     "TAS": 1,
     "VIC": 20
@@ -20,10 +20,10 @@
     "Independent": 75,
     "Chargefox": 72,
     "7-Eleven": 66,
-    "BP": 55,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 21,
+    "Ampol": 20,
     "JOLT": 20,
     "Caltex": 12,
     "Shell": 11,
@@ -37,12 +37,12 @@
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
-    "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
+    "Ampol Foodary": 1,
     "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
@@ -2243,15 +2243,6 @@
       "lng": 153.06953
     },
     {
-      "brand": "Ampol Foodary",
-      "code": "NSW:2697",
-      "name": "Ampol Foodary Swansea",
-      "address": "126 Pacific Hwy, SWANSEA NSW 2281",
-      "state": "NSW",
-      "lat": -33.088127,
-      "lng": 151.638255
-    },
-    {
       "brand": "Ampol",
       "code": "NSW:20051",
       "name": "Ampol Guyra",
@@ -2718,15 +2709,6 @@
       "state": "NSW",
       "lat": -33.781986,
       "lng": 150.824399
-    },
-    {
-      "brand": "BP",
-      "code": "NSW:300",
-      "name": "BP Mosman (0926)",
-      "address": "Cnr Avenue & Cowles Roads, Mosman NSW 2088",
-      "state": "NSW",
-      "lat": -33.832039,
-      "lng": 151.237292
     },
     {
       "brand": "BP",
@@ -10827,22 +10809,6 @@
       "state": "NT",
       "lat": -22.25346,
       "lng": 131.795078
-    },
-    {
-      "brand": "Ampol",
-      "code": "QLD:61477698",
-      "name": "Ampol Foodary Oxenford",
-      "address": "502 Hope Island Road, QLD 4210",
-      "state": "QLD",
-      "lat": -27.887273,
-      "lng": 153.318045,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "Ampol",

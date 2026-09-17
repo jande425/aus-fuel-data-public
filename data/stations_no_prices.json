@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-17T06:25:36Z",
+  "fetched_at": "2026-09-17T07:35:50Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1278,
+  "station_count": 1281,
   "by_state": {
     "ACT": 9,
-    "NSW": 1159,
+    "NSW": 1160,
     "NT": 29,
-    "QLD": 30,
+    "QLD": 31,
     "SA": 32,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 19
   },
   "by_brand": {
     "Exploren": 236,
@@ -20,19 +20,19 @@
     "Independent": 76,
     "Chargefox": 72,
     "7-Eleven": 65,
-    "BP": 53,
+    "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "Ampol": 20,
     "JOLT": 20,
     "Caltex": 12,
     "Shell": 11,
+    "Liberty": 10,
     "Puma Energy": 10,
-    "Metro Fuel": 9,
     "United": 9,
     "EVUp": 9,
+    "Metro Fuel": 8,
     "Evie Networks": 8,
-    "Liberty": 8,
     "Mobil": 7,
     "Pearl Energy": 5,
     "Everty": 4,
@@ -2478,6 +2478,15 @@
     },
     {
       "brand": "BP",
+      "code": "NSW:346",
+      "name": "BP Balgowlah",
+      "address": "485 Sydney Road, Balgowlah NSW 2093",
+      "state": "NSW",
+      "lat": -33.795281,
+      "lng": 151.255873
+    },
+    {
+      "brand": "BP",
       "code": "NSW:407",
       "name": "BP Border",
       "address": "Cnr Ebden & Wodonga Place, Albury NSW 2640",
@@ -2709,6 +2718,15 @@
       "state": "NSW",
       "lat": -33.781986,
       "lng": 150.824399
+    },
+    {
+      "brand": "BP",
+      "code": "NSW:300",
+      "name": "BP Mosman (0926)",
+      "address": "Cnr Avenue & Cowles Roads, Mosman NSW 2088",
+      "state": "NSW",
+      "lat": -33.832039,
+      "lng": 151.237292
     },
     {
       "brand": "BP",
@@ -6615,15 +6633,6 @@
       "state": "NSW",
       "lat": -33.938371,
       "lng": 151.017192
-    },
-    {
-      "brand": "Metro Fuel",
-      "code": "NSW:18083",
-      "name": "Metro Sandgate",
-      "address": "61 Maitland Road, SANDGATE NSW 2304",
-      "state": "NSW",
-      "lat": -32.873154,
-      "lng": 151.712036
     },
     {
       "brand": "Metro Fuel",
@@ -10957,6 +10966,18 @@
     },
     {
       "brand": "Liberty",
+      "code": "QLD:61477676",
+      "name": "Liberty Goondiwindi",
+      "address": "2-14 Cemetery Road (Cnr Cunningham Hwy), QLD 4390",
+      "state": "QLD",
+      "lat": -28.53338377534529,
+      "lng": 150.3289960211792,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
+    },
+    {
+      "brand": "Liberty",
       "code": "QLD:61401507",
       "name": "Liberty Yamanto Central",
       "address": "503-507 Warwick Rd, QLD 4305",
@@ -11660,6 +11681,20 @@
       "lng": 142.02606235,
       "unavailable_fuels": [
         "Diesel",
+        "U91"
+      ]
+    },
+    {
+      "brand": "Liberty",
+      "code": "VIC:mHdGhIJkA4xrT6eSt2r2mxsmCpIbuzBsjzpJ98ykBV4=",
+      "name": "Liberty Springvale",
+      "address": "745 Heatherton Road, SPRINGVALE, 3171",
+      "state": "VIC",
+      "lat": -37.96057585,
+      "lng": 145.13844889,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
         "U91"
       ]
     },

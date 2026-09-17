@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-17T17:41:43Z",
+  "fetched_at": "2026-09-17T18:11:02Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1281,
+  "station_count": 1282,
   "by_state": {
     "ACT": 9,
     "NSW": 1159,
     "NT": 29,
-    "QLD": 31,
+    "QLD": 32,
     "SA": 32,
     "TAS": 1,
     "VIC": 20
@@ -23,7 +23,7 @@
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 20,
+    "Ampol": 21,
     "JOLT": 20,
     "Caltex": 12,
     "Shell": 11,
@@ -50,9 +50,9 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
+    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -10827,6 +10827,22 @@
       "state": "NT",
       "lat": -22.25346,
       "lng": 131.795078
+    },
+    {
+      "brand": "Ampol",
+      "code": "QLD:61477698",
+      "name": "Ampol Foodary Oxenford",
+      "address": "502 Hope Island Road, QLD 4210",
+      "state": "QLD",
+      "lat": -27.887273,
+      "lng": 153.318045,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Ampol",

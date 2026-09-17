@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-17T13:24:24Z",
+  "fetched_at": "2026-09-17T14:03:16Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1283,
+  "station_count": 1282,
   "by_state": {
     "ACT": 9,
     "NSW": 1160,
     "NT": 29,
-    "QLD": 32,
+    "QLD": 31,
     "SA": 32,
     "TAS": 1,
     "VIC": 20
@@ -19,7 +19,7 @@
     "Reddy Express": 82,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 67,
+    "7-Eleven": 66,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -50,9 +50,9 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
+    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -10836,22 +10836,6 @@
       "state": "NT",
       "lat": -22.25346,
       "lng": 131.795078
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61477777",
-      "name": "7-Eleven Flagstone Central",
-      "address": "Cnr Homestead & Wild Mint Drives, QLD 4280",
-      "state": "QLD",
-      "lat": -27.808339,
-      "lng": 152.951311,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "Ampol",

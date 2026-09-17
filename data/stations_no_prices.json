@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-17T03:04:03Z",
+  "fetched_at": "2026-09-17T06:25:36Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1279,
+  "station_count": 1278,
   "by_state": {
     "ACT": 9,
-    "NSW": 1160,
+    "NSW": 1159,
     "NT": 29,
-    "QLD": 31,
-    "SA": 31,
+    "QLD": 30,
+    "SA": 32,
     "TAS": 1,
     "VIC": 18
   },
@@ -19,8 +19,8 @@
     "Reddy Express": 82,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 66,
-    "BP": 54,
+    "7-Eleven": 65,
+    "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "Ampol": 20,
@@ -28,21 +28,21 @@
     "Caltex": 12,
     "Shell": 11,
     "Puma Energy": 10,
+    "Metro Fuel": 9,
     "United": 9,
     "EVUp": 9,
-    "Liberty": 9,
-    "Metro Fuel": 8,
     "Evie Networks": 8,
+    "Liberty": 8,
     "Mobil": 7,
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
+    "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
-    "Ampol Foodary": 1,
     "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
@@ -2243,6 +2243,15 @@
       "lng": 153.06953
     },
     {
+      "brand": "Ampol Foodary",
+      "code": "NSW:2697",
+      "name": "Ampol Foodary Swansea",
+      "address": "126 Pacific Hwy, SWANSEA NSW 2281",
+      "state": "NSW",
+      "lat": -33.088127,
+      "lng": 151.638255
+    },
+    {
       "brand": "Ampol",
       "code": "NSW:20051",
       "name": "Ampol Guyra",
@@ -2475,15 +2484,6 @@
       "state": "NSW",
       "lat": -36.088643,
       "lng": 146.909205
-    },
-    {
-      "brand": "BP",
-      "code": "NSW:349",
-      "name": "BP Caringbah",
-      "address": "Cnr Captain Cook Dve & Cawarra Rd, Caringbah NSW 2229",
-      "state": "NSW",
-      "lat": -34.032899,
-      "lng": 151.125228
     },
     {
       "brand": "BP",
@@ -3105,15 +3105,6 @@
       "state": "NSW",
       "lat": -28.641819,
       "lng": 153.614669
-    },
-    {
-      "brand": "Independent",
-      "code": "NSW:1510",
-      "name": "Beardy Street Servo",
-      "address": "351 Beardy Street, ARMIDALE NSW 2350",
-      "state": "NSW",
-      "lat": -30.507711,
-      "lng": 151.647255
     },
     {
       "brand": "Ampol",
@@ -6158,15 +6149,6 @@
       "lng": 151.302899
     },
     {
-      "brand": "Liberty",
-      "code": "NSW:20928",
-      "name": "Liberty Lansvale West",
-      "address": "240 Hume HWY, Lansvale NSW 2166",
-      "state": "NSW",
-      "lat": -33.898027,
-      "lng": 150.952694
-    },
-    {
       "brand": "Exploren",
       "code": "NSW:20422",
       "name": "Lindfield Village Green",
@@ -6633,6 +6615,15 @@
       "state": "NSW",
       "lat": -33.938371,
       "lng": 151.017192
+    },
+    {
+      "brand": "Metro Fuel",
+      "code": "NSW:18083",
+      "name": "Metro Sandgate",
+      "address": "61 Maitland Road, SANDGATE NSW 2304",
+      "state": "NSW",
+      "lat": -32.873154,
+      "lng": 151.712036
     },
     {
       "brand": "Metro Fuel",
@@ -10838,22 +10829,6 @@
       "lng": 131.795078
     },
     {
-      "brand": "7-Eleven",
-      "code": "QLD:61477665",
-      "name": "7-Eleven Heathwood",
-      "address": "15 Stapylton Road, QLD 4110",
-      "state": "QLD",
-      "lat": -27.630712,
-      "lng": 152.986492,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
@@ -11384,6 +11359,19 @@
         "U91",
         "U95",
         "U98"
+      ]
+    },
+    {
+      "brand": "Independent",
+      "code": "SA:61577432",
+      "name": "Mount Burr General Store and Liquor",
+      "address": "2 Thomas Dr, SA 5279",
+      "state": "SA",
+      "lat": -37.54127867818896,
+      "lng": 140.45574401375427,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91"
       ]
     },
     {

@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-17T12:41:41Z",
+  "fetched_at": "2026-09-17T13:24:24Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1284,
+  "station_count": 1283,
   "by_state": {
     "ACT": 9,
-    "NSW": 1161,
+    "NSW": 1160,
     "NT": 29,
     "QLD": 32,
     "SA": 32,
@@ -19,7 +19,7 @@
     "Reddy Express": 82,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 68,
+    "7-Eleven": 67,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -441,15 +441,6 @@
       "state": "NSW",
       "lat": -32.791312,
       "lng": 151.725301
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:20127",
-      "name": "7-Eleven Huntlee",
-      "address": "2 Bakehouse RD, North Rothbury NSW 2335",
-      "state": "NSW",
-      "lat": -32.67357,
-      "lng": 151.350631
     },
     {
       "brand": "7-Eleven",

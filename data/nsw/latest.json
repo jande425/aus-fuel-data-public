@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-17T12:41:41Z",
-  "station_count": 2094,
+  "fetched_at": "2026-09-17T13:24:24Z",
+  "station_count": 2095,
   "fuel_types": [
     "E10",
     "U91",
@@ -3509,11 +3509,11 @@
       "address": "142 Windsor RD, Mcgraths Hill NSW 2756",
       "state": "NSW",
       "prices": {
-        "E10": 221.9,
+        "E10": 225.9,
         "LPG": 115.9,
-        "U91": 223.9
+        "U91": 227.9
       },
-      "updated": "2026-09-17T08:45:19Z",
+      "updated": "2026-09-17T13:21:12Z",
       "lat": -33.616849,
       "lng": 150.834184
     },
@@ -6716,12 +6716,12 @@
       "address": "3055 New England Highway, WALLABADAH NSW 2343",
       "state": "NSW",
       "prices": {
-        "Diesel": 268.9,
+        "Diesel": 279.9,
         "U98": 251.9,
-        "Premium Diesel": 270.9,
+        "Premium Diesel": 281.9,
         "U91": 231.9
       },
-      "updated": "2026-09-16T19:19:18Z",
+      "updated": "2026-09-17T12:57:28Z",
       "lat": -31.55065,
       "lng": 150.826803
     },
@@ -8564,11 +8564,12 @@
       "address": "379 Albury ST, Harden NSW 2587",
       "state": "NSW",
       "prices": {
+        "Diesel": 259.9,
         "E10": 217.9,
         "U98": 239.9,
         "U91": 219.9
       },
-      "updated": "2026-09-15T10:54:37Z",
+      "updated": "2026-09-17T13:00:50Z",
       "lat": -34.547703,
       "lng": 148.345939
     },
@@ -11459,12 +11460,12 @@
       "address": "126 Chapel RD, Bankstown NSW 2200",
       "state": "NSW",
       "prices": {
-        "E10": 239.9,
-        "U95": 259.9,
-        "U98": 269.9,
-        "Premium Diesel": 279.9
+        "E10": 244.9,
+        "U95": 264.9,
+        "U98": 274.9,
+        "Premium Diesel": 289.9
       },
-      "updated": "2026-09-16T12:45:07Z",
+      "updated": "2026-09-17T12:53:16Z",
       "lat": -33.92787,
       "lng": 151.029816
     },
@@ -11588,11 +11589,11 @@
       "address": "294 Princes HWY, Carss Park NSW 2221",
       "state": "NSW",
       "prices": {
-        "Diesel": 269.7,
-        "E10": 219.7,
-        "U91": 221.7
+        "Diesel": 273.7,
+        "E10": 224.7,
+        "U91": 226.7
       },
-      "updated": "2026-09-17T01:20:07Z",
+      "updated": "2026-09-17T12:56:27Z",
       "lat": -33.982002,
       "lng": 151.11782
     },
@@ -11913,11 +11914,11 @@
       "address": "27 Duff ST, Ashford NSW 2361",
       "state": "NSW",
       "prices": {
-        "Diesel": 279.9,
-        "U98": 254.9,
+        "Diesel": 284.9,
+        "U98": 264.9,
         "U91": 241.9
       },
-      "updated": "2026-09-16T11:10:30Z",
+      "updated": "2026-09-17T13:08:17Z",
       "lat": -29.323406,
       "lng": 151.095189
     },
@@ -21817,11 +21818,11 @@
       "address": "51 Tweed Valley Way, Murwillumbah NSW 2484",
       "state": "NSW",
       "prices": {
-        "Diesel": 272.9,
-        "U98": 249.9,
-        "U91": 227.9
+        "Diesel": 274.9,
+        "U98": 253.9,
+        "U91": 229.9
       },
-      "updated": "2026-09-16T09:14:19Z",
+      "updated": "2026-09-17T13:22:58Z",
       "lat": -28.318804,
       "lng": 153.429415
     },
@@ -25356,12 +25357,12 @@
       "address": "317A Pacific Hwy, Highfields NSW 2289",
       "state": "NSW",
       "prices": {
-        "E10": 227.7,
-        "U98": 253.7,
+        "E10": 229.7,
+        "U98": 255.7,
         "Premium Diesel": 277.7,
-        "U91": 231.7
+        "U91": 233.7
       },
-      "updated": "2026-09-17T11:02:13Z",
+      "updated": "2026-09-17T13:16:04Z",
       "lat": -32.956683,
       "lng": 151.705755
     },
@@ -28503,6 +28504,23 @@
       "lng": 150.857102
     },
     {
+      "brand": "7-Eleven",
+      "code": "NSW:20127",
+      "name": "7-Eleven Huntlee",
+      "address": "2 Bakehouse RD, North Rothbury NSW 2335",
+      "state": "NSW",
+      "prices": {
+        "E10": 227.9,
+        "U95": 246.9,
+        "U98": 255.9,
+        "Premium Diesel": 274.9,
+        "U91": 229.9
+      },
+      "updated": "2026-09-17T13:24:20Z",
+      "lat": -32.67357,
+      "lng": 151.350631
+    },
+    {
       "brand": "Pearl Energy",
       "code": "NSW:20811",
       "name": "Pearl Energy Hexham",
@@ -31577,13 +31595,13 @@
       "address": "108 Canterbury RD, Bankstown NSW 2200",
       "state": "NSW",
       "prices": {
-        "Diesel": 259.9,
-        "E10": 217.9,
+        "Diesel": 263.9,
+        "E10": 221.9,
         "E85": 229.9,
-        "U98": 239.9,
-        "U91": 219.9
+        "U98": 245.9,
+        "U91": 223.9
       },
-      "updated": "2026-09-16T22:03:49Z",
+      "updated": "2026-09-17T12:42:43Z",
       "lat": -33.93436,
       "lng": 151.0313
     },
@@ -33302,12 +33320,12 @@
       "address": "105 Bent ST, South Grafton NSW 2460",
       "state": "NSW",
       "prices": {
-        "Diesel": 272.7,
-        "E10": 229.7,
-        "U98": 258.7,
-        "U91": 231.7
+        "Diesel": 281.7,
+        "E10": 231.7,
+        "U98": 260.7,
+        "U91": 235.7
       },
-      "updated": "2026-09-16T21:49:17Z",
+      "updated": "2026-09-17T12:56:41Z",
       "lat": -29.706855,
       "lng": 152.939793
     },

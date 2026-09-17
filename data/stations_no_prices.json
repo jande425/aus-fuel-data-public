@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-17T08:54:28Z",
+  "fetched_at": "2026-09-17T12:41:41Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1281,
+  "station_count": 1284,
   "by_state": {
     "ACT": 9,
-    "NSW": 1160,
+    "NSW": 1161,
     "NT": 29,
-    "QLD": 31,
+    "QLD": 32,
     "SA": 32,
     "TAS": 1,
-    "VIC": 19
+    "VIC": 20
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 82,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 65,
+    "7-Eleven": 68,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -50,9 +50,9 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -441,6 +441,15 @@
       "state": "NSW",
       "lat": -32.791312,
       "lng": 151.725301
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:20127",
+      "name": "7-Eleven Huntlee",
+      "address": "2 Bakehouse RD, North Rothbury NSW 2335",
+      "state": "NSW",
+      "lat": -32.67357,
+      "lng": 151.350631
     },
     {
       "brand": "7-Eleven",
@@ -10838,6 +10847,22 @@
       "lng": 131.795078
     },
     {
+      "brand": "7-Eleven",
+      "code": "QLD:61477777",
+      "name": "7-Eleven Flagstone Central",
+      "address": "Cnr Homestead & Wild Mint Drives, QLD 4280",
+      "state": "QLD",
+      "lat": -27.808339,
+      "lng": 152.951311,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
@@ -11563,6 +11588,22 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:nVmF52JeEtp1idSXsX0SCi1h6bsUbOzhNfmABIxozgI=",
+      "name": "7-Eleven Bacchus Marsh",
+      "address": "28 Main Street, Bacchus Marsh, 3340",
+      "state": "VIC",
+      "lat": -37.67162337,
+      "lng": 144.42605874,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
     },
     {
       "brand": "7-Eleven",

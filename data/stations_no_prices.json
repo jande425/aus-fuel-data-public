@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-16T23:52:48Z",
+  "fetched_at": "2026-09-17T00:46:03Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1276,
   "by_state": {
     "ACT": 9,
-    "NSW": 1157,
+    "NSW": 1158,
     "NT": 29,
-    "QLD": 30,
+    "QLD": 31,
     "SA": 31,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -20,7 +20,7 @@
     "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 66,
-    "BP": 53,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "Ampol": 20,
@@ -2475,6 +2475,15 @@
       "state": "NSW",
       "lat": -36.088643,
       "lng": 146.909205
+    },
+    {
+      "brand": "BP",
+      "code": "NSW:349",
+      "name": "BP Caringbah",
+      "address": "Cnr Captain Cook Dve & Cawarra Rd, Caringbah NSW 2229",
+      "state": "NSW",
+      "lat": -34.032899,
+      "lng": 151.125228
     },
     {
       "brand": "BP",
@@ -10811,6 +10820,22 @@
       "lng": 131.795078
     },
     {
+      "brand": "7-Eleven",
+      "code": "QLD:61477665",
+      "name": "7-Eleven Heathwood",
+      "address": "15 Stapylton Road, QLD 4110",
+      "state": "QLD",
+      "lat": -27.630712,
+      "lng": 152.986492,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
@@ -11511,20 +11536,6 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:hnYD2k+KMHFhfu2g4CH/mOlNhIBaam5Vn/WkeXtdsjA=",
-      "name": "7-Eleven McKinnon",
-      "address": "211 Tucker Road, McKinnon, 3204",
-      "state": "VIC",
-      "lat": -37.91256684,
-      "lng": 145.05199391,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "7-Eleven",

@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-17T00:46:03Z",
+  "fetched_at": "2026-09-17T01:22:21Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -38,12 +38,12 @@
       "address": "2 Callan ST, Mitchell ACT 2911",
       "state": "ACT",
       "prices": {
-        "E10": 225.9,
-        "U98": 254.9,
-        "Premium Diesel": 282.9,
-        "U91": 227.9
+        "E10": 228.9,
+        "U98": 258.9,
+        "Premium Diesel": 291.9,
+        "U91": 230.9
       },
-      "updated": "2026-09-16T06:20:07Z",
+      "updated": "2026-09-17T00:59:23Z",
       "lat": -35.214511,
       "lng": 149.143317
     },
@@ -266,12 +266,12 @@
       "address": "3 Benham St, Chisholm ACT 2905",
       "state": "ACT",
       "prices": {
-        "E10": 237.9,
-        "U95": 254.9,
-        "U98": 263.9,
-        "Premium Diesel": 286.9
+        "E10": 238.9,
+        "U95": 255.9,
+        "U98": 264.9,
+        "Premium Diesel": 289.9
       },
-      "updated": "2026-09-16T23:06:14Z",
+      "updated": "2026-09-17T00:51:57Z",
       "lat": -35.4129,
       "lng": 149.128
     },
@@ -301,9 +301,9 @@
         "E10": 234.9,
         "U95": 253.9,
         "U98": 262.9,
-        "Premium Diesel": 289.9
+        "Premium Diesel": 295.9
       },
-      "updated": "2026-09-16T23:10:17Z",
+      "updated": "2026-09-17T00:51:58Z",
       "lat": -35.252979,
       "lng": 149.073175
     },

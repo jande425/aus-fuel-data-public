@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-17T00:46:03Z",
+  "fetched_at": "2026-09-17T01:22:21Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1276,
+  "station_count": 1278,
   "by_state": {
     "ACT": 9,
-    "NSW": 1158,
+    "NSW": 1159,
     "NT": 29,
     "QLD": 31,
     "SA": 31,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 82,
-    "Independent": 74,
+    "Independent": 75,
     "Chargefox": 72,
     "7-Eleven": 66,
     "BP": 54,
@@ -26,7 +26,7 @@
     "Ampol": 20,
     "JOLT": 20,
     "Caltex": 12,
-    "Shell": 10,
+    "Shell": 11,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
@@ -4464,6 +4464,15 @@
       "state": "NSW",
       "lat": -33.227823,
       "lng": 150.208192
+    },
+    {
+      "brand": "Independent",
+      "code": "NSW:18451",
+      "name": "Endeavour Petroleum Pty Ltd",
+      "address": "3 Neil ST, Moama NSW 2731",
+      "state": "NSW",
+      "lat": -36.08363,
+      "lng": 144.74801
     },
     {
       "brand": "Chargefox",
@@ -11738,6 +11747,21 @@
       "lng": 142.80341229,
       "unavailable_fuels": [
         "Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Shell",
+      "code": "VIC:6Dtfve7ZuZy/nilhOLEmUwHIpLiMUpJO60Lo9BSxqW8=",
+      "name": "Shell Boronia",
+      "address": "286 Boronia Road, BORONIA, 3155",
+      "state": "VIC",
+      "lat": -37.86058061,
+      "lng": 145.26651803,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
         "U91",
         "U98"
       ]

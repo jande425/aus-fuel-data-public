@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-17T21:47:49Z",
+  "fetched_at": "2026-09-17T22:20:08Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1279,
+  "station_count": 1281,
   "by_state": {
     "ACT": 9,
     "NSW": 1157,
-    "NT": 29,
+    "NT": 30,
     "QLD": 31,
     "SA": 32,
     "TAS": 1,
-    "VIC": 20
+    "VIC": 21
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 82,
-    "Independent": 75,
+    "Independent": 76,
     "Chargefox": 72,
     "7-Eleven": 66,
     "BP": 54,
@@ -33,7 +33,7 @@
     "EVUp": 9,
     "Metro Fuel": 8,
     "Evie Networks": 8,
-    "Mobil": 7,
+    "Mobil": 8,
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
@@ -50,9 +50,9 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -10703,6 +10703,15 @@
       "lng": 133.901191
     },
     {
+      "brand": "Independent",
+      "code": "NT:08600207",
+      "name": "Red Shop",
+      "address": "71 Peko Road, Tennant Creek, 0860, NT",
+      "state": "NT",
+      "lat": -19.646463,
+      "lng": 134.19919
+    },
+    {
       "brand": "Ampol",
       "code": "NT:08470220",
       "name": "Refuel Australia Emerald springs",
@@ -11698,6 +11707,21 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Mobil",
+      "code": "VIC:xD8UOdTpyz/Tgi6hmJmQ3EfmPP7G5i6sae8wUgdyoYs=",
+      "name": "Mobil Moe",
+      "address": "81 Lloyd Street, MOE, 3825",
+      "state": "VIC",
+      "lat": -38.17798413,
+      "lng": 146.25736587,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

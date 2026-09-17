@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-17T01:22:21Z",
+  "fetched_at": "2026-09-17T03:04:03Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1278,
+  "station_count": 1279,
   "by_state": {
     "ACT": 9,
-    "NSW": 1159,
+    "NSW": 1160,
     "NT": 29,
     "QLD": 31,
     "SA": 31,
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 82,
-    "Independent": 75,
+    "Independent": 76,
     "Chargefox": 72,
     "7-Eleven": 66,
     "BP": 54,
@@ -50,9 +50,9 @@
     "Perrys": 1,
     "PRIME ROUTE": 1,
     "Bowser Bean": 1,
+    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -3105,6 +3105,15 @@
       "state": "NSW",
       "lat": -28.641819,
       "lng": 153.614669
+    },
+    {
+      "brand": "Independent",
+      "code": "NSW:1510",
+      "name": "Beardy Street Servo",
+      "address": "351 Beardy Street, ARMIDALE NSW 2350",
+      "state": "NSW",
+      "lat": -30.507711,
+      "lng": 151.647255
     },
     {
       "brand": "Ampol",

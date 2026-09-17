@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-17T22:20:08Z",
+  "fetched_at": "2026-09-17T22:50:23Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -89,10 +89,10 @@
         "E10": 242.4,
         "U95": 264.9,
         "U98": 273.4,
-        "Premium Diesel": 298.4,
+        "Premium Diesel": 298.9,
         "U91": 246.4
       },
-      "updated": "2026-09-17T21:47:27Z",
+      "updated": "2026-09-17T22:47:25Z",
       "lat": -35.270935,
       "lng": 149.133379
     },
@@ -508,12 +508,12 @@
       "address": "Cnr Scollay St & Soward Way, Greenway ACT 2900",
       "state": "ACT",
       "prices": {
-        "U95": 261.9,
-        "U98": 271.9,
-        "Premium Diesel": 295.9,
-        "U91": 244.9
+        "U95": 263.9,
+        "U98": 273.9,
+        "Premium Diesel": 300.9,
+        "U91": 246.9
       },
-      "updated": "2026-09-16T23:12:16Z",
+      "updated": "2026-09-17T22:45:22Z",
       "lat": -35.4188,
       "lng": 149.067
     },
@@ -815,12 +815,12 @@
       "state": "ACT",
       "prices": {
         "Diesel": 295.9,
-        "E10": 234.9,
+        "E10": 236.9,
         "LPG": 116.9,
-        "U98": 260.9,
-        "U91": 236.9
+        "U98": 262.9,
+        "U91": 238.9
       },
-      "updated": "2026-09-17T08:15:05Z",
+      "updated": "2026-09-17T22:45:08Z",
       "lat": -35.1641,
       "lng": 149.131
     },
@@ -899,11 +899,11 @@
       "address": "39-41 Mustang Avenue, Canberra Airport ACT 2609",
       "state": "ACT",
       "prices": {
-        "U98": 234.7,
-        "Premium Diesel": 254.7,
-        "U91": 214.7
+        "U98": 238.7,
+        "Premium Diesel": 268.7,
+        "U91": 226.7
       },
-      "updated": "2026-09-14T23:13:58Z",
+      "updated": "2026-09-17T22:35:40Z",
       "lat": -35.2966,
       "lng": 149.189
     },
@@ -948,13 +948,13 @@
       "address": "76 Gartside St, Wanniassa ACT 2903",
       "state": "ACT",
       "prices": {
-        "E10": 243.9,
+        "E10": 244.9,
         "LPG": 120.9,
-        "U98": 271.9,
+        "U98": 272.9,
         "Premium Diesel": 295.9,
-        "U91": 245.9
+        "U91": 246.9
       },
-      "updated": "2026-09-17T22:00:39Z",
+      "updated": "2026-09-17T22:21:15Z",
       "lat": -35.4052,
       "lng": 149.101
     },
@@ -965,12 +965,12 @@
       "address": "103 Hindmarsh DR, Phillip ACT 2606",
       "state": "ACT",
       "prices": {
-        "E10": 235.9,
-        "U98": 261.9,
-        "Premium Diesel": 289.9,
-        "U91": 237.9
+        "E10": 237.9,
+        "U98": 265.9,
+        "Premium Diesel": 293.9,
+        "U91": 239.9
       },
-      "updated": "2026-09-17T03:35:49Z",
+      "updated": "2026-09-17T22:21:20Z",
       "lat": -35.349177,
       "lng": 149.085739
     },
@@ -1013,12 +1013,12 @@
       "address": "Service Station 53 Lambrigg ST, Farrer ACT 2607",
       "state": "ACT",
       "prices": {
-        "E10": 235.7,
-        "U98": 261.7,
-        "Premium Diesel": 289.7,
-        "U91": 237.7
+        "E10": 237.7,
+        "U98": 265.7,
+        "Premium Diesel": 293.7,
+        "U91": 239.7
       },
-      "updated": "2026-09-17T03:34:51Z",
+      "updated": "2026-09-17T22:20:51Z",
       "lat": -35.375911,
       "lng": 149.101739
     }

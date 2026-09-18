@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T07:54:21Z",
+  "fetched_at": "2026-09-18T12:18:45Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1280,
   "by_state": {
@@ -7,9 +7,9 @@
     "NSW": 1160,
     "NT": 31,
     "QLD": 30,
-    "SA": 33,
+    "SA": 32,
     "TAS": 1,
-    "VIC": 16
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,14 +19,14 @@
     "Reddy Express": 82,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 67,
+    "7-Eleven": 68,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "Ampol": 20,
     "JOLT": 20,
     "Caltex": 12,
-    "Shell": 12,
+    "Shell": 11,
     "Puma Energy": 11,
     "Metro Fuel": 9,
     "United": 9,
@@ -11468,18 +11468,6 @@
       ]
     },
     {
-      "brand": "Shell",
-      "code": "SA:61577288",
-      "name": "Renmark OPT",
-      "address": "364 Renmark Avenue, SA 5341",
-      "state": "SA",
-      "lat": -34.185411,
-      "lng": 140.732525,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "SA:61577325",
       "name": "S.Y.P. Motors",
@@ -11580,6 +11568,22 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:VNqf5fAoqcnWlI6iG7nkO1eLvLoZJT91VP/UPMc4lzE=",
+      "name": "7-Eleven Croydon East",
+      "address": "506 Mt Dandenong Road, Croydon East, 3137",
+      "state": "VIC",
+      "lat": -37.80196560501043,
+      "lng": 145.3083366699789,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "7-Eleven",

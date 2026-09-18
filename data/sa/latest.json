@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-09-18T12:56:37Z",
+  "fetched_at": "2026-09-18T13:19:35Z",
   "station_count": 693,
   "fuel_types": [
     "E10",
@@ -2906,7 +2906,7 @@
         "U98": 252.9,
         "Premium Diesel": 285.9
       },
-      "updated": "2026-09-18T12:40:20Z",
+      "updated": "2026-09-18T13:10:19Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5267,12 +5267,12 @@
       "state": "SA",
       "prices": {
         "U91": 218.9,
-        "Diesel": 276.9,
+        "Diesel": 272.9,
         "U98": 243.9,
         "E10": 216.9,
-        "Premium Diesel": 278.9
+        "Premium Diesel": 274.9
       },
-      "updated": "2026-09-18T07:03:54Z",
+      "updated": "2026-09-18T12:55:51Z",
       "lat": -35.53867770525654,
       "lng": 138.6382512711639
     },
@@ -5367,7 +5367,7 @@
         "U98": 251.9,
         "Premium Diesel": 286.9
       },
-      "updated": "2026-09-18T12:40:20Z",
+      "updated": "2026-09-18T13:10:19Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -8101,17 +8101,15 @@
       "state": "SA",
       "prices": {
         "U91": 234.9,
+        "Diesel": 282.9,
         "LPG": 112.9,
         "U95": 250.9,
         "U98": 259.9,
         "Premium Diesel": 284.9
       },
-      "updated": "2026-09-18T10:47:21Z",
+      "updated": "2026-09-18T13:16:51Z",
       "lat": -35.065006,
-      "lng": 138.864098,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
+      "lng": 138.864098
     },
     {
       "brand": "Ampol",

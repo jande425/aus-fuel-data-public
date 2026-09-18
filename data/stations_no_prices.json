@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-18T12:56:37Z",
+  "fetched_at": "2026-09-18T13:19:35Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1280,
+  "station_count": 1279,
   "by_state": {
     "ACT": 9,
     "NSW": 1160,
@@ -9,7 +9,7 @@
     "QLD": 30,
     "SA": 32,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 16
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 82,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 68,
+    "7-Eleven": 67,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -49,9 +49,9 @@
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -11568,22 +11568,6 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:VNqf5fAoqcnWlI6iG7nkO1eLvLoZJT91VP/UPMc4lzE=",
-      "name": "7-Eleven Croydon East",
-      "address": "506 Mt Dandenong Road, Croydon East, 3137",
-      "state": "VIC",
-      "lat": -37.80196560501043,
-      "lng": 145.3083366699789,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "7-Eleven",

@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-18T12:18:45Z",
+  "fetched_at": "2026-09-18T12:56:37Z",
   "station_count": 2097,
   "fuel_types": [
     "E10",
@@ -4152,12 +4152,12 @@
       "address": "36-38 Lane Cove Rd, RYDE NSW 2112",
       "state": "NSW",
       "prices": {
-        "E10": 227.9,
+        "E10": 232.9,
         "U98": 259.9,
-        "Premium Diesel": 274.9,
+        "Premium Diesel": 279.9,
         "U91": 237.9
       },
-      "updated": "2026-09-18T09:59:55Z",
+      "updated": "2026-09-18T12:44:06Z",
       "lat": -33.807511,
       "lng": 151.108604
     },
@@ -14156,9 +14156,12 @@
       "state": "NSW",
       "prices": {
         "E10": 239.9,
+        "U95": 258.9,
+        "U98": 267.9,
+        "Premium Diesel": 283.9,
         "U91": 241.9
       },
-      "updated": "2026-09-18T04:57:14Z",
+      "updated": "2026-09-18T12:52:49Z",
       "lat": -33.712414,
       "lng": 150.956801
     },
@@ -22886,13 +22889,13 @@
       "address": "151 Hammond Ave, Wagga Wagga NSW 2650",
       "state": "NSW",
       "prices": {
-        "Diesel": 279.9,
+        "Diesel": 284.9,
         "LPG": 112.9,
-        "U98": 256.9,
-        "Premium Diesel": 282.9,
-        "U91": 233.9
+        "U98": 259.9,
+        "Premium Diesel": 287.9,
+        "U91": 236.9
       },
-      "updated": "2026-09-17T12:03:01Z",
+      "updated": "2026-09-18T12:19:06Z",
       "lat": -35.122317,
       "lng": 147.396377
     },
@@ -28619,15 +28622,15 @@
       "address": "262 - 272 VICTORIA RD Rydalmere NSW 2116",
       "state": "NSW",
       "prices": {
-        "Diesel": 279.9,
-        "E10": 229.9,
+        "Diesel": 282.9,
+        "E10": 231.9,
         "E85": 245.9,
         "LPG": 115.9,
-        "U95": 247.9,
-        "U98": 257.9,
-        "U91": 232.9
+        "U95": 249.9,
+        "U98": 259.9,
+        "U91": 234.9
       },
-      "updated": "2026-09-17T13:48:01Z",
+      "updated": "2026-09-18T12:54:50Z",
       "lat": -33.810076,
       "lng": 151.032389
     },

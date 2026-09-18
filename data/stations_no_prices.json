@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-18T00:36:44Z",
+  "fetched_at": "2026-09-18T01:16:13Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1279,
   "by_state": {
     "ACT": 9,
-    "NSW": 1158,
+    "NSW": 1159,
     "NT": 30,
     "QLD": 30,
     "SA": 32,
     "TAS": 1,
-    "VIC": 19
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
@@ -8930,6 +8930,15 @@
       "lng": 152.063139
     },
     {
+      "brand": "Shell",
+      "code": "NSW:20939",
+      "name": "Solo Deniliquin",
+      "address": "336 Victoria ST, Deniliquin NSW 2710",
+      "state": "NSW",
+      "lat": -35.523731,
+      "lng": 144.980729
+    },
+    {
       "brand": "Exploren",
       "code": "NSW:20471",
       "name": "Solomon PTY LTD",
@@ -11758,21 +11767,6 @@
       "lng": 142.80341229,
       "unavailable_fuels": [
         "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Shell",
-      "code": "VIC:6Dtfve7ZuZy/nilhOLEmUwHIpLiMUpJO60Lo9BSxqW8=",
-      "name": "Shell Boronia",
-      "address": "286 Boronia Road, BORONIA, 3155",
-      "state": "VIC",
-      "lat": -37.86058061,
-      "lng": 145.26651803,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
         "U91",
         "U98"
       ]

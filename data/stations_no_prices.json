@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-18T22:33:13Z",
+  "fetched_at": "2026-09-18T23:34:33Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1276,
+  "station_count": 1278,
   "by_state": {
     "ACT": 9,
-    "NSW": 1158,
+    "NSW": 1159,
     "NT": 30,
     "QLD": 30,
     "SA": 32,
     "TAS": 1,
-    "VIC": 16
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 82,
     "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 67,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -32,8 +32,8 @@
     "United": 9,
     "EVUp": 9,
     "Liberty": 8,
+    "Mobil": 8,
     "Evie Networks": 7,
-    "Mobil": 7,
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
@@ -530,6 +530,15 @@
       "state": "NSW",
       "lat": -33.951306,
       "lng": 151.24905
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:17145",
+      "name": "7-Eleven Matraville",
+      "address": "515 Bunnerong Rd, MATRAVILLE NSW 2036",
+      "state": "NSW",
+      "lat": -33.959435,
+      "lng": 151.231759
     },
     {
       "brand": "7-Eleven",
@@ -11660,6 +11669,20 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "Mobil",
+      "code": "VIC:/EZPA9wKjACh4yJ4bS/S2icaMLA0oY3bcHoAXDFMN0k=",
+      "name": "Mobil Casterton",
+      "address": "2 Racecourse Road, CASTERTON, 3311",
+      "state": "VIC",
+      "lat": -37.5833086,
+      "lng": 141.41016776,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
       ]
     },
     {

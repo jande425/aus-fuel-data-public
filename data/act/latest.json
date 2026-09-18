@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-18T07:22:26Z",
+  "fetched_at": "2026-09-18T07:54:21Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -250,12 +250,12 @@
       "address": "2 Lonsdale ST, Braddon ACT 2612",
       "state": "ACT",
       "prices": {
-        "E10": 242.9,
-        "U95": 260.9,
-        "U98": 269.9,
-        "Premium Diesel": 302.9
+        "E10": 244.9,
+        "U95": 262.9,
+        "U98": 271.9,
+        "Premium Diesel": 299.9
       },
-      "updated": "2026-09-18T05:37:42Z",
+      "updated": "2026-09-18T07:49:52Z",
       "lat": -35.275825,
       "lng": 149.132595
     },
@@ -576,10 +576,10 @@
         "E10": 239.9,
         "LPG": 125.9,
         "U98": 267.9,
-        "Premium Diesel": 300.9,
+        "Premium Diesel": 299.9,
         "U91": 241.9
       },
-      "updated": "2026-09-17T21:57:29Z",
+      "updated": "2026-09-18T07:48:16Z",
       "lat": -35.2207,
       "lng": 149.018
     },
@@ -753,10 +753,10 @@
         "E10": 240.9,
         "LPG": 120.9,
         "U98": 268.9,
-        "Premium Diesel": 301.9,
+        "Premium Diesel": 299.9,
         "U91": 242.9
       },
-      "updated": "2026-09-18T02:21:16Z",
+      "updated": "2026-09-18T07:48:16Z",
       "lat": -35.365,
       "lng": 149.094
     },
@@ -886,10 +886,10 @@
       "prices": {
         "E10": 238.9,
         "U98": 266.9,
-        "Premium Diesel": 300.9,
+        "Premium Diesel": 299.9,
         "U91": 240.9
       },
-      "updated": "2026-09-17T22:54:14Z",
+      "updated": "2026-09-18T07:48:16Z",
       "lat": -35.2078,
       "lng": 149.048
     },
@@ -952,10 +952,10 @@
         "E10": 244.9,
         "LPG": 120.9,
         "U98": 272.9,
-        "Premium Diesel": 300.9,
+        "Premium Diesel": 300.8,
         "U91": 246.9
       },
-      "updated": "2026-09-18T05:24:15Z",
+      "updated": "2026-09-18T07:42:15Z",
       "lat": -35.4052,
       "lng": 149.101
     },

@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-19T07:45:08Z",
+  "fetched_at": "2026-09-19T11:59:50Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1283,
+  "station_count": 1282,
   "by_state": {
     "ACT": 9,
-    "NSW": 1163,
+    "NSW": 1162,
     "NT": 31,
     "QLD": 30,
     "SA": 32,
@@ -20,7 +20,7 @@
     "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 69,
-    "BP": 54,
+    "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "Ampol": 21,
@@ -50,9 +50,9 @@
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -2520,15 +2520,6 @@
       "state": "NSW",
       "lat": -36.088643,
       "lng": 146.909205
-    },
-    {
-      "brand": "BP",
-      "code": "NSW:349",
-      "name": "BP Caringbah",
-      "address": "Cnr Captain Cook Dve & Cawarra Rd, Caringbah NSW 2229",
-      "state": "NSW",
-      "lat": -34.032899,
-      "lng": 151.125228
     },
     {
       "brand": "BP",

@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-18T23:34:33Z",
+  "fetched_at": "2026-09-19T00:29:14Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -69,13 +69,13 @@
       "address": "10 Kingsland Parade, Casey ACT 2913",
       "state": "ACT",
       "prices": {
-        "E10": 236.9,
-        "U95": 255.9,
-        "U98": 264.9,
-        "Premium Diesel": 305.9,
-        "U91": 238.9
+        "E10": 238.9,
+        "U95": 257.9,
+        "U98": 266.9,
+        "Premium Diesel": 299.9,
+        "U91": 240.9
       },
-      "updated": "2026-09-18T21:54:14Z",
+      "updated": "2026-09-19T00:12:15Z",
       "lat": -35.1756,
       "lng": 149.096
     },
@@ -412,12 +412,12 @@
       "address": "1 Cape Street, Dickson ACT 2602",
       "state": "ACT",
       "prices": {
-        "U95": 263.9,
-        "U98": 273.9,
+        "U95": 265.9,
+        "U98": 275.9,
         "Premium Diesel": 299.9,
-        "U91": 246.9
+        "U91": 248.9
       },
-      "updated": "2026-09-18T06:33:15Z",
+      "updated": "2026-09-18T23:39:18Z",
       "lat": -35.2511,
       "lng": 149.137
     },
@@ -1015,11 +1015,11 @@
       "state": "ACT",
       "prices": {
         "E10": 239.7,
-        "U98": 267.6,
+        "U98": 267.7,
         "Premium Diesel": 295.9,
         "U91": 243.7
       },
-      "updated": "2026-09-18T22:24:26Z",
+      "updated": "2026-09-19T00:13:57Z",
       "lat": -35.375911,
       "lng": 149.101739
     }

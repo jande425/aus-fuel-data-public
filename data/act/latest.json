@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-19T22:18:51Z",
+  "fetched_at": "2026-09-19T22:38:05Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -591,11 +591,11 @@
       "state": "ACT",
       "prices": {
         "Diesel": 299.9,
-        "U95": 266.4,
-        "U98": 275.9,
-        "U91": 248.9
+        "U95": 268.4,
+        "U98": 277.9,
+        "U91": 250.9
       },
-      "updated": "2026-09-18T21:15:29Z",
+      "updated": "2026-09-19T22:30:31Z",
       "lat": -35.270769,
       "lng": 149.132056
     },
@@ -815,13 +815,13 @@
       "address": "Cnr Katherine and Horse Park Dr, Amaroo ACT 2914",
       "state": "ACT",
       "prices": {
-        "Diesel": 299.9,
+        "Diesel": 299.7,
         "E10": 237.9,
         "LPG": 116.9,
         "U98": 263.9,
         "U91": 239.9
       },
-      "updated": "2026-09-19T04:15:06Z",
+      "updated": "2026-09-19T22:30:09Z",
       "lat": -35.1641,
       "lng": 149.131
     },
@@ -832,7 +832,7 @@
       "address": "150 O'Halloran Circuit, Kambah ACT 2902",
       "state": "ACT",
       "prices": {
-        "Diesel": 297.9,
+        "Diesel": 295.9,
         "E10": 246.9,
         "E85": 259.9,
         "LPG": 119.9,
@@ -840,7 +840,7 @@
         "U98": 272.9,
         "U91": 248.9
       },
-      "updated": "2026-09-18T23:15:07Z",
+      "updated": "2026-09-19T22:30:09Z",
       "lat": -35.3924,
       "lng": 149.069
     },

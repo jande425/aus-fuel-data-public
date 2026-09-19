@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-09-19T02:50:07Z",
+  "fetched_at": "2026-09-19T06:16:59Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1279,
+  "station_count": 1284,
   "by_state": {
     "ACT": 9,
-    "NSW": 1160,
-    "NT": 30,
+    "NSW": 1164,
+    "NT": 31,
     "QLD": 30,
     "SA": 32,
     "TAS": 1,
@@ -19,11 +19,11 @@
     "Reddy Express": 82,
     "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 67,
-    "BP": 54,
+    "7-Eleven": 69,
+    "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 20,
+    "Ampol": 21,
     "JOLT": 20,
     "Caltex": 12,
     "Shell": 11,
@@ -41,6 +41,7 @@
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
+    "EG Ampol": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
@@ -224,6 +225,15 @@
       "state": "NSW",
       "lat": -33.795417,
       "lng": 150.904904
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:205",
+      "name": "7-Eleven Blaxland",
+      "address": "139 Great Western Highway (Corner Layton Avenue), Blaxland NSW 2774",
+      "state": "NSW",
+      "lat": -33.746366,
+      "lng": 150.613486
     },
     {
       "brand": "7-Eleven",
@@ -629,6 +639,15 @@
       "state": "NSW",
       "lat": -33.80187,
       "lng": 150.957827
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:163",
+      "name": "7-Eleven Penrith",
+      "address": "30 Henry Street, Penrith NSW 2750",
+      "state": "NSW",
+      "lat": -33.754088,
+      "lng": 150.704558
     },
     {
       "brand": "7-Eleven",
@@ -2504,6 +2523,15 @@
     },
     {
       "brand": "BP",
+      "code": "NSW:349",
+      "name": "BP Caringbah",
+      "address": "Cnr Captain Cook Dve & Cawarra Rd, Caringbah NSW 2229",
+      "state": "NSW",
+      "lat": -34.032899,
+      "lng": 151.125228
+    },
+    {
+      "brand": "BP",
       "code": "NSW:342",
       "name": "BP Clybucca T/S",
       "address": "Pacific Highway, Clybucca NSW 2440",
@@ -4328,6 +4356,15 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "NSW:562",
+      "name": "EG Ampol Moorebank",
+      "address": "Cnr Dredge & Stockton Avenue, Moorebank NSW 2170",
+      "state": "NSW",
+      "lat": -33.931329,
+      "lng": 150.948838
     },
     {
       "brand": "EVUp",
@@ -10763,6 +10800,15 @@
       "state": "NT",
       "lat": -24.338779,
       "lng": 133.459558
+    },
+    {
+      "brand": "Ampol",
+      "code": "NT:08220058",
+      "name": "Refuel Australia Wishart Road",
+      "address": "Cnr Wishart Road & McCarthy Close, Wishart, 0822, NT",
+      "state": "NT",
+      "lat": -12.461616,
+      "lng": 130.929661
     },
     {
       "brand": "Independent",

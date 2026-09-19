@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-19T07:18:19Z",
-  "station_count": 2093,
+  "fetched_at": "2026-09-19T07:45:08Z",
+  "station_count": 2094,
   "fuel_types": [
     "E10",
     "U91",
@@ -1982,9 +1982,10 @@
         "Diesel": 286.9,
         "E10": 237.9,
         "U95": 253.9,
-        "U98": 262.9
+        "U98": 262.9,
+        "Premium Diesel": 289.9
       },
-      "updated": "2026-09-19T03:11:21Z",
+      "updated": "2026-09-19T07:25:10Z",
       "lat": -30.627211,
       "lng": 152.972277
     },
@@ -3384,8 +3385,6 @@
       "prices": {
         "E10": 229.9,
         "U95": 243.9,
-        "U98": 253.9,
-        "Premium Diesel": 273.9,
         "U91": 231.9
       },
       "updated": "2026-09-18T01:17:50Z",
@@ -3637,7 +3636,6 @@
       "state": "NSW",
       "prices": {
         "E10": 229.9,
-        "U95": 248.9,
         "Premium Diesel": 288.9,
         "U91": 231.9
       },
@@ -4504,12 +4502,12 @@
       "address": "198-199 Great Western Hwy, HAZELBROOK NSW 2779",
       "state": "NSW",
       "prices": {
-        "E10": 235.9,
-        "U95": 256.9,
+        "E10": 236.9,
+        "U95": 257.9,
         "Premium Diesel": 296.9,
-        "U91": 239.9
+        "U91": 240.9
       },
-      "updated": "2026-09-18T21:47:26Z",
+      "updated": "2026-09-19T07:42:26Z",
       "lat": -33.721068,
       "lng": 150.452084
     },
@@ -5400,6 +5398,22 @@
       "lng": 150.104767
     },
     {
+      "brand": "BP",
+      "code": "NSW:17776",
+      "name": "Bp Clovelly",
+      "address": "33-37 Carrington Rd, RANDWICK NSW 2031",
+      "state": "NSW",
+      "prices": {
+        "E10": 246.9,
+        "U98": 270.9,
+        "Premium Diesel": 292.9,
+        "U91": 248.9
+      },
+      "updated": "2026-09-19T07:19:40Z",
+      "lat": -33.906507,
+      "lng": 151.252581
+    },
+    {
       "brand": "Ampol Foodary",
       "code": "NSW:17777",
       "name": "Ampol Foodary Marsden Park",
@@ -5634,9 +5648,11 @@
       "address": "2/ 997 Pemberton St, WEST ALBURY NSW 2640",
       "state": "NSW",
       "prices": {
-        "Premium Diesel": 280.9
+        "U98": 269.9,
+        "Premium Diesel": 280.9,
+        "U91": 240.9
       },
-      "updated": "2026-09-18T21:35:43Z",
+      "updated": "2026-09-19T07:27:02Z",
       "lat": -36.073577,
       "lng": 146.891307
     },
@@ -6967,12 +6983,12 @@
       "address": "103 Bellevue RD, Figtree NSW 2525",
       "state": "NSW",
       "prices": {
-        "E10": 227.9,
-        "U98": 255.9,
+        "E10": 232.5,
+        "U98": 258.5,
         "Premium Diesel": 288.9,
-        "U91": 229.9
+        "U91": 234.5
       },
-      "updated": "2026-09-18T01:03:19Z",
+      "updated": "2026-09-19T07:19:05Z",
       "lat": -34.427879,
       "lng": 150.853907
     },
@@ -7993,9 +8009,9 @@
       "address": "229 Clarence Town RD, Woodville NSW 2321",
       "state": "NSW",
       "prices": {
-        "Premium Diesel": 263.9
+        "Premium Diesel": 283.9
       },
-      "updated": "2026-09-11T07:53:39Z",
+      "updated": "2026-09-19T07:23:00Z",
       "lat": -32.676116,
       "lng": 151.609687
     },
@@ -10918,8 +10934,7 @@
       "state": "NSW",
       "prices": {
         "Diesel": 291.7,
-        "U98": 274.7,
-        "U91": 249.7
+        "U98": 274.7
       },
       "updated": "2026-09-19T00:14:23Z",
       "lat": -34.752102,
@@ -11908,8 +11923,7 @@
       "prices": {
         "E10": 239.9,
         "U98": 269.9,
-        "Premium Diesel": 299.9,
-        "U91": 241.9
+        "Premium Diesel": 299.9
       },
       "updated": "2026-09-19T00:50:19Z",
       "lat": -33.986338,
@@ -13634,14 +13648,14 @@
       "address": "293 West Botany Street (Corner Bestic Street), Rockdale NSW 2216",
       "state": "NSW",
       "prices": {
-        "E10": 237.9,
+        "E10": 239.9,
         "LPG": 111.9,
-        "U95": 256.9,
-        "U98": 265.9,
+        "U95": 258.9,
+        "U98": 267.9,
         "Premium Diesel": 293.9,
-        "U91": 239.9
+        "U91": 241.9
       },
-      "updated": "2026-09-19T00:24:15Z",
+      "updated": "2026-09-19T07:24:13Z",
       "lat": -33.949919,
       "lng": 151.148692
     },
@@ -21318,13 +21332,13 @@
       "address": "129 Piccadilly St, Riverstone NSW 2765",
       "state": "NSW",
       "prices": {
-        "Diesel": 268.7,
+        "Diesel": 271.7,
         "E10": 225.7,
         "U98": 247.7,
-        "Premium Diesel": 269.7,
+        "Premium Diesel": 273.7,
         "U91": 227.7
       },
-      "updated": "2026-09-19T05:11:01Z",
+      "updated": "2026-09-19T07:40:36Z",
       "lat": -33.676236,
       "lng": 150.866776
     },
@@ -21583,12 +21597,12 @@
       "address": "110 Galston Rd., Hornsby Heights NSW 2077",
       "state": "NSW",
       "prices": {
-        "U95": 249.9,
-        "U98": 258.9,
-        "Premium Diesel": 282.9,
-        "U91": 232.9
+        "U95": 251.9,
+        "U98": 260.9,
+        "Premium Diesel": 285.9,
+        "U91": 234.9
       },
-      "updated": "2026-09-17T22:20:43Z",
+      "updated": "2026-09-19T07:20:01Z",
       "lat": -33.676494,
       "lng": 151.098403
     },
@@ -24237,12 +24251,12 @@
       "address": "No 6 Main Road, Boolaroo NSW 2284",
       "state": "NSW",
       "prices": {
-        "E10": 227.9,
-        "U98": 247.9,
-        "Premium Diesel": 267.9,
-        "U91": 229.9
+        "E10": 231.9,
+        "U98": 255.9,
+        "Premium Diesel": 275.9,
+        "U91": 233.9
       },
-      "updated": "2026-09-18T07:54:30Z",
+      "updated": "2026-09-19T07:44:08Z",
       "lat": -32.950534,
       "lng": 151.623698
     },
@@ -24679,12 +24693,12 @@
       "address": "320 Lane Cove Road, North Ryde NSW 2113",
       "state": "NSW",
       "prices": {
-        "U95": 261.9,
-        "U98": 265.9,
+        "U95": 266.9,
+        "U98": 269.9,
         "Premium Diesel": 278.9,
-        "U91": 239.9
+        "U91": 242.9
       },
-      "updated": "2026-09-18T02:12:12Z",
+      "updated": "2026-09-19T07:30:57Z",
       "lat": -33.792349,
       "lng": 151.120171
     },

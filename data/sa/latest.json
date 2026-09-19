@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-09-19T07:18:19Z",
+  "fetched_at": "2026-09-19T07:45:08Z",
   "station_count": 693,
   "fuel_types": [
     "E10",
@@ -2869,13 +2869,13 @@
       "address": "138 Main S Rd, SA 5163",
       "state": "SA",
       "prices": {
+        "Diesel": 277.5,
         "U95": 239.5
       },
-      "updated": "2026-09-19T01:18:18Z",
+      "updated": "2026-09-19T07:44:44Z",
       "lat": -35.14992033811615,
       "lng": 138.52507131415558,
       "unavailable_fuels": [
-        "Diesel",
         "U91",
         "U98"
       ]
@@ -2908,7 +2908,7 @@
         "U98": 253.9,
         "Premium Diesel": 286.9
       },
-      "updated": "2026-09-19T07:10:19Z",
+      "updated": "2026-09-19T07:40:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -2995,13 +2995,13 @@
       "address": "Cnr Helicon Dve & The Golden Way, SA 5125",
       "state": "SA",
       "prices": {
-        "U91": 229.9,
+        "U91": 231.9,
         "LPG": 110.9,
-        "U95": 247.4,
-        "U98": 256.9,
-        "Premium Diesel": 281.9
+        "U95": 249.4,
+        "U98": 258.9,
+        "Premium Diesel": 283.9
       },
-      "updated": "2026-09-18T21:00:42Z",
+      "updated": "2026-09-19T07:35:19Z",
       "lat": -34.793082,
       "lng": 138.692047
     },
@@ -5373,7 +5373,7 @@
         "U98": 255.9,
         "Premium Diesel": 286.9
       },
-      "updated": "2026-09-19T07:10:19Z",
+      "updated": "2026-09-19T07:40:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -9067,12 +9067,12 @@
       "address": "7 Park Ave, SA 5159",
       "state": "SA",
       "prices": {
-        "U91": 229.9,
-        "U95": 247.4,
-        "U98": 256.9,
-        "Premium Diesel": 281.9
+        "U91": 231.9,
+        "U95": 249.4,
+        "U98": 258.9,
+        "Premium Diesel": 285.9
       },
-      "updated": "2026-09-18T20:45:29Z",
+      "updated": "2026-09-19T07:30:36Z",
       "lat": -35.074892281383384,
       "lng": 138.59038917543884
     },

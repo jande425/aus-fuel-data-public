@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-19T17:42:36Z",
+  "fetched_at": "2026-09-19T19:57:02Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1282,
+  "station_count": 1284,
   "by_state": {
     "ACT": 9,
-    "NSW": 1162,
+    "NSW": 1163,
     "NT": 31,
-    "QLD": 30,
+    "QLD": 31,
     "SA": 32,
     "TAS": 1,
     "VIC": 17
@@ -16,14 +16,14 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 82,
+    "Reddy Express": 83,
     "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 69,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 21,
+    "Ampol": 22,
     "JOLT": 20,
     "Caltex": 12,
     "Shell": 11,
@@ -8706,6 +8706,15 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "NSW:447",
+      "name": "Shell Reddy Express Randwick Frenchmans",
+      "address": "Frenchmans Rd & Clovelly Rd, Randwick NSW 2031",
+      "state": "NSW",
+      "lat": -33.908364,
+      "lng": 151.247674
+    },
+    {
+      "brand": "Reddy Express",
       "code": "NSW:62",
       "name": "Shell Reddy Express Ryde",
       "address": "45 Lane Cove Rd & Myra Ave, Ryde NSW 2112",
@@ -10872,6 +10881,22 @@
       "state": "NT",
       "lat": -22.25346,
       "lng": 131.795078
+    },
+    {
+      "brand": "Ampol",
+      "code": "QLD:61402096",
+      "name": "Ampol Foodary Sunnybank",
+      "address": "81 Mains Rd, QLD 4109",
+      "state": "QLD",
+      "lat": -27.584133,
+      "lng": 153.061878,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Ampol",

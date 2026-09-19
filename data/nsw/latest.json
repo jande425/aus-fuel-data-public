@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-19T17:42:36Z",
-  "station_count": 2095,
+  "fetched_at": "2026-09-19T19:57:02Z",
+  "station_count": 2094,
   "fuel_types": [
     "E10",
     "U91",
@@ -5560,12 +5560,12 @@
       "address": "459 Pacific Hwy, WYOMING NSW 2250",
       "state": "NSW",
       "prices": {
-        "Diesel": 292.9,
+        "Diesel": 289.9,
         "E10": 237.3,
         "U98": 262.3,
         "U91": 239.3
       },
-      "updated": "2026-09-19T04:25:06Z",
+      "updated": "2026-09-19T19:45:05Z",
       "lat": -33.410397,
       "lng": 151.34779
     },
@@ -5973,12 +5973,12 @@
       "address": "86 Manning St, TUNCURRY NSW 2428",
       "state": "NSW",
       "prices": {
-        "E10": 232.5,
-        "U98": 257.5,
-        "Premium Diesel": 283.5,
-        "U91": 234.5
+        "E10": 235.5,
+        "U98": 259.5,
+        "Premium Diesel": 288.5,
+        "U91": 237.5
       },
-      "updated": "2026-09-18T02:13:49Z",
+      "updated": "2026-09-19T19:49:18Z",
       "lat": -32.174397,
       "lng": 152.498572
     },
@@ -15174,22 +15174,6 @@
       "lng": 150.802234
     },
     {
-      "brand": "Reddy Express",
-      "code": "NSW:447",
-      "name": "Shell Reddy Express Randwick Frenchmans",
-      "address": "Frenchmans Rd & Clovelly Rd, Randwick NSW 2031",
-      "state": "NSW",
-      "prices": {
-        "Diesel": 291.9,
-        "E10": 240.9,
-        "U98": 269.9,
-        "U91": 242.9
-      },
-      "updated": "2026-09-18T20:15:31Z",
-      "lat": -33.908364,
-      "lng": 151.247674
-    },
-    {
       "brand": "United",
       "code": "NSW:449",
       "name": "United Petroleum Woolgoolga",
@@ -19411,13 +19395,13 @@
       "address": "896A Woodville Rd, Villawood NSW 2163",
       "state": "NSW",
       "prices": {
-        "E10": 225.7,
-        "U95": 237.7,
-        "U98": 245.7,
-        "Premium Diesel": 269.7,
-        "U91": 227.7
+        "E10": 232.7,
+        "U95": 242.7,
+        "U98": 249.7,
+        "Premium Diesel": 271.7,
+        "U91": 234.7
       },
-      "updated": "2026-09-17T11:33:25Z",
+      "updated": "2026-09-19T19:18:54Z",
       "lat": -33.883891,
       "lng": 150.976027
     },
@@ -20185,13 +20169,13 @@
       "address": "898-902 Victoria Rd, West Ryde NSW 2114",
       "state": "NSW",
       "prices": {
-        "E10": 225.7,
-        "U95": 238.7,
-        "U98": 247.7,
-        "Premium Diesel": 269.7,
-        "U91": 227.7
+        "E10": 232.7,
+        "U95": 242.7,
+        "U98": 249.7,
+        "Premium Diesel": 274.7,
+        "U91": 234.7
       },
-      "updated": "2026-09-17T11:09:58Z",
+      "updated": "2026-09-19T18:25:10Z",
       "lat": -33.81186,
       "lng": 151.094724
     },
@@ -21147,13 +21131,13 @@
       "address": "553 Bunnerong Road, Matraville NSW 2036",
       "state": "NSW",
       "prices": {
-        "E10": 233.5,
-        "U95": 250.5,
-        "U98": 255.5,
-        "Premium Diesel": 276.5,
-        "U91": 235.5
+        "E10": 236.5,
+        "U95": 252.5,
+        "U98": 257.5,
+        "Premium Diesel": 278.5,
+        "U91": 237.5
       },
-      "updated": "2026-09-19T03:31:44Z",
+      "updated": "2026-09-19T18:29:16Z",
       "lat": -33.960794,
       "lng": 151.231459
     },
@@ -25400,12 +25384,12 @@
       "address": "362 Godfrey Hill RD, Rainbow Flat NSW 2430",
       "state": "NSW",
       "prices": {
-        "U95": 248.5,
-        "U98": 257.5,
-        "Premium Diesel": 283.5,
-        "U91": 234.5
+        "U95": 251.5,
+        "U98": 259.5,
+        "Premium Diesel": 288.5,
+        "U91": 237.5
       },
-      "updated": "2026-09-18T02:12:53Z",
+      "updated": "2026-09-19T19:47:56Z",
       "lat": -32.009935,
       "lng": 152.473067
     },
@@ -30105,11 +30089,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 291.9,
-        "E10": 242.9,
+        "E10": 243.9,
         "U98": 269.9,
         "U91": 245.9
       },
-      "updated": "2026-09-19T00:12:23Z",
+      "updated": "2026-09-19T19:38:02Z",
       "lat": -34.7483,
       "lng": 146.550685
     },
@@ -32197,13 +32181,13 @@
       "address": "57 Central Coast HWY, West Gosford NSW 2250",
       "state": "NSW",
       "prices": {
-        "E10": 230.9,
+        "E10": 235.9,
         "U95": 249.9,
         "U98": 264.9,
-        "Premium Diesel": 282.9,
+        "Premium Diesel": 287.9,
         "U91": 237.9
       },
-      "updated": "2026-09-19T09:00:14Z",
+      "updated": "2026-09-19T19:51:48Z",
       "lat": -33.42695,
       "lng": 151.32893
     },
@@ -32366,12 +32350,12 @@
       "address": "2179 Pacific HWY, Heatherbrae NSW 2324",
       "state": "NSW",
       "prices": {
-        "E10": 222.9,
-        "U98": 244.9,
-        "Premium Diesel": 264.9,
-        "U91": 224.9
+        "E10": 227.9,
+        "U98": 249.9,
+        "Premium Diesel": 269.9,
+        "U91": 229.9
       },
-      "updated": "2026-09-19T10:04:32Z",
+      "updated": "2026-09-19T19:00:31Z",
       "lat": -32.795438,
       "lng": 151.720657
     },

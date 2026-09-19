@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-19T12:28:10Z",
+  "fetched_at": "2026-09-19T12:49:55Z",
   "station_count": 2095,
   "fuel_types": [
     "E10",
@@ -4137,12 +4137,12 @@
       "address": "36-38 Lane Cove Rd, RYDE NSW 2112",
       "state": "NSW",
       "prices": {
-        "E10": 227.9,
+        "E10": 232.9,
         "U98": 259.9,
-        "Premium Diesel": 278.9,
+        "Premium Diesel": 283.9,
         "U91": 237.9
       },
-      "updated": "2026-09-19T09:57:42Z",
+      "updated": "2026-09-19T12:30:58Z",
       "lat": -33.807511,
       "lng": 151.108604
     },
@@ -15083,7 +15083,6 @@
         "E10": 234.9,
         "E85": 259.9,
         "LPG": 121.9,
-        "U98": 259.9,
         "U91": 236.9
       },
       "updated": "2026-09-18T21:40:08Z",
@@ -26501,13 +26500,13 @@
       "address": "242 Parramatta Road, Homebush NSW 2140",
       "state": "NSW",
       "prices": {
-        "Diesel": 283.8,
+        "Diesel": 285.8,
         "E10": 229.8,
         "LPG": 135.8,
         "U98": 254.8,
         "U91": 232.8
       },
-      "updated": "2026-09-18T11:08:26Z",
+      "updated": "2026-09-19T12:35:01Z",
       "lat": -33.861709,
       "lng": 151.076405
     },

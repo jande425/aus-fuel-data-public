@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-19T21:36:03Z",
+  "fetched_at": "2026-09-19T22:18:51Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1283,
+  "station_count": 1282,
   "by_state": {
     "ACT": 9,
-    "NSW": 1162,
+    "NSW": 1161,
     "NT": 31,
     "QLD": 31,
     "SA": 32,
@@ -41,7 +41,6 @@
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
-    "EG Ampol": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
@@ -4338,15 +4337,6 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "NSW:562",
-      "name": "EG Ampol Moorebank",
-      "address": "Cnr Dredge & Stockton Avenue, Moorebank NSW 2170",
-      "state": "NSW",
-      "lat": -33.931329,
-      "lng": 150.948838
     },
     {
       "brand": "EVUp",

@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-19T19:57:02Z",
+  "fetched_at": "2026-09-19T21:36:03Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1284,
+  "station_count": 1283,
   "by_state": {
     "ACT": 9,
-    "NSW": 1163,
+    "NSW": 1162,
     "NT": 31,
     "QLD": 31,
     "SA": 32,
@@ -16,7 +16,7 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 83,
+    "Reddy Express": 82,
     "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 69,
@@ -8703,15 +8703,6 @@
       "state": "NSW",
       "lat": -33.985745,
       "lng": 151.147385
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:447",
-      "name": "Shell Reddy Express Randwick Frenchmans",
-      "address": "Frenchmans Rd & Clovelly Rd, Randwick NSW 2031",
-      "state": "NSW",
-      "lat": -33.908364,
-      "lng": 151.247674
     },
     {
       "brand": "Reddy Express",

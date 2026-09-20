@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-09-20T22:24:30Z",
+  "fetched_at": "2026-09-20T22:54:30Z",
   "station_count": 295,
   "fuel_types": [
     "E10",
@@ -2814,8 +2814,8 @@
         "E10": 230.5,
         "U95": 258.9,
         "U98": 270.9,
-        "Premium Diesel": 289.9,
-        "U91": 245.9
+        "U91": 245.9,
+        "Premium Diesel": 289.9
       },
       "updated": "2026-09-18T01:09:15Z",
       "lat": -41.524852,
@@ -3141,11 +3141,11 @@
         "E10": 245.9,
         "U95": 242.9,
         "U98": 271.9,
-        "Premium Diesel": 296.9,
+        "Premium Diesel": 297.9,
         "Diesel": 279.9,
         "U91": 235.9
       },
-      "updated": "2026-09-18T20:35:39Z",
+      "updated": "2026-09-20T22:52:01Z",
       "lat": -41.3252422,
       "lng": 148.2967021
     },
@@ -3565,13 +3565,13 @@
       "address": "334 George Town RD, Rocherlea TAS 7248",
       "state": "TAS",
       "prices": {
-        "E10": 236.9,
-        "U95": 253.9,
-        "U98": 262.9,
+        "E10": 241.9,
+        "U95": 258.9,
+        "U98": 267.9,
         "Premium Diesel": 284.9,
         "Diesel": 277.9
       },
-      "updated": "2026-09-18T06:04:07Z",
+      "updated": "2026-09-20T22:53:59Z",
       "lat": -41.3712223,
       "lng": 147.1137783
     },
@@ -4070,12 +4070,12 @@
       "address": "Nunamara Store. 39365 Tasman HWY, Nunamara TAS 7259",
       "state": "TAS",
       "prices": {
-        "Diesel": 286.9,
+        "Diesel": 295.9,
         "E10": 227.5,
         "U98": 265.9,
         "U91": 240.9
       },
-      "updated": "2026-09-19T13:42:06Z",
+      "updated": "2026-09-20T22:49:07Z",
       "lat": -41.38909205,
       "lng": 147.302247
     },
@@ -4789,14 +4789,14 @@
       "address": "Original Coles Store 64 Main ST, Wilmot TAS 7310",
       "state": "TAS",
       "prices": {
-        "Diesel": 275.9,
+        "Diesel": 306.9,
         "E10": 240.9,
-        "U95": 225.9,
+        "U95": 260.4,
         "U98": 269.9,
         "Premium Diesel": 294.9,
-        "U91": 230.9
+        "U91": 259.9
       },
-      "updated": "2026-09-19T21:30:34Z",
+      "updated": "2026-09-20T22:48:19Z",
       "lat": -41.38756099,
       "lng": 146.17559348
     },

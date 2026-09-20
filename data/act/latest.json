@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-20T22:24:30Z",
+  "fetched_at": "2026-09-20T22:54:30Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -136,10 +136,10 @@
       "address": "96 Sawmill Cct, Hume ACT 2620",
       "state": "ACT",
       "prices": {
-        "Diesel": 286.9,
-        "Premium Diesel": 289.9
+        "Diesel": 289.9,
+        "Premium Diesel": 292.9
       },
-      "updated": "2026-09-17T03:17:27Z",
+      "updated": "2026-09-20T22:32:26Z",
       "lat": -35.3964,
       "lng": 149.158
     },
@@ -900,11 +900,11 @@
       "address": "39-41 Mustang Avenue, Canberra Airport ACT 2609",
       "state": "ACT",
       "prices": {
-        "U98": 238.7,
-        "Premium Diesel": 268.7,
-        "U91": 226.7
+        "U98": 248.7,
+        "Premium Diesel": 278.7,
+        "U91": 228.7
       },
-      "updated": "2026-09-17T22:35:40Z",
+      "updated": "2026-09-20T22:46:10Z",
       "lat": -35.2966,
       "lng": 149.189
     },

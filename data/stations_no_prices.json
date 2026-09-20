@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-20T01:04:47Z",
+  "fetched_at": "2026-09-20T03:01:59Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1279,
+  "station_count": 1280,
   "by_state": {
     "ACT": 9,
     "NSW": 1159,
@@ -9,7 +9,7 @@
     "QLD": 31,
     "SA": 32,
     "TAS": 1,
-    "VIC": 16
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 82,
-    "Independent": 75,
+    "Independent": 76,
     "Chargefox": 72,
     "7-Eleven": 66,
     "BP": 53,
@@ -11694,6 +11694,21 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "Independent",
+      "code": "VIC:xH1CrWXZzc+BbDZYw4wf1Mql5v2EG8ODL0PLdpcHD34=",
+      "name": "Local Fuel / Country Fried Chicken",
+      "address": "2837 Warburton Highway, WESBURN, 3799",
+      "state": "VIC",
+      "lat": -37.77193719,
+      "lng": 145.64622775,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U98"
       ]
     },
     {

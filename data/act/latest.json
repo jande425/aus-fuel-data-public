@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-20T01:04:47Z",
+  "fetched_at": "2026-09-20T03:01:59Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -265,12 +265,12 @@
       "address": "3 Benham St, Chisholm ACT 2905",
       "state": "ACT",
       "prices": {
-        "E10": 244.9,
-        "U95": 261.9,
-        "U98": 270.9,
-        "Premium Diesel": 295.9
+        "E10": 245.9,
+        "U95": 262.9,
+        "U98": 271.9,
+        "Premium Diesel": 299.9
       },
-      "updated": "2026-09-19T04:17:26Z",
+      "updated": "2026-09-20T01:12:23Z",
       "lat": -35.4129,
       "lng": 149.128
     },
@@ -281,12 +281,12 @@
       "address": "77 Canberra Av, Griffith ACT 2603",
       "state": "ACT",
       "prices": {
-        "E10": 242.9,
-        "U95": 260.9,
-        "U98": 269.9,
-        "Premium Diesel": 293.9
+        "E10": 244.9,
+        "U95": 262.9,
+        "U98": 271.9,
+        "Premium Diesel": 295.9
       },
-      "updated": "2026-09-19T23:06:15Z",
+      "updated": "2026-09-20T01:18:29Z",
       "lat": -35.320031,
       "lng": 149.138892
     },
@@ -313,12 +313,12 @@
       "address": "166 Melrose DR, Phillip ACT 2606",
       "state": "ACT",
       "prices": {
-        "E10": 242.9,
-        "U95": 261.9,
-        "U98": 270.9,
+        "E10": 244.9,
+        "U95": 263.9,
+        "U98": 272.9,
         "Premium Diesel": 299.9
       },
-      "updated": "2026-09-18T00:51:57Z",
+      "updated": "2026-09-20T01:31:41Z",
       "lat": -35.351002,
       "lng": 149.085289
     },
@@ -396,11 +396,11 @@
       "state": "ACT",
       "prices": {
         "LPG": 125.9,
-        "U98": 271.9,
+        "U98": 272.9,
         "Premium Diesel": 299.9,
-        "U91": 245.9
+        "U91": 246.9
       },
-      "updated": "2026-09-19T00:45:23Z",
+      "updated": "2026-09-20T02:24:14Z",
       "lat": -35.2136,
       "lng": 149.096
     },
@@ -750,12 +750,12 @@
       "state": "ACT",
       "prices": {
         "E10": 242.9,
-        "LPG": 120.9,
+        "LPG": 123.9,
         "U98": 270.9,
         "Premium Diesel": 299.9,
         "U91": 244.9
       },
-      "updated": "2026-09-18T21:15:20Z",
+      "updated": "2026-09-20T01:15:16Z",
       "lat": -35.365,
       "lng": 149.094
     },
@@ -869,10 +869,10 @@
       "prices": {
         "E10": 235.9,
         "U98": 263.9,
-        "Premium Diesel": 283.9,
+        "Premium Diesel": 287.9,
         "U91": 237.9
       },
-      "updated": "2026-09-18T00:26:19Z",
+      "updated": "2026-09-20T02:31:46Z",
       "lat": -35.3326,
       "lng": 149.176
     },

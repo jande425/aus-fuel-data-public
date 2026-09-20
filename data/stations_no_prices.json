@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-20T13:25:01Z",
+  "fetched_at": "2026-09-20T16:55:22Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1282,
   "by_state": {
     "ACT": 9,
-    "NSW": 1161,
+    "NSW": 1162,
     "NT": 31,
     "QLD": 31,
     "SA": 32,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 16
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,10 +17,10 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 82,
-    "Independent": 76,
+    "Independent": 75,
     "Chargefox": 72,
     "7-Eleven": 68,
-    "BP": 53,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "Ampol": 22,
@@ -49,9 +49,9 @@
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Bowser Bean": 1,
+    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -2717,6 +2717,15 @@
       "state": "NSW",
       "lat": -34.718471,
       "lng": 150.001042
+    },
+    {
+      "brand": "BP",
+      "code": "NSW:1994",
+      "name": "BP Mascot",
+      "address": "1077 Botany Road, Mascot NSW 2020",
+      "state": "NSW",
+      "lat": -33.928442,
+      "lng": 151.195476
     },
     {
       "brand": "BP",
@@ -11710,21 +11719,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Independent",
-      "code": "VIC:xH1CrWXZzc+BbDZYw4wf1Mql5v2EG8ODL0PLdpcHD34=",
-      "name": "Local Fuel / Country Fried Chicken",
-      "address": "2837 Warburton Highway, WESBURN, 3799",
-      "state": "VIC",
-      "lat": -37.77193719,
-      "lng": 145.64622775,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "U91",
-        "U98"
       ]
     },
     {

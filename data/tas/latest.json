@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-09-20T17:53:43Z",
+  "fetched_at": "2026-09-20T20:12:11Z",
   "station_count": 295,
   "fuel_types": [
     "E10",
@@ -670,14 +670,14 @@
       "address": "34 Jackson Street, Wynyard TAS 7325",
       "state": "TAS",
       "prices": {
-        "Diesel": 294.9,
-        "E10": 240.9,
+        "Diesel": 295.9,
+        "E10": 241.9,
         "U95": 256.9,
-        "U98": 267.9,
+        "U98": 268.9,
         "Premium Diesel": 281.9,
         "U91": 239.9
       },
-      "updated": "2026-09-19T22:45:24Z",
+      "updated": "2026-09-20T18:45:21Z",
       "lat": -40.9904269,
       "lng": 145.7282697
     },
@@ -2831,12 +2831,11 @@
         "E10": 241.9,
         "LPG": 125.9,
         "U98": 269.9,
-        "Premium Diesel": 282.9,
-        "U91": 230.9,
-        "Diesel": 279.9,
-        "U95": 246.9
+        "U91": 243.9,
+        "Diesel": 284.9,
+        "U95": 259.9
       },
-      "updated": "2026-09-18T21:57:14Z",
+      "updated": "2026-09-20T19:44:20Z",
       "lat": -41.0625045,
       "lng": 145.896431
     },
@@ -2967,15 +2966,15 @@
       "address": "73 Reibey Street, Ulverstone TAS 7315",
       "state": "TAS",
       "prices": {
-        "E10": 242.9,
+        "E10": 243.9,
         "LPG": 109.8,
-        "U95": 261.9,
+        "U95": 262.9,
         "U98": 259.9,
         "Premium Diesel": 285.9,
         "U91": 237.9,
         "Diesel": 281.9
       },
-      "updated": "2026-09-20T07:24:13Z",
+      "updated": "2026-09-20T18:21:11Z",
       "lat": -41.1573289,
       "lng": 146.1735688
     },
@@ -4599,12 +4598,12 @@
       "state": "TAS",
       "prices": {
         "Diesel": 289.9,
-        "E10": 225.5,
-        "U98": 253.5,
+        "E10": 229.5,
+        "U98": 254.5,
         "U91": 243.9,
         "U95": 275.9
       },
-      "updated": "2026-09-17T10:16:33Z",
+      "updated": "2026-09-20T19:36:24Z",
       "lat": -42.99408272,
       "lng": 147.4027304
     },
@@ -4856,13 +4855,13 @@
       "address": "Southport Tavern 8777 Huon HWY, Southport TAS 7109",
       "state": "TAS",
       "prices": {
-        "E10": 227.9,
+        "E10": 229.9,
         "U98": 249.9,
-        "Premium Diesel": 279.9,
+        "Premium Diesel": 282.9,
         "U91": 228,
         "Diesel": 262
       },
-      "updated": "2026-09-18T03:11:54Z",
+      "updated": "2026-09-20T19:50:08Z",
       "lat": -43.4246493,
       "lng": 146.97447736
     },

@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-20T17:27:05Z",
-  "brand_count": 154,
+  "fetched_at": "2026-09-20T17:53:43Z",
+  "brand_count": 158,
   "brands": [
     {
       "name": "24Xpress",
@@ -65,10 +65,11 @@
     },
     {
       "name": "Ampol",
-      "station_count": 825,
+      "station_count": 837,
       "states": [
         "ACT",
         "NSW",
+        "NT",
         "QLD",
         "SA",
         "TAS",
@@ -123,9 +124,10 @@
     },
     {
       "name": "Astron",
-      "station_count": 76,
+      "station_count": 77,
       "states": [
         "NSW",
+        "NT",
         "QLD",
         "SA",
         "TAS",
@@ -140,6 +142,13 @@
         "QLD",
         "VIC",
         "WA"
+      ]
+    },
+    {
+      "name": "Ausfuel",
+      "station_count": 7,
+      "states": [
+        "NT"
       ]
     },
     {
@@ -179,10 +188,11 @@
     },
     {
       "name": "BP",
-      "station_count": 1125,
+      "station_count": 1150,
       "states": [
         "ACT",
         "NSW",
+        "NT",
         "QLD",
         "SA",
         "TAS",
@@ -299,9 +309,10 @@
     },
     {
       "name": "Caltex",
-      "station_count": 334,
+      "station_count": 340,
       "states": [
         "NSW",
+        "NT",
         "QLD",
         "SA",
         "TAS",
@@ -379,10 +390,11 @@
     },
     {
       "name": "EG Ampol",
-      "station_count": 499,
+      "station_count": 508,
       "states": [
         "ACT",
         "NSW",
+        "NT",
         "QLD",
         "SA",
         "TAS",
@@ -503,6 +515,13 @@
       ]
     },
     {
+      "name": "FuelXpress",
+      "station_count": 2,
+      "states": [
+        "NT"
+      ]
+    },
+    {
       "name": "GEL Motors",
       "station_count": 1,
       "states": [
@@ -557,14 +576,22 @@
     },
     {
       "name": "Independent",
-      "station_count": 737,
+      "station_count": 778,
       "states": [
         "NSW",
+        "NT",
         "QLD",
         "SA",
         "TAS",
         "VIC",
         "WA"
+      ]
+    },
+    {
+      "name": "Indervon",
+      "station_count": 6,
+      "states": [
+        "NT"
       ]
     },
     {
@@ -597,9 +624,10 @@
     },
     {
       "name": "Liberty",
-      "station_count": 244,
+      "station_count": 245,
       "states": [
         "NSW",
+        "NT",
         "QLD",
         "SA",
         "VIC",
@@ -699,9 +727,10 @@
     },
     {
       "name": "Mobil",
-      "station_count": 174,
+      "station_count": 176,
       "states": [
         "NSW",
+        "NT",
         "QLD",
         "SA",
         "VIC",
@@ -710,8 +739,9 @@
     },
     {
       "name": "Mogas",
-      "station_count": 26,
+      "station_count": 29,
       "states": [
+        "NT",
         "SA",
         "VIC",
         "WA"
@@ -761,8 +791,9 @@
     },
     {
       "name": "On the Run",
-      "station_count": 170,
+      "station_count": 184,
       "states": [
+        "NT",
         "QLD",
         "SA",
         "VIC"
@@ -855,8 +886,9 @@
     },
     {
       "name": "Puma Energy",
-      "station_count": 6,
+      "station_count": 48,
       "states": [
+        "NT",
         "QLD",
         "WA"
       ]
@@ -898,10 +930,11 @@
     },
     {
       "name": "Reddy Express",
-      "station_count": 529,
+      "station_count": 538,
       "states": [
         "ACT",
         "NSW",
+        "NT",
         "QLD",
         "SA",
         "TAS",
@@ -960,9 +993,10 @@
     },
     {
       "name": "Shell",
-      "station_count": 309,
+      "station_count": 313,
       "states": [
         "NSW",
+        "NT",
         "QLD",
         "SA",
         "TAS",
@@ -993,13 +1027,21 @@
     },
     {
       "name": "Solo",
-      "station_count": 29,
+      "station_count": 31,
       "states": [
         "NSW",
+        "NT",
         "QLD",
         "SA",
         "VIC",
         "WA"
+      ]
+    },
+    {
+      "name": "South 32",
+      "station_count": 1,
+      "states": [
+        "NT"
       ]
     },
     {
@@ -1101,10 +1143,11 @@
     },
     {
       "name": "United",
-      "station_count": 371,
+      "station_count": 392,
       "states": [
         "ACT",
         "NSW",
+        "NT",
         "QLD",
         "SA",
         "TAS",

@@ -1,10 +1,11 @@
 {
-  "fetched_at": "2026-09-20T17:27:05Z",
+  "fetched_at": "2026-09-20T17:53:43Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1251,
+  "station_count": 1282,
   "by_state": {
     "ACT": 9,
     "NSW": 1162,
+    "NT": 31,
     "QLD": 31,
     "SA": 32,
     "TAS": 1,
@@ -16,31 +17,34 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 82,
+    "Independent": 75,
     "Chargefox": 72,
-    "Independent": 69,
     "7-Eleven": 68,
-    "BP": 52,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
+    "Ampol": 22,
     "JOLT": 20,
-    "Ampol": 18,
-    "Caltex": 11,
+    "Caltex": 12,
     "Shell": 11,
+    "Puma Energy": 11,
     "Metro Fuel": 9,
+    "United": 9,
     "EVUp": 9,
+    "Liberty": 8,
     "Evie Networks": 7,
-    "Liberty": 7,
     "Mobil": 7,
-    "United": 6,
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
     "Ampol Foodary": 2,
     "Budget": 2,
+    "Indervon": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
+    "On the Run": 1,
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
@@ -10588,6 +10592,285 @@
       "state": "NSW",
       "lat": -33.769235,
       "lng": 150.946945
+    },
+    {
+      "brand": "Puma Energy",
+      "code": "NT:08720192",
+      "name": "Ammaroo Store",
+      "address": "Ammaroo Station, via ALICE SPRINGS, 0872, NT",
+      "state": "NT",
+      "lat": -21.750183,
+      "lng": 135.2387
+    },
+    {
+      "brand": "Puma Energy",
+      "code": "NT:08860173",
+      "name": "Aurora Kakadu  ",
+      "address": "Mon to Sun 7am-7pm,  Arnhem Highway, South Alligator, 0886, NT",
+      "state": "NT",
+      "lat": -12.67492,
+      "lng": 132.479186
+    },
+    {
+      "brand": "BP",
+      "code": "NT:08700077",
+      "name": "BP Alice Springs Depot",
+      "address": "19 Whittaker Court, Alice Springs, 0870, NT",
+      "state": "NT",
+      "lat": -23.694613,
+      "lng": 133.874878
+    },
+    {
+      "brand": "Puma Energy",
+      "code": "NT:08500089",
+      "name": "BP Katherine Depot (not trading)",
+      "address": "Corner Zimin Drive and Gillard Crescent, Katherine, 0850, NT",
+      "state": "NT",
+      "lat": -14.4535,
+      "lng": 132.24627
+    },
+    {
+      "brand": "BP",
+      "code": "NT:08100184",
+      "name": "Bp Bagot Road",
+      "address": "331 Bagot Road, COCONUT GROVE, 0810, NT",
+      "state": "NT",
+      "lat": -12.394908,
+      "lng": 130.85574
+    },
+    {
+      "brand": "Puma Energy",
+      "code": "NT:08220221",
+      "name": "Buthan Store",
+      "address": "Lot 558, Elcho Island, Elcho Island, 0822, NT",
+      "state": "NT",
+      "lat": -12.02066,
+      "lng": 135.57542
+    },
+    {
+      "brand": "Caltex",
+      "code": "NT:08300030",
+      "name": "Caltex Berry Springs NOT IN USE",
+      "address": "808 Cox Peninsula Road, Berry Springs, 0830, NT",
+      "state": "NT",
+      "lat": -12.700744,
+      "lng": 131.014053
+    },
+    {
+      "brand": "United",
+      "code": "NT:08600199",
+      "name": "Centre Point Food & Fuel",
+      "address": "78 Paterson Street, Tennant Creek, 0860, NT",
+      "state": "NT",
+      "lat": -19.645502,
+      "lng": 134.191524
+    },
+    {
+      "brand": "Puma Energy",
+      "code": "NT:08220174",
+      "name": "Daly River Inn",
+      "address": "Daly River Road, Daly River, 0822, NT",
+      "state": "NT",
+      "lat": -13.765407,
+      "lng": 130.709128
+    },
+    {
+      "brand": "Independent",
+      "code": "NT:08470151",
+      "name": "Goymarr Tourist Park",
+      "address": "5816 Kakadu Highway, Burrundie, 0847, NT",
+      "state": "NT",
+      "lat": -13.605614,
+      "lng": 132.219978
+    },
+    {
+      "brand": "Puma Energy",
+      "code": "NT:08220182",
+      "name": "Hayes Creek Wayside Inn",
+      "address": "455 Stuart Highway, Hayes Creek, 0822, NT",
+      "state": "NT",
+      "lat": -13.582684,
+      "lng": 131.458311
+    },
+    {
+      "brand": "Liberty",
+      "code": "NT:08500233",
+      "name": "Liberty Katherine DO NOT USE",
+      "address": "7 Gillard Crescent, Cossack Katherine 0850, Katherine South, 0850, NT",
+      "state": "NT",
+      "lat": -14.454196,
+      "lng": 132.245261
+    },
+    {
+      "brand": "Independent",
+      "code": "NT:08540223",
+      "name": "Lorella Springs",
+      "address": "PL 757 Portion 1333, Savannah Way, via Borroloola NT 0854, McArthur, 0852, NT",
+      "state": "NT",
+      "lat": -15.721022,
+      "lng": 135.640308
+    },
+    {
+      "brand": "Puma Energy",
+      "code": "NT:08220169",
+      "name": "Marthakal Badurru Workshop",
+      "address": "Lot 419 Galawarra Road, Galiwinku, 0822, NT",
+      "state": "NT",
+      "lat": -12.030196,
+      "lng": 135.566072
+    },
+    {
+      "brand": "Puma Energy",
+      "code": "NT:08720211",
+      "name": "Maryvale Store",
+      "address": "Old South Road, Maryvale, 0872, NT",
+      "state": "NT",
+      "lat": -24.667734,
+      "lng": 134.072466
+    },
+    {
+      "brand": "Puma Energy",
+      "code": "NT:08220012",
+      "name": "Pirlangimpi Community Store",
+      "address": "Entry By Permit Only. Lot 262, Pirlangimpi, 0822, NT",
+      "state": "NT",
+      "lat": -11.40313,
+      "lng": 130.417765
+    },
+    {
+      "brand": "Independent",
+      "code": "NT:08000014",
+      "name": "Platinum Fuel Taxi Base",
+      "address": "15 Finniss St, Darwin, 0800, NT",
+      "state": "NT",
+      "lat": -12.453169,
+      "lng": 130.838155
+    },
+    {
+      "brand": "Puma Energy",
+      "code": "NT:08700083",
+      "name": "Puma Alice Airport OPT",
+      "address": "Fuel Site 462, Davis Drive, Alice Springs, 0870, NT",
+      "state": "NT",
+      "lat": -23.800432,
+      "lng": 133.901191
+    },
+    {
+      "brand": "Ampol",
+      "code": "NT:08470220",
+      "name": "Refuel Australia Emerald springs",
+      "address": "721 Stuart Highway, Emerald Springs, 0847, NT",
+      "state": "NT",
+      "lat": -13.6312,
+      "lng": 131.6306
+    },
+    {
+      "brand": "Ampol",
+      "code": "NT:08500205",
+      "name": "Refuel Australia Katherine OPT ",
+      "address": "4 Bicentennial Road, Katherine South, 0850, NT",
+      "state": "NT",
+      "lat": -14.487214,
+      "lng": 132.25816
+    },
+    {
+      "brand": "Ampol",
+      "code": "NT:08700227",
+      "name": "Refuel Australia Stuarts Well",
+      "address": "8824-8844 Stuart Highway, Stuarts Well, 0870, NT",
+      "state": "NT",
+      "lat": -24.338779,
+      "lng": 133.459558
+    },
+    {
+      "brand": "Ampol",
+      "code": "NT:08220058",
+      "name": "Refuel Australia Wishart Road",
+      "address": "Cnr Wishart Road & McCarthy Close, Wishart, 0822, NT",
+      "state": "NT",
+      "lat": -12.461616,
+      "lng": 130.929661
+    },
+    {
+      "brand": "Independent",
+      "code": "NT:08200181",
+      "name": "Roper Bar ",
+      "address": "1 Jetty Road, Roper Highway, Limmen, 0852, NT",
+      "state": "NT",
+      "lat": -14.735076,
+      "lng": 134.528786
+    },
+    {
+      "brand": "On the Run",
+      "code": "NT:08000086",
+      "name": "S24 Darwin City",
+      "address": "89-91 Smith Street, Darwin, 0800, NT",
+      "state": "NT",
+      "lat": -12.459371,
+      "lng": 130.837418
+    },
+    {
+      "brand": "Puma Energy",
+      "code": "NT:08720019",
+      "name": "Ti Tree Store",
+      "address": "35 Spencer St, Ti Tree , 0872, NT",
+      "state": "NT",
+      "lat": -22.128564,
+      "lng": 133.413494
+    },
+    {
+      "brand": "Independent",
+      "code": "NT:08520017",
+      "name": "Timber Creek Store (Old)",
+      "address": "Lot 13, Victoria Highway, Timber Creek , 0852, NT",
+      "state": "NT",
+      "lat": -15.662884,
+      "lng": 130.480756
+    },
+    {
+      "brand": "United",
+      "code": "NT:08720074",
+      "name": "United Wycliffe Well",
+      "address": "13030 Stuart Highway, DAVENPORT, 0872, NT",
+      "state": "NT",
+      "lat": -20.795274,
+      "lng": 134.23648
+    },
+    {
+      "brand": "Indervon",
+      "code": "NT:08720142",
+      "name": "Wallace Rockhole",
+      "address": "Lot 70 Roesch Street, Wallace Rockhole, 0872, NT",
+      "state": "NT",
+      "lat": -24.125148,
+      "lng": 133.087302
+    },
+    {
+      "brand": "United",
+      "code": "NT:08520208",
+      "name": "Wirib Store and Tourism Park (old)",
+      "address": "Lot 1, 13 Victoria Highway, Timber Creek, 0852, NT",
+      "state": "NT",
+      "lat": -15.662884,
+      "lng": 130.480756
+    },
+    {
+      "brand": "Independent",
+      "code": "NT:08720189",
+      "name": "Yuendumu Mining Company No Liability",
+      "address": "Park Street, Yuendumu, 0872, NT",
+      "state": "NT",
+      "lat": -22.255814,
+      "lng": 131.796208
+    },
+    {
+      "brand": "Indervon",
+      "code": "NT:08720157",
+      "name": "Yuendumu Store (Old)",
+      "address": "369 Colliston Road, Yuendumu, 0872, NT",
+      "state": "NT",
+      "lat": -22.25346,
+      "lng": 131.795078
     },
     {
       "brand": "Ampol",

@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-09-20T07:42:59Z",
+  "fetched_at": "2026-09-20T08:51:31Z",
   "station_count": 295,
   "fuel_types": [
     "E10",
@@ -2214,9 +2214,7 @@
       "address": "1 Bollard Drive, Burnie TAS 7320",
       "state": "TAS",
       "prices": {
-        "E10": 238.9,
         "LPG": 115.9,
-        "U95": 257.9,
         "U91": 240.9,
         "Diesel": 275.9
       },
@@ -2655,14 +2653,14 @@
       "address": "167-169 Cambridge Street, West Launceston TAS 7250",
       "state": "TAS",
       "prices": {
-        "E10": 239.9,
+        "E10": 240.9,
         "U95": 245.9,
-        "U98": 267.9,
+        "U98": 268.9,
         "Premium Diesel": 285.9,
         "U91": 231.9,
         "Diesel": 274.9
       },
-      "updated": "2026-09-18T23:56:21Z",
+      "updated": "2026-09-20T08:48:12Z",
       "lat": -41.4618432,
       "lng": 147.1326733
     },
@@ -2940,7 +2938,7 @@
         "U91": 245.9,
         "Diesel": 282.9
       },
-      "updated": "2026-09-18T21:54:14Z",
+      "updated": "2026-09-20T07:45:17Z",
       "lat": -42.12249,
       "lng": 148.28464871
     },
@@ -4393,7 +4391,7 @@
         "Premium Diesel": 280.9,
         "U91": 237.9
       },
-      "updated": "2026-09-18T07:37:02Z",
+      "updated": "2026-09-20T08:08:39Z",
       "lat": -41.52642026,
       "lng": 146.83339919
     },

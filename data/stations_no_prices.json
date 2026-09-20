@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-20T03:01:59Z",
+  "fetched_at": "2026-09-20T06:40:38Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1280,
+  "station_count": 1282,
   "by_state": {
     "ACT": 9,
-    "NSW": 1159,
+    "NSW": 1161,
     "NT": 31,
     "QLD": 31,
     "SA": 32,
@@ -19,7 +19,7 @@
     "Reddy Express": 82,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 67,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -28,7 +28,7 @@
     "Caltex": 12,
     "Shell": 11,
     "Puma Energy": 11,
-    "Metro Fuel": 9,
+    "Metro Fuel": 10,
     "United": 9,
     "EVUp": 9,
     "Liberty": 8,
@@ -449,6 +449,15 @@
       "state": "NSW",
       "lat": -32.791312,
       "lng": 151.725301
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:18656",
+      "name": "7-Eleven Ingleburn",
+      "address": "4 Lancaster ST, Ingleburn NSW 2565",
+      "state": "NSW",
+      "lat": -33.98962,
+      "lng": 150.866728
     },
     {
       "brand": "7-Eleven",
@@ -6599,6 +6608,15 @@
     },
     {
       "brand": "Metro Fuel",
+      "code": "NSW:18605",
+      "name": "Metro Petroleum West Hoxton",
+      "address": "198 Fifteenth Av, West Hoxton NSW 2171",
+      "state": "NSW",
+      "lat": -33.92163,
+      "lng": 150.831476
+    },
+    {
+      "brand": "Metro Fuel",
       "code": "NSW:20935",
       "name": "Metro Revesby West",
       "address": "10 Milperra RD, Revesby NSW 2212",
@@ -10847,18 +10865,16 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61402096",
-      "name": "Ampol Foodary Sunnybank",
-      "address": "81 Mains Rd, QLD 4109",
+      "code": "QLD:61402175",
+      "name": "Ampol Gladstone Depot Front",
+      "address": "Chapple St, QLD 4680",
       "state": "QLD",
-      "lat": -27.584133,
-      "lng": 153.061878,
+      "lat": -23.842297,
+      "lng": 151.245741,
       "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
+        "Diesel",
         "U91",
-        "U95",
-        "U98"
+        "U95"
       ]
     },
     {

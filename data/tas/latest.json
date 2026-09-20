@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-09-20T06:40:38Z",
+  "fetched_at": "2026-09-20T07:42:59Z",
   "station_count": 295,
   "fuel_types": [
     "E10",
@@ -1945,12 +1945,13 @@
       "address": "38 Gordon Street, SORELL TAS 7172",
       "state": "TAS",
       "prices": {
+        "E10": 230.5,
         "U95": 249.5,
         "U98": 275.9,
         "Premium Diesel": 299.9,
         "U91": 248.9
       },
-      "updated": "2026-09-19T00:07:58Z",
+      "updated": "2026-09-20T06:44:39Z",
       "lat": -42.7862162,
       "lng": 147.5619237
     },
@@ -2334,14 +2335,14 @@
       "address": "2243 Channel Highway, Snug TAS 7054",
       "state": "TAS",
       "prices": {
-        "E10": 232.9,
-        "U95": 251.9,
+        "E10": 234.9,
+        "U95": 253.9,
         "U98": 269.9,
         "Premium Diesel": 296.9,
         "U91": 243.9,
         "Diesel": 294.9
       },
-      "updated": "2026-09-18T21:15:20Z",
+      "updated": "2026-09-20T07:21:12Z",
       "lat": -43.068618,
       "lng": 147.2568884
     },
@@ -2585,14 +2586,14 @@
       "address": "60 Carlton Beach Road , Dodges Ferry TAS 7173",
       "state": "TAS",
       "prices": {
-        "E10": 229.9,
+        "E10": 227.9,
         "U95": 256,
-        "U98": 257.9,
+        "U98": 255.9,
         "Premium Diesel": 293.9,
         "U91": 238,
         "Diesel": 284
       },
-      "updated": "2026-09-19T23:45:20Z",
+      "updated": "2026-09-20T06:45:21Z",
       "lat": -42.8581297,
       "lng": 147.616764
     },
@@ -2711,9 +2712,9 @@
       "prices": {
         "E10": 237.9,
         "U95": 256.9,
-        "U98": 265.9,
         "Premium Diesel": 285.9,
         "Diesel": 286.9,
+        "U98": 265.9,
         "U91": 241.9
       },
       "updated": "2026-09-18T23:27:14Z",
@@ -2871,10 +2872,10 @@
         "U95": 259.9,
         "U98": 265.9,
         "Premium Diesel": 288.9,
-        "U91": 239.9,
-        "Diesel": 282.9
+        "Diesel": 282.9,
+        "U91": 239.9
       },
-      "updated": "2026-09-18T21:57:14Z",
+      "updated": "2026-09-18T21:54:14Z",
       "lat": -41.3463891,
       "lng": 146.4216822
     },
@@ -2968,15 +2969,15 @@
       "address": "73 Reibey Street, Ulverstone TAS 7315",
       "state": "TAS",
       "prices": {
-        "E10": 240.9,
+        "E10": 242.9,
         "LPG": 109.8,
-        "U95": 259.9,
+        "U95": 261.9,
         "U98": 259.9,
         "Premium Diesel": 285.9,
         "U91": 237.9,
         "Diesel": 281.9
       },
-      "updated": "2026-09-19T00:58:15Z",
+      "updated": "2026-09-20T07:24:13Z",
       "lat": -41.1573289,
       "lng": 146.1735688
     },
@@ -3071,13 +3072,13 @@
       "address": "23 Elizabeth ST, Bracknell TAS 7302",
       "state": "TAS",
       "prices": {
-        "E10": 233.9,
+        "E10": 232.9,
         "U98": 270.8,
         "Premium Diesel": 289.9,
         "U91": 244.8,
         "Diesel": 286.8
       },
-      "updated": "2026-09-19T22:54:14Z",
+      "updated": "2026-09-20T06:42:15Z",
       "lat": -41.6493151,
       "lng": 146.9390448
     },

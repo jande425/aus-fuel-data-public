@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-20T08:51:31Z",
+  "fetched_at": "2026-09-20T12:32:54Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -37,12 +37,12 @@
       "address": "2 Callan ST, Mitchell ACT 2911",
       "state": "ACT",
       "prices": {
-        "E10": 233.9,
-        "U98": 264.9,
-        "Premium Diesel": 294.9,
-        "U91": 235.9
+        "E10": 236.9,
+        "U98": 265.9,
+        "Premium Diesel": 295.9,
+        "U91": 238.9
       },
-      "updated": "2026-09-17T23:33:41Z",
+      "updated": "2026-09-20T10:44:35Z",
       "lat": -35.214511,
       "lng": 149.143317
     },
@@ -914,11 +914,7 @@
       "address": "86 Parramatta ST, Phillip ACT 2606",
       "state": "ACT",
       "prices": {
-        "E10": 242.9,
-        "U95": 261.9,
-        "U98": 270.9,
-        "Premium Diesel": 299.9,
-        "U91": 244.9
+        "Premium Diesel": 299.9
       },
       "updated": "2026-09-19T23:24:13Z",
       "lat": -35.355061,
@@ -997,12 +993,12 @@
       "address": "Mobil Outlet 15 Barrier ST, Fyshwick ACT 2609",
       "state": "ACT",
       "prices": {
-        "E10": 235.9,
-        "U98": 259.9,
-        "Premium Diesel": 282.9,
-        "U91": 237.9
+        "E10": 230.9,
+        "U98": 254.9,
+        "Premium Diesel": 277.9,
+        "U91": 232.9
       },
-      "updated": "2026-09-19T21:18:48Z",
+      "updated": "2026-09-20T08:57:14Z",
       "lat": -35.329111,
       "lng": 149.172604
     },

@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-20T08:51:31Z",
+  "fetched_at": "2026-09-20T12:32:54Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1282,
+  "station_count": 1283,
   "by_state": {
     "ACT": 9,
-    "NSW": 1161,
+    "NSW": 1162,
     "NT": 31,
     "QLD": 31,
     "SA": 32,
@@ -19,7 +19,7 @@
     "Reddy Express": 82,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 67,
+    "7-Eleven": 68,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -49,9 +49,9 @@
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -413,6 +413,15 @@
       "state": "NSW",
       "lat": -33.907829,
       "lng": 150.865922
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:18201",
+      "name": "7-Eleven Greystanes",
+      "address": "601-605 Great Western Highway, GREYSTANES NSW 2145",
+      "state": "NSW",
+      "lat": -33.808609,
+      "lng": 150.935941
     },
     {
       "brand": "7-Eleven",

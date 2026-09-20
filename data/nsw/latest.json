@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-20T13:01:53Z",
-  "station_count": 2095,
+  "fetched_at": "2026-09-20T13:25:01Z",
+  "station_count": 2096,
   "fuel_types": [
     "E10",
     "U91",
@@ -516,7 +516,6 @@
         "E10": 238.9,
         "U95": 257.9,
         "U98": 266.9,
-        "Premium Diesel": 289.9,
         "U91": 240.9
       },
       "updated": "2026-09-18T03:21:16Z",
@@ -5917,11 +5916,11 @@
       "address": "152 Toongabbie Rd, GIRRAWEEN NSW 2145",
       "state": "NSW",
       "prices": {
-        "U98": 273.9,
-        "Premium Diesel": 289.9,
-        "U91": 246.9
+        "U98": 279.9,
+        "Premium Diesel": 294.9,
+        "U91": 252.9
       },
-      "updated": "2026-09-17T19:56:11Z",
+      "updated": "2026-09-20T13:22:18Z",
       "lat": -33.79564,
       "lng": 150.939075
     },
@@ -8916,6 +8915,22 @@
       "updated": "2026-09-19T21:07:26Z",
       "lat": -30.709747,
       "lng": 152.919821
+    },
+    {
+      "brand": "Speedway",
+      "code": "NSW:18422",
+      "name": "Speedway Roseville",
+      "address": "20-22 Babbage RD, Roseville NSW 2069",
+      "state": "NSW",
+      "prices": {
+        "E10": 228.9,
+        "U98": 252.9,
+        "Premium Diesel": 285.9,
+        "U91": 230.9
+      },
+      "updated": "2026-09-20T13:09:57Z",
+      "lat": -33.778021,
+      "lng": 151.194555
     },
     {
       "brand": "Ampol Foodary",
@@ -12984,8 +12999,6 @@
       "address": "180 Stacey & Stanley Streets, Bankstown NSW 2200",
       "state": "NSW",
       "prices": {
-        "U98": 257.9,
-        "Premium Diesel": 283.9,
         "U91": 231.9
       },
       "updated": "2026-09-18T23:36:14Z",
@@ -14951,9 +14964,11 @@
       "prices": {
         "Diesel": 297.9,
         "E10": 237.9,
-        "U98": 262.9
+        "E85": 259.9,
+        "U98": 262.9,
+        "U91": 239.9
       },
-      "updated": "2026-09-18T23:30:10Z",
+      "updated": "2026-09-20T13:20:05Z",
       "lat": -33.234309,
       "lng": 151.555682
     },
@@ -18899,12 +18914,12 @@
       "state": "NSW",
       "prices": {
         "E10": 231.9,
-        "U95": 251.9,
-        "U98": 260.9,
+        "U95": 250.9,
+        "U98": 259.9,
         "Premium Diesel": 285.9,
         "U91": 233.9
       },
-      "updated": "2026-09-19T22:12:28Z",
+      "updated": "2026-09-20T13:12:26Z",
       "lat": -33.943457,
       "lng": 151.034567
     },

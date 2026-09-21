@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-09-21T14:25:41Z",
+  "fetched_at": "2026-09-21T15:04:38Z",
   "station_count": 295,
   "fuel_types": [
     "E10",
@@ -2656,12 +2656,10 @@
       "address": "167-169 Cambridge Street, West Launceston TAS 7250",
       "state": "TAS",
       "prices": {
-        "E10": 240.9,
-        "U95": 249.9,
         "U98": 268.9,
-        "Premium Diesel": 285.9,
-        "U91": 235.9,
-        "Diesel": 281.9
+        "Diesel": 281.9,
+        "U95": 249.9,
+        "U91": 235.9
       },
       "updated": "2026-09-21T00:20:25Z",
       "lat": -41.4618432,

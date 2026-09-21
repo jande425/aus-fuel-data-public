@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-21T21:02:04Z",
+  "fetched_at": "2026-09-21T23:47:04Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1282,
+  "station_count": 1285,
   "by_state": {
     "ACT": 9,
-    "NSW": 1162,
+    "NSW": 1161,
     "NT": 30,
     "QLD": 30,
-    "SA": 34,
+    "SA": 37,
     "TAS": 1,
-    "VIC": 16
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,12 +17,12 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 82,
-    "Independent": 77,
+    "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 68,
-    "BP": 53,
+    "7-Eleven": 67,
+    "BP": 54,
     "NRMA": 45,
-    "Ampol": 23,
+    "Ampol": 25,
     "ChargePoint": 23,
     "JOLT": 20,
     "Caltex": 12,
@@ -50,10 +50,12 @@
     "Pacific Fuel Solutions": 1,
     "U-Go": 1,
     "Perrys": 1,
+    "AM/PM": 1,
     "Bowser Bean": 1,
     "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "EG Ampol": 1
   },
   "stations": [
     {
@@ -6592,6 +6594,15 @@
     },
     {
       "brand": "Metro Fuel",
+      "code": "NSW:20940",
+      "name": "Metro Blacktown Richmond Rd",
+      "address": "69 Richmond RD, Blacktown NSW 2148",
+      "state": "NSW",
+      "lat": -33.763866,
+      "lng": 150.902445
+    },
+    {
+      "brand": "Metro Fuel",
       "code": "NSW:20032",
       "name": "Metro Charlestown",
       "address": "132-138 Pacific HWY, Charlestown NSW 2290",
@@ -6616,15 +6627,6 @@
       "state": "NSW",
       "lat": -33.00878,
       "lng": 151.710266
-    },
-    {
-      "brand": "Metro Fuel",
-      "code": "NSW:20935",
-      "name": "Metro Revesby West",
-      "address": "10 Milperra RD, Revesby NSW 2212",
-      "state": "NSW",
-      "lat": -33.938371,
-      "lng": 151.017192
     },
     {
       "brand": "Metro Fuel",
@@ -10326,15 +10328,6 @@
       "lng": 151.005717
     },
     {
-      "brand": "7-Eleven",
-      "code": "NSW:17320",
-      "name": "Werrington South",
-      "address": "577 Great Western Hwy, WERRINGTON NSW 2747",
-      "state": "NSW",
-      "lat": -33.767393,
-      "lng": 150.756865
-    },
-    {
       "brand": "Exploren",
       "code": "NSW:20506",
       "name": "West Ryde Smash Repairs SO-19932",
@@ -11179,6 +11172,27 @@
       "lng": 145.871647
     },
     {
+      "brand": "BP",
+      "code": "SA:61577422",
+      "name": "24 Seven Two Wells",
+      "address": "2 Industrial Court, SA 5501",
+      "state": "SA",
+      "lat": -34.5828243498736,
+      "lng": 138.49446997421396,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
+    },
+    {
+      "brand": "AM/PM",
+      "code": "SA:61577434",
+      "name": "AMPM Port Augusta",
+      "address": "2 Augusta Hwy, SA 5700",
+      "state": "SA",
+      "lat": -32.50589165185453,
+      "lng": 137.7850273579904
+    },
+    {
       "brand": "Ampol",
       "code": "SA:61577046",
       "name": "Ampol Berri",
@@ -11189,6 +11203,37 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "SA:61501171",
+      "name": "Ampol Foodary Glenelg North",
+      "address": "509-511 Anzac Hwy & Pine Av, SA 5045",
+      "state": "SA",
+      "lat": -34.975548,
+      "lng": 138.528485,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "SA:61577209",
+      "name": "Ampol Foodary Nuriootpa",
+      "address": "Cnr Old Sturt Hwy and Murray Street, SA 5355",
+      "state": "SA",
+      "lat": -34.457321,
+      "lng": 139.003159,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },
@@ -11561,20 +11606,6 @@
     },
     {
       "brand": "Independent",
-      "code": "SA:61501594",
-      "name": "Victor Harbor Roadhouse",
-      "address": "105 Victoria St, SA 5211",
-      "state": "SA",
-      "lat": -35.558077,
-      "lng": 138.613533,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Independent",
       "code": "SA:61577322",
       "name": "Walker Flat General Store",
       "address": "5080 Angas Valley Road, SA 5238",
@@ -11709,6 +11740,21 @@
       "lng": 144.72831692,
       "unavailable_fuels": [
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "VIC:SHeYnEx+Hs7Slc2e+hsm8kBn3mJ/4tjKqOlTR/IT++k=",
+      "name": "EG Ampol Kilsyth",
+      "address": "534-542 Mt Dandenong Road, Kilsyth, 3137",
+      "state": "VIC",
+      "lat": -37.802554347666664,
+      "lng": 145.3112100876167,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

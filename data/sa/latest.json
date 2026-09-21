@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-09-21T20:07:13Z",
+  "fetched_at": "2026-09-21T20:29:32Z",
   "station_count": 691,
   "fuel_types": [
     "E10",
@@ -608,13 +608,13 @@
       "address": "62-102 Daws Road, SA 5039",
       "state": "SA",
       "prices": {
-        "U91": 232.9,
-        "Diesel": 284.9,
-        "U95": 248.9,
-        "U98": 257.9,
-        "Premium Diesel": 286.9
+        "U91": 233.9,
+        "Diesel": 285.9,
+        "U95": 249.9,
+        "U98": 258.9,
+        "Premium Diesel": 287.9
       },
-      "updated": "2026-09-20T21:38:49Z",
+      "updated": "2026-09-21T20:17:31Z",
       "lat": -34.992777,
       "lng": 138.569576
     },
@@ -2910,7 +2910,7 @@
         "U98": 256.9,
         "Premium Diesel": 289.9
       },
-      "updated": "2026-09-21T19:55:21Z",
+      "updated": "2026-09-21T20:25:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5356,7 +5356,7 @@
         "U98": 255.9,
         "Premium Diesel": 286.9
       },
-      "updated": "2026-09-21T19:55:21Z",
+      "updated": "2026-09-21T20:25:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -6680,16 +6680,14 @@
       "address": "23 Hutchinson Street, SA 5214",
       "state": "SA",
       "prices": {
+        "U91": 238.9,
         "LPG": 139.9,
-        "U98": 262.9
+        "U98": 262.9,
+        "Premium Diesel": 284.9
       },
-      "updated": "2026-09-20T00:58:39Z",
+      "updated": "2026-09-21T20:22:49Z",
       "lat": -35.505487,
-      "lng": 138.781278,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91"
-      ]
+      "lng": 138.781278
     },
     {
       "brand": "BP",
@@ -6858,10 +6856,10 @@
       "state": "SA",
       "prices": {
         "U91": 238.9,
-        "Diesel": 290.9,
+        "Diesel": 291.9,
         "U98": 269.9
       },
-      "updated": "2026-09-20T22:22:18Z",
+      "updated": "2026-09-21T20:18:22Z",
       "lat": -34.439337,
       "lng": 138.509976
     },
@@ -7735,11 +7733,11 @@
       "address": "404-406 Churchill Road, SA 5084",
       "state": "SA",
       "prices": {
-        "U91": 218.7,
-        "U98": 238.7,
-        "Premium Diesel": 274.7
+        "U91": 222.7,
+        "U98": 242.7,
+        "Premium Diesel": 276.7
       },
-      "updated": "2026-09-20T22:49:32Z",
+      "updated": "2026-09-21T20:14:51Z",
       "lat": -34.8639728811947,
       "lng": 138.58272886725658
     },

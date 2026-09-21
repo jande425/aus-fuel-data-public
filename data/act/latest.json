@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-21T01:03:00Z",
+  "fetched_at": "2026-09-21T02:59:16Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -915,9 +915,13 @@
       "address": "86 Parramatta ST, Phillip ACT 2606",
       "state": "ACT",
       "prices": {
-        "Premium Diesel": 299.9
+        "E10": 242.9,
+        "U95": 261.9,
+        "U98": 270.9,
+        "Premium Diesel": 299.9,
+        "U91": 244.9
       },
-      "updated": "2026-09-19T23:24:13Z",
+      "updated": "2026-09-21T01:20:59Z",
       "lat": -35.355061,
       "lng": 149.091106
     },

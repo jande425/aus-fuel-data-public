@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-21T01:03:00Z",
+  "fetched_at": "2026-09-21T02:59:16Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1285,
+  "station_count": 1287,
   "by_state": {
     "ACT": 9,
-    "NSW": 1165,
+    "NSW": 1167,
     "NT": 31,
     "QLD": 31,
     "SA": 32,
@@ -19,10 +19,10 @@
     "Reddy Express": 82,
     "Independent": 75,
     "Chargefox": 72,
-    "7-Eleven": 68,
+    "7-Eleven": 70,
     "BP": 54,
     "NRMA": 45,
-    "Ampol": 23,
+    "Ampol": 24,
     "ChargePoint": 23,
     "JOLT": 20,
     "Caltex": 12,
@@ -40,7 +40,6 @@
     "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
-    "U-Go": 1,
     "Westside": 1,
     "Ampol Breeze": 1,
     "Transwest Fuels": 1,
@@ -200,6 +199,15 @@
       "state": "NSW",
       "lat": -33.920941,
       "lng": 151.039191
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:17139",
+      "name": "7-Eleven Baulkham Hills",
+      "address": "217-219 Seven Hills Rd, BAULKHAM HILLS NSW 2153",
+      "state": "NSW",
+      "lat": -33.755512,
+      "lng": 150.963514
     },
     {
       "brand": "7-Eleven",
@@ -464,15 +472,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:18656",
-      "name": "7-Eleven Ingleburn",
-      "address": "4 Lancaster ST, Ingleburn NSW 2565",
-      "state": "NSW",
-      "lat": -33.98962,
-      "lng": 150.866728
-    },
-    {
-      "brand": "7-Eleven",
       "code": "NSW:235",
       "name": "7-Eleven Ingleburn",
       "address": "63 Oxford & Cumberland Streets, Ingleburn NSW 2565",
@@ -653,6 +652,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:241",
+      "name": "7-Eleven Plumpton",
+      "address": "291 Rooty Hill Road North, Plumpton NSW 2761",
+      "state": "NSW",
+      "lat": -33.753565,
+      "lng": 150.840322
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:149",
       "name": "7-Eleven Randwick",
       "address": "128 Barker Street, Randwick NSW 2031",
@@ -731,6 +739,15 @@
       "state": "NSW",
       "lat": -33.74687,
       "lng": 151.050803
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:284",
+      "name": "7-Eleven West Ryde",
+      "address": "919 Victoria Road (Corner Hermitage Road), West Ryde NSW 2114",
+      "state": "NSW",
+      "lat": -33.80925,
+      "lng": 151.09346
     },
     {
       "brand": "Exploren",
@@ -2297,6 +2314,15 @@
       "state": "NSW",
       "lat": -30.205971,
       "lng": 151.675722
+    },
+    {
+      "brand": "Ampol",
+      "code": "NSW:876",
+      "name": "Ampol Hexham Diesel Stop",
+      "address": "360 Old Maitland Rd Cnr Pacific Hwy, Hexham NSW 2322",
+      "state": "NSW",
+      "lat": -32.827955,
+      "lng": 151.684425
     },
     {
       "brand": "Ampol",
@@ -10127,15 +10153,6 @@
       "state": "NSW",
       "lat": -32.769186,
       "lng": 151.273708
-    },
-    {
-      "brand": "U-Go",
-      "code": "NSW:17147",
-      "name": "U-Go Baulkham Hills (Unmanned)",
-      "address": "117 Seven Hills Rd, BAULKHAM HILLS NSW 2153",
-      "state": "NSW",
-      "lat": -33.761395,
-      "lng": 150.975073
     },
     {
       "brand": "United",

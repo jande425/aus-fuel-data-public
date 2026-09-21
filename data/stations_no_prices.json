@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-21T02:59:16Z",
+  "fetched_at": "2026-09-21T06:46:04Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1287,
+  "station_count": 1288,
   "by_state": {
     "ACT": 9,
     "NSW": 1167,
-    "NT": 31,
-    "QLD": 31,
-    "SA": 32,
+    "NT": 30,
+    "QLD": 30,
+    "SA": 34,
     "TAS": 1,
-    "VIC": 16
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,9 +17,9 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 82,
-    "Independent": 75,
+    "Independent": 77,
     "Chargefox": 72,
-    "7-Eleven": 70,
+    "7-Eleven": 71,
     "BP": 54,
     "NRMA": 45,
     "Ampol": 24,
@@ -27,13 +27,13 @@
     "JOLT": 20,
     "Caltex": 12,
     "Shell": 11,
-    "Puma Energy": 11,
+    "Puma Energy": 10,
     "Metro Fuel": 9,
     "United": 9,
     "EVUp": 9,
     "Evie Networks": 7,
     "Liberty": 7,
-    "Mobil": 7,
+    "Mobil": 6,
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
@@ -41,7 +41,6 @@
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
-    "Ampol Breeze": 1,
     "Transwest Fuels": 1,
     "Linmac Co Pty Ltd": 1,
     "Astron": 1,
@@ -49,6 +48,7 @@
     "On the Run": 1,
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
+    "U-Go": 1,
     "Perrys": 1,
     "Bowser Bean": 1,
     "Metro Petroleum": 1,
@@ -2269,15 +2269,6 @@
       "state": "NSW",
       "lat": -32.719967,
       "lng": 152.135661
-    },
-    {
-      "brand": "Ampol Breeze",
-      "code": "NSW:1972",
-      "name": "Ampol Breeze Port Kembla",
-      "address": "16 Flinders St, Port Kembla NSW 2505",
-      "state": "NSW",
-      "lat": -34.471455,
-      "lng": 150.89227
     },
     {
       "brand": "Ampol",
@@ -6655,21 +6646,21 @@
     },
     {
       "brand": "Metro Fuel",
+      "code": "NSW:20833",
+      "name": "Metro Petroleum Ingleburn",
+      "address": "21-23 Cumberland RD, Ingleburn NSW 2565",
+      "state": "NSW",
+      "lat": -33.996645,
+      "lng": 150.871184
+    },
+    {
+      "brand": "Metro Fuel",
       "code": "NSW:20031",
       "name": "Metro Petroleum Redhead",
       "address": "100 Collier ST, Redhead NSW 2290",
       "state": "NSW",
       "lat": -33.00878,
       "lng": 151.710266
-    },
-    {
-      "brand": "Metro Fuel",
-      "code": "NSW:18425",
-      "name": "Metro Petroleum Saratoga",
-      "address": "13-15 Village RD, Saratoga NSW 2251",
-      "state": "NSW",
-      "lat": -33.475356,
-      "lng": 151.353215
     },
     {
       "brand": "Metro Fuel",
@@ -10380,6 +10371,15 @@
       "lng": 151.005717
     },
     {
+      "brand": "7-Eleven",
+      "code": "NSW:17320",
+      "name": "Werrington South",
+      "address": "577 Great Western Hwy, WERRINGTON NSW 2747",
+      "state": "NSW",
+      "lat": -33.767393,
+      "lng": 150.756865
+    },
+    {
       "brand": "Exploren",
       "code": "NSW:20506",
       "name": "West Ryde Smash Repairs SO-19932",
@@ -10776,15 +10776,6 @@
       "lng": 134.072466
     },
     {
-      "brand": "Puma Energy",
-      "code": "NT:08220012",
-      "name": "Pirlangimpi Community Store",
-      "address": "Entry By Permit Only. Lot 262, Pirlangimpi, 0822, NT",
-      "state": "NT",
-      "lat": -11.40313,
-      "lng": 130.417765
-    },
-    {
       "brand": "Independent",
       "code": "NT:08000014",
       "name": "Platinum Fuel Taxi Base",
@@ -10918,20 +10909,6 @@
       "state": "NT",
       "lat": -22.25346,
       "lng": 131.795078
-    },
-    {
-      "brand": "Ampol",
-      "code": "QLD:61402175",
-      "name": "Ampol Gladstone Depot Front",
-      "address": "Chapple St, QLD 4680",
-      "state": "QLD",
-      "lat": -23.842297,
-      "lng": 151.245741,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95"
-      ]
     },
     {
       "brand": "Ampol",
@@ -11449,21 +11426,6 @@
       ]
     },
     {
-      "brand": "Mobil",
-      "code": "SA:61501289",
-      "name": "Mobil Torrensville",
-      "address": "239 Henley Beach Rd, SA 5031",
-      "state": "SA",
-      "lat": -34.92446701859921,
-      "lng": 138.55422872883605,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "SA:61577432",
       "name": "Mount Burr General Store and Liquor",
@@ -11628,6 +11590,49 @@
       ]
     },
     {
+      "brand": "U-Go",
+      "code": "SA:61501093",
+      "name": "U-Go West Hindmarsh",
+      "address": "484 Port Rd, SA 5007",
+      "state": "SA",
+      "lat": -34.89795211133264,
+      "lng": 138.56037086011884,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Independent",
+      "code": "SA:61501594",
+      "name": "Victor Harbor Roadhouse",
+      "address": "105 Victoria St, SA 5211",
+      "state": "SA",
+      "lat": -35.558077,
+      "lng": 138.613533,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Independent",
+      "code": "SA:61577322",
+      "name": "Walker Flat General Store",
+      "address": "5080 Angas Valley Road, SA 5238",
+      "state": "SA",
+      "lat": -34.754788,
+      "lng": 139.568257,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "SA:61577354",
       "name": "Yelwap Fuel",
@@ -11691,6 +11696,21 @@
         "LPG",
         "U91",
         "U95"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "VIC:/82CaXNs5fBh0wso64rd23rJsL7WLQbqTvH05D0rz9Y=",
+      "name": "Ampol Foodary Cheltenham",
+      "address": "299 Charman Road, Cheltenham, 3192",
+      "state": "VIC",
+      "lat": -37.96504060768817,
+      "lng": 145.05542819681995,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
       ]
     },
     {

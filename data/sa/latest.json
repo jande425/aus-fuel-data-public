@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-09-21T07:55:50Z",
+  "fetched_at": "2026-09-21T08:46:58Z",
   "station_count": 691,
   "fuel_types": [
     "E10",
@@ -2910,7 +2910,7 @@
         "U98": 256.9,
         "Premium Diesel": 289.9
       },
-      "updated": "2026-09-21T07:40:19Z",
+      "updated": "2026-09-21T08:40:19Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5356,7 +5356,7 @@
         "U98": 255.9,
         "Premium Diesel": 286.9
       },
-      "updated": "2026-09-21T07:40:19Z",
+      "updated": "2026-09-21T08:40:19Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -7671,13 +7671,15 @@
       "state": "SA",
       "prices": {
         "U91": 239.9,
-        "Diesel": 289.9,
         "LPG": 155.9,
         "U98": 259.9
       },
-      "updated": "2026-09-21T02:28:52Z",
+      "updated": "2026-09-21T08:39:44Z",
       "lat": -33.203339,
-      "lng": 138.603592
+      "lng": 138.603592,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
     },
     {
       "brand": "Ampol",
@@ -8106,12 +8108,12 @@
       "state": "SA",
       "prices": {
         "U91": 236.9,
-        "Diesel": 285.9,
+        "Diesel": 286.9,
         "U95": 253.9,
         "U98": 263.9,
-        "Premium Diesel": 288.9
+        "Premium Diesel": 289.9
       },
-      "updated": "2026-09-21T02:37:10Z",
+      "updated": "2026-09-21T07:57:08Z",
       "lat": -34.715873,
       "lng": 138.601796
     },
@@ -9078,12 +9080,12 @@
       "address": "Cnr Bollen And Flaxley Roads, SA 5251",
       "state": "SA",
       "prices": {
-        "U91": 237.9,
-        "U95": 253.9,
-        "U98": 261.9,
-        "Premium Diesel": 290.9
+        "U91": 238.9,
+        "U95": 254.9,
+        "U98": 262.9,
+        "Premium Diesel": 291.9
       },
-      "updated": "2026-09-20T22:26:05Z",
+      "updated": "2026-09-21T07:58:20Z",
       "lat": -35.079155,
       "lng": 138.850858
     },

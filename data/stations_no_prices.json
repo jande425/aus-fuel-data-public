@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-21T15:36:04Z",
+  "fetched_at": "2026-09-21T20:07:13Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1285,
+  "station_count": 1282,
   "by_state": {
     "ACT": 9,
-    "NSW": 1163,
+    "NSW": 1162,
     "NT": 30,
-    "QLD": 31,
+    "QLD": 30,
     "SA": 34,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 16
   },
   "by_brand": {
     "Exploren": 236,
@@ -22,15 +22,15 @@
     "7-Eleven": 68,
     "BP": 53,
     "NRMA": 45,
-    "Ampol": 24,
+    "Ampol": 23,
     "ChargePoint": 23,
     "JOLT": 20,
     "Caltex": 12,
     "Shell": 11,
-    "United": 10,
     "Puma Energy": 10,
-    "Metro Fuel": 9,
+    "United": 9,
     "EVUp": 9,
+    "Metro Fuel": 8,
     "Evie Networks": 7,
     "Liberty": 7,
     "Mobil": 6,
@@ -6610,15 +6610,6 @@
     },
     {
       "brand": "Metro Fuel",
-      "code": "NSW:20833",
-      "name": "Metro Petroleum Ingleburn",
-      "address": "21-23 Cumberland RD, Ingleburn NSW 2565",
-      "state": "NSW",
-      "lat": -33.996645,
-      "lng": 150.871184
-    },
-    {
-      "brand": "Metro Fuel",
       "code": "NSW:20031",
       "name": "Metro Petroleum Redhead",
       "address": "100 Collier ST, Redhead NSW 2290",
@@ -11170,23 +11161,6 @@
       ]
     },
     {
-      "brand": "United",
-      "code": "QLD:61477937",
-      "name": "United Woolloongabba",
-      "address": "28 Ipswich Road, QLD 4102",
-      "state": "QLD",
-      "lat": -27.487922,
-      "lng": 153.036159,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "E85",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "QLD:61477638",
       "name": "Wowan Roadhouse",
@@ -11677,21 +11651,6 @@
         "LPG",
         "U91",
         "U95"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "VIC:/82CaXNs5fBh0wso64rd23rJsL7WLQbqTvH05D0rz9Y=",
-      "name": "Ampol Foodary Cheltenham",
-      "address": "299 Charman Road, Cheltenham, 3192",
-      "state": "VIC",
-      "lat": -37.96504060768817,
-      "lng": 145.05542819681995,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {

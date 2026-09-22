@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-22T13:23:05Z",
+  "fetched_at": "2026-09-22T13:50:58Z",
   "station_count": 2104,
   "fuel_types": [
     "E10",
@@ -26714,7 +26714,6 @@
       "state": "NSW",
       "prices": {
         "U98": 265.9,
-        "Premium Diesel": 289.9,
         "U91": 245.9
       },
       "updated": "2026-09-21T13:44:19Z",
@@ -28698,15 +28697,15 @@
       "address": "262 - 272 VICTORIA RD Rydalmere NSW 2116",
       "state": "NSW",
       "prices": {
-        "Diesel": 288.9,
-        "E10": 234.9,
+        "Diesel": 289.9,
+        "E10": 237.9,
         "E85": 249.9,
         "LPG": 117.9,
-        "U95": 255.9,
-        "U98": 264.9,
-        "U91": 238.9
+        "U95": 256.9,
+        "U98": 265.9,
+        "U91": 239.9
       },
-      "updated": "2026-09-22T04:27:08Z",
+      "updated": "2026-09-22T13:43:56Z",
       "lat": -33.810076,
       "lng": 151.032389
     },

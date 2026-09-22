@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-22T18:27:51Z",
+  "fetched_at": "2026-09-22T21:39:32Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1278,
+  "station_count": 1279,
   "by_state": {
     "ACT": 9,
     "NSW": 1157,
@@ -9,7 +9,7 @@
     "QLD": 29,
     "SA": 34,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 19
   },
   "by_brand": {
     "Exploren": 236,
@@ -20,7 +20,7 @@
     "Independent": 75,
     "Chargefox": 72,
     "7-Eleven": 66,
-    "BP": 53,
+    "BP": 54,
     "NRMA": 45,
     "Ampol": 23,
     "ChargePoint": 23,
@@ -50,10 +50,10 @@
     "Perrys": 1,
     "AM/PM": 1,
     "Bowser Bean": 1,
-    "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
+    "EG Ampol": 1,
     "Apco": 1,
-    "EG Ampol": 1
+    "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -11603,6 +11603,22 @@
       "lng": 144.94941372,
       "unavailable_fuels": [
         "Diesel",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "BP",
+      "code": "VIC:gx3ryqmUKuV3rpLD2cUdI50XNo66ioRn+oMGOLrbljM=",
+      "name": "Bp Hallam Rd",
+      "address": "1-7 Ormond Road, HAMPTON PARK, 3976",
+      "state": "VIC",
+      "lat": -38.04728754977631,
+      "lng": 145.2654052299657,
+      "unavailable_fuels": [
+        "LPG",
         "Premium Diesel",
         "U91",
         "U95",

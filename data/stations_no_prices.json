@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-22T22:55:08Z",
+  "fetched_at": "2026-09-22T23:48:49Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1280,
+  "station_count": 1281,
   "by_state": {
     "ACT": 9,
     "NSW": 1158,
-    "NT": 30,
+    "NT": 29,
     "QLD": 30,
     "SA": 33,
     "TAS": 1,
-    "VIC": 19
+    "VIC": 21
   },
   "by_brand": {
     "Exploren": 236,
@@ -22,8 +22,8 @@
     "7-Eleven": 66,
     "BP": 54,
     "NRMA": 45,
-    "Ampol": 23,
     "ChargePoint": 23,
+    "Ampol": 22,
     "JOLT": 20,
     "Caltex": 13,
     "Shell": 11,
@@ -38,6 +38,7 @@
     "Everty": 4,
     "Budget": 3,
     "Speedway": 3,
+    "EG Ampol": 3,
     "Ampol Foodary": 2,
     "Indervon": 2,
     "Westside": 1,
@@ -50,10 +51,9 @@
     "Perrys": 1,
     "AM/PM": 1,
     "Bowser Bean": 1,
+    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
-    "EG Ampol": 1,
-    "Apco": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -10740,15 +10740,6 @@
       "lng": 133.459558
     },
     {
-      "brand": "Ampol",
-      "code": "NT:08220058",
-      "name": "Refuel Australia Wishart Road",
-      "address": "Cnr Wishart Road & McCarthy Close, Wishart, 0822, NT",
-      "state": "NT",
-      "lat": -12.461616,
-      "lng": 130.929661
-    },
-    {
       "brand": "Independent",
       "code": "NT:08200181",
       "name": "Roper Bar ",
@@ -11692,6 +11683,20 @@
     },
     {
       "brand": "EG Ampol",
+      "code": "VIC:q9066gceVcRmACzkujHHUCw9EEvaqGVrfjMLI7O6Y+8=",
+      "name": "EG Ampol Colac",
+      "address": "2-52 Bromfield Street, Colac, 3250",
+      "state": "VIC",
+      "lat": -38.34150774,
+      "lng": 143.58536584,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95"
+      ]
+    },
+    {
+      "brand": "EG Ampol",
       "code": "VIC:SHeYnEx+Hs7Slc2e+hsm8kBn3mJ/4tjKqOlTR/IT++k=",
       "name": "EG Ampol Kilsyth",
       "address": "534-542 Mt Dandenong Road, Kilsyth, 3137",
@@ -11700,6 +11705,21 @@
       "lng": 145.3112100876167,
       "unavailable_fuels": [
         "Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "VIC:w/vHwNP2Tu5ZcfMsb7PmtInRSLFtAYhsRplcJBb5l1s=",
+      "name": "EG Ampol Mernda",
+      "address": "1555 Plenty Road, Mernda, 3754",
+      "state": "VIC",
+      "lat": -37.5870536,
+      "lng": 145.1023941,
+      "unavailable_fuels": [
+        "Premium Diesel",
         "U91",
         "U95",
         "U98"

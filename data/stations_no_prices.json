@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-22T06:33:31Z",
+  "fetched_at": "2026-09-22T07:40:38Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1278,
+  "station_count": 1277,
   "by_state": {
     "ACT": 9,
     "NSW": 1157,
     "NT": 30,
     "QLD": 29,
-    "SA": 35,
+    "SA": 34,
     "TAS": 1,
     "VIC": 17
   },
@@ -40,7 +40,6 @@
     "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
-    "EG Ampol": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
@@ -53,6 +52,7 @@
     "Bowser Bean": 1,
     "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
+    "EG Ampol": 1,
     "Apco": 1
   },
   "stations": [
@@ -11236,20 +11236,6 @@
         "Diesel",
         "U91",
         "U98"
-      ]
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "SA:61501485",
-      "name": "EG Ampol Port Augusta",
-      "address": "Cnr Almein St & Maryatt St, SA 5700",
-      "state": "SA",
-      "lat": -32.489605,
-      "lng": 137.762901,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95"
       ]
     },
     {

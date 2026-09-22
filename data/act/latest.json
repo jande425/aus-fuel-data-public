@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-22T06:33:31Z",
+  "fetched_at": "2026-09-22T07:40:38Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -54,11 +54,11 @@
       "address": "20 Mort ST, Braddon ACT 2612",
       "state": "ACT",
       "prices": {
-        "E10": 246.9,
+        "E10": 247.9,
         "Premium Diesel": 299.9,
-        "U91": 248.9
+        "U91": 249.9
       },
-      "updated": "2026-09-19T23:33:18Z",
+      "updated": "2026-09-22T06:54:14Z",
       "lat": -35.275669,
       "lng": 149.131261
     },
@@ -250,12 +250,12 @@
       "address": "2 Lonsdale ST, Braddon ACT 2612",
       "state": "ACT",
       "prices": {
-        "E10": 246.9,
-        "U95": 264.9,
-        "U98": 273.9,
+        "E10": 245.9,
+        "U95": 263.9,
+        "U98": 272.9,
         "Premium Diesel": 299.9
       },
-      "updated": "2026-09-22T05:18:22Z",
+      "updated": "2026-09-22T07:08:10Z",
       "lat": -35.275825,
       "lng": 149.132595
     },

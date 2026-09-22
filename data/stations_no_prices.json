@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-22T02:59:19Z",
+  "fetched_at": "2026-09-22T06:33:31Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1279,
+  "station_count": 1278,
   "by_state": {
     "ACT": 9,
-    "NSW": 1158,
+    "NSW": 1157,
     "NT": 30,
     "QLD": 29,
     "SA": 35,
@@ -30,7 +30,7 @@
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
-    "Metro Fuel": 8,
+    "Metro Fuel": 7,
     "Evie Networks": 7,
     "Liberty": 7,
     "Mobil": 6,
@@ -40,6 +40,7 @@
     "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
+    "EG Ampol": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
@@ -47,14 +48,12 @@
     "On the Run": 1,
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
-    "U-Go": 1,
     "Perrys": 1,
     "AM/PM": 1,
     "Bowser Bean": 1,
-    "EG Ampol": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -6566,15 +6565,6 @@
     },
     {
       "brand": "Metro Fuel",
-      "code": "NSW:20940",
-      "name": "Metro Blacktown Richmond Rd",
-      "address": "69 Richmond RD, Blacktown NSW 2148",
-      "state": "NSW",
-      "lat": -33.763866,
-      "lng": 150.902445
-    },
-    {
-      "brand": "Metro Fuel",
       "code": "NSW:20032",
       "name": "Metro Charlestown",
       "address": "132-138 Pacific HWY, Charlestown NSW 2290",
@@ -11249,6 +11239,20 @@
       ]
     },
     {
+      "brand": "EG Ampol",
+      "code": "SA:61501485",
+      "name": "EG Ampol Port Augusta",
+      "address": "Cnr Almein St & Maryatt St, SA 5700",
+      "state": "SA",
+      "lat": -32.489605,
+      "lng": 137.762901,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "SA:61577291",
       "name": "Earles Transport",
@@ -11524,21 +11528,6 @@
       ]
     },
     {
-      "brand": "U-Go",
-      "code": "SA:61501093",
-      "name": "U-Go West Hindmarsh",
-      "address": "484 Port Rd, SA 5007",
-      "state": "SA",
-      "lat": -34.89795211133264,
-      "lng": 138.56037086011884,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "SA:61577322",
       "name": "Walker Flat General Store",
@@ -11800,8 +11789,8 @@
       "lng": 146.2596020680343,
       "unavailable_fuels": [
         "Diesel",
+        "E10",
         "U91",
-        "U95",
         "U98"
       ]
     },

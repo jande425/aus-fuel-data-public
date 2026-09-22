@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-22T21:39:32Z",
+  "fetched_at": "2026-09-22T22:21:53Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1279,
   "by_state": {
     "ACT": 9,
-    "NSW": 1157,
+    "NSW": 1158,
     "NT": 30,
     "QLD": 29,
-    "SA": 34,
+    "SA": 33,
     "TAS": 1,
     "VIC": 19
   },
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 82,
-    "Independent": 75,
+    "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 66,
     "BP": 54,
@@ -36,9 +36,9 @@
     "Mobil": 6,
     "Pearl Energy": 5,
     "Everty": 4,
+    "Budget": 3,
     "Speedway": 3,
     "Ampol Foodary": 2,
-    "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
@@ -50,10 +50,10 @@
     "Perrys": 1,
     "AM/PM": 1,
     "Bowser Bean": 1,
-    "EG Ampol": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "EG Ampol": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -3493,6 +3493,15 @@
       "state": "NSW",
       "lat": -33.671082,
       "lng": 150.956255
+    },
+    {
+      "brand": "Budget",
+      "code": "NSW:1519",
+      "name": "Budget Petrol Eastlakes",
+      "address": "102 Maloney St, Eastlakes NSW 2018",
+      "state": "NSW",
+      "lat": -33.930997,
+      "lng": 151.205569
     },
     {
       "brand": "Budget",
@@ -11358,19 +11367,6 @@
       "state": "SA",
       "lat": -32.404352,
       "lng": 134.532901
-    },
-    {
-      "brand": "Independent",
-      "code": "SA:61501639",
-      "name": "OME Fuel",
-      "address": "Lot 1299 Old Water Tank Rd, SA 5723",
-      "state": "SA",
-      "lat": -29.00800992563101,
-      "lng": 134.76149327116394,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91"
-      ]
     },
     {
       "brand": "Independent",

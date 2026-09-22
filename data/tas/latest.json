@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-09-22T21:39:32Z",
+  "fetched_at": "2026-09-22T22:21:53Z",
   "station_count": 295,
   "fuel_types": [
     "E10",
@@ -308,12 +308,12 @@
       "state": "TAS",
       "prices": {
         "Diesel": 295.9,
-        "U95": 262.4,
+        "U95": 254.9,
         "U98": 263.9,
         "U91": 240.9,
         "Premium Diesel": 290.9
       },
-      "updated": "2026-09-22T06:27:13Z",
+      "updated": "2026-09-22T21:42:11Z",
       "lat": -42.8660745,
       "lng": 147.3729827
     },
@@ -513,10 +513,10 @@
         "E10": 242.9,
         "U95": 261.9,
         "U98": 271.9,
-        "Premium Diesel": 297.9,
+        "Premium Diesel": 298.9,
         "U91": 244.9
       },
-      "updated": "2026-09-21T20:01:09Z",
+      "updated": "2026-09-22T22:18:15Z",
       "lat": -43.03,
       "lng": 147.0486
     },
@@ -1256,12 +1256,12 @@
       "address": "5540 Lyell Highway, HAMILTON TAS 7140",
       "state": "TAS",
       "prices": {
-        "Diesel": 275.9,
+        "Diesel": 287.9,
         "E10": 239.9,
         "U95": 257.4,
         "U98": 266.9
       },
-      "updated": "2026-09-21T20:05:43Z",
+      "updated": "2026-09-22T22:15:07Z",
       "lat": -42.562048,
       "lng": 146.8255283
     },
@@ -1272,7 +1272,6 @@
       "address": "197 Channel Highway, KINGSTON TAS 7050",
       "state": "TAS",
       "prices": {
-        "Diesel": 295.9,
         "E10": 241.9,
         "E85": 249.9,
         "U95": 260.9,
@@ -1927,11 +1926,11 @@
         "LPG": 145.7,
         "U95": 267.7,
         "U98": 277.7,
-        "U91": 233.7,
-        "Diesel": 281.7,
-        "Premium Diesel": 284.7
+        "U91": 235.7,
+        "Diesel": 285.7,
+        "Premium Diesel": 286.7
       },
-      "updated": "2026-09-22T08:28:34Z",
+      "updated": "2026-09-22T22:19:55Z",
       "lat": -42.8710984,
       "lng": 147.3224479
     },
@@ -3277,12 +3276,12 @@
       "address": "3370 Lake Leake Hwy, Lake Leake TAS 7210",
       "state": "TAS",
       "prices": {
-        "U98": 258.9,
+        "U98": 266.8,
         "Premium Diesel": 296.9,
-        "U91": 235.8,
-        "Diesel": 279.8
+        "U91": 250.8,
+        "Diesel": 296.6
       },
-      "updated": "2026-09-22T20:36:13Z",
+      "updated": "2026-09-22T21:45:57Z",
       "lat": -42.03195,
       "lng": 147.82931
     },
@@ -3684,11 +3683,14 @@
       "address": "115-117 Weld ST, Beaconsfield TAS 7270",
       "state": "TAS",
       "prices": {
-        "Diesel": 287.9,
+        "E10": 243.9,
+        "U95": 261.9,
         "U98": 259.9,
+        "Premium Diesel": 292.9,
+        "Diesel": 287.9,
         "U91": 237.9
       },
-      "updated": "2026-09-21T00:40:51Z",
+      "updated": "2026-09-22T21:51:09Z",
       "lat": -41.2022939,
       "lng": 146.8171926
     },
@@ -4834,13 +4836,13 @@
       "address": "20 BURNETT ST, New Norfolk TAS 7140",
       "state": "TAS",
       "prices": {
-        "Diesel": 287.9,
+        "Diesel": 289.9,
         "E10": 227.5,
-        "U98": 259.9,
-        "U91": 241.9,
-        "U95": 255.9
+        "U98": 263.9,
+        "U91": 242.9,
+        "U95": 258.9
       },
-      "updated": "2026-09-21T20:53:28Z",
+      "updated": "2026-09-22T22:18:38Z",
       "lat": -42.78041,
       "lng": 147.0621907
     },
@@ -4922,13 +4924,13 @@
       "address": "42-46 Bass HWY, Cooee TAS 7320",
       "state": "TAS",
       "prices": {
-        "Diesel": 269,
+        "Diesel": 285,
         "U98": 259.9,
         "U91": 232.9,
         "U95": 250.4,
         "Premium Diesel": 283.9
       },
-      "updated": "2026-09-21T21:20:24Z",
+      "updated": "2026-09-22T22:07:46Z",
       "lat": -41.04091995,
       "lng": 145.87706481
     },

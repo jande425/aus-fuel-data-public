@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-22T00:59:44Z",
+  "fetched_at": "2026-09-22T01:35:37Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1284,
+  "station_count": 1281,
   "by_state": {
     "ACT": 9,
-    "NSW": 1161,
+    "NSW": 1159,
     "NT": 30,
-    "QLD": 30,
+    "QLD": 29,
     "SA": 36,
     "TAS": 1,
     "VIC": 17
@@ -17,9 +17,9 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 82,
-    "Independent": 76,
+    "Independent": 75,
     "Chargefox": 72,
-    "7-Eleven": 67,
+    "7-Eleven": 65,
     "BP": 53,
     "NRMA": 45,
     "Ampol": 24,
@@ -37,24 +37,23 @@
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
+    "Enhance": 2,
     "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
-    "Linmac Co Pty Ltd": 1,
     "Astron": 1,
     "Arko Energy": 1,
     "On the Run": 1,
-    "Enhance": 1,
     "Pacific Fuel Solutions": 1,
     "U-Go": 1,
     "Perrys": 1,
     "AM/PM": 1,
     "Bowser Bean": 1,
-    "EG Ampol": 1,
     "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
+    "EG Ampol": 1,
     "Apco": 1
   },
   "stations": [
@@ -192,15 +191,6 @@
       "state": "NSW",
       "lat": -33.810521,
       "lng": 151.177429
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:192",
-      "name": "7-Eleven Bankstown",
-      "address": "180 Stacey & Stanley Streets, Bankstown NSW 2200",
-      "state": "NSW",
-      "lat": -33.920941,
-      "lng": 151.039191
     },
     {
       "brand": "7-Eleven",
@@ -417,15 +407,6 @@
       "state": "NSW",
       "lat": -33.907829,
       "lng": 150.865922
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:18201",
-      "name": "7-Eleven Greystanes",
-      "address": "601-605 Great Western Highway, GREYSTANES NSW 2145",
-      "state": "NSW",
-      "lat": -33.808609,
-      "lng": 150.935941
     },
     {
       "brand": "7-Eleven",
@@ -4478,6 +4459,15 @@
       "lng": 150.208192
     },
     {
+      "brand": "Enhance",
+      "code": "NSW:18275",
+      "name": "Enhance Freshwater",
+      "address": "46 Albert ST, Freshwater NSW 2096",
+      "state": "NSW",
+      "lat": -33.777395,
+      "lng": 151.286952
+    },
+    {
       "brand": "Chargefox",
       "code": "NSW:19214",
       "name": "Epiq Market Shopping Center",
@@ -6159,15 +6149,6 @@
       "state": "NSW",
       "lat": -33.774979,
       "lng": 151.17021
-    },
-    {
-      "brand": "Linmac Co Pty Ltd",
-      "code": "NSW:20862",
-      "name": "Linmac Co Pty Ltd",
-      "address": "211n Pakington ST, Walcha NSW 2354",
-      "state": "NSW",
-      "lat": -30.975649,
-      "lng": 151.597143
     },
     {
       "brand": "Tesla",
@@ -10924,15 +10905,6 @@
       "state": "QLD",
       "lat": -24.865276497096275,
       "lng": 151.1198653325062
-    },
-    {
-      "brand": "Independent",
-      "code": "QLD:61477867",
-      "name": "Dimbulah Onestop",
-      "address": "22 Stephens Street, QLD 4872",
-      "state": "QLD",
-      "lat": -17.146921,
-      "lng": 145.105828
     },
     {
       "brand": "Enhance",

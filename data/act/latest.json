@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-22T01:35:37Z",
+  "fetched_at": "2026-09-22T02:59:19Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -266,7 +266,6 @@
       "address": "3 Benham St, Chisholm ACT 2905",
       "state": "ACT",
       "prices": {
-        "E10": 245.9,
         "U95": 262.9,
         "U98": 271.9,
         "Premium Diesel": 299.9
@@ -282,12 +281,12 @@
       "address": "77 Canberra Av, Griffith ACT 2603",
       "state": "ACT",
       "prices": {
-        "E10": 245.9,
-        "U95": 263.9,
-        "U98": 272.9,
+        "E10": 247.9,
+        "U95": 265.9,
+        "U98": 274.9,
         "Premium Diesel": 295.9
       },
-      "updated": "2026-09-21T05:51:52Z",
+      "updated": "2026-09-22T02:41:47Z",
       "lat": -35.320031,
       "lng": 149.138892
     },
@@ -330,12 +329,12 @@
       "address": "110 Federal HWY, Watson ACT 2602",
       "state": "ACT",
       "prices": {
-        "E10": 245.9,
-        "U95": 264.9,
-        "U98": 273.9,
+        "E10": 244.9,
+        "U95": 263.9,
+        "U98": 272.9,
         "Premium Diesel": 299.9
       },
-      "updated": "2026-09-21T23:52:01Z",
+      "updated": "2026-09-22T02:35:43Z",
       "lat": -35.224985,
       "lng": 149.165864
     },
@@ -816,12 +815,12 @@
       "state": "ACT",
       "prices": {
         "Diesel": 299.7,
-        "E10": 237.9,
+        "E10": 241.9,
         "LPG": 116.9,
-        "U98": 263.9,
-        "U91": 239.9
+        "U98": 267.9,
+        "U91": 243.9
       },
-      "updated": "2026-09-19T22:30:09Z",
+      "updated": "2026-09-22T01:40:08Z",
       "lat": -35.1641,
       "lng": 149.131
     },

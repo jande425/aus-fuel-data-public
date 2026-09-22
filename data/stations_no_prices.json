@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-21T23:47:04Z",
+  "fetched_at": "2026-09-22T00:59:44Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1285,
+  "station_count": 1284,
   "by_state": {
     "ACT": 9,
     "NSW": 1161,
     "NT": 30,
     "QLD": 30,
-    "SA": 37,
+    "SA": 36,
     "TAS": 1,
     "VIC": 17
   },
@@ -20,13 +20,13 @@
     "Independent": 76,
     "Chargefox": 72,
     "7-Eleven": 67,
-    "BP": 54,
+    "BP": 53,
     "NRMA": 45,
-    "Ampol": 25,
+    "Ampol": 24,
     "ChargePoint": 23,
     "JOLT": 20,
     "Caltex": 12,
-    "Shell": 11,
+    "Shell": 12,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
@@ -52,10 +52,10 @@
     "Perrys": 1,
     "AM/PM": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
+    "EG Ampol": 1,
     "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
-    "EG Ampol": 1
+    "Apco": 1
   },
   "stations": [
     {
@@ -11172,25 +11172,13 @@
       "lng": 145.871647
     },
     {
-      "brand": "BP",
-      "code": "SA:61577422",
-      "name": "24 Seven Two Wells",
-      "address": "2 Industrial Court, SA 5501",
-      "state": "SA",
-      "lat": -34.5828243498736,
-      "lng": 138.49446997421396,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
-    },
-    {
       "brand": "AM/PM",
       "code": "SA:61577434",
       "name": "AMPM Port Augusta",
       "address": "2 Augusta Hwy, SA 5700",
       "state": "SA",
-      "lat": -32.50589165185453,
-      "lng": 137.7850273579904
+      "lat": -32.50606165185453,
+      "lng": 137.7852673579904
     },
     {
       "brand": "Ampol",
@@ -11203,21 +11191,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "SA:61501171",
-      "name": "Ampol Foodary Glenelg North",
-      "address": "509-511 Anzac Hwy & Pine Av, SA 5045",
-      "state": "SA",
-      "lat": -34.975548,
-      "lng": 138.528485,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },
@@ -11503,6 +11476,18 @@
         "Diesel",
         "U91",
         "U98"
+      ]
+    },
+    {
+      "brand": "Shell",
+      "code": "SA:61577288",
+      "name": "Renmark OPT",
+      "address": "364 Renmark Avenue, SA 5341",
+      "state": "SA",
+      "lat": -34.185411,
+      "lng": 140.732525,
+      "unavailable_fuels": [
+        "Diesel"
       ]
     },
     {

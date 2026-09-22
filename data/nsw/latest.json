@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-22T12:45:06Z",
+  "fetched_at": "2026-09-22T13:23:05Z",
   "station_count": 2104,
   "fuel_types": [
     "E10",
@@ -4374,12 +4374,12 @@
       "address": "334-336 Parramatta Rd, HOMEBUSH WEST NSW 2140",
       "state": "NSW",
       "prices": {
-        "E10": 243.9,
-        "U98": 272.9,
+        "E10": 242.9,
+        "U98": 271.9,
         "Premium Diesel": 292.9,
-        "U91": 245.9
+        "U91": 244.9
       },
-      "updated": "2026-09-22T04:27:26Z",
+      "updated": "2026-09-22T12:57:26Z",
       "lat": -33.858167,
       "lng": 151.068139
     },
@@ -5493,13 +5493,13 @@
       "address": "793-797 Pittwater Rd, DEE WHY NSW 2099",
       "state": "NSW",
       "prices": {
-        "E10": 234.9,
-        "U95": 253.9,
-        "U98": 263.9,
+        "E10": 233.9,
+        "U95": 252.9,
+        "U98": 262.9,
         "Premium Diesel": 295.9,
-        "U91": 236.9
+        "U91": 235.9
       },
-      "updated": "2026-09-22T04:22:26Z",
+      "updated": "2026-09-22T12:57:26Z",
       "lat": -33.745684,
       "lng": 151.29206
     },
@@ -6724,12 +6724,12 @@
       "address": "3055 New England Highway, WALLABADAH NSW 2343",
       "state": "NSW",
       "prices": {
-        "Diesel": 282.9,
-        "U98": 251.9,
-        "Premium Diesel": 284.9,
-        "U91": 231.9
+        "Diesel": 285.9,
+        "U98": 256.9,
+        "Premium Diesel": 287.9,
+        "U91": 236.9
       },
-      "updated": "2026-09-17T20:25:35Z",
+      "updated": "2026-09-22T13:17:15Z",
       "lat": -31.55065,
       "lng": 150.826803
     },
@@ -9527,13 +9527,13 @@
       "address": "20 Bolaro ST, Dunedoo NSW 2844",
       "state": "NSW",
       "prices": {
-        "Diesel": 284.9,
-        "E10": 234.9,
-        "U98": 267.9,
-        "Premium Diesel": 287.9,
-        "U91": 238.9
+        "Diesel": 289.9,
+        "E10": 239.9,
+        "U98": 269.9,
+        "Premium Diesel": 294.9,
+        "U91": 244.9
       },
-      "updated": "2026-09-18T06:12:42Z",
+      "updated": "2026-09-22T12:53:12Z",
       "lat": -32.016564,
       "lng": 149.398714
     },
@@ -9929,12 +9929,12 @@
       "address": "261 Anderson DR, Beresfield NSW 2322",
       "state": "NSW",
       "prices": {
-        "Diesel": 272.9,
+        "Diesel": 271.9,
         "E10": 235.5,
         "U98": 259.5,
         "U91": 237.5
       },
-      "updated": "2026-09-22T07:55:42Z",
+      "updated": "2026-09-22T13:09:30Z",
       "lat": -32.799112,
       "lng": 151.645069
     },
@@ -11217,12 +11217,12 @@
       "address": "928-930 King Georges RD, Blakehurst NSW 2221",
       "state": "NSW",
       "prices": {
-        "E10": 232.7,
+        "E10": 227.7,
         "U98": 249.7,
-        "Premium Diesel": 279.9,
+        "Premium Diesel": 274.9,
         "U91": 234.7
       },
-      "updated": "2026-09-21T20:05:37Z",
+      "updated": "2026-09-22T12:59:23Z",
       "lat": -33.981085,
       "lng": 151.108476
     },
@@ -13718,13 +13718,13 @@
       "address": "83 Lalor Road & Quakers Hill Parkway, Quakers Hill NSW 2763",
       "state": "NSW",
       "prices": {
-        "E10": 242.9,
-        "U95": 261.9,
-        "U98": 270.9,
+        "E10": 243.9,
+        "U95": 262.9,
+        "U98": 271.9,
         "Premium Diesel": 285.9,
-        "U91": 244.9
+        "U91": 245.9
       },
-      "updated": "2026-09-21T11:51:14Z",
+      "updated": "2026-09-22T12:51:15Z",
       "lat": -33.727446,
       "lng": 150.89666
     },
@@ -14225,9 +14225,10 @@
         "E10": 241.9,
         "U95": 260.9,
         "U98": 269.9,
+        "Premium Diesel": 283.9,
         "U91": 243.9
       },
-      "updated": "2026-09-22T11:17:57Z",
+      "updated": "2026-09-22T12:47:47Z",
       "lat": -33.712414,
       "lng": 150.956801
     },

@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-09-22T12:45:06Z",
+  "fetched_at": "2026-09-22T13:23:05Z",
   "station_count": 295,
   "fuel_types": [
     "E10",
@@ -380,9 +380,9 @@
         "U95": 262.4,
         "U98": 258.7,
         "U91": 235.7,
-        "Premium Diesel": 285.5
+        "Premium Diesel": 284.4
       },
-      "updated": "2026-09-22T06:37:13Z",
+      "updated": "2026-09-22T13:07:12Z",
       "lat": -42.8517409,
       "lng": 147.3601656
     },
@@ -2214,7 +2214,6 @@
         "LPG": 115.9,
         "U95": 257.9,
         "U98": 266.9,
-        "U91": 240.9,
         "Diesel": 287.9
       },
       "updated": "2026-09-21T01:06:00Z",

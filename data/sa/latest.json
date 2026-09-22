@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-09-22T12:45:06Z",
+  "fetched_at": "2026-09-22T13:23:05Z",
   "station_count": 692,
   "fuel_types": [
     "E10",
@@ -1860,13 +1860,15 @@
       "state": "SA",
       "prices": {
         "U91": 224.9,
-        "U95": 237.9,
         "U98": 247.0,
         "Premium Diesel": 284.9
       },
       "updated": "2026-09-22T04:57:08Z",
       "lat": -34.994294,
-      "lng": 138.575128
+      "lng": 138.575128,
+      "unavailable_fuels": [
+        "U95"
+      ]
     },
     {
       "brand": "Caltex",
@@ -2926,7 +2928,7 @@
         "U98": 257.9,
         "Premium Diesel": 293.9
       },
-      "updated": "2026-09-22T12:40:19Z",
+      "updated": "2026-09-22T13:10:19Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -3527,12 +3529,12 @@
       "address": "211B Lincoln Highway, SA 5602",
       "state": "SA",
       "prices": {
-        "U91": 224.5,
-        "U95": 237.5,
-        "U98": 246.5,
-        "Premium Diesel": 268.5
+        "U91": 229.5,
+        "U95": 242.5,
+        "U98": 251.5,
+        "Premium Diesel": 271.5
       },
-      "updated": "2026-09-21T00:54:21Z",
+      "updated": "2026-09-22T12:53:07Z",
       "lat": -33.67583921477462,
       "lng": 136.92496305522536
     },
@@ -5389,7 +5391,7 @@
         "U98": 258.9,
         "Premium Diesel": 289.9
       },
-      "updated": "2026-09-22T12:40:19Z",
+      "updated": "2026-09-22T13:10:19Z",
       "lat": -32.508998,
       "lng": 137.796545
     },

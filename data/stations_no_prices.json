@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-09-23T08:27:07Z",
+  "fetched_at": "2026-09-23T12:53:46Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1276,
+  "station_count": 1275,
   "by_state": {
     "ACT": 9,
     "NSW": 1156,
     "NT": 29,
     "QLD": 31,
     "SA": 30,
-    "TAS": 2,
+    "TAS": 1,
     "VIC": 19
   },
   "by_brand": {
@@ -20,7 +20,7 @@
     "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 65,
-    "BP": 55,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "Ampol": 20,
@@ -50,10 +50,10 @@
     "Perrys": 1,
     "AM/PM": 1,
     "Bowser Bean": 1,
-    "EG Ampol": 1,
     "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "EG Ampol": 1
   },
   "stations": [
     {
@@ -11491,15 +11491,6 @@
       "state": "SA",
       "lat": -34.824078,
       "lng": 138.774531
-    },
-    {
-      "brand": "BP",
-      "code": "TAS:20088",
-      "name": "Bp 4 Ways",
-      "address": "156 William ST, Devonport TAS 7310",
-      "state": "TAS",
-      "lat": -41.17527457,
-      "lng": 146.35179133
     },
     {
       "brand": "Independent",

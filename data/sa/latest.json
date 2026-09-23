@@ -2,8 +2,8 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-09-23T00:49:19Z",
-  "station_count": 693,
+  "fetched_at": "2026-09-23T01:28:30Z",
+  "station_count": 692,
   "fuel_types": [
     "E10",
     "U91",
@@ -246,11 +246,11 @@
       "address": "443 Main N Rd, SA 5085",
       "state": "SA",
       "prices": {
-        "U91": 222.5,
+        "U91": 224.9,
         "U98": 244.5,
         "Premium Diesel": 275.9
       },
-      "updated": "2026-09-22T13:42:09Z",
+      "updated": "2026-09-23T00:57:09Z",
       "lat": -34.85336430842513,
       "lng": 138.60063590674594
     },
@@ -543,12 +543,12 @@
       "address": "88 Stephens Tce, SA 5069",
       "state": "SA",
       "prices": {
-        "U91": 235.9,
-        "U95": 251.9,
-        "U98": 259.9,
+        "U91": 236.5,
+        "U95": 252.5,
+        "U98": 260.5,
         "Premium Diesel": 292.5
       },
-      "updated": "2026-09-22T04:31:07Z",
+      "updated": "2026-09-23T00:50:51Z",
       "lat": -34.901242,
       "lng": 138.618762
     },
@@ -752,13 +752,15 @@
       "state": "SA",
       "prices": {
         "U91": 232.4,
-        "U95": 247.4,
         "U98": 255.4,
         "Premium Diesel": 293.4
       },
       "updated": "2026-09-23T00:47:08Z",
       "lat": -34.828314,
-      "lng": 138.692099
+      "lng": 138.692099,
+      "unavailable_fuels": [
+        "U95"
+      ]
     },
     {
       "brand": "Ampol",
@@ -1146,10 +1148,10 @@
       "address": "898 Main North Rd & Montague Rd, SA 5095",
       "state": "SA",
       "prices": {
-        "U91": 226.9,
-        "Premium Diesel": 289.4
+        "U91": 224.4,
+        "Premium Diesel": 288.4
       },
-      "updated": "2026-09-22T22:42:08Z",
+      "updated": "2026-09-23T00:52:08Z",
       "lat": -34.824046,
       "lng": 138.617185
     },
@@ -1861,9 +1863,9 @@
       "prices": {
         "U91": 224.9,
         "U98": 247.0,
-        "Premium Diesel": 285.9
+        "Premium Diesel": 285.4
       },
-      "updated": "2026-09-22T22:57:10Z",
+      "updated": "2026-09-23T00:57:09Z",
       "lat": -34.994294,
       "lng": 138.575128,
       "unavailable_fuels": [
@@ -2928,7 +2930,7 @@
         "U98": 257.9,
         "Premium Diesel": 293.9
       },
-      "updated": "2026-09-23T00:40:18Z",
+      "updated": "2026-09-23T01:25:19Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -3681,11 +3683,11 @@
       "address": "30 Hallett Pl & Lewis St, SA 5606",
       "state": "SA",
       "prices": {
-        "U91": 241.5,
-        "U98": 261.5,
-        "Premium Diesel": 295.5
+        "U91": 242.5,
+        "U98": 262.5,
+        "Premium Diesel": 296.5
       },
-      "updated": "2026-09-21T23:36:31Z",
+      "updated": "2026-09-23T01:08:10Z",
       "lat": -34.719566,
       "lng": 135.855064
     },
@@ -4270,11 +4272,11 @@
       "address": "63 Victoria Pde, SA 5700",
       "state": "SA",
       "prices": {
-        "U91": 235.9,
-        "U98": 262.9,
-        "Premium Diesel": 289.9
+        "U91": 236.9,
+        "U98": 263.9,
+        "Premium Diesel": 290.9
       },
-      "updated": "2026-09-22T06:22:10Z",
+      "updated": "2026-09-23T00:57:09Z",
       "lat": -32.500303,
       "lng": 137.778724
     },
@@ -4593,9 +4595,9 @@
       "prices": {
         "U91": 246.9,
         "U95": 263.9,
-        "Premium Diesel": 299.9
+        "Premium Diesel": 300.9
       },
-      "updated": "2026-09-22T23:17:00Z",
+      "updated": "2026-09-23T01:18:00Z",
       "lat": -36.957228,
       "lng": 140.741764
     },
@@ -5399,13 +5401,13 @@
       "address": "Princes Highway, SA 5700",
       "state": "SA",
       "prices": {
-        "U91": 235.9,
+        "U91": 236.9,
         "Diesel": 287.9,
-        "U95": 250.9,
-        "U98": 258.9,
+        "U95": 251.9,
+        "U98": 259.9,
         "Premium Diesel": 290.9
       },
-      "updated": "2026-09-23T00:40:18Z",
+      "updated": "2026-09-23T01:25:19Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -6852,19 +6854,6 @@
       "lng": 135.855012
     },
     {
-      "brand": "Perrys",
-      "code": "SA:61570026",
-      "name": "Perrys Lyndhurst",
-      "address": "Outback Highway, SA 5731",
-      "state": "SA",
-      "prices": {
-        "Diesel": 319.9
-      },
-      "updated": "2026-09-21T23:30:51Z",
-      "lat": -30.287268,
-      "lng": 138.349422
-    },
-    {
       "brand": "United",
       "code": "SA:61570027",
       "name": "United Port Wakefield",
@@ -7358,14 +7347,12 @@
       "state": "SA",
       "prices": {
         "U91": 238.9,
+        "Diesel": 289.9,
         "U98": 258.9
       },
-      "updated": "2026-09-22T23:24:48Z",
+      "updated": "2026-09-23T01:09:18Z",
       "lat": -34.176238,
-      "lng": 139.085327,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
+      "lng": 139.085327
     },
     {
       "brand": "Astron",
@@ -7993,11 +7980,11 @@
       "address": "8-10 Edithburgh Road, SA 5576",
       "state": "SA",
       "prices": {
-        "U91": 240.9,
-        "Diesel": 283.9,
-        "U98": 256.9
+        "U91": 246.9,
+        "Diesel": 290.9,
+        "U98": 270.9
       },
-      "updated": "2026-09-22T02:41:22Z",
+      "updated": "2026-09-23T01:22:29Z",
       "lat": -35.019776,
       "lng": 137.606299
     },
@@ -9248,10 +9235,10 @@
       "state": "SA",
       "prices": {
         "U91": 235.9,
-        "Diesel": 285.9,
+        "Diesel": 290.9,
         "U98": 260.9
       },
-      "updated": "2026-09-20T23:45:13Z",
+      "updated": "2026-09-23T01:24:03Z",
       "lat": -34.147058,
       "lng": 139.912086
     },
@@ -9460,11 +9447,11 @@
       "address": "5 Eyre Street, SA 5280",
       "state": "SA",
       "prices": {
-        "U91": 243.9,
-        "Diesel": 278.9,
-        "U98": 265.9
+        "U91": 255.9,
+        "Diesel": 298.9,
+        "U98": 278.9
       },
-      "updated": "2026-09-15T23:32:18Z",
+      "updated": "2026-09-23T00:51:36Z",
       "lat": -37.570347,
       "lng": 140.123737
     },
@@ -10462,10 +10449,10 @@
       "address": "66880 Eyre Hwy, SA 5690",
       "state": "SA",
       "prices": {
-        "U91": 249.9,
-        "Diesel": 289.9
+        "U91": 259.9,
+        "Diesel": 299.9
       },
-      "updated": "2026-09-21T01:18:57Z",
+      "updated": "2026-09-23T00:59:32Z",
       "lat": -31.495886282010407,
       "lng": 131.8122447754631
     },

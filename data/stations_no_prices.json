@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-23T00:49:19Z",
+  "fetched_at": "2026-09-23T01:28:30Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1282,
+  "station_count": 1284,
   "by_state": {
     "ACT": 9,
     "NSW": 1159,
     "NT": 29,
-    "QLD": 31,
-    "SA": 33,
+    "QLD": 32,
+    "SA": 34,
     "TAS": 1,
     "VIC": 20
   },
@@ -40,15 +40,16 @@
     "Speedway": 3,
     "Ampol Foodary": 2,
     "Indervon": 2,
+    "Perrys": 2,
     "EG Ampol": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
     "On the Run": 1,
+    "Freedom Fuels": 1,
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
-    "Perrys": 1,
     "AM/PM": 1,
     "Bowser Bean": 1,
     "Apco": 1,
@@ -10925,6 +10926,23 @@
       ]
     },
     {
+      "brand": "Freedom Fuels",
+      "code": "QLD:61401599",
+      "name": "Freedom Fuels Redbank Plains",
+      "address": "181 Kruger Parade, QLD 4301",
+      "state": "QLD",
+      "lat": -27.627512,
+      "lng": 152.874514,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "LPG",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "QLD:61478228",
       "name": "Heathy's General Store",
@@ -11416,6 +11434,18 @@
       "state": "SA",
       "lat": -34.852694,
       "lng": 139.160905
+    },
+    {
+      "brand": "Perrys",
+      "code": "SA:61570026",
+      "name": "Perrys Lyndhurst",
+      "address": "Outback Highway, SA 5731",
+      "state": "SA",
+      "lat": -30.287268,
+      "lng": 138.349422,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
     },
     {
       "brand": "Perrys",

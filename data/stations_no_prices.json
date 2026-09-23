@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-23T01:28:30Z",
+  "fetched_at": "2026-09-23T02:59:20Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1284,
+  "station_count": 1281,
   "by_state": {
     "ACT": 9,
-    "NSW": 1159,
+    "NSW": 1158,
     "NT": 29,
-    "QLD": 32,
-    "SA": 34,
+    "QLD": 31,
+    "SA": 33,
     "TAS": 1,
     "VIC": 20
   },
@@ -17,13 +17,13 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 83,
-    "Independent": 74,
+    "Independent": 75,
     "Chargefox": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 65,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 22,
+    "Ampol": 20,
     "JOLT": 20,
     "Caltex": 13,
     "Shell": 12,
@@ -47,7 +47,6 @@
     "Astron": 1,
     "Arko Energy": 1,
     "On the Run": 1,
-    "Freedom Fuels": 1,
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
     "AM/PM": 1,
@@ -2261,15 +2260,6 @@
       "state": "NSW",
       "lat": -30.205971,
       "lng": 151.675722
-    },
-    {
-      "brand": "Ampol",
-      "code": "NSW:876",
-      "name": "Ampol Hexham Diesel Stop",
-      "address": "360 Old Maitland Rd Cnr Pacific Hwy, Hexham NSW 2322",
-      "state": "NSW",
-      "lat": -32.827955,
-      "lng": 151.684425
     },
     {
       "brand": "Ampol",
@@ -10831,20 +10821,6 @@
       "lng": 131.795078
     },
     {
-      "brand": "7-Eleven",
-      "code": "QLD:61401257",
-      "name": "7-Eleven Sandgate",
-      "address": "86 Rainbow St & Hancock St, QLD 4017",
-      "state": "QLD",
-      "lat": -27.321088,
-      "lng": 153.067931,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
@@ -10912,6 +10888,20 @@
       "lng": 151.1198653325062
     },
     {
+      "brand": "Independent",
+      "code": "QLD:61402696",
+      "name": "Darr Creek Oasis",
+      "address": "6883 Chinchilla-Wondai Road Road, QLD 4410",
+      "state": "QLD",
+      "lat": -26.4952169379603,
+      "lng": 151.14126323313525,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95"
+      ]
+    },
+    {
       "brand": "Enhance",
       "code": "QLD:61401707",
       "name": "Enhance Service Station & Tyre Plus Mechanic",
@@ -10922,23 +10912,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Freedom Fuels",
-      "code": "QLD:61401599",
-      "name": "Freedom Fuels Redbank Plains",
-      "address": "181 Kruger Parade, QLD 4301",
-      "state": "QLD",
-      "lat": -27.627512,
-      "lng": 152.874514,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "LPG",
-        "U91",
-        "U95",
         "U98"
       ]
     },
@@ -11197,20 +11170,6 @@
       "state": "SA",
       "lat": -34.28635986450745,
       "lng": 140.59938162698364,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "SA:61501487",
-      "name": "Ampol Millicent",
-      "address": "George Road, SA 5280",
-      "state": "SA",
-      "lat": -37.603749,
-      "lng": 140.359687,
       "unavailable_fuels": [
         "Diesel",
         "U91",

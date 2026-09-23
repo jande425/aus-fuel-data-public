@@ -1,22 +1,22 @@
 {
-  "fetched_at": "2026-09-22T23:48:49Z",
+  "fetched_at": "2026-09-23T00:49:19Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1281,
+  "station_count": 1282,
   "by_state": {
     "ACT": 9,
-    "NSW": 1158,
+    "NSW": 1159,
     "NT": 29,
-    "QLD": 30,
+    "QLD": 31,
     "SA": 33,
     "TAS": 1,
-    "VIC": 21
+    "VIC": 20
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 82,
+    "Reddy Express": 83,
     "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 66,
@@ -26,7 +26,7 @@
     "Ampol": 22,
     "JOLT": 20,
     "Caltex": 13,
-    "Shell": 11,
+    "Shell": 12,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
@@ -38,9 +38,9 @@
     "Everty": 4,
     "Budget": 3,
     "Speedway": 3,
-    "EG Ampol": 3,
     "Ampol Foodary": 2,
     "Indervon": 2,
+    "EG Ampol": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
@@ -8113,6 +8113,15 @@
     },
     {
       "brand": "Shell",
+      "code": "NSW:18514",
+      "name": "Shell Lane Cove",
+      "address": "254 Burns Bay RD, Lane Cove NSW 2066",
+      "state": "NSW",
+      "lat": -33.817191,
+      "lng": 151.151876
+    },
+    {
+      "brand": "Shell",
       "code": "NSW:20020",
       "name": "Shell Narrabri Truck Stop",
       "address": "Shell Service Station 11553 Newell HWY, Narrabri NSW 2390",
@@ -11074,6 +11083,21 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "QLD:61401761",
+      "name": "Shell Reddy Express Birkdale",
+      "address": "143-153 Birkdale Rd (Cnr Napier St), QLD 4159",
+      "state": "QLD",
+      "lat": -27.493146,
+      "lng": 153.216292,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Reddy Express",
       "code": "QLD:61402891",
       "name": "Shell Reddy Express Edmonton",
       "address": "9-11 Walker Rd (Cnr Hambledon Dr), QLD 4869",
@@ -11705,21 +11729,6 @@
       "lng": 145.3112100876167,
       "unavailable_fuels": [
         "Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "VIC:w/vHwNP2Tu5ZcfMsb7PmtInRSLFtAYhsRplcJBb5l1s=",
-      "name": "EG Ampol Mernda",
-      "address": "1555 Plenty Road, Mernda, 3754",
-      "state": "VIC",
-      "lat": -37.5870536,
-      "lng": 145.1023941,
-      "unavailable_fuels": [
-        "Premium Diesel",
         "U91",
         "U95",
         "U98"

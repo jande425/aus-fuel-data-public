@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-23T02:59:20Z",
+  "fetched_at": "2026-09-23T06:19:29Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1281,
+  "station_count": 1279,
   "by_state": {
     "ACT": 9,
     "NSW": 1158,
     "NT": 29,
     "QLD": 31,
-    "SA": 33,
-    "TAS": 1,
-    "VIC": 20
+    "SA": 31,
+    "TAS": 2,
+    "VIC": 19
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,16 +17,16 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 83,
-    "Independent": 75,
+    "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 65,
-    "BP": 54,
+    "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "Ampol": 20,
     "JOLT": 20,
     "Caltex": 13,
-    "Shell": 12,
+    "Shell": 11,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
@@ -36,24 +36,25 @@
     "Mobil": 6,
     "Pearl Energy": 5,
     "Everty": 4,
-    "Budget": 3,
     "Speedway": 3,
     "Ampol Foodary": 2,
+    "Budget": 2,
     "Indervon": 2,
     "Perrys": 2,
-    "EG Ampol": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
+    "Ampol Breeze": 1,
     "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
     "AM/PM": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "EG Ampol": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -2226,6 +2227,15 @@
       "lng": 152.135661
     },
     {
+      "brand": "Ampol Breeze",
+      "code": "NSW:20030",
+      "name": "Ampol Breeze South Nowra",
+      "address": "6 Trim ST, South Nowra NSW 2541",
+      "state": "NSW",
+      "lat": -34.913752,
+      "lng": 150.584956
+    },
+    {
       "brand": "Ampol",
       "code": "NSW:20567",
       "name": "Ampol Broken Hill Patton St",
@@ -3484,15 +3494,6 @@
       "state": "NSW",
       "lat": -33.671082,
       "lng": 150.956255
-    },
-    {
-      "brand": "Budget",
-      "code": "NSW:1519",
-      "name": "Budget Petrol Eastlakes",
-      "address": "102 Maloney St, Eastlakes NSW 2018",
-      "state": "NSW",
-      "lat": -33.930997,
-      "lng": 151.205569
     },
     {
       "brand": "Budget",
@@ -11074,6 +11075,20 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "QLD:61402891",
+      "name": "Shell Express Edmonton",
+      "address": "9-11 Walker Rd (Cnr Hambledon Dr), QLD 4869",
+      "state": "QLD",
+      "lat": -17.020230981097686,
+      "lng": 145.72865333498765,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91"
+      ]
+    },
+    {
+      "brand": "Reddy Express",
       "code": "QLD:61401761",
       "name": "Shell Reddy Express Birkdale",
       "address": "143-153 Birkdale Rd (Cnr Napier St), QLD 4159",
@@ -11085,20 +11100,6 @@
         "E10",
         "U91",
         "U98"
-      ]
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "QLD:61402891",
-      "name": "Shell Reddy Express Edmonton",
-      "address": "9-11 Walker Rd (Cnr Hambledon Dr), QLD 4869",
-      "state": "QLD",
-      "lat": -17.020120981097687,
-      "lng": 145.72843333498764,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "U91"
       ]
     },
     {
@@ -11196,20 +11197,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Independent",
-      "code": "SA:61501640",
-      "name": "Bulls Garage Coober Pedy",
-      "address": "143-147 Hutchison Street, SA 5723",
-      "state": "SA",
-      "lat": -29.005331,
-      "lng": 134.755872,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95"
       ]
     },
     {
@@ -11430,18 +11417,6 @@
       ]
     },
     {
-      "brand": "Shell",
-      "code": "SA:61577288",
-      "name": "Renmark OPT",
-      "address": "364 Renmark Avenue, SA 5341",
-      "state": "SA",
-      "lat": -34.185411,
-      "lng": 140.732525,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "SA:61577325",
       "name": "S.Y.P. Motors",
@@ -11547,6 +11522,15 @@
       "state": "SA",
       "lat": -34.824078,
       "lng": 138.774531
+    },
+    {
+      "brand": "BP",
+      "code": "TAS:20088",
+      "name": "Bp 4 Ways",
+      "address": "156 William ST, Devonport TAS 7310",
+      "state": "TAS",
+      "lat": -41.17527457,
+      "lng": 146.35179133
     },
     {
       "brand": "Independent",
@@ -11692,20 +11676,6 @@
       "unavailable_fuels": [
         "U91",
         "U98"
-      ]
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "VIC:q9066gceVcRmACzkujHHUCw9EEvaqGVrfjMLI7O6Y+8=",
-      "name": "EG Ampol Colac",
-      "address": "2-52 Bromfield Street, Colac, 3250",
-      "state": "VIC",
-      "lat": -38.34150774,
-      "lng": 143.58536584,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95"
       ]
     },
     {

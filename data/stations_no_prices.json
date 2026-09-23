@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-23T18:47:25Z",
+  "fetched_at": "2026-09-23T22:25:03Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1273,
   "by_state": {
     "ACT": 9,
     "NSW": 1156,
     "NT": 29,
-    "QLD": 31,
+    "QLD": 29,
     "SA": 30,
     "TAS": 1,
     "VIC": 19
@@ -16,15 +16,15 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 83,
-    "Independent": 74,
+    "Reddy Express": 82,
+    "Independent": 73,
     "Chargefox": 72,
     "7-Eleven": 65,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 20,
     "JOLT": 20,
+    "Ampol": 19,
     "Caltex": 13,
     "Shell": 10,
     "Puma Energy": 10,
@@ -40,6 +40,7 @@
     "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
+    "Metro Petroleum": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
@@ -51,9 +52,8 @@
     "AM/PM": 1,
     "Bowser Bean": 1,
     "EG Ampol": 1,
-    "Apco": 1,
-    "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -10821,19 +10821,6 @@
       "lng": 151.411238
     },
     {
-      "brand": "Ampol",
-      "code": "QLD:61477703",
-      "name": "Ampol Pinkenba Diesel Stop",
-      "address": "19-27 Orient Avenue, QLD 4008",
-      "state": "QLD",
-      "lat": -27.426789,
-      "lng": 153.114322,
-      "unavailable_fuels": [
-        "Diesel",
-        "Premium Diesel"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "QLD:61402385",
       "name": "Blue Topaz Caravan Park",
@@ -10868,20 +10855,6 @@
       "state": "QLD",
       "lat": -24.865276497096275,
       "lng": 151.1198653325062
-    },
-    {
-      "brand": "Independent",
-      "code": "QLD:61402696",
-      "name": "Darr Creek Oasis",
-      "address": "6883 Chinchilla-Wondai Road Road, QLD 4410",
-      "state": "QLD",
-      "lat": -26.4952169379603,
-      "lng": 151.14126323313525,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95"
-      ]
     },
     {
       "brand": "Enhance",
@@ -11667,6 +11640,24 @@
       ]
     },
     {
+      "brand": "Metro Petroleum",
+      "code": "VIC:MKKmPxIXLAoEuV1vVZh0/lyipfE7H8FYoOqfxjZYkiI=",
+      "name": "Metro Petroleum Coolaroo",
+      "address": "412-414 Barry Road, Coolaroo, 3048",
+      "state": "VIC",
+      "lat": -37.66570353,
+      "lng": 144.94077666,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Mobil",
       "code": "VIC:48uNyjO54QYEYnL9tZ7MUrzHqnu7qN/vCIY85kwctno=",
       "name": "Mobil Cowes",
@@ -11747,21 +11738,6 @@
       "lng": 145.09772957951898,
       "unavailable_fuels": [
         "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "VIC:Nv0DvM/96P/pNzh1+aNjXauV8SvQq1jHMXD0ilreNWE=",
-      "name": "Shell Reddy Express Moe",
-      "address": "92-98 Albert ST, MOE, 3825",
-      "state": "VIC",
-      "lat": -38.1740045225884,
-      "lng": 146.2596020680343,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
         "U91",
         "U98"
       ]

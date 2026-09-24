@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-24T02:50:24Z",
+  "fetched_at": "2026-09-24T06:28:13Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1281,
+  "station_count": 1277,
   "by_state": {
     "ACT": 9,
-    "NSW": 1160,
+    "NSW": 1158,
     "NT": 29,
     "QLD": 29,
-    "SA": 32,
+    "SA": 30,
     "TAS": 1,
     "VIC": 21
   },
@@ -16,15 +16,15 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 85,
+    "Reddy Express": 84,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 65,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 21,
     "JOLT": 20,
+    "Ampol": 19,
     "Caltex": 13,
     "Shell": 10,
     "Puma Energy": 10,
@@ -38,9 +38,9 @@
     "Everty": 4,
     "Speedway": 3,
     "Ampol Foodary": 2,
+    "EG Ampol": 2,
     "Budget": 2,
     "Indervon": 2,
-    "AM/PM": 2,
     "Metro Petroleum": 2,
     "U-Go": 1,
     "Westside": 1,
@@ -51,10 +51,10 @@
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
+    "AM/PM": 1,
     "Bowser Bean": 1,
     "ETA PETROLEUM": 1,
-    "Apco": 1,
-    "EG Ampol": 1
+    "Apco": 1
   },
   "stations": [
     {
@@ -605,15 +605,6 @@
       "state": "NSW",
       "lat": -34.877361,
       "lng": 150.604329
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:266",
-      "name": "7-Eleven Parramatta",
-      "address": "81 Victoria Road & Macarthur Street, Parramatta NSW 2150",
-      "state": "NSW",
-      "lat": -33.808768,
-      "lng": 151.014716
     },
     {
       "brand": "7-Eleven",
@@ -2234,15 +2225,6 @@
       "state": "NSW",
       "lat": -32.719967,
       "lng": 152.135661
-    },
-    {
-      "brand": "Ampol",
-      "code": "NSW:20567",
-      "name": "Ampol Broken Hill Patton St",
-      "address": "84 Patton ST, Broken Hill NSW 2880",
-      "state": "NSW",
-      "lat": -31.981387,
-      "lng": 141.458614
     },
     {
       "brand": "Ampol Foodary",
@@ -4313,6 +4295,15 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "NSW:670",
+      "name": "EG Ampol Fairy Meadow",
+      "address": "47 Princes Highway, Fairy Meadow NSW 2519",
+      "state": "NSW",
+      "lat": -34.393972,
+      "lng": 150.892534
     },
     {
       "brand": "EVUp",
@@ -8384,15 +8375,6 @@
     },
     {
       "brand": "Reddy Express",
-      "code": "NSW:202",
-      "name": "Shell Reddy Express Campbelltown",
-      "address": "27 Queen Street, Campbelltown NSW 2560",
-      "state": "NSW",
-      "lat": -34.060434,
-      "lng": 150.819361
-    },
-    {
-      "brand": "Reddy Express",
       "code": "NSW:47",
       "name": "Shell Reddy Express Carlton",
       "address": "277-281 Princes Highway, Carlton NSW 2218",
@@ -11148,21 +11130,6 @@
     },
     {
       "brand": "AM/PM",
-      "code": "SA:61501353",
-      "name": "AMPM Gawler",
-      "address": "22 Murray St, SA 5118",
-      "state": "SA",
-      "lat": -34.60173875546303,
-      "lng": 138.74891458895493,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "AM/PM",
       "code": "SA:61577434",
       "name": "AMPM Port Augusta",
       "address": "2 Augusta Hwy, SA 5700",
@@ -11182,19 +11149,6 @@
         "Diesel",
         "U91",
         "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "SA:61577210",
-      "name": "Ampol Mount Gambier East Diesel Stop",
-      "address": "Rear 190 Jubilee Highway East, SA 5290",
-      "state": "SA",
-      "lat": -37.840097,
-      "lng": 140.814058,
-      "unavailable_fuels": [
-        "Diesel",
-        "Premium Diesel"
       ]
     },
     {

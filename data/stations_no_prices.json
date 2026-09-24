@@ -1,45 +1,46 @@
 {
-  "fetched_at": "2026-09-23T23:24:20Z",
+  "fetched_at": "2026-09-24T00:42:11Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1274,
+  "station_count": 1278,
   "by_state": {
     "ACT": 9,
-    "NSW": 1157,
+    "NSW": 1158,
     "NT": 29,
     "QLD": 29,
-    "SA": 30,
+    "SA": 31,
     "TAS": 1,
-    "VIC": 19
+    "VIC": 21
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 82,
+    "Reddy Express": 84,
     "Independent": 73,
     "Chargefox": 72,
     "7-Eleven": 66,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
+    "Ampol": 20,
     "JOLT": 20,
-    "Ampol": 19,
     "Caltex": 13,
     "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
-    "Liberty": 8,
     "Metro Fuel": 7,
     "Evie Networks": 7,
+    "Liberty": 7,
+    "Pearl Energy": 6,
     "Mobil": 6,
-    "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
     "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
+    "AM/PM": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
@@ -49,11 +50,10 @@
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "AM/PM": 1,
     "Bowser Bean": 1,
+    "Apco": 1,
     "ETA PETROLEUM": 1,
-    "EG Ampol": 1,
-    "Apco": 1
+    "EG Ampol": 1
   },
   "stations": [
     {
@@ -7473,6 +7473,15 @@
       "lng": 147.368241
     },
     {
+      "brand": "Pearl Energy",
+      "code": "NSW:20943",
+      "name": "Pearl Energy Tumut",
+      "address": "70-72 Capper ST, Tumut NSW 2720",
+      "state": "NSW",
+      "lat": -35.300843,
+      "lng": 148.219714
+    },
+    {
       "brand": "Independent EV",
       "code": "NSW:19376",
       "name": "Pennant Hills Market Place",
@@ -10830,6 +10839,19 @@
       "lng": 151.411238
     },
     {
+      "brand": "Ampol",
+      "code": "QLD:61477703",
+      "name": "Ampol Pinkenba Diesel Stop",
+      "address": "19-27 Orient Avenue, QLD 4008",
+      "state": "QLD",
+      "lat": -27.426789,
+      "lng": 153.114322,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "QLD:61402385",
       "name": "Blue Topaz Caravan Park",
@@ -10928,18 +10950,6 @@
       "state": "QLD",
       "lat": -26.086213,
       "lng": 152.240816
-    },
-    {
-      "brand": "Liberty",
-      "code": "QLD:61477676",
-      "name": "Liberty Goondiwindi",
-      "address": "2-14 Cemetery Road (Cnr Cunningham Hwy), QLD 4390",
-      "state": "QLD",
-      "lat": -28.53338377534529,
-      "lng": 150.3289960211792,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
     },
     {
       "brand": "Mobil",
@@ -11116,6 +11126,21 @@
       "state": "QLD",
       "lat": -16.916483,
       "lng": 145.871647
+    },
+    {
+      "brand": "AM/PM",
+      "code": "SA:61501353",
+      "name": "AMPM Gawler",
+      "address": "22 Murray St, SA 5118",
+      "state": "SA",
+      "lat": -34.60173875546303,
+      "lng": 138.74891458895493,
+      "unavailable_fuels": [
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
     },
     {
       "brand": "AM/PM",
@@ -11739,14 +11764,44 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "VIC:HSyFK3urG9TDsZ9cTDiDM1ZeSdfNhUbZ4emkpwcWY80=",
+      "name": "Shell Express Forest Hill Chase",
+      "address": "260 Canterbury Road, FOREST HILL, 3131",
+      "state": "VIC",
+      "lat": -37.833503349939754,
+      "lng": 145.16385929266798,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Reddy Express",
       "code": "VIC:h2miyPFhCHjLKzUNkxtFdu6bMtKLoLQh6A+JBsb1A1k=",
-      "name": "Shell Reddy Express Mernda",
+      "name": "Shell Express Mernda",
       "address": "1444 Plenty Road, MERNDA, 3754",
       "state": "VIC",
       "lat": -37.59814738165172,
       "lng": 145.09772957951898,
       "unavailable_fuels": [
         "Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "VIC:Nv0DvM/96P/pNzh1+aNjXauV8SvQq1jHMXD0ilreNWE=",
+      "name": "Shell Express Moe",
+      "address": "92-98 Albert ST, MOE, 3825",
+      "state": "VIC",
+      "lat": -38.1740045225884,
+      "lng": 146.2596020680343,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
         "U91",
         "U98"
       ]

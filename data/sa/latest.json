@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-09-24T06:28:13Z",
+  "fetched_at": "2026-09-24T07:34:02Z",
   "station_count": 696,
   "fuel_types": [
     "E10",
@@ -2927,7 +2927,7 @@
         "U98": 257.9,
         "Premium Diesel": 293.9
       },
-      "updated": "2026-09-24T06:25:18Z",
+      "updated": "2026-09-24T07:25:19Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -3451,13 +3451,15 @@
       "state": "SA",
       "prices": {
         "U91": 230.9,
-        "Diesel": 283.9,
         "U95": 245.9,
         "U98": 253.9
       },
-      "updated": "2026-09-24T04:51:47Z",
+      "updated": "2026-09-23T08:38:27Z",
       "lat": -34.69139920686908,
-      "lng": 138.6875776351656
+      "lng": 138.6875776351656,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
     },
     {
       "brand": "Reddy Express",
@@ -5441,7 +5443,7 @@
         "U98": 260.9,
         "Premium Diesel": 290.9
       },
-      "updated": "2026-09-24T06:25:18Z",
+      "updated": "2026-09-24T07:25:19Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -9449,14 +9451,12 @@
       "address": "32 Blanche Street, SA 5583",
       "state": "SA",
       "prices": {
-        "U91": 230.9
+        "U91": 239.9,
+        "Diesel": 275.9
       },
-      "updated": "2026-09-24T03:21:59Z",
+      "updated": "2026-09-24T07:25:59Z",
       "lat": -35.086505,
-      "lng": 137.745459,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
+      "lng": 137.745459
     },
     {
       "brand": "Independent",

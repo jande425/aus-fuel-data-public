@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-24T06:28:13Z",
+  "fetched_at": "2026-09-24T07:34:02Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1277,
+  "station_count": 1276,
   "by_state": {
     "ACT": 9,
-    "NSW": 1158,
+    "NSW": 1157,
     "NT": 29,
     "QLD": 29,
     "SA": 30,
@@ -23,8 +23,8 @@
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
+    "Ampol": 20,
     "JOLT": 20,
-    "Ampol": 19,
     "Caltex": 13,
     "Shell": 10,
     "Puma Energy": 10,
@@ -38,7 +38,6 @@
     "Everty": 4,
     "Speedway": 3,
     "Ampol Foodary": 2,
-    "EG Ampol": 2,
     "Budget": 2,
     "Indervon": 2,
     "Metro Petroleum": 2,
@@ -53,8 +52,8 @@
     "Perrys": 1,
     "AM/PM": 1,
     "Bowser Bean": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "Apco": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -4295,15 +4294,6 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "NSW:670",
-      "name": "EG Ampol Fairy Meadow",
-      "address": "47 Princes Highway, Fairy Meadow NSW 2519",
-      "state": "NSW",
-      "lat": -34.393972,
-      "lng": 150.892534
     },
     {
       "brand": "EVUp",
@@ -11543,6 +11533,22 @@
       ]
     },
     {
+      "brand": "Ampol",
+      "code": "VIC:FbDvP+3cyGpuqgoAtdIkT0LnKWRviO54suScyTR9X8c=",
+      "name": "Ampol Foodary Romsey",
+      "address": "31b Main Street, Romsey, 3434",
+      "state": "VIC",
+      "lat": -37.3581791,
+      "lng": 144.7433433,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Bowser Bean",
       "code": "VIC:nkqbS3FzerduQEnemijbd02NnPKm1F0+1LJLM/xFTl4=",
       "name": "BP Kilmore - Temporarily closed",
@@ -11628,21 +11634,6 @@
       "lng": 144.72831692,
       "unavailable_fuels": [
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "VIC:SHeYnEx+Hs7Slc2e+hsm8kBn3mJ/4tjKqOlTR/IT++k=",
-      "name": "EG Ampol Kilsyth",
-      "address": "534-542 Mt Dandenong Road, Kilsyth, 3137",
-      "state": "VIC",
-      "lat": -37.802554347666664,
-      "lng": 145.3112100876167,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

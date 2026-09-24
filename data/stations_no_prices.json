@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-24T18:47:48Z",
+  "fetched_at": "2026-09-24T22:37:48Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1277,
+  "station_count": 1275,
   "by_state": {
     "ACT": 9,
-    "NSW": 1158,
+    "NSW": 1156,
     "NT": 29,
-    "QLD": 31,
+    "QLD": 30,
     "SA": 30,
     "TAS": 1,
-    "VIC": 19
+    "VIC": 20
   },
   "by_brand": {
     "Exploren": 236,
@@ -23,8 +23,8 @@
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 20,
     "JOLT": 20,
+    "Ampol": 19,
     "Caltex": 13,
     "Shell": 10,
     "Puma Energy": 10,
@@ -35,12 +35,12 @@
     "Pearl Energy": 6,
     "Liberty": 6,
     "Mobil": 6,
-    "Ampol Foodary": 4,
     "Everty": 4,
     "Speedway": 3,
+    "U-Go": 2,
+    "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
-    "U-Go": 1,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
@@ -51,9 +51,9 @@
     "Perrys": 1,
     "AM/PM": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -2224,24 +2224,6 @@
       "state": "NSW",
       "lat": -32.719967,
       "lng": 152.135661
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:936",
-      "name": "Ampol Foodary Bomaderry",
-      "address": "341 Princes Hwy, Bomaderry NSW 2541",
-      "state": "NSW",
-      "lat": -34.845652,
-      "lng": 150.59476
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:2122",
-      "name": "Ampol Foodary Brunswick Heads R/H",
-      "address": "5 Tweed ST, Brunswick Heads NSW 2483",
-      "state": "NSW",
-      "lat": -28.538168,
-      "lng": 153.548694
     },
     {
       "brand": "Ampol Foodary",
@@ -10822,22 +10804,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61401291",
-      "name": "Ampol Foodary Nundah",
-      "address": "1401 Sandgate Rd & Henchman St, QLD 4012",
-      "state": "QLD",
-      "lat": -27.398473,
-      "lng": 153.059252,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -11780,6 +11746,21 @@
         "Diesel",
         "E10",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "U-Go",
+      "code": "VIC:M3mw15gns3NUkkKl+EisFvunoJSbLxVvYU7TQ3J2xAA=",
+      "name": "U-Go Ringwood East",
+      "address": "18 Mt Dandenong Road, Ringwood East, 3135",
+      "state": "VIC",
+      "lat": -37.81195286,
+      "lng": 145.24114189,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

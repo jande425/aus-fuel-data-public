@@ -2,8 +2,8 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-09-24T01:21:34Z",
-  "station_count": 695,
+  "fetched_at": "2026-09-24T02:50:24Z",
+  "station_count": 694,
   "fuel_types": [
     "E10",
     "U91",
@@ -182,11 +182,11 @@
       "state": "SA",
       "prices": {
         "U91": 229.9,
-        "U95": 223.9,
+        "U95": 242.9,
         "U98": 251.9,
-        "Premium Diesel": 275.9
+        "Premium Diesel": 279.9
       },
-      "updated": "2026-09-23T04:46:50Z",
+      "updated": "2026-09-24T02:46:30Z",
       "lat": -34.86355166281097,
       "lng": 138.59275236441806
     },
@@ -721,12 +721,12 @@
       "address": "484 Port Rd, SA 5007",
       "state": "SA",
       "prices": {
-        "U91": 229.4,
-        "U95": 240.7,
-        "U98": 251.4,
+        "U91": 229.5,
+        "U95": 243.9,
+        "U98": 251.5,
         "Premium Diesel": 278.8
       },
-      "updated": "2026-09-24T01:07:09Z",
+      "updated": "2026-09-24T02:07:09Z",
       "lat": -34.89795211133264,
       "lng": 138.56037086011884
     },
@@ -1147,10 +1147,10 @@
       "address": "898 Main North Rd & Montague Rd, SA 5095",
       "state": "SA",
       "prices": {
-        "U91": 228.4,
+        "U91": 229.4,
         "Premium Diesel": 288.9
       },
-      "updated": "2026-09-23T23:57:09Z",
+      "updated": "2026-09-24T01:47:09Z",
       "lat": -34.824046,
       "lng": 138.617185
     },
@@ -2062,15 +2062,13 @@
       "state": "SA",
       "prices": {
         "U91": 235.9,
+        "LPG": 104.9,
         "U98": 262.9,
         "Premium Diesel": 292.9
       },
-      "updated": "2026-09-23T02:02:35Z",
+      "updated": "2026-09-24T01:41:25Z",
       "lat": -35.077844,
-      "lng": 138.517967,
-      "unavailable_fuels": [
-        "LPG"
-      ]
+      "lng": 138.517967
     },
     {
       "brand": "On the Run",
@@ -2913,7 +2911,7 @@
         "U98": 257.9,
         "Premium Diesel": 293.9
       },
-      "updated": "2026-09-24T01:10:19Z",
+      "updated": "2026-09-24T02:40:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -4645,9 +4643,9 @@
         "U91": 236.9,
         "U95": 253.9,
         "U98": 263.9,
-        "Premium Diesel": 297.9
+        "Premium Diesel": 294.9
       },
-      "updated": "2026-09-23T16:00:00Z",
+      "updated": "2026-09-24T02:15:00Z",
       "lat": -35.553842,
       "lng": 138.620917
     },
@@ -5421,13 +5419,13 @@
       "address": "Princes Highway, SA 5700",
       "state": "SA",
       "prices": {
-        "U91": 236.9,
+        "U91": 237.9,
         "Diesel": 287.9,
-        "U95": 251.9,
-        "U98": 259.9,
+        "U95": 252.9,
+        "U98": 260.9,
         "Premium Diesel": 290.9
       },
-      "updated": "2026-09-24T01:10:19Z",
+      "updated": "2026-09-24T02:40:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -6786,11 +6784,11 @@
       "address": "32 Bay Rd, SA 5290",
       "state": "SA",
       "prices": {
-        "U91": 233.9,
-        "U98": 258.9,
+        "U91": 237.9,
+        "U98": 262.9,
         "Premium Diesel": 285.9
       },
-      "updated": "2026-09-21T02:13:05Z",
+      "updated": "2026-09-24T01:59:06Z",
       "lat": -37.832342,
       "lng": 140.778179
     },
@@ -7338,10 +7336,10 @@
       "state": "SA",
       "prices": {
         "U91": 235.9,
-        "Diesel": 286.9,
+        "Diesel": 290.9,
         "U98": 259.9
       },
-      "updated": "2026-09-22T12:04:28Z",
+      "updated": "2026-09-24T01:24:45Z",
       "lat": -34.493874,
       "lng": 139.027539
     },
@@ -8072,11 +8070,11 @@
       "address": "30 High Street, SA 5481",
       "state": "SA",
       "prices": {
-        "U91": 244.9,
-        "Diesel": 282.9,
-        "U98": 259.9
+        "U91": 249.9,
+        "Diesel": 289.9,
+        "U98": 267.9
       },
-      "updated": "2026-09-17T09:37:13Z",
+      "updated": "2026-09-24T01:52:05Z",
       "lat": -33.033962,
       "lng": 138.269445
     },
@@ -8305,20 +8303,6 @@
       "updated": "2026-09-23T22:52:09Z",
       "lat": -34.457321,
       "lng": 139.003159
-    },
-    {
-      "brand": "Ampol",
-      "code": "SA:61577210",
-      "name": "Ampol Mount Gambier East Diesel Stop",
-      "address": "Rear 190 Jubilee Highway East, SA 5290",
-      "state": "SA",
-      "prices": {
-        "Diesel": 281.9,
-        "Premium Diesel": 284.9
-      },
-      "updated": "2026-09-22T22:12:10Z",
-      "lat": -37.840097,
-      "lng": 140.814058
     },
     {
       "brand": "AM/PM",

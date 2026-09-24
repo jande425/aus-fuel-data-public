@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-24T01:21:34Z",
+  "fetched_at": "2026-09-24T02:50:24Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1278,
+  "station_count": 1281,
   "by_state": {
     "ACT": 9,
-    "NSW": 1158,
+    "NSW": 1160,
     "NT": 29,
     "QLD": 29,
-    "SA": 31,
+    "SA": 32,
     "TAS": 1,
     "VIC": 21
   },
@@ -16,14 +16,14 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 84,
+    "Reddy Express": 85,
     "Independent": 73,
     "Chargefox": 72,
     "7-Eleven": 66,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 20,
+    "Ampol": 21,
     "JOLT": 20,
     "Caltex": 13,
     "Shell": 10,
@@ -42,6 +42,7 @@
     "Indervon": 2,
     "AM/PM": 2,
     "Metro Petroleum": 2,
+    "U-Go": 1,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
@@ -8770,6 +8771,15 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "NSW:61",
+      "name": "Shell Reddy Express Ultimo",
+      "address": "387 427 Wattle St, ULTIMO NSW 2007",
+      "state": "NSW",
+      "lat": -33.881355,
+      "lng": 151.196904
+    },
+    {
+      "brand": "Reddy Express",
       "code": "NSW:33",
       "name": "Shell Reddy Express Wauchope",
       "address": "64 High Street, Wauchope NSW 2446",
@@ -10074,6 +10084,15 @@
       "lng": 151.273708
     },
     {
+      "brand": "U-Go",
+      "code": "NSW:18068",
+      "name": "U-Go Bonnyrigg (Un-manned)",
+      "address": "Smithfield Rd, Cnr Elizabeth Drive, BONNYRIGG NSW 2177",
+      "state": "NSW",
+      "lat": -33.888347,
+      "lng": 150.88214
+    },
+    {
       "brand": "United",
       "code": "NSW:2004",
       "name": "United Marulan",
@@ -11163,6 +11182,19 @@
         "Diesel",
         "U91",
         "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "SA:61577210",
+      "name": "Ampol Mount Gambier East Diesel Stop",
+      "address": "Rear 190 Jubilee Highway East, SA 5290",
+      "state": "SA",
+      "lat": -37.840097,
+      "lng": 140.814058,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel"
       ]
     },
     {

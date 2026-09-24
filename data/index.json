@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-24T13:58:33Z",
-  "total_stations": 7873,
+  "last_updated": "2026-09-24T17:54:29Z",
+  "total_stations": 7875,
   "total_states": 8,
   "fuel_types": [
     "23",
@@ -23,57 +23,57 @@
       "station_count": 62,
       "price_count": 264,
       "file": "act/latest.json",
-      "checksum": "952d51d1",
+      "checksum": "08dfde1f",
       "size_bytes": 25293
     },
     "NSW": {
       "station_count": 2106,
-      "price_count": 8424,
+      "price_count": 8423,
       "file": "nsw/latest.json",
-      "checksum": "8d4662fd",
-      "size_bytes": 836794
+      "checksum": "73e8b2f1",
+      "size_bytes": 836772
     },
     "NT": {
       "station_count": 210,
       "price_count": 571,
       "file": "nt/latest.json",
-      "checksum": "8aea15a5",
+      "checksum": "b95176d1",
       "size_bytes": 79520
     },
     "QLD": {
       "station_count": 1776,
       "price_count": 6904,
       "file": "qld/latest.json",
-      "checksum": "0078606d",
+      "checksum": "a3c700f1",
       "size_bytes": 700934
     },
     "SA": {
       "station_count": 696,
       "price_count": 2474,
       "file": "sa/latest.json",
-      "checksum": "88c2f12c",
+      "checksum": "b2ab4f1c",
       "size_bytes": 269339
     },
     "TAS": {
       "station_count": 295,
       "price_count": 1440,
       "file": "tas/latest.json",
-      "checksum": "74de438f",
+      "checksum": "cb69b2c6",
       "size_bytes": 124528
     },
     "VIC": {
-      "station_count": 1736,
-      "price_count": 7111,
+      "station_count": 1737,
+      "price_count": 7117,
       "file": "vic/latest.json",
-      "checksum": "e5e91ca9",
-      "size_bytes": 779322
+      "checksum": "a89296b5",
+      "size_bytes": 779871
     },
     "WA": {
-      "station_count": 992,
-      "price_count": 3360,
+      "station_count": 993,
+      "price_count": 3359,
       "file": "wa/latest.json",
-      "checksum": "89458863",
-      "size_bytes": 622606
+      "checksum": "2fea0ba6",
+      "size_bytes": 508488
     }
   },
   "files": {

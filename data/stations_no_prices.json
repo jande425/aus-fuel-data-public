@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-24T13:58:33Z",
+  "fetched_at": "2026-09-24T17:54:29Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1276,
+  "station_count": 1275,
   "by_state": {
     "ACT": 9,
     "NSW": 1157,
@@ -9,7 +9,7 @@
     "QLD": 30,
     "SA": 30,
     "TAS": 1,
-    "VIC": 20
+    "VIC": 19
   },
   "by_brand": {
     "Exploren": 236,
@@ -40,7 +40,6 @@
     "Speedway": 3,
     "Budget": 2,
     "Indervon": 2,
-    "Metro Petroleum": 2,
     "U-Go": 1,
     "Westside": 1,
     "Transwest Fuels": 1,
@@ -53,6 +52,7 @@
     "AM/PM": 1,
     "Bowser Bean": 1,
     "Apco": 1,
+    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1
   },
   "stations": [
@@ -11641,24 +11641,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Metro Petroleum",
-      "code": "VIC:MKKmPxIXLAoEuV1vVZh0/lyipfE7H8FYoOqfxjZYkiI=",
-      "name": "Metro Petroleum Coolaroo",
-      "address": "412-414 Barry Road, Coolaroo, 3048",
-      "state": "VIC",
-      "lat": -37.66570353,
-      "lng": 144.94077666,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {

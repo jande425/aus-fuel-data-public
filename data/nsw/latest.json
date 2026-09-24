@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-24T18:24:21Z",
-  "station_count": 2106,
+  "fetched_at": "2026-09-24T18:47:48Z",
+  "station_count": 2105,
   "fuel_types": [
     "E10",
     "U91",
@@ -5001,9 +5001,9 @@
       "prices": {
         "E10": 244.9,
         "U98": 273.9,
-        "Premium Diesel": 296.9
+        "Premium Diesel": 295.9
       },
-      "updated": "2026-09-21T21:32:25Z",
+      "updated": "2026-09-24T18:37:25Z",
       "lat": -33.439373,
       "lng": 151.293527
     },
@@ -12239,12 +12239,12 @@
       "address": "6, Yagan Drive, Beresfield NSW 2322",
       "state": "NSW",
       "prices": {
-        "Diesel": 268.5,
+        "Diesel": 267.9,
         "E10": 232.4,
         "U98": 256.4,
         "U91": 234.4
       },
-      "updated": "2026-09-24T07:45:55Z",
+      "updated": "2026-09-24T18:32:06Z",
       "lat": -32.8098,
       "lng": 151.63257
     },
@@ -19344,23 +19344,6 @@
       "updated": "2026-09-24T07:00:52Z",
       "lat": -33.440214,
       "lng": 151.433848
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:936",
-      "name": "Ampol Foodary Bomaderry",
-      "address": "341 Princes Hwy, Bomaderry NSW 2541",
-      "state": "NSW",
-      "prices": {
-        "E10": 235.9,
-        "U95": 256.9,
-        "U98": 264.9,
-        "Premium Diesel": 296.9,
-        "U91": 235.9
-      },
-      "updated": "2026-09-24T12:27:25Z",
-      "lat": -34.845652,
-      "lng": 150.59476
     },
     {
       "brand": "Ampol Foodary",
@@ -33706,9 +33689,10 @@
       "prices": {
         "E10": 226.9,
         "U98": 248.9,
+        "Premium Diesel": 272.9,
         "U91": 228.9
       },
-      "updated": "2026-09-18T23:20:28Z",
+      "updated": "2026-09-24T18:33:09Z",
       "lat": -32.843779,
       "lng": 151.374442
     }

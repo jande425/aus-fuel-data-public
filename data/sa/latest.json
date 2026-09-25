@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-09-25T06:23:16Z",
+  "fetched_at": "2026-09-25T07:43:50Z",
   "station_count": 697,
   "fuel_types": [
     "E10",
@@ -1638,9 +1638,9 @@
         "U91": 233.9,
         "U95": 249.9,
         "U98": 257.9,
-        "Premium Diesel": 290.9
+        "Premium Diesel": 289.9
       },
-      "updated": "2026-09-25T03:35:04Z",
+      "updated": "2026-09-25T06:21:46Z",
       "lat": -34.904142,
       "lng": 138.558726
     },
@@ -2923,11 +2923,11 @@
       "state": "SA",
       "prices": {
         "U91": 233.9,
-        "Diesel": 290.9,
+        "Diesel": 289.9,
         "U98": 256.9,
-        "Premium Diesel": 293.9
+        "Premium Diesel": 292.9
       },
-      "updated": "2026-09-25T06:10:19Z",
+      "updated": "2026-09-25T07:40:22Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -3065,12 +3065,12 @@
       "state": "SA",
       "prices": {
         "U91": 230.5,
-        "Diesel": 284.9,
+        "Diesel": 287.4,
         "U95": 249.9,
         "U98": 253.9,
-        "Premium Diesel": 289.9
+        "Premium Diesel": 292.4
       },
-      "updated": "2026-09-25T05:32:10Z",
+      "updated": "2026-09-25T06:52:08Z",
       "lat": -35.180373,
       "lng": 138.483225
     },
@@ -3528,14 +3528,16 @@
       "address": "211B Lincoln Highway, SA 5602",
       "state": "SA",
       "prices": {
-        "U91": 234.5,
-        "U95": 247.5,
-        "U98": 256.5,
+        "U95": 248.5,
+        "U98": 257.5,
         "Premium Diesel": 282.5
       },
-      "updated": "2026-09-24T11:44:03Z",
+      "updated": "2026-09-25T06:54:53Z",
       "lat": -33.67583921477462,
-      "lng": 136.92496305522536
+      "lng": 136.92496305522536,
+      "unavailable_fuels": [
+        "U91"
+      ]
     },
     {
       "brand": "Ampol",
@@ -5457,7 +5459,7 @@
         "U98": 260.9,
         "Premium Diesel": 290.9
       },
-      "updated": "2026-09-25T06:10:19Z",
+      "updated": "2026-09-25T07:40:22Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -6164,15 +6166,13 @@
       "state": "SA",
       "prices": {
         "U91": 229.9,
+        "U95": 246.9,
         "U98": 256.9,
         "Premium Diesel": 289.9
       },
       "updated": "2026-09-25T04:37:00Z",
       "lat": -35.192267,
-      "lng": 138.480479,
-      "unavailable_fuels": [
-        "U95"
-      ]
+      "lng": 138.480479
     },
     {
       "brand": "EG Ampol",
@@ -7807,12 +7807,12 @@
       "address": "392 Churchill Road, SA 5084",
       "state": "SA",
       "prices": {
-        "U91": 236.9,
-        "U95": 253.9,
-        "U98": 263.9,
-        "Premium Diesel": 292.9
+        "U91": 234.9,
+        "U95": 251.9,
+        "U98": 261.9,
+        "Premium Diesel": 290.9
       },
-      "updated": "2026-09-25T01:36:24Z",
+      "updated": "2026-09-25T07:02:46Z",
       "lat": -34.86465198796067,
       "lng": 138.58312848005534
     },
@@ -10216,12 +10216,12 @@
       "state": "SA",
       "prices": {
         "U91": 224.3,
-        "Diesel": 282.3,
+        "Diesel": 279.9,
         "U98": 249.3,
         "E10": 222.3,
-        "Premium Diesel": 284.3
+        "Premium Diesel": 281.9
       },
-      "updated": "2026-09-24T21:57:33Z",
+      "updated": "2026-09-25T07:20:28Z",
       "lat": -34.97095223714421,
       "lng": 138.5737597147499
     },
@@ -10864,9 +10864,9 @@
       "address": "2 Industrial Court, SA 5501",
       "state": "SA",
       "prices": {
-        "Diesel": 292.9
+        "Diesel": 289.9
       },
-      "updated": "2026-09-25T04:34:04Z",
+      "updated": "2026-09-25T06:25:36Z",
       "lat": -34.5828243498736,
       "lng": 138.49446997421396
     },

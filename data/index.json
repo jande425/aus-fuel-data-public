@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-25T01:28:48Z",
-  "total_stations": 7877,
+  "last_updated": "2026-09-25T03:06:41Z",
+  "total_stations": 7876,
   "total_states": 8,
   "fuel_types": [
     "23",
@@ -23,56 +23,56 @@
       "station_count": 62,
       "price_count": 264,
       "file": "act/latest.json",
-      "checksum": "f17638e5",
+      "checksum": "0e64eac9",
       "size_bytes": 25293
     },
     "NSW": {
-      "station_count": 2107,
-      "price_count": 8428,
+      "station_count": 2106,
+      "price_count": 8423,
       "file": "nsw/latest.json",
-      "checksum": "ba9aa19e",
-      "size_bytes": 837231
+      "checksum": "a3a7c66a",
+      "size_bytes": 836824
     },
     "NT": {
       "station_count": 210,
       "price_count": 570,
       "file": "nt/latest.json",
-      "checksum": "58442ec6",
+      "checksum": "3c96b4ba",
       "size_bytes": 79495
     },
     "QLD": {
       "station_count": 1777,
       "price_count": 6907,
       "file": "qld/latest.json",
-      "checksum": "09a51228",
+      "checksum": "71c47827",
       "size_bytes": 701281
     },
     "SA": {
-      "station_count": 696,
-      "price_count": 2478,
+      "station_count": 697,
+      "price_count": 2479,
       "file": "sa/latest.json",
-      "checksum": "1729a446",
-      "size_bytes": 269292
+      "checksum": "439397c0",
+      "size_bytes": 269653
     },
     "TAS": {
       "station_count": 295,
       "price_count": 1442,
       "file": "tas/latest.json",
-      "checksum": "d6f295df",
+      "checksum": "891a8cc8",
       "size_bytes": 124586
     },
     "VIC": {
-      "station_count": 1737,
-      "price_count": 7111,
+      "station_count": 1736,
+      "price_count": 7106,
       "file": "vic/latest.json",
-      "checksum": "2e27d8c5",
-      "size_bytes": 779753
+      "checksum": "11b7162d",
+      "size_bytes": 779353
     },
     "WA": {
       "station_count": 993,
       "price_count": 3359,
       "file": "wa/latest.json",
-      "checksum": "2a3eb22c",
+      "checksum": "6b94dab9",
       "size_bytes": 508488
     }
   },

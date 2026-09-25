@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-09-25T13:43:10Z",
+  "fetched_at": "2026-09-25T14:44:24Z",
   "station_count": 295,
   "fuel_types": [
     "E10",
@@ -1726,8 +1726,6 @@
       "address": "136-138 Tarleton Street, East Devonport TAS 7310",
       "state": "TAS",
       "prices": {
-        "E10": 239.9,
-        "U95": 258.9,
         "U98": 267.9,
         "Premium Diesel": 293.9,
         "U91": 245.9

@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-25T03:06:41Z",
+  "fetched_at": "2026-09-25T06:23:16Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -54,11 +54,11 @@
       "address": "20 Mort ST, Braddon ACT 2612",
       "state": "ACT",
       "prices": {
-        "E10": 249.9,
+        "E10": 250.9,
         "Premium Diesel": 299.9,
-        "U91": 251.9
+        "U91": 252.9
       },
-      "updated": "2026-09-25T00:30:41Z",
+      "updated": "2026-09-25T05:15:21Z",
       "lat": -35.275669,
       "lng": 149.131261
     },
@@ -89,10 +89,10 @@
         "E10": 247.4,
         "U95": 268.9,
         "U98": 277.9,
-        "Premium Diesel": 306.9,
-        "U91": 251.4
+        "Premium Diesel": 304.9,
+        "U91": 248.9
       },
-      "updated": "2026-09-23T10:07:26Z",
+      "updated": "2026-09-25T04:47:26Z",
       "lat": -35.270935,
       "lng": 149.133379
     },
@@ -168,12 +168,12 @@
       "state": "ACT",
       "prices": {
         "E10": 247.9,
-        "U95": 267.9,
-        "U98": 276.9,
-        "Premium Diesel": 308.9,
+        "U95": 267.4,
+        "U98": 275.9,
+        "Premium Diesel": 307.9,
         "U91": 250.4
       },
-      "updated": "2026-09-23T23:27:26Z",
+      "updated": "2026-09-25T05:12:27Z",
       "lat": -35.378878,
       "lng": 149.057528
     },
@@ -379,13 +379,13 @@
       "address": "Cnr Tharwa Drive & Norman Lindsay Street, Conder ACT 2906",
       "state": "ACT",
       "prices": {
-        "E10": 251.9,
-        "U95": 271.9,
-        "U98": 281.9,
+        "E10": 250.9,
+        "U95": 270.9,
+        "U98": 280.9,
         "Premium Diesel": 299.9,
-        "U91": 253.9
+        "U91": 252.9
       },
-      "updated": "2026-09-23T05:18:14Z",
+      "updated": "2026-09-25T03:36:16Z",
       "lat": -35.4582,
       "lng": 149.092
     },
@@ -884,12 +884,12 @@
       "address": "2 Chinner Cres, Melba ACT 2615",
       "state": "ACT",
       "prices": {
-        "E10": 244.9,
-        "U98": 272.9,
+        "E10": 243.9,
+        "U98": 271.9,
         "Premium Diesel": 299.9,
-        "U91": 246.9
+        "U91": 245.9
       },
-      "updated": "2026-09-25T00:57:14Z",
+      "updated": "2026-09-25T04:15:23Z",
       "lat": -35.2078,
       "lng": 149.048
     },

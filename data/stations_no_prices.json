@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-24T23:43:13Z",
+  "fetched_at": "2026-09-25T01:28:48Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1274,
+  "station_count": 1273,
   "by_state": {
     "ACT": 9,
     "NSW": 1156,
@@ -9,7 +9,7 @@
     "QLD": 29,
     "SA": 30,
     "TAS": 1,
-    "VIC": 20
+    "VIC": 19
   },
   "by_brand": {
     "Exploren": 236,
@@ -37,10 +37,10 @@
     "Mobil": 6,
     "Everty": 4,
     "Speedway": 3,
-    "U-Go": 2,
     "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
+    "U-Go": 1,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
@@ -11737,21 +11737,6 @@
         "Diesel",
         "E10",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "U-Go",
-      "code": "VIC:M3mw15gns3NUkkKl+EisFvunoJSbLxVvYU7TQ3J2xAA=",
-      "name": "U-Go Ringwood East",
-      "address": "18 Mt Dandenong Road, Ringwood East, 3135",
-      "state": "VIC",
-      "lat": -37.81195286,
-      "lng": 145.24114189,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

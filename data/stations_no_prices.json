@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-25T12:51:52Z",
+  "fetched_at": "2026-09-25T13:43:10Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1272,
   "by_state": {
     "ACT": 9,
     "NSW": 1156,
@@ -9,7 +9,7 @@
     "QLD": 29,
     "SA": 30,
     "TAS": 1,
-    "VIC": 19
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
@@ -40,7 +40,6 @@
     "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
-    "Metro Petroleum": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
@@ -51,6 +50,7 @@
     "Perrys": 1,
     "AM/PM": 1,
     "Bowser Bean": 1,
+    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
     "Apco": 1
   },
@@ -11623,21 +11623,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Metro Petroleum",
-      "code": "VIC:rWzBabl5XWgVh3HRwlGuVU1XYJNaRt1EPJNGCl/xAh0=",
-      "name": "Metro Sunshine",
-      "address": "147-151 Devonshire Road, SUNSHINE, 3020",
-      "state": "VIC",
-      "lat": -37.78625411,
-      "lng": 144.84557921,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
       ]
     },
     {

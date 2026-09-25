@@ -2,8 +2,8 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-09-25T07:43:50Z",
-  "station_count": 697,
+  "fetched_at": "2026-09-25T09:05:43Z",
+  "station_count": 696,
   "fuel_types": [
     "E10",
     "U91",
@@ -1861,15 +1861,13 @@
       "state": "SA",
       "prices": {
         "U91": 224.9,
+        "U95": 237.9,
         "U98": 246.5,
         "Premium Diesel": 280.4
       },
-      "updated": "2026-09-25T05:37:09Z",
+      "updated": "2026-09-25T08:37:09Z",
       "lat": -34.994294,
-      "lng": 138.575128,
-      "unavailable_fuels": [
-        "U95"
-      ]
+      "lng": 138.575128
     },
     {
       "brand": "Caltex",
@@ -2927,7 +2925,7 @@
         "U98": 256.9,
         "Premium Diesel": 292.9
       },
-      "updated": "2026-09-25T07:40:22Z",
+      "updated": "2026-09-25T08:55:19Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -3451,11 +3449,11 @@
       "state": "SA",
       "prices": {
         "U91": 230.9,
-        "Diesel": 269.9,
+        "Diesel": 289.9,
         "U95": 245.9,
         "U98": 253.9
       },
-      "updated": "2026-09-25T02:35:15Z",
+      "updated": "2026-09-25T09:02:50Z",
       "lat": -34.69139920686908,
       "lng": 138.6875776351656
     },
@@ -5459,7 +5457,7 @@
         "U98": 260.9,
         "Premium Diesel": 290.9
       },
-      "updated": "2026-09-25T07:40:22Z",
+      "updated": "2026-09-25T08:55:19Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -5603,11 +5601,11 @@
       "address": "69 Stuart Highway, SA 5723",
       "state": "SA",
       "prices": {
-        "U91": 280.9,
-        "Diesel": 310.9,
-        "U95": 295.9
+        "U91": 293.9,
+        "Diesel": 315.9,
+        "U95": 308.9
       },
-      "updated": "2026-09-21T23:42:22Z",
+      "updated": "2026-09-25T08:50:17Z",
       "lat": -27.905191,
       "lng": 134.056677
     },
@@ -8571,21 +8569,6 @@
       "updated": "2026-09-18T10:29:06Z",
       "lat": -32.12296609999787,
       "lng": 133.6930745551559
-    },
-    {
-      "brand": "Independent",
-      "code": "SA:61577228",
-      "name": "Angaston Motors",
-      "address": "23-25 Murray Street, SA 5353",
-      "state": "SA",
-      "prices": {
-        "U91": 242.9,
-        "Diesel": 289.9,
-        "U98": 261.9
-      },
-      "updated": "2026-09-24T07:42:44Z",
-      "lat": -34.500793,
-      "lng": 139.049377
     },
     {
       "brand": "Shell",

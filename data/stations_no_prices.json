@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-25T07:43:50Z",
+  "fetched_at": "2026-09-25T09:05:43Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1274,
   "by_state": {
     "ACT": 9,
     "NSW": 1156,
     "NT": 29,
-    "QLD": 29,
-    "SA": 29,
+    "QLD": 30,
+    "SA": 30,
     "TAS": 1,
     "VIC": 19
   },
@@ -17,8 +17,8 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 83,
+    "Independent": 73,
     "Chargefox": 72,
-    "Independent": 72,
     "7-Eleven": 65,
     "BP": 54,
     "NRMA": 45,
@@ -46,6 +46,7 @@
     "Astron": 1,
     "Arko Energy": 1,
     "Enhance": 1,
+    "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "AM/PM": 1,
@@ -10883,6 +10884,21 @@
       ]
     },
     {
+      "brand": "Freedom Fuels",
+      "code": "QLD:61451738",
+      "name": "Freedom Fuels Fernvale",
+      "address": "1533 Brisbane Valley Highway, QLD 4306",
+      "state": "QLD",
+      "lat": -27.451983,
+      "lng": 152.648755,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U95"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "QLD:61478228",
       "name": "Heathy's General Store",
@@ -11139,6 +11155,20 @@
       "state": "SA",
       "lat": -35.180316,
       "lng": 138.483943
+    },
+    {
+      "brand": "Independent",
+      "code": "SA:61577228",
+      "name": "Angaston Motors",
+      "address": "23-25 Murray Street, SA 5353",
+      "state": "SA",
+      "lat": -34.500793,
+      "lng": 139.049377,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
+      ]
     },
     {
       "brand": "Independent",

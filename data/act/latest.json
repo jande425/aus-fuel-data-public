@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-26T22:45:49Z",
+  "fetched_at": "2026-09-26T23:54:17Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -150,13 +150,13 @@
       "address": "275 Maribyrnong Av, Kaleen ACT 2617",
       "state": "ACT",
       "prices": {
-        "E10": 247.9,
-        "U95": 266.9,
-        "U98": 276.9,
+        "E10": 250.9,
+        "U95": 269.9,
+        "U98": 279.9,
         "Premium Diesel": 299.9,
-        "U91": 249.9
+        "U91": 252.9
       },
-      "updated": "2026-09-23T20:12:28Z",
+      "updated": "2026-09-26T22:47:27Z",
       "lat": -35.233718,
       "lng": 149.103666
     },
@@ -398,9 +398,10 @@
       "prices": {
         "LPG": 125.9,
         "U98": 274.9,
-        "Premium Diesel": 299.9
+        "Premium Diesel": 299.9,
+        "U91": 248.9
       },
-      "updated": "2026-09-23T21:45:34Z",
+      "updated": "2026-09-26T23:43:28Z",
       "lat": -35.2136,
       "lng": 149.096
     },
@@ -573,7 +574,6 @@
       "state": "ACT",
       "prices": {
         "E10": 246.9,
-        "LPG": 125.9,
         "U98": 274.9,
         "Premium Diesel": 299.9,
         "U91": 248.9
@@ -915,10 +915,12 @@
       "state": "ACT",
       "prices": {
         "E10": 242.9,
+        "U95": 261.9,
         "U98": 270.9,
-        "Premium Diesel": 299.9
+        "Premium Diesel": 299.9,
+        "U91": 244.9
       },
-      "updated": "2026-09-21T01:20:59Z",
+      "updated": "2026-09-26T23:48:31Z",
       "lat": -35.355061,
       "lng": 149.091106
     },

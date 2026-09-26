@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-26T13:35:04Z",
+  "fetched_at": "2026-09-26T17:20:21Z",
   "station_count": 2107,
   "fuel_types": [
     "E10",
@@ -8000,11 +8000,11 @@
       "address": "46 Albert ST, Freshwater NSW 2096",
       "state": "NSW",
       "prices": {
-        "Diesel": 290.9,
+        "Diesel": 289.9,
         "E10": 229.9,
         "U98": 256.9
       },
-      "updated": "2026-09-25T03:39:10Z",
+      "updated": "2026-09-26T14:08:54Z",
       "lat": -33.777395,
       "lng": 151.286952
     },
@@ -8700,13 +8700,13 @@
       "address": "67 Woodhouse DR, Ambarvale NSW 2560",
       "state": "NSW",
       "prices": {
-        "E10": 231.4,
-        "U95": 250.4,
-        "U98": 259.4,
+        "E10": 235.9,
+        "U95": 254.9,
+        "U98": 263.9,
         "Premium Diesel": 289.9,
-        "U91": 233.4
+        "U91": 237.9
       },
-      "updated": "2026-09-26T06:24:14Z",
+      "updated": "2026-09-26T14:51:11Z",
       "lat": -34.087352,
       "lng": 150.799712
     },
@@ -10786,13 +10786,12 @@
       "address": "274 Georges River RD, Croydon Park NSW 2133",
       "state": "NSW",
       "prices": {
+        "Diesel": 236.9,
         "E10": 227.9,
-        "LPG": 97.9,
         "U98": 255.9,
-        "Premium Diesel": 279.9,
         "U91": 229.9
       },
-      "updated": "2026-09-22T02:12:54Z",
+      "updated": "2026-09-26T14:55:42Z",
       "lat": -33.896927,
       "lng": 151.103217
     },
@@ -11213,12 +11212,12 @@
       "address": "928-930 King Georges RD, Blakehurst NSW 2221",
       "state": "NSW",
       "prices": {
-        "E10": 227.7,
+        "E10": 232.7,
         "U98": 249.7,
-        "Premium Diesel": 274.9,
+        "Premium Diesel": 279.9,
         "U91": 234.7
       },
-      "updated": "2026-09-26T11:09:08Z",
+      "updated": "2026-09-26T17:14:13Z",
       "lat": -33.981085,
       "lng": 151.108476
     },
@@ -13069,9 +13068,13 @@
       "address": "180 Stacey & Stanley Streets, Bankstown NSW 2200",
       "state": "NSW",
       "prices": {
-        "U95": 256.9
+        "E10": 237.9,
+        "U95": 256.9,
+        "U98": 265.9,
+        "Premium Diesel": 288.9,
+        "U91": 239.9
       },
-      "updated": "2026-09-25T21:33:13Z",
+      "updated": "2026-09-26T14:29:40Z",
       "lat": -33.920941,
       "lng": 151.039191
     },
@@ -13689,13 +13692,13 @@
       "address": "Corner Richmond Road & Dublin Street, Plumpton NSW 2761",
       "state": "NSW",
       "prices": {
-        "E10": 237.9,
-        "U95": 256.9,
-        "U98": 265.9,
+        "E10": 238.9,
+        "U95": 257.9,
+        "U98": 266.9,
         "Premium Diesel": 291.9,
-        "U91": 239.9
+        "U91": 240.9
       },
-      "updated": "2026-09-22T07:12:13Z",
+      "updated": "2026-09-26T14:51:11Z",
       "lat": -33.73984,
       "lng": 150.860297
     },
@@ -27847,14 +27850,14 @@
       "address": "100 Rookwood RD, Yagoona NSW 2199",
       "state": "NSW",
       "prices": {
-        "Diesel": 269.9,
-        "E10": 227.9,
+        "Diesel": 272.5,
+        "E10": 228.5,
         "E85": 235.7,
         "LPG": 114.9,
         "U98": 259.9,
-        "U91": 229.9
+        "U91": 230.5
       },
-      "updated": "2026-09-26T04:58:19Z",
+      "updated": "2026-09-26T14:37:59Z",
       "lat": -33.899293,
       "lng": 151.036862
     },
@@ -29921,13 +29924,13 @@
       "address": "41 Broadarrow RD, Narwee NSW 2209",
       "state": "NSW",
       "prices": {
-        "E10": 227.7,
+        "E10": 232.7,
         "U95": 247.7,
         "U98": 257.7,
-        "Premium Diesel": 276.7,
+        "Premium Diesel": 281.7,
         "U91": 234.7
       },
-      "updated": "2026-09-26T09:05:39Z",
+      "updated": "2026-09-26T13:47:09Z",
       "lat": -33.948149,
       "lng": 151.070973
     },

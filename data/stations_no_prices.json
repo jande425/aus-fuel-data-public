@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-25T23:45:40Z",
+  "fetched_at": "2026-09-26T03:10:49Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1273,
   "by_state": {
     "ACT": 9,
     "NSW": 1155,
@@ -9,7 +9,7 @@
     "QLD": 29,
     "SA": 30,
     "TAS": 1,
-    "VIC": 19
+    "VIC": 20
   },
   "by_brand": {
     "Exploren": 236,
@@ -23,8 +23,8 @@
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
+    "Ampol": 20,
     "JOLT": 20,
-    "Ampol": 19,
     "Caltex": 13,
     "Shell": 10,
     "Puma Energy": 10,
@@ -11528,6 +11528,20 @@
         "LPG",
         "U91",
         "U95"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "VIC:maEWbdne2tQhSWWgR4WkF7ieWGlpGvxE22zhVxwLBbA=",
+      "name": "Ampol Edenhope",
+      "address": "2 Wimmera Highway, Edenhope, 3318",
+      "state": "VIC",
+      "lat": -37.035284,
+      "lng": 141.304318,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
       ]
     },
     {

@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-26T08:49:41Z",
+  "fetched_at": "2026-09-26T12:19:34Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1274,
+  "station_count": 1273,
   "by_state": {
     "ACT": 9,
     "NSW": 1156,
@@ -9,7 +9,7 @@
     "QLD": 29,
     "SA": 30,
     "TAS": 1,
-    "VIC": 20
+    "VIC": 19
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 83,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 67,
+    "7-Eleven": 66,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -50,9 +50,9 @@
     "Perrys": 1,
     "AM/PM": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -11474,22 +11474,6 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:48luPwfd06tMAIXkCDaP58VmFWSs4k95RniCVTLtOZ8=",
-      "name": "7-Eleven Kilsyth",
-      "address": "109-111 Canterbury Road, Kilsyth, 3137",
-      "state": "VIC",
-      "lat": -37.81774286,
-      "lng": 145.31729087,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "7-Eleven",

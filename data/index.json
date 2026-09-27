@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-27T03:17:53Z",
-  "total_stations": 7873,
+  "last_updated": "2026-09-27T06:51:55Z",
+  "total_stations": 7872,
   "total_states": 8,
   "fuel_types": [
     "23",
@@ -23,57 +23,57 @@
       "station_count": 62,
       "price_count": 263,
       "file": "act/latest.json",
-      "checksum": "020fe11e",
+      "checksum": "53205701",
       "size_bytes": 25271
     },
     "NSW": {
-      "station_count": 2106,
-      "price_count": 8417,
+      "station_count": 2105,
+      "price_count": 8409,
       "file": "nsw/latest.json",
-      "checksum": "cb83f71f",
-      "size_bytes": 836772
+      "checksum": "94191d37",
+      "size_bytes": 836286
     },
     "NT": {
       "station_count": 210,
       "price_count": 570,
       "file": "nt/latest.json",
-      "checksum": "80f78c66",
+      "checksum": "69dcb2b3",
       "size_bytes": 79495
     },
     "QLD": {
       "station_count": 1777,
       "price_count": 6909,
       "file": "qld/latest.json",
-      "checksum": "5600c0b3",
+      "checksum": "fb93b51f",
       "size_bytes": 701256
     },
     "SA": {
-      "station_count": 695,
-      "price_count": 2475,
+      "station_count": 694,
+      "price_count": 2473,
       "file": "sa/latest.json",
-      "checksum": "9f458018",
-      "size_bytes": 268746
+      "checksum": "d32cac11",
+      "size_bytes": 268376
     },
     "TAS": {
       "station_count": 295,
-      "price_count": 1440,
+      "price_count": 1438,
       "file": "tas/latest.json",
-      "checksum": "15e7e8a2",
-      "size_bytes": 124533
+      "checksum": "3cfa5d10",
+      "size_bytes": 124486
     },
     "VIC": {
-      "station_count": 1734,
-      "price_count": 7105,
+      "station_count": 1735,
+      "price_count": 7110,
       "file": "vic/latest.json",
-      "checksum": "7fc1b7e4",
-      "size_bytes": 778648
+      "checksum": "953bcb69",
+      "size_bytes": 779084
     },
     "WA": {
       "station_count": 994,
       "price_count": 3367,
       "file": "wa/latest.json",
-      "checksum": "6e5c28e5",
-      "size_bytes": 509156
+      "checksum": "79d67196",
+      "size_bytes": 624059
     }
   },
   "files": {

@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-27T03:17:53Z",
+  "fetched_at": "2026-09-27T06:51:55Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1276,
+  "station_count": 1277,
   "by_state": {
     "ACT": 9,
-    "NSW": 1157,
+    "NSW": 1158,
     "NT": 29,
     "QLD": 29,
-    "SA": 31,
+    "SA": 32,
     "TAS": 1,
-    "VIC": 20
+    "VIC": 19
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 83,
-    "Independent": 73,
+    "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 67,
     "BP": 54,
@@ -50,9 +50,9 @@
     "Perrys": 1,
     "AM/PM": 1,
     "Bowser Bean": 1,
+    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -684,6 +684,15 @@
       "state": "NSW",
       "lat": -33.975997,
       "lng": 151.10364
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:17129",
+      "name": "7-Eleven Unanderra",
+      "address": "41-43 Princes Hwy, UNANDERRA NSW 2526",
+      "state": "NSW",
+      "lat": -34.450291,
+      "lng": 150.849268
     },
     {
       "brand": "7-Eleven",
@@ -11257,6 +11266,19 @@
     },
     {
       "brand": "Independent",
+      "code": "SA:61577045",
+      "name": "Fishbowl General Store and Fuel Stop",
+      "address": "15 Main Street, SA 5454",
+      "state": "SA",
+      "lat": -33.49860091316172,
+      "lng": 138.60743622147848,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91"
+      ]
+    },
+    {
+      "brand": "Independent",
       "code": "SA:61577329",
       "name": "Frances General Store",
       "address": "1 Second Street, SA 5262",
@@ -11498,21 +11520,6 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:XNGGfEPY76Sv8twl5onScY960XSLEPvwd01D8D3fTGI=",
-      "name": "7-Eleven Moonee Ponds 1",
-      "address": "556-566 Mt Alexander Road, Moonee Ponds, 3039",
-      "state": "VIC",
-      "lat": -37.77334131473298,
-      "lng": 144.92745460147538,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "7-Eleven",

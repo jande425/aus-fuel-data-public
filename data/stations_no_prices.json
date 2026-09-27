@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-27T00:45:35Z",
+  "fetched_at": "2026-09-27T01:24:21Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1277,
   "by_state": {
     "ACT": 9,
     "NSW": 1157,
@@ -9,7 +9,7 @@
     "QLD": 29,
     "SA": 30,
     "TAS": 1,
-    "VIC": 20
+    "VIC": 22
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 83,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 68,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -11486,6 +11486,21 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:XNGGfEPY76Sv8twl5onScY960XSLEPvwd01D8D3fTGI=",
+      "name": "7-Eleven Moonee Ponds 1",
+      "address": "556-566 Mt Alexander Road, Moonee Ponds, 3039",
+      "state": "VIC",
+      "lat": -37.77334131473298,
+      "lng": 144.92745460147538,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:gOLrE3rte8ewrgyJlTWGv5xMmBL6F3+elDRtRkdMFIM=",
       "name": "7-Eleven Mornington Tyabb",
       "address": "19-21 Mornington-Tyabb Road, Mornington, 3931",
@@ -11510,6 +11525,22 @@
       "lng": 145.17289763,
       "unavailable_fuels": [
         "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:RPrNVjhwEGJbOG0dOkgS1tDuHOiiX2Jk4GVV8jkaKvk=",
+      "name": "7-Eleven Shepparton North",
+      "address": "228-238 Numurkah Road, Shepparton, 3630",
+      "state": "VIC",
+      "lat": -36.34776695463,
+      "lng": 145.40163392132325,
+      "unavailable_fuels": [
+        "E10",
         "Premium Diesel",
         "U91",
         "U95",

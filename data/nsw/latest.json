@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-27T13:54:50Z",
-  "station_count": 2106,
+  "fetched_at": "2026-09-27T14:49:36Z",
+  "station_count": 2105,
   "fuel_types": [
     "E10",
     "U91",
@@ -16429,22 +16429,6 @@
     },
     {
       "brand": "EG Ampol",
-      "code": "NSW:538",
-      "name": "EG Ampol Eagle Vale",
-      "address": "Eaglevale Road (Eaglevale Market Place), Eagle Vale NSW 2558",
-      "state": "NSW",
-      "prices": {
-        "U95": 259.9,
-        "U98": 269.9,
-        "Premium Diesel": 295.9,
-        "U91": 242.9
-      },
-      "updated": "2026-09-25T02:48:15Z",
-      "lat": -34.031827,
-      "lng": 150.81579
-    },
-    {
-      "brand": "EG Ampol",
       "code": "NSW:539",
       "name": "EG Ampol Cootamundra",
       "address": "88 Murray Street, Cootamundra NSW 2590",
@@ -21883,11 +21867,11 @@
       "address": "51 Tweed Valley Way, Murwillumbah NSW 2484",
       "state": "NSW",
       "prices": {
-        "Diesel": 289.9,
-        "U98": 267.9,
-        "U91": 241.9
+        "Diesel": 285.9,
+        "U98": 265.9,
+        "U91": 239.9
       },
-      "updated": "2026-09-26T00:37:17Z",
+      "updated": "2026-09-27T13:56:43Z",
       "lat": -28.318804,
       "lng": 153.429415
     },

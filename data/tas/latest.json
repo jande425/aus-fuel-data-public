@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-09-27T13:54:50Z",
+  "fetched_at": "2026-09-27T14:49:36Z",
   "station_count": 295,
   "fuel_types": [
     "E10",
@@ -2571,12 +2571,14 @@
       "address": "60 Carlton Beach Road , Dodges Ferry TAS 7173",
       "state": "TAS",
       "prices": {
+        "E10": 232.9,
         "U95": 284,
         "U98": 260.9,
-        "Diesel": 299,
-        "U91": 250
+        "Premium Diesel": 296.9,
+        "U91": 250,
+        "Diesel": 299
       },
-      "updated": "2026-09-24T23:45:06Z",
+      "updated": "2026-09-27T14:09:01Z",
       "lat": -42.8581297,
       "lng": 147.616764
     },
@@ -3886,7 +3888,7 @@
         "U98": 264.5,
         "U91": 238.5
       },
-      "updated": "2026-09-24T05:39:54Z",
+      "updated": "2026-09-27T14:12:18Z",
       "lat": -41.20981203,
       "lng": 146.34352969
     },

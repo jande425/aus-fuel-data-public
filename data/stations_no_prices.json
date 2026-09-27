@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-27T13:54:50Z",
+  "fetched_at": "2026-09-27T14:49:36Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1276,
+  "station_count": 1277,
   "by_state": {
     "ACT": 9,
-    "NSW": 1157,
+    "NSW": 1158,
     "NT": 29,
     "QLD": 29,
     "SA": 32,
@@ -41,6 +41,7 @@
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
+    "EG Ampol": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
@@ -49,8 +50,8 @@
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "AM/PM": 1,
-    "Bowser Bean": 1,
     "Apco": 1,
+    "Bowser Bean": 1,
     "Metro Petroleum": 1,
     "ETA PETROLEUM": 1
   },
@@ -4302,6 +4303,15 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "NSW:538",
+      "name": "EG Ampol Eagle Vale",
+      "address": "Eaglevale Road (Eaglevale Market Place), Eagle Vale NSW 2558",
+      "state": "NSW",
+      "lat": -34.031827,
+      "lng": 150.81579
     },
     {
       "brand": "EVUp",

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T22:26:29Z",
+  "fetched_at": "2026-09-27T23:00:40Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1275,
   "by_state": {
@@ -40,8 +40,8 @@
     "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
+    "U-Go": 1,
     "Westside": 1,
-    "EG Ampol": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
@@ -4303,15 +4303,6 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "NSW:506",
-      "name": "EG Ampol Rutherford",
-      "address": "300 New England Highway, Rutherford NSW 2320",
-      "state": "NSW",
-      "lat": -32.714802,
-      "lng": 151.525136
     },
     {
       "brand": "EVUp",
@@ -10081,6 +10072,15 @@
       "state": "NSW",
       "lat": -32.769186,
       "lng": 151.273708
+    },
+    {
+      "brand": "U-Go",
+      "code": "NSW:18068",
+      "name": "U-Go Bonnyrigg (Un-manned)",
+      "address": "Smithfield Rd, Cnr Elizabeth Drive, BONNYRIGG NSW 2177",
+      "state": "NSW",
+      "lat": -33.888347,
+      "lng": 150.88214
     },
     {
       "brand": "United",

@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-09-27T22:26:29Z",
+  "fetched_at": "2026-09-27T23:00:40Z",
   "station_count": 295,
   "fuel_types": [
     "E10",
@@ -292,10 +292,11 @@
       "address": "528 South Arm Highway, Lauderdale TAS 7021",
       "state": "TAS",
       "prices": {
+        "U98": 272.9,
         "U91": 250,
         "Diesel": 299
       },
-      "updated": "2026-09-26T07:45:32Z",
+      "updated": "2026-09-27T22:30:30Z",
       "lat": -42.9140087,
       "lng": 147.4863129
     },
@@ -1656,13 +1657,13 @@
       "address": "42 Mary Street, CYGNET TAS 7112",
       "state": "TAS",
       "prices": {
-        "E10": 240.9,
-        "U98": 267.9,
+        "E10": 239.9,
+        "U98": 266.9,
         "Premium Diesel": 299.9,
         "U91": 257.9,
         "U95": 270.9
       },
-      "updated": "2026-09-27T21:02:05Z",
+      "updated": "2026-09-27T22:41:48Z",
       "lat": -43.1598687,
       "lng": 147.0760916
     },
@@ -2180,6 +2181,7 @@
       "address": "16 River Road, Wivenhoe TAS 7320",
       "state": "TAS",
       "prices": {
+        "E10": 230.9,
         "LPG": 113.9,
         "U95": 245.9,
         "U98": 255.9,
@@ -2187,7 +2189,7 @@
         "U91": 233.9,
         "Diesel": 279.9
       },
-      "updated": "2026-09-25T06:15:23Z",
+      "updated": "2026-09-27T22:55:16Z",
       "lat": -41.0733646,
       "lng": 145.923983
     },
@@ -3336,12 +3338,12 @@
       "state": "TAS",
       "prices": {
         "U95": 279.5,
-        "U98": 272.9,
+        "U98": 271.9,
         "Premium Diesel": 299.9,
         "U91": 265.5,
         "Diesel": 305.5
       },
-      "updated": "2026-09-25T06:12:16Z",
+      "updated": "2026-09-27T22:37:42Z",
       "lat": -41.44410374,
       "lng": 145.53294504
     },
@@ -4098,9 +4100,9 @@
         "U98": 265.9,
         "Premium Diesel": 297.7,
         "U91": 248.9,
-        "Diesel": 292.9
+        "Diesel": 289.9
       },
-      "updated": "2026-09-27T14:52:50Z",
+      "updated": "2026-09-27T22:29:00Z",
       "lat": -41.15035156,
       "lng": 145.83336557
     },

@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-27T06:51:55Z",
-  "station_count": 2105,
+  "fetched_at": "2026-09-27T08:04:48Z",
+  "station_count": 2106,
   "fuel_types": [
     "E10",
     "U91",
@@ -1674,10 +1674,10 @@
         "E10": 233.4,
         "U95": 255.4,
         "U98": 257.4,
-        "Premium Diesel": 300.4,
+        "Premium Diesel": 299.4,
         "U91": 232.9
       },
-      "updated": "2026-09-26T22:47:27Z",
+      "updated": "2026-09-27T07:22:28Z",
       "lat": -33.761424,
       "lng": 151.274598
     },
@@ -2865,9 +2865,9 @@
         "E10": 243.9,
         "U95": 262.9,
         "U98": 272.9,
-        "Premium Diesel": 293.9
+        "Premium Diesel": 291.9
       },
-      "updated": "2026-09-26T07:47:26Z",
+      "updated": "2026-09-27T07:22:28Z",
       "lat": -28.326898,
       "lng": 153.409312
     },
@@ -5220,10 +5220,10 @@
         "E10": 226.9,
         "U95": 245.9,
         "U98": 255.9,
-        "Premium Diesel": 272.9,
+        "Premium Diesel": 271.9,
         "U91": 228.9
       },
-      "updated": "2026-09-27T02:27:27Z",
+      "updated": "2026-09-27T07:22:28Z",
       "lat": -33.888472,
       "lng": 151.115729
     },
@@ -5236,9 +5236,9 @@
       "prices": {
         "E10": 244.9,
         "U95": 263.9,
-        "Premium Diesel": 295.9
+        "Premium Diesel": 293.9
       },
-      "updated": "2026-09-26T02:47:25Z",
+      "updated": "2026-09-27T07:22:28Z",
       "lat": -32.925586,
       "lng": 151.627821
     },
@@ -5462,10 +5462,10 @@
         "E10": 231.9,
         "U95": 250.9,
         "U98": 260.9,
-        "Premium Diesel": 295.9,
+        "Premium Diesel": 293.9,
         "U91": 233.9
       },
-      "updated": "2026-09-25T05:17:27Z",
+      "updated": "2026-09-27T07:22:28Z",
       "lat": -33.745684,
       "lng": 151.29206
     },
@@ -7864,10 +7864,10 @@
         "E10": 243.9,
         "U95": 262.9,
         "U98": 272.9,
-        "Premium Diesel": 294.9,
+        "Premium Diesel": 293.9,
         "U91": 245.9
       },
-      "updated": "2026-09-27T02:27:27Z",
+      "updated": "2026-09-27T07:22:28Z",
       "lat": -33.42325,
       "lng": 151.438216
     },
@@ -12269,11 +12269,10 @@
       "address": "3012 Sturt HWY, Alfredtown NSW 2650",
       "state": "NSW",
       "prices": {
-        "U95": 249.5,
-        "Premium Diesel": 279.9,
-        "U91": 231.5
+        "U95": 252.5,
+        "Premium Diesel": 279.9
       },
-      "updated": "2026-09-25T08:05:29Z",
+      "updated": "2026-09-27T07:25:53Z",
       "lat": -35.161054,
       "lng": 147.512239
     },
@@ -13387,6 +13386,23 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:241",
+      "name": "7-Eleven Plumpton",
+      "address": "291 Rooty Hill Road North, Plumpton NSW 2761",
+      "state": "NSW",
+      "prices": {
+        "E10": 237.9,
+        "U95": 256.9,
+        "U98": 265.9,
+        "Premium Diesel": 288.9,
+        "U91": 239.9
+      },
+      "updated": "2026-09-27T07:01:10Z",
+      "lat": -33.753565,
+      "lng": 150.840322
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:243",
       "name": "7-Eleven Kirrawee",
       "address": "529-531 Princes Highway & Bath Road, Kirrawee NSW 2232",
@@ -13542,7 +13558,6 @@
       "address": "1497 Pittwater Road & Gondola Street, Narrabeen NSW 2101",
       "state": "NSW",
       "prices": {
-        "E10": 240.9,
         "LPG": 109.9,
         "U98": 268.9,
         "Premium Diesel": 290.9
@@ -21616,10 +21631,10 @@
       "state": "NSW",
       "prices": {
         "Diesel": 284.7,
-        "U98": 254.4,
+        "U98": 266.9,
         "U91": 236.9
       },
-      "updated": "2026-09-26T21:14:57Z",
+      "updated": "2026-09-27T07:04:05Z",
       "lat": -34.403087,
       "lng": 150.488468
     },
@@ -21631,7 +21646,6 @@
       "state": "NSW",
       "prices": {
         "Diesel": 275.9,
-        "E10": 239.9,
         "U91": 237.9
       },
       "updated": "2026-09-24T23:56:50Z",
@@ -27704,12 +27718,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 279.5,
-        "E10": 237.5,
+        "E10": 229.5,
         "U95": 251.5,
         "U98": 261.5,
-        "U91": 239.5
+        "U91": 231.5
       },
-      "updated": "2026-09-25T10:59:26Z",
+      "updated": "2026-09-27T06:54:53Z",
       "lat": -33.415998,
       "lng": 149.582965
     },
@@ -31897,13 +31911,13 @@
       "address": "112-114 Ramsgate RD, Ramsgate NSW 2217",
       "state": "NSW",
       "prices": {
-        "E10": 231.9,
-        "U95": 249.9,
-        "U98": 256.9,
-        "Premium Diesel": 279.5,
-        "U91": 233.9
+        "E10": 228.7,
+        "U95": 246.7,
+        "U98": 249.7,
+        "Premium Diesel": 276.9,
+        "U91": 229.7
       },
-      "updated": "2026-09-22T01:13:28Z",
+      "updated": "2026-09-27T08:02:00Z",
       "lat": -33.984424,
       "lng": 151.14014
     },

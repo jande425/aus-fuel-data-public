@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-27T01:24:21Z",
+  "fetched_at": "2026-09-27T03:17:53Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1277,
+  "station_count": 1276,
   "by_state": {
     "ACT": 9,
     "NSW": 1157,
     "NT": 29,
     "QLD": 29,
-    "SA": 30,
+    "SA": 31,
     "TAS": 1,
-    "VIC": 22
+    "VIC": 20
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,13 +19,13 @@
     "Reddy Express": 83,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 68,
-    "BP": 55,
+    "7-Eleven": 67,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "Ampol": 20,
     "JOLT": 20,
-    "Caltex": 13,
+    "Caltex": 14,
     "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
@@ -11177,6 +11177,21 @@
       ]
     },
     {
+      "brand": "Caltex",
+      "code": "SA:61501103",
+      "name": "Caltex Smithfield East (Sa)",
+      "address": "Lot\u00a0182  Main North Rd, SA 5114",
+      "state": "SA",
+      "lat": -34.6847011274469,
+      "lng": 138.69317797916793,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "SA:61501546",
       "name": "Cape Jervis Tavern And General Store",
@@ -11532,22 +11547,6 @@
       ]
     },
     {
-      "brand": "7-Eleven",
-      "code": "VIC:RPrNVjhwEGJbOG0dOkgS1tDuHOiiX2Jk4GVV8jkaKvk=",
-      "name": "7-Eleven Shepparton North",
-      "address": "228-238 Numurkah Road, Shepparton, 3630",
-      "state": "VIC",
-      "lat": -36.34776695463,
-      "lng": 145.40163392132325,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Apco",
       "code": "VIC:9qtPVydEOFxcerCfYKlr/EKJJUaP/s+LXDm7L/QUfGM=",
       "name": "APCO Kangaroo Flat - Temporarily Closed",
@@ -11606,20 +11605,6 @@
         "Premium Diesel",
         "U91",
         "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "BP",
-      "code": "VIC:W2WB9w1Wci8GdYxnLIdO/jsaOUrW8qBAvwgCgCtm8AA=",
-      "name": "Bp Stawell",
-      "address": "57 Longfield Street, Stawell, 3380",
-      "state": "VIC",
-      "lat": -37.063679992332496,
-      "lng": 142.76478658353363,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
         "U98"
       ]
     },

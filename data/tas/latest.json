@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-09-27T01:24:21Z",
+  "fetched_at": "2026-09-27T03:17:53Z",
   "station_count": 295,
   "fuel_types": [
     "E10",
@@ -379,9 +379,9 @@
         "U95": 259.4,
         "U98": 260.9,
         "U91": 235.9,
-        "Premium Diesel": 280.9
+        "Premium Diesel": 279.9
       },
-      "updated": "2026-09-26T07:45:33Z",
+      "updated": "2026-09-27T02:37:13Z",
       "lat": -42.8517409,
       "lng": 147.3601656
     },
@@ -875,13 +875,13 @@
       "address": "1-3 Hobblers Bridge Road, Launceston TAS 7250",
       "state": "TAS",
       "prices": {
-        "Diesel": 286.9,
+        "Diesel": 296.9,
         "E10": 238.9,
         "U95": 263.4,
         "U98": 272.9,
         "U91": 245.9
       },
-      "updated": "2026-09-26T07:15:41Z",
+      "updated": "2026-09-27T03:00:50Z",
       "lat": -41.441623,
       "lng": 147.162028
     },
@@ -1662,7 +1662,7 @@
         "U91": 259.9,
         "U95": 270.9
       },
-      "updated": "2026-09-25T05:21:30Z",
+      "updated": "2026-09-27T02:51:59Z",
       "lat": -43.1598687,
       "lng": 147.0760916
     },
@@ -2080,8 +2080,8 @@
       "prices": {
         "Diesel": 289.9,
         "E10": 217.9,
-        "U95": 253.9,
         "U98": 246.9,
+        "U95": 253.9,
         "U91": 241.9
       },
       "updated": "2026-09-26T07:15:25Z",
@@ -2506,9 +2506,10 @@
       "state": "TAS",
       "prices": {
         "U98": 265.9,
-        "Premium Diesel": 286.9
+        "Premium Diesel": 286.9,
+        "U91": 238.9
       },
-      "updated": "2026-09-26T21:18:12Z",
+      "updated": "2026-09-27T02:33:14Z",
       "lat": -42.8258365,
       "lng": 147.2657479
     },
@@ -2576,7 +2577,6 @@
         "E10": 232.9,
         "U95": 284,
         "U98": 260.9,
-        "Premium Diesel": 296.9,
         "Diesel": 299,
         "U91": 250
       },
@@ -2873,13 +2873,13 @@
       "address": "45 Meander Valley Road, Carrick TAS 7291",
       "state": "TAS",
       "prices": {
-        "E10": 237.9,
+        "E10": 239.9,
         "U98": 267.9,
         "Premium Diesel": 284.9,
         "U91": 245.9,
         "Diesel": 289.9
       },
-      "updated": "2026-09-26T21:00:29Z",
+      "updated": "2026-09-27T02:24:15Z",
       "lat": -41.5317578,
       "lng": 147.0090264
     },
@@ -4832,10 +4832,10 @@
       "address": "20 BURNETT ST, New Norfolk TAS 7140",
       "state": "TAS",
       "prices": {
-        "Diesel": 275.9,
         "E10": 227.5,
         "U98": 253.9,
         "U91": 229.9,
+        "Diesel": 275.9,
         "U95": 245.9
       },
       "updated": "2026-09-26T22:01:18Z",

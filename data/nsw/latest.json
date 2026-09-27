@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-27T14:49:36Z",
+  "fetched_at": "2026-09-27T17:53:31Z",
   "station_count": 2105,
   "fuel_types": [
     "E10",
@@ -11389,11 +11389,12 @@
       "address": "127-129 Marion ST, Leichhardt NSW 2040",
       "state": "NSW",
       "prices": {
+        "E10": 232.4,
         "U98": 259.4,
-        "Premium Diesel": 278.9,
-        "U91": 227.4
+        "Premium Diesel": 279.4,
+        "U91": 237.9
       },
-      "updated": "2026-09-27T06:38:43Z",
+      "updated": "2026-09-27T15:17:52Z",
       "lat": -33.88394,
       "lng": 151.150779
     },
@@ -12461,10 +12462,10 @@
       "prices": {
         "E10": 229.9,
         "U98": 251.9,
-        "Premium Diesel": 272.9,
+        "Premium Diesel": 270.9,
         "U91": 231.9
       },
-      "updated": "2026-09-24T09:24:46Z",
+      "updated": "2026-09-27T17:47:43Z",
       "lat": -33.930473,
       "lng": 151.011988
     },

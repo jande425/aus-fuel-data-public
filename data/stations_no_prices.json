@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-27T09:31:37Z",
+  "fetched_at": "2026-09-27T13:12:04Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1280,
+  "station_count": 1277,
   "by_state": {
     "ACT": 9,
-    "NSW": 1159,
+    "NSW": 1158,
     "NT": 29,
-    "QLD": 31,
+    "QLD": 29,
     "SA": 32,
     "TAS": 1,
     "VIC": 19
@@ -19,7 +19,7 @@
     "Reddy Express": 83,
     "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 70,
+    "7-Eleven": 67,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -50,9 +50,9 @@
     "Perrys": 1,
     "AM/PM": 1,
     "Bowser Bean": 1,
+    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -531,15 +531,6 @@
       "state": "NSW",
       "lat": -33.951306,
       "lng": 151.24905
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:2875",
-      "name": "7-Eleven Marsden Park",
-      "address": "861 Richmond Road, MARSDEN PARK NSW 2765",
-      "state": "NSW",
-      "lat": -33.718692,
-      "lng": 150.846004
     },
     {
       "brand": "7-Eleven",
@@ -10827,38 +10818,6 @@
       "state": "NT",
       "lat": -22.25346,
       "lng": 131.795078
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61477679",
-      "name": "7-Eleven Carrara South",
-      "address": "Cnr Nielsens Rd & Coelia Ct, QLD 4211",
-      "state": "QLD",
-      "lat": -28.016182,
-      "lng": 153.351815,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61477762",
-      "name": "7-Eleven Gaythorne",
-      "address": "399 Samford Road, QLD 4051",
-      "state": "QLD",
-      "lat": -27.417095,
-      "lng": 152.982146,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "Ampol",

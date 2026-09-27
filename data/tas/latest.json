@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-09-27T23:00:40Z",
+  "fetched_at": "2026-09-27T23:33:35Z",
   "station_count": 295,
   "fuel_types": [
     "E10",
@@ -1933,11 +1933,11 @@
         "U95": 267.7,
         "U98": 277.7,
         "Premium Diesel": 288.7,
-        "U91": 239.7,
+        "U91": 239.5,
         "Diesel": 285.7,
         "LPG": 145.7
       },
-      "updated": "2026-09-27T20:49:09Z",
+      "updated": "2026-09-27T23:33:17Z",
       "lat": -42.8710984,
       "lng": 147.3224479
     },
@@ -2112,12 +2112,13 @@
       "state": "TAS",
       "prices": {
         "E10": 234.9,
+        "U95": 253.9,
         "U98": 262.9,
         "Premium Diesel": 284.9,
         "U91": 236.9,
         "Diesel": 287.9
       },
-      "updated": "2026-09-26T01:19:29Z",
+      "updated": "2026-09-27T23:25:21Z",
       "lat": -40.8577002,
       "lng": 145.1330019
     },
@@ -3009,11 +3010,11 @@
       "address": "10 Hedley ST, Scottsdale TAS 7260",
       "state": "TAS",
       "prices": {
-        "Diesel": 289,
+        "Diesel": 286,
         "U95": 263,
         "U91": 249
       },
-      "updated": "2026-09-23T21:53:01Z",
+      "updated": "2026-09-27T23:13:58Z",
       "lat": -41.162285,
       "lng": 147.5183976
     },
@@ -3321,12 +3322,12 @@
       "state": "TAS",
       "prices": {
         "U95": 249.9,
-        "U98": 263.9,
+        "U98": 262.9,
         "Premium Diesel": 299.9,
         "U91": 235.9,
         "Diesel": 277.9
       },
-      "updated": "2026-09-27T01:04:23Z",
+      "updated": "2026-09-27T23:06:15Z",
       "lat": -42.8312934,
       "lng": 147.4859474
     },
@@ -4343,14 +4344,14 @@
       "address": "37 Winifred Jane Crescent Hadspen TAS 7290",
       "state": "TAS",
       "prices": {
-        "Diesel": 292.9,
+        "Diesel": 291.9,
         "E10": 243.9,
         "U95": 262.9,
         "U98": 267.9,
         "Premium Diesel": 288.9,
         "U91": 246.9
       },
-      "updated": "2026-09-27T22:22:26Z",
+      "updated": "2026-09-27T23:27:26Z",
       "lat": -41.50416,
       "lng": 147.0693
     },
@@ -4493,11 +4494,11 @@
       "address": "74 Main ST, Derby TAS 7264",
       "state": "TAS",
       "prices": {
-        "Diesel": 299.9,
+        "Diesel": 289.9,
         "U95": 285.9,
         "U91": 259.9
       },
-      "updated": "2026-09-24T23:42:34Z",
+      "updated": "2026-09-27T23:19:29Z",
       "lat": -41.149044,
       "lng": 147.80154497
     },

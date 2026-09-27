@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-27T18:51:30Z",
+  "fetched_at": "2026-09-27T22:26:29Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1277,
+  "station_count": 1275,
   "by_state": {
     "ACT": 9,
     "NSW": 1158,
     "NT": 29,
     "QLD": 29,
-    "SA": 32,
+    "SA": 30,
     "TAS": 1,
     "VIC": 19
   },
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 83,
-    "Independent": 74,
+    "Independent": 73,
     "Chargefox": 72,
     "7-Eleven": 66,
     "BP": 54,
@@ -25,7 +25,7 @@
     "ChargePoint": 23,
     "Ampol": 20,
     "JOLT": 20,
-    "Caltex": 14,
+    "Caltex": 13,
     "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
@@ -4306,12 +4306,12 @@
     },
     {
       "brand": "EG Ampol",
-      "code": "NSW:538",
-      "name": "EG Ampol Eagle Vale",
-      "address": "Eaglevale Road (Eaglevale Market Place), Eagle Vale NSW 2558",
+      "code": "NSW:506",
+      "name": "EG Ampol Rutherford",
+      "address": "300 New England Highway, Rutherford NSW 2320",
       "state": "NSW",
-      "lat": -34.031827,
-      "lng": 150.81579
+      "lat": -32.714802,
+      "lng": 151.525136
     },
     {
       "brand": "EVUp",
@@ -11161,20 +11161,6 @@
     },
     {
       "brand": "Independent",
-      "code": "SA:61577228",
-      "name": "Angaston Motors",
-      "address": "23-25 Murray Street, SA 5353",
-      "state": "SA",
-      "lat": -34.500793,
-      "lng": 139.049377,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Independent",
       "code": "SA:61577294",
       "name": "Booborowie General Store",
       "address": "21 Sixth St, SA 5417",
@@ -11184,21 +11170,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Caltex",
-      "code": "SA:61501103",
-      "name": "Caltex Smithfield East (Sa)",
-      "address": "Lot\u00a0182  Main North Rd, SA 5114",
-      "state": "SA",
-      "lat": -34.6847011274469,
-      "lng": 138.69317797916793,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {

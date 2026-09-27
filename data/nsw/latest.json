@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-09-27T18:20:31Z",
+  "fetched_at": "2026-09-27T18:51:30Z",
   "station_count": 2105,
   "fuel_types": [
     "E10",
@@ -724,13 +724,13 @@
       "address": "465 Pacific Hwy, WYOMING NSW 2250",
       "state": "NSW",
       "prices": {
-        "E10": 236.9,
+        "E10": 235.9,
         "U95": 256.4,
         "U98": 259.4,
         "Premium Diesel": 306.9,
-        "U91": 234.4
+        "U91": 233.4
       },
-      "updated": "2026-09-26T23:47:25Z",
+      "updated": "2026-09-27T18:42:26Z",
       "lat": -33.409462,
       "lng": 151.349979
     },

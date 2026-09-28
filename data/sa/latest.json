@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-09-28T10:10:37Z",
+  "fetched_at": "2026-09-28T15:45:42Z",
   "station_count": 695,
   "fuel_types": [
     "E10",
@@ -630,14 +630,12 @@
       "prices": {
         "U91": 223.9,
         "U95": 240.9,
-        "U98": 250.9
+        "U98": 250.9,
+        "Premium Diesel": 281.9
       },
-      "updated": "2026-09-27T21:27:10Z",
+      "updated": "2026-09-28T14:02:10Z",
       "lat": -34.982011,
-      "lng": 138.573878,
-      "unavailable_fuels": [
-        "Premium Diesel"
-      ]
+      "lng": 138.573878
     },
     {
       "brand": "Caltex",
@@ -2931,7 +2929,7 @@
         "U98": 256.9,
         "Premium Diesel": 291.9
       },
-      "updated": "2026-09-28T09:55:18Z",
+      "updated": "2026-09-28T15:40:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5457,7 +5455,7 @@
         "U98": 260.9,
         "Premium Diesel": 289.9
       },
-      "updated": "2026-09-28T09:55:18Z",
+      "updated": "2026-09-28T15:40:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -5696,13 +5694,13 @@
       "address": "17 Scott St, SA 5231",
       "state": "SA",
       "prices": {
-        "U91": 232.9,
+        "U91": 236.9,
         "LPG": 121.9,
         "U95": 251.9,
         "U98": 259.9,
-        "Premium Diesel": 285.9
+        "Premium Diesel": 290.9
       },
-      "updated": "2026-09-28T01:53:01Z",
+      "updated": "2026-09-28T11:11:03Z",
       "lat": -34.781789,
       "lng": 138.852242
     },
@@ -7110,11 +7108,11 @@
       "state": "SA",
       "prices": {
         "U91": 263.7,
-        "Diesel": 305.7,
+        "Diesel": 297.9,
         "U98": 281.0,
-        "Premium Diesel": 309.1
+        "Premium Diesel": 301.9
       },
-      "updated": "2026-09-27T10:37:33Z",
+      "updated": "2026-09-28T10:37:31Z",
       "lat": -31.887489,
       "lng": 138.423267
     },
@@ -7268,11 +7266,11 @@
       "address": "2 Belvidere Road, SA 5413",
       "state": "SA",
       "prices": {
-        "U91": 242.9,
-        "Diesel": 296.9,
-        "U98": 262.9
+        "U91": 239.9,
+        "Diesel": 289.9,
+        "U98": 259.9
       },
-      "updated": "2026-09-22T10:36:29Z",
+      "updated": "2026-09-28T10:35:03Z",
       "lat": -34.083441,
       "lng": 138.780345
     },
@@ -8125,12 +8123,12 @@
       "address": "827-837 Port Road, SA 5011",
       "state": "SA",
       "prices": {
-        "U91": 234.9,
-        "U95": 250.9,
-        "U98": 261.9,
-        "Premium Diesel": 290.9
+        "U91": 232.9,
+        "U95": 248.9,
+        "U98": 259.9,
+        "Premium Diesel": 289.9
       },
-      "updated": "2026-09-25T06:10:53Z",
+      "updated": "2026-09-28T10:15:57Z",
       "lat": -34.878131,
       "lng": 138.532059
     },

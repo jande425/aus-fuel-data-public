@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-28T19:08:29Z",
+  "fetched_at": "2026-09-28T22:12:42Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1274,
+  "station_count": 1273,
   "by_state": {
     "ACT": 9,
-    "NSW": 1156,
+    "NSW": 1157,
     "NT": 29,
-    "QLD": 29,
+    "QLD": 27,
     "SA": 31,
     "TAS": 1,
     "VIC": 19
@@ -16,7 +16,7 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 83,
+    "Reddy Express": 81,
     "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 65,
@@ -26,7 +26,7 @@
     "Ampol": 20,
     "JOLT": 20,
     "Caltex": 13,
-    "Shell": 10,
+    "Shell": 11,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
@@ -51,9 +51,9 @@
     "Perrys": 1,
     "AM/PM": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -8905,6 +8905,15 @@
     },
     {
       "brand": "Shell",
+      "code": "NSW:20948",
+      "name": "Solo Casino",
+      "address": "88 Centre ST, Casino NSW 2470",
+      "state": "NSW",
+      "lat": -28.866279,
+      "lng": 153.044889
+    },
+    {
+      "brand": "Shell",
       "code": "NSW:20939",
       "name": "Solo Deniliquin",
       "address": "336 Victoria ST, Deniliquin NSW 2710",
@@ -11027,35 +11036,6 @@
       "state": "QLD",
       "lat": -25.634965,
       "lng": 149.797847
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "QLD:61402891",
-      "name": "Shell Express Edmonton",
-      "address": "9-11 Walker Rd (Cnr Hambledon Dr), QLD 4869",
-      "state": "QLD",
-      "lat": -17.020230981097686,
-      "lng": 145.72865333498765,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "U91"
-      ]
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "QLD:61401761",
-      "name": "Shell Reddy Express Birkdale",
-      "address": "143-153 Birkdale Rd (Cnr Napier St), QLD 4159",
-      "state": "QLD",
-      "lat": -27.493146,
-      "lng": 153.216292,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "Independent",

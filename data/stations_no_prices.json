@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-27T23:33:35Z",
+  "fetched_at": "2026-09-28T01:02:29Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1280,
   "by_state": {
     "ACT": 9,
-    "NSW": 1158,
+    "NSW": 1160,
     "NT": 29,
     "QLD": 29,
-    "SA": 30,
+    "SA": 33,
     "TAS": 1,
     "VIC": 19
   },
@@ -19,11 +19,11 @@
     "Reddy Express": 83,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 67,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 20,
+    "Ampol": 21,
     "JOLT": 20,
     "Caltex": 13,
     "Shell": 10,
@@ -38,8 +38,10 @@
     "Everty": 4,
     "Speedway": 3,
     "Ampol Foodary": 2,
+    "EG Ampol": 2,
     "Budget": 2,
     "Indervon": 2,
+    "AM/PM": 2,
     "U-Go": 1,
     "Westside": 1,
     "Transwest Fuels": 1,
@@ -49,11 +51,10 @@
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "AM/PM": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -442,6 +443,15 @@
       "state": "NSW",
       "lat": -32.791312,
       "lng": 151.725301
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:18656",
+      "name": "7-Eleven Ingleburn",
+      "address": "4 Lancaster ST, Ingleburn NSW 2565",
+      "state": "NSW",
+      "lat": -33.98962,
+      "lng": 150.866728
     },
     {
       "brand": "7-Eleven",
@@ -4303,6 +4313,15 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "NSW:627",
+      "name": "EG Ampol Bowral",
+      "address": "2-4 Banyette Street (Cnr Station St), Bowral NSW 2576",
+      "state": "NSW",
+      "lat": -34.481158,
+      "lng": 150.415338
     },
     {
       "brand": "EVUp",
@@ -11129,6 +11148,21 @@
     },
     {
       "brand": "AM/PM",
+      "code": "SA:61577363",
+      "name": "AMPM Elizabeth",
+      "address": "Shop 8, 88 Elizabeth Way, SA 5112",
+      "state": "SA",
+      "lat": -34.715242,
+      "lng": 138.672154,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "AM/PM",
       "code": "SA:61577434",
       "name": "AMPM Port Augusta",
       "address": "2 Augusta Hwy, SA 5700",
@@ -11144,6 +11178,20 @@
       "state": "SA",
       "lat": -34.28635986450745,
       "lng": 140.59938162698364,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "SA:61570109",
+      "name": "Ampol North Shields Roadhouse",
+      "address": "104 Lincoln Highway, SA 5607",
+      "state": "SA",
+      "lat": -34.629581,
+      "lng": 135.863312,
       "unavailable_fuels": [
         "Diesel",
         "U91",
@@ -11208,6 +11256,21 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "SA:61501973",
+      "name": "EG Ampol Elizabeth",
+      "address": "Philip Hwy & Grenville St, SA 5112",
+      "state": "SA",
+      "lat": -34.719824,
+      "lng": 138.670905,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

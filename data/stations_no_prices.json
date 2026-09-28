@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-28T01:37:43Z",
+  "fetched_at": "2026-09-28T03:14:57Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1281,
+  "station_count": 1277,
   "by_state": {
     "ACT": 9,
-    "NSW": 1160,
+    "NSW": 1158,
     "NT": 29,
-    "QLD": 30,
-    "SA": 33,
+    "QLD": 29,
+    "SA": 32,
     "TAS": 1,
     "VIC": 19
   },
@@ -23,14 +23,14 @@
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 21,
+    "Ampol": 20,
     "JOLT": 20,
     "Caltex": 13,
     "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
-    "Metro Fuel": 8,
+    "Metro Fuel": 7,
     "Evie Networks": 7,
     "Pearl Energy": 6,
     "Liberty": 6,
@@ -38,7 +38,6 @@
     "Everty": 4,
     "Speedway": 3,
     "Ampol Foodary": 2,
-    "EG Ampol": 2,
     "Budget": 2,
     "Indervon": 2,
     "AM/PM": 2,
@@ -51,10 +50,10 @@
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
+    "Apco": 1,
     "Bowser Bean": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -4315,15 +4314,6 @@
       "lng": 150.650238
     },
     {
-      "brand": "EG Ampol",
-      "code": "NSW:627",
-      "name": "EG Ampol Bowral",
-      "address": "2-4 Banyette Street (Cnr Station St), Bowral NSW 2576",
-      "state": "NSW",
-      "lat": -34.481158,
-      "lng": 150.415338
-    },
-    {
       "brand": "EVUp",
       "code": "NSW:19218",
       "name": "EVUp at Train St Central",
@@ -6581,15 +6571,6 @@
       "state": "NSW",
       "lat": -32.964946,
       "lng": 151.695211
-    },
-    {
-      "brand": "Metro Fuel",
-      "code": "NSW:1020",
-      "name": "Metro Fuel Young",
-      "address": "186 Nasmyth St, Young NSW 2594",
-      "state": "NSW",
-      "lat": -34.309721,
-      "lng": 148.291245
     },
     {
       "brand": "Metro Fuel",
@@ -11095,21 +11076,6 @@
       ]
     },
     {
-      "brand": "Reddy Express",
-      "code": "QLD:61401438",
-      "name": "Shell Reddy Express Sunnybank",
-      "address": "254 Mains Rd & Turton St, QLD 4109",
-      "state": "QLD",
-      "lat": -27.575889,
-      "lng": 153.062992,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "QLD:61470864",
       "name": "Somerset Dam General Store",
@@ -11201,20 +11167,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "SA:61570109",
-      "name": "Ampol North Shields Roadhouse",
-      "address": "104 Lincoln Highway, SA 5607",
-      "state": "SA",
-      "lat": -34.629581,
-      "lng": 135.863312,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "SA:61577309",
       "name": "Ampol Seaford Unmanned",
       "address": "55 Seaford Road, SA 5169",
@@ -11271,21 +11223,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "SA:61501973",
-      "name": "EG Ampol Elizabeth",
-      "address": "Philip Hwy & Grenville St, SA 5112",
-      "state": "SA",
-      "lat": -34.719824,
-      "lng": 138.670905,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },
@@ -11479,6 +11416,22 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "SA:61550246",
+      "name": "Shell Reddy Express Murray Bridge",
+      "address": "57 Adelaide Rd, SA 5253",
+      "state": "SA",
+      "lat": -35.12164221972213,
+      "lng": 139.26879138773157,
+      "unavailable_fuels": [
+        "Diesel",
+        "LPG",
+        "U91",
+        "U95",
+        "U98"
       ]
     },
     {

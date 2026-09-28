@@ -2,8 +2,8 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-09-28T01:37:43Z",
-  "station_count": 693,
+  "fetched_at": "2026-09-28T03:14:57Z",
+  "station_count": 694,
   "fuel_types": [
     "E10",
     "U91",
@@ -330,11 +330,11 @@
       "state": "SA",
       "prices": {
         "U91": 230.4,
-        "U95": 246.9,
-        "U98": 255.4,
+        "U95": 244.4,
+        "U98": 249.4,
         "Premium Diesel": 294.4
       },
-      "updated": "2026-09-26T20:57:10Z",
+      "updated": "2026-09-28T02:22:09Z",
       "lat": -34.876228,
       "lng": 138.619101
     },
@@ -752,12 +752,12 @@
       "address": "1003 North East Rd & Montague Rd, SA 5092",
       "state": "SA",
       "prices": {
-        "U91": 233.9,
+        "U91": 232.9,
         "U95": 249.9,
         "U98": 253.9,
-        "Premium Diesel": 289.9
+        "Premium Diesel": 288.4
       },
-      "updated": "2026-09-27T21:37:10Z",
+      "updated": "2026-09-28T02:52:09Z",
       "lat": -34.828314,
       "lng": 138.692099
     },
@@ -1556,13 +1556,13 @@
       "address": "95 Henley Beach Road, SA 5031",
       "state": "SA",
       "prices": {
-        "U91": 236.9,
+        "U91": 229.5,
         "LPG": 108.9,
-        "U95": 252.9,
-        "U98": 261.9,
-        "Premium Diesel": 290.9
+        "U95": 245.5,
+        "U98": 254.5,
+        "Premium Diesel": 287.9
       },
-      "updated": "2026-09-25T20:30:48Z",
+      "updated": "2026-09-28T01:42:40Z",
       "lat": -34.924268,
       "lng": 138.569445
     },
@@ -1591,9 +1591,9 @@
       "prices": {
         "U91": 229.5,
         "U98": 253.5,
-        "Premium Diesel": 289.9
+        "Premium Diesel": 287.9
       },
-      "updated": "2026-09-25T03:22:13Z",
+      "updated": "2026-09-28T02:12:38Z",
       "lat": -34.924992,
       "lng": 138.547632
     },
@@ -2395,13 +2395,13 @@
       "state": "SA",
       "prices": {
         "U91": 232.9,
-        "Diesel": 289.9,
+        "Diesel": 287.9,
         "LPG": 108.9,
         "U98": 255.9,
         "E10": 228.9,
         "E85": 249.9
       },
-      "updated": "2026-09-25T03:30:19Z",
+      "updated": "2026-09-28T02:30:15Z",
       "lat": -34.93449256902421,
       "lng": 138.5400024576721
     },
@@ -2434,9 +2434,9 @@
         "U91": 235.9,
         "U95": 252.9,
         "U98": 262.9,
-        "Premium Diesel": 291.9
+        "Premium Diesel": 290.9
       },
-      "updated": "2026-09-25T06:07:08Z",
+      "updated": "2026-09-28T02:22:09Z",
       "lat": -34.900018,
       "lng": 138.490495
     },
@@ -2931,7 +2931,7 @@
         "U98": 256.9,
         "Premium Diesel": 291.9
       },
-      "updated": "2026-09-28T01:25:18Z",
+      "updated": "2026-09-28T03:10:19Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -3070,11 +3070,11 @@
       "prices": {
         "U91": 227.5,
         "Diesel": 289.9,
-        "U95": 245.4,
-        "U98": 250.4,
+        "U95": 244.9,
+        "U98": 249.9,
         "Premium Diesel": 294.9
       },
-      "updated": "2026-09-27T20:47:10Z",
+      "updated": "2026-09-28T02:27:09Z",
       "lat": -35.180373,
       "lng": 138.483225
     },
@@ -4676,9 +4676,9 @@
       "address": "Railway Tce, SA 5440",
       "state": "SA",
       "prices": {
-        "Diesel": 288.9
+        "Diesel": 290.9
       },
-      "updated": "2026-09-21T04:45:21Z",
+      "updated": "2026-09-28T03:10:02Z",
       "lat": -32.581451,
       "lng": 139.562328
     },
@@ -4720,10 +4720,10 @@
       "state": "SA",
       "prices": {
         "U91": 240.9,
-        "Diesel": 289.9,
-        "U98": 266.9
+        "Diesel": 285.9,
+        "U98": 265.9
       },
-      "updated": "2026-09-26T23:06:45Z",
+      "updated": "2026-09-28T01:53:36Z",
       "lat": -35.332481,
       "lng": 139.380833
     },
@@ -4994,10 +4994,10 @@
       "state": "SA",
       "prices": {
         "U91": 263.8,
-        "Diesel": 306.3,
-        "U95": 272.8
+        "Diesel": 303.9,
+        "U95": 262.9
       },
-      "updated": "2026-09-22T04:29:37Z",
+      "updated": "2026-09-28T02:01:13Z",
       "lat": -31.889821,
       "lng": 138.423861
     },
@@ -5247,12 +5247,12 @@
       "address": "66 Mount Barker Rd, SA 5152",
       "state": "SA",
       "prices": {
-        "U91": 237.9,
-        "U95": 254.9,
-        "U98": 264.9,
-        "Premium Diesel": 292.9
+        "U91": 236.9,
+        "U95": 253.9,
+        "U98": 263.9,
+        "Premium Diesel": 290.9
       },
-      "updated": "2026-09-27T16:00:00Z",
+      "updated": "2026-09-28T02:35:00Z",
       "lat": -35.007486,
       "lng": 138.720213
     },
@@ -5457,7 +5457,7 @@
         "U98": 260.9,
         "Premium Diesel": 289.9
       },
-      "updated": "2026-09-28T01:25:18Z",
+      "updated": "2026-09-28T03:10:19Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -5497,13 +5497,13 @@
       "address": "7 Martin Terrace, SA 5554",
       "state": "SA",
       "prices": {
-        "U91": 242.9,
+        "U91": 239.9,
         "Diesel": 289.9,
         "LPG": 132.9,
-        "U98": 262.9,
+        "U98": 259.9,
         "Premium Diesel": 291.9
       },
-      "updated": "2026-09-23T03:53:49Z",
+      "updated": "2026-09-28T01:58:44Z",
       "lat": -33.967227,
       "lng": 137.717878
     },
@@ -5696,13 +5696,13 @@
       "address": "17 Scott St, SA 5231",
       "state": "SA",
       "prices": {
-        "U91": 236.9,
+        "U91": 232.9,
         "LPG": 121.9,
         "U95": 251.9,
         "U98": 259.9,
-        "Premium Diesel": 290.9
+        "Premium Diesel": 285.9
       },
-      "updated": "2026-09-27T11:04:59Z",
+      "updated": "2026-09-28T01:53:01Z",
       "lat": -34.781789,
       "lng": 138.852242
     },
@@ -5913,9 +5913,9 @@
       "address": "3 Burton Terrace, SA 5652",
       "state": "SA",
       "prices": {
-        "Diesel": 285.9
+        "Diesel": 299.9
       },
-      "updated": "2026-09-21T01:13:30Z",
+      "updated": "2026-09-28T01:44:14Z",
       "lat": -33.045925,
       "lng": 135.459698
     },
@@ -6090,6 +6090,22 @@
       "unavailable_fuels": [
         "LPG"
       ]
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "SA:61501973",
+      "name": "EG Ampol Elizabeth",
+      "address": "Philip Hwy & Grenville St, SA 5112",
+      "state": "SA",
+      "prices": {
+        "U91": 231.9,
+        "U95": 248.9,
+        "U98": 258.9,
+        "Premium Diesel": 290.9
+      },
+      "updated": "2026-09-28T00:13:29Z",
+      "lat": -34.719824,
+      "lng": 138.670905
     },
     {
       "brand": "On the Run",
@@ -6476,23 +6492,6 @@
       "updated": "2026-09-27T02:20:27Z",
       "lat": -37.826494,
       "lng": 140.775379
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "SA:61550246",
-      "name": "Shell Reddy Express Murray Bridge",
-      "address": "57 Adelaide Rd, SA 5253",
-      "state": "SA",
-      "prices": {
-        "U91": 240.9,
-        "Diesel": 293.9,
-        "LPG": 112.9,
-        "U95": 258.4,
-        "U98": 267.9
-      },
-      "updated": "2026-09-25T02:15:43Z",
-      "lat": -35.12164221972213,
-      "lng": 139.26879138773157
     },
     {
       "brand": "Reddy Express",
@@ -7296,6 +7295,21 @@
       "lng": 137.594084
     },
     {
+      "brand": "Ampol",
+      "code": "SA:61570109",
+      "name": "Ampol North Shields Roadhouse",
+      "address": "104 Lincoln Highway, SA 5607",
+      "state": "SA",
+      "prices": {
+        "U91": 241.5,
+        "Diesel": 289.5,
+        "U98": 263.5
+      },
+      "updated": "2026-09-28T02:43:29Z",
+      "lat": -34.629581,
+      "lng": 135.863312
+    },
+    {
       "brand": "Mobil",
       "code": "SA:61570111",
       "name": "Mobil Yunta",
@@ -8033,12 +8047,12 @@
       "address": "1 Diagonal Rd, SA 5250",
       "state": "SA",
       "prices": {
-        "U91": 239.9,
-        "U95": 256.9,
-        "U98": 266.9,
-        "Premium Diesel": 295.9
+        "U91": 238.9,
+        "U95": 255.9,
+        "U98": 265.9,
+        "Premium Diesel": 293.9
       },
-      "updated": "2026-09-27T23:05:00Z",
+      "updated": "2026-09-28T02:08:00Z",
       "lat": -35.05537364946319,
       "lng": 138.8520601784244
     },
@@ -8064,10 +8078,10 @@
       "address": "6 Hercules Road, SA 5291",
       "state": "SA",
       "prices": {
-        "U91": 229.9,
-        "Diesel": 274.9
+        "U91": 235.9,
+        "Diesel": 277.9
       },
-      "updated": "2026-09-20T23:09:27Z",
+      "updated": "2026-09-28T03:06:26Z",
       "lat": -37.911094,
       "lng": 140.395992
     },
@@ -8384,12 +8398,12 @@
       "address": "596-600 North East Road, SA 5088",
       "state": "SA",
       "prices": {
-        "U91": 228.0,
-        "U95": 237.0,
-        "U98": 246.0,
+        "U91": 227.5,
+        "U95": 236.5,
+        "U98": 245.5,
         "Premium Diesel": 296.5
       },
-      "updated": "2026-09-27T20:57:09Z",
+      "updated": "2026-09-28T02:22:09Z",
       "lat": -34.854245,
       "lng": 138.662346
     },
@@ -8653,12 +8667,12 @@
       "address": "7 O'Leary Road, SA 5290",
       "state": "SA",
       "prices": {
-        "U91": 229.5,
+        "U91": 232.5,
         "Diesel": 277.5,
-        "U98": 250.5,
+        "U98": 253.5,
         "Premium Diesel": 277.5
       },
-      "updated": "2026-09-22T22:13:08Z",
+      "updated": "2026-09-28T03:07:01Z",
       "lat": -37.810794,
       "lng": 140.753781
     },
@@ -9681,12 +9695,14 @@
       "state": "SA",
       "prices": {
         "U91": 245.9,
-        "Diesel": 286.9,
-        "U98": 231.9
+        "Diesel": 286.9
       },
       "updated": "2026-09-25T00:57:20Z",
       "lat": -35.405939,
-      "lng": 138.967089
+      "lng": 138.967089,
+      "unavailable_fuels": [
+        "U98"
+      ]
     },
     {
       "brand": "Independent",
@@ -10144,13 +10160,13 @@
       "address": "837 South Rd, SA 5039",
       "state": "SA",
       "prices": {
-        "U91": 224.3,
+        "U91": 223.9,
         "Diesel": 279.9,
-        "U98": 249.3,
-        "E10": 222.3,
+        "U98": 248.9,
+        "E10": 221.9,
         "Premium Diesel": 281.9
       },
-      "updated": "2026-09-25T07:20:28Z",
+      "updated": "2026-09-28T02:38:42Z",
       "lat": -34.97095223714421,
       "lng": 138.5737597147499
     },

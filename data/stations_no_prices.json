@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-28T03:14:57Z",
+  "fetched_at": "2026-09-28T07:19:03Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1277,
   "by_state": {
     "ACT": 9,
     "NSW": 1158,
     "NT": 29,
-    "QLD": 29,
-    "SA": 32,
+    "QLD": 30,
+    "SA": 31,
     "TAS": 1,
     "VIC": 19
   },
@@ -16,10 +16,10 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 84,
-    "Independent": 73,
+    "Reddy Express": 83,
+    "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 67,
+    "7-Eleven": 68,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -40,9 +40,8 @@
     "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
-    "AM/PM": 2,
-    "U-Go": 1,
     "Westside": 1,
+    "Lowes": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
@@ -50,8 +49,9 @@
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Apco": 1,
+    "AM/PM": 1,
     "Bowser Bean": 1,
+    "Apco": 1,
     "Metro Petroleum": 1,
     "ETA PETROLEUM": 1
   },
@@ -6285,6 +6285,15 @@
       "lng": 148.294912
     },
     {
+      "brand": "Lowes",
+      "code": "NSW:1939",
+      "name": "Lowes Gulgong",
+      "address": "6 Railway Street, Gulgong NSW 2852",
+      "state": "NSW",
+      "lat": -32.359485,
+      "lng": 149.546141
+    },
+    {
       "brand": "NRMA",
       "code": "NSW:19301",
       "name": "Luke Park",
@@ -10074,15 +10083,6 @@
       "lng": 151.273708
     },
     {
-      "brand": "U-Go",
-      "code": "NSW:18068",
-      "name": "U-Go Bonnyrigg (Un-manned)",
-      "address": "Smithfield Rd, Cnr Elizabeth Drive, BONNYRIGG NSW 2177",
-      "state": "NSW",
-      "lat": -33.888347,
-      "lng": 150.88214
-    },
-    {
       "brand": "United",
       "code": "NSW:2004",
       "name": "United Marulan",
@@ -10821,6 +10821,22 @@
       "lng": 131.795078
     },
     {
+      "brand": "7-Eleven",
+      "code": "QLD:61478106",
+      "name": "7-Eleven Cornubia",
+      "address": "164 Beenleigh Redland Bay Rd, QLD 4130",
+      "state": "QLD",
+      "lat": -27.670202149976504,
+      "lng": 153.20282614329264,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
@@ -11129,21 +11145,6 @@
     },
     {
       "brand": "AM/PM",
-      "code": "SA:61577363",
-      "name": "AMPM Elizabeth",
-      "address": "Shop 8, 88 Elizabeth Way, SA 5112",
-      "state": "SA",
-      "lat": -34.715242,
-      "lng": 138.672154,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "AM/PM",
       "code": "SA:61577434",
       "name": "AMPM Port Augusta",
       "address": "2 Augusta Hwy, SA 5700",
@@ -11393,6 +11394,19 @@
     },
     {
       "brand": "Independent",
+      "code": "SA:61577269",
+      "name": "Port Clinton General Store",
+      "address": "21-23 Cumberland Road, SA 5570",
+      "state": "SA",
+      "lat": -34.224108,
+      "lng": 138.017951,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91"
+      ]
+    },
+    {
+      "brand": "Independent",
       "code": "SA:61577282",
       "name": "Quorn Autoport",
       "address": "24 First Street, SA 5433",
@@ -11416,22 +11430,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "SA:61550246",
-      "name": "Shell Reddy Express Murray Bridge",
-      "address": "57 Adelaide Rd, SA 5253",
-      "state": "SA",
-      "lat": -35.12164221972213,
-      "lng": 139.26879138773157,
-      "unavailable_fuels": [
-        "Diesel",
-        "LPG",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {

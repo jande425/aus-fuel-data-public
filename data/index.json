@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-28T15:45:42Z",
-  "total_stations": 7873,
+  "last_updated": "2026-09-28T18:35:07Z",
+  "total_stations": 7875,
   "total_states": 8,
   "fuel_types": [
     "23",
@@ -23,57 +23,57 @@
       "station_count": 62,
       "price_count": 263,
       "file": "act/latest.json",
-      "checksum": "02401d7c",
+      "checksum": "92dda4c5",
       "size_bytes": 25271
     },
     "NSW": {
-      "station_count": 2105,
-      "price_count": 8412,
+      "station_count": 2106,
+      "price_count": 8416,
       "file": "nsw/latest.json",
-      "checksum": "637b0487",
-      "size_bytes": 836269
+      "checksum": "53386c14",
+      "size_bytes": 836664
     },
     "NT": {
       "station_count": 210,
       "price_count": 570,
       "file": "nt/latest.json",
-      "checksum": "ac5a7d13",
+      "checksum": "102abfce",
       "size_bytes": 79495
     },
     "QLD": {
       "station_count": 1777,
       "price_count": 6909,
       "file": "qld/latest.json",
-      "checksum": "d8d73a91",
+      "checksum": "2f19659c",
       "size_bytes": 701219
     },
     "SA": {
       "station_count": 695,
       "price_count": 2476,
       "file": "sa/latest.json",
-      "checksum": "12e1e875",
+      "checksum": "76eed9ea",
       "size_bytes": 268865
     },
     "TAS": {
       "station_count": 295,
       "price_count": 1443,
       "file": "tas/latest.json",
-      "checksum": "ac17022d",
+      "checksum": "fa48e0dd",
       "size_bytes": 124616
     },
     "VIC": {
       "station_count": 1735,
-      "price_count": 7110,
+      "price_count": 7109,
       "file": "vic/latest.json",
-      "checksum": "8775b776",
-      "size_bytes": 779046
+      "checksum": "81fd09f7",
+      "size_bytes": 779076
     },
     "WA": {
-      "station_count": 994,
-      "price_count": 3366,
+      "station_count": 995,
+      "price_count": 3368,
       "file": "wa/latest.json",
-      "checksum": "b1ff8818",
-      "size_bytes": 623993
+      "checksum": "2f1896d4",
+      "size_bytes": 509602
     }
   },
   "files": {

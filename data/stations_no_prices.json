@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-09-28T08:39:18Z",
+  "fetched_at": "2026-09-28T10:10:37Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1277,
+  "station_count": 1280,
   "by_state": {
     "ACT": 9,
     "NSW": 1158,
     "NT": 29,
-    "QLD": 30,
+    "QLD": 32,
     "SA": 31,
     "TAS": 1,
-    "VIC": 19
+    "VIC": 20
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 83,
     "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 68,
+    "7-Eleven": 71,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -51,9 +51,9 @@
     "Perrys": 1,
     "AM/PM": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -685,15 +685,6 @@
       "state": "NSW",
       "lat": -33.975997,
       "lng": 151.10364
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:17129",
-      "name": "7-Eleven Unanderra",
-      "address": "41-43 Princes Hwy, UNANDERRA NSW 2526",
-      "state": "NSW",
-      "lat": -34.450291,
-      "lng": 150.849268
     },
     {
       "brand": "7-Eleven",
@@ -10299,6 +10290,15 @@
       "lng": 151.005717
     },
     {
+      "brand": "7-Eleven",
+      "code": "NSW:17320",
+      "name": "Werrington South",
+      "address": "577 Great Western Hwy, WERRINGTON NSW 2747",
+      "state": "NSW",
+      "lat": -33.767393,
+      "lng": 150.756865
+    },
+    {
       "brand": "Exploren",
       "code": "NSW:20506",
       "name": "West Ryde Smash Repairs SO-19932",
@@ -10822,12 +10822,45 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "QLD:61478106",
-      "name": "7-Eleven Cornubia",
-      "address": "164 Beenleigh Redland Bay Rd, QLD 4130",
+      "code": "QLD:61401200",
+      "name": "7-Eleven Greenslopes",
+      "address": "99 Juliette St & Earl St, QLD 4120",
       "state": "QLD",
-      "lat": -27.670202149976504,
-      "lng": 153.20282614329264,
+      "lat": -27.504612,
+      "lng": 153.040209,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61478199",
+      "name": "7-Eleven Gympie South",
+      "address": "48 Exhibition Rd, QLD 4570",
+      "state": "QLD",
+      "lat": -26.199072151080838,
+      "lng": 152.64822140919267,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61477999",
+      "name": "7-Eleven Woombye",
+      "address": "229 Nambour Connection Road, QLD 4559",
+      "state": "QLD",
+      "lat": -26.667081,
+      "lng": 152.975278,
       "unavailable_fuels": [
         "E10",
         "Premium Diesel",
@@ -11546,6 +11579,22 @@
       "state": "VIC",
       "lat": -37.96512786,
       "lng": 145.17289763,
+      "unavailable_fuels": [
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:Rqkyls4YtfDDCDNQ4QCjw8urNpPI35GfqireBgw8WHc=",
+      "name": "7-Eleven Sandown",
+      "address": "585-589 Princes Highway, Noble Park, 3174",
+      "state": "VIC",
+      "lat": -37.94795919,
+      "lng": 145.17262506,
       "unavailable_fuels": [
         "LPG",
         "Premium Diesel",

@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-29T00:47:20Z",
+  "fetched_at": "2026-09-29T02:09:32Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1273,
   "by_state": {
     "ACT": 9,
-    "NSW": 1154,
+    "NSW": 1155,
     "NT": 29,
     "QLD": 28,
     "SA": 32,
@@ -36,8 +36,8 @@
     "Liberty": 6,
     "Mobil": 6,
     "Everty": 4,
+    "Ampol Foodary": 3,
     "Speedway": 3,
-    "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
@@ -50,8 +50,8 @@
     "U-Go": 1,
     "Perrys": 1,
     "AM/PM": 1,
-    "Apco": 1,
     "Bowser Bean": 1,
+    "Apco": 1,
     "Metro Petroleum": 1,
     "ETA PETROLEUM": 1
   },
@@ -2242,6 +2242,15 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:17973",
+      "name": "Ampol Foodary Wingham",
+      "address": "Cnr Isabella Street and Primrose Street, WINGHAM NSW 2429",
+      "state": "NSW",
+      "lat": -31.868026,
+      "lng": 152.371492
     },
     {
       "brand": "Ampol",
@@ -10786,14 +10795,13 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61401054",
-      "name": "Ampol Foodary Broadbeach",
-      "address": "2745 Gold Coast Hwy, QLD 4218",
+      "code": "QLD:61401025",
+      "name": "Ampol Foodary Labrador North",
+      "address": "150 Brisbane Rd, QLD 4215",
       "state": "QLD",
-      "lat": -28.025386,
-      "lng": 153.429491,
+      "lat": -27.934961,
+      "lng": 153.391213,
       "unavailable_fuels": [
-        "E10",
         "Premium Diesel",
         "U91",
         "U95",

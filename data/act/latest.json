@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-29T02:09:32Z",
+  "fetched_at": "2026-09-29T08:24:55Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -89,10 +89,10 @@
         "E10": 242.9,
         "U95": 265.4,
         "U98": 274.4,
-        "Premium Diesel": 294.4,
+        "Premium Diesel": 293.4,
         "U91": 245.4
       },
-      "updated": "2026-09-28T22:07:26Z",
+      "updated": "2026-09-29T03:02:26Z",
       "lat": -35.270935,
       "lng": 149.133379
     },
@@ -253,9 +253,9 @@
         "E10": 242.9,
         "U95": 260.9,
         "U98": 269.9,
-        "Premium Diesel": 297.9
+        "Premium Diesel": 296.9
       },
-      "updated": "2026-09-28T22:26:33Z",
+      "updated": "2026-09-29T02:35:47Z",
       "lat": -35.275825,
       "lng": 149.132595
     },
@@ -266,12 +266,12 @@
       "address": "3 Benham St, Chisholm ACT 2905",
       "state": "ACT",
       "prices": {
-        "E10": 247.9,
-        "U95": 264.9,
-        "U98": 273.9,
+        "E10": 245.9,
+        "U95": 262.9,
+        "U98": 271.9,
         "Premium Diesel": 298.9
       },
-      "updated": "2026-09-23T23:17:26Z",
+      "updated": "2026-09-29T02:16:28Z",
       "lat": -35.4129,
       "lng": 149.128
     },
@@ -850,13 +850,13 @@
       "address": "Garage 116 Lysaght ST, Mitchell ACT 2911",
       "state": "ACT",
       "prices": {
-        "Diesel": 295.9,
+        "Diesel": 294.9,
         "LPG": 124.9,
-        "U98": 273.9,
-        "Premium Diesel": 297.9,
+        "U98": 271.9,
+        "Premium Diesel": 296.9,
         "U91": 246.9
       },
-      "updated": "2026-09-21T23:06:10Z",
+      "updated": "2026-09-29T05:49:46Z",
       "lat": -35.215024,
       "lng": 149.139903
     },
@@ -999,10 +999,10 @@
       "prices": {
         "E10": 235.9,
         "U98": 259.9,
-        "Premium Diesel": 282.9,
+        "Premium Diesel": 279.9,
         "U91": 237.9
       },
-      "updated": "2026-09-28T19:10:16Z",
+      "updated": "2026-09-29T06:47:05Z",
       "lat": -35.329111,
       "lng": 149.172604
     },

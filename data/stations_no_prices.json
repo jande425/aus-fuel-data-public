@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-28T22:12:42Z",
+  "fetched_at": "2026-09-29T00:20:54Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1271,
   "by_state": {
     "ACT": 9,
-    "NSW": 1157,
+    "NSW": 1154,
     "NT": 29,
-    "QLD": 27,
+    "QLD": 28,
     "SA": 31,
     "TAS": 1,
     "VIC": 19
@@ -17,16 +17,16 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "Independent": 74,
+    "Independent": 73,
     "Chargefox": 72,
     "7-Eleven": 65,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 20,
+    "Ampol": 21,
     "JOLT": 20,
     "Caltex": 13,
-    "Shell": 11,
+    "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
@@ -41,7 +41,6 @@
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
-    "Lowes": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
@@ -50,10 +49,10 @@
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "AM/PM": 1,
+    "Apco": 1,
     "Bowser Bean": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -6267,15 +6266,6 @@
       "lng": 148.294912
     },
     {
-      "brand": "Lowes",
-      "code": "NSW:1939",
-      "name": "Lowes Gulgong",
-      "address": "6 Railway Street, Gulgong NSW 2852",
-      "state": "NSW",
-      "lat": -32.359485,
-      "lng": 149.546141
-    },
-    {
       "brand": "NRMA",
       "code": "NSW:19301",
       "name": "Luke Park",
@@ -8913,15 +8903,6 @@
       "lng": 153.044889
     },
     {
-      "brand": "Shell",
-      "code": "NSW:20939",
-      "name": "Solo Deniliquin",
-      "address": "336 Victoria ST, Deniliquin NSW 2710",
-      "state": "NSW",
-      "lat": -35.523731,
-      "lng": 144.980729
-    },
-    {
       "brand": "Exploren",
       "code": "NSW:20471",
       "name": "Solomon PTY LTD",
@@ -9325,15 +9306,6 @@
       "state": "NSW",
       "lat": -28.639897,
       "lng": 153.607668
-    },
-    {
-      "brand": "Independent",
-      "code": "NSW:2326",
-      "name": "Sussex Inlet Service Station",
-      "address": "1 Jacobs DR, Sussex Inlet NSW 2540",
-      "state": "NSW",
-      "lat": -35.158315,
-      "lng": 150.584045
     },
     {
       "brand": "Chargefox",
@@ -10810,6 +10782,22 @@
       "state": "NT",
       "lat": -22.25346,
       "lng": 131.795078
+    },
+    {
+      "brand": "Ampol",
+      "code": "QLD:61401054",
+      "name": "Ampol Foodary Broadbeach",
+      "address": "2745 Gold Coast Hwy, QLD 4218",
+      "state": "QLD",
+      "lat": -28.025386,
+      "lng": 153.429491,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Ampol",

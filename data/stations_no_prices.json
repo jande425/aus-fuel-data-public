@@ -1,23 +1,23 @@
 {
-  "fetched_at": "2026-09-30T20:55:36Z",
+  "fetched_at": "2026-09-30T21:24:53Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1278,
   "by_state": {
     "ACT": 9,
-    "NSW": 1159,
+    "NSW": 1160,
     "NT": 30,
     "QLD": 28,
     "SA": 30,
     "TAS": 1,
-    "VIC": 21
+    "VIC": 20
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 82,
-    "Independent": 75,
+    "Reddy Express": 81,
+    "Independent": 76,
     "Chargefox": 72,
     "7-Eleven": 67,
     "BP": 53,
@@ -4052,6 +4052,15 @@
       "state": "NSW",
       "lat": -33.919164,
       "lng": 151.254888
+    },
+    {
+      "brand": "Independent",
+      "code": "NSW:20901",
+      "name": "Coolah's Top Servo",
+      "address": "1a Binnia ST, Coolah NSW 2843",
+      "state": "NSW",
+      "lat": -31.819717,
+      "lng": 149.725151
     },
     {
       "brand": "Tesla",
@@ -11747,21 +11756,6 @@
       "state": "VIC",
       "lat": -37.833503349939754,
       "lng": 145.16385929266798,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "VIC:Nv0DvM/96P/pNzh1+aNjXauV8SvQq1jHMXD0ilreNWE=",
-      "name": "Shell Express Moe",
-      "address": "92-98 Albert ST, MOE, 3825",
-      "state": "VIC",
-      "lat": -38.1740045225884,
-      "lng": 146.2596020680343,
       "unavailable_fuels": [
         "Diesel",
         "E10",

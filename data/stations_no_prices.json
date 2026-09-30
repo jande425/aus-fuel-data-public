@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-30T17:29:04Z",
+  "fetched_at": "2026-09-30T20:55:36Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1277,
+  "station_count": 1278,
   "by_state": {
     "ACT": 9,
-    "NSW": 1158,
+    "NSW": 1159,
     "NT": 30,
     "QLD": 28,
     "SA": 30,
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 82,
-    "Independent": 74,
+    "Independent": 75,
     "Chargefox": 72,
     "7-Eleven": 67,
     "BP": 53,
@@ -5132,6 +5132,15 @@
       "state": "NSW",
       "lat": -33.875181,
       "lng": 151.199863
+    },
+    {
+      "brand": "Independent",
+      "code": "NSW:1990",
+      "name": "Independent Cargo",
+      "address": "1 Forbes Street, Cargo NSW 2800",
+      "state": "NSW",
+      "lat": -33.424088,
+      "lng": 148.807902
     },
     {
       "brand": "Independent",

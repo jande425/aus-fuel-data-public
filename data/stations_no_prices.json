@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-30T03:40:25Z",
+  "fetched_at": "2026-09-30T07:05:16Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1277,
+  "station_count": 1274,
   "by_state": {
     "ACT": 9,
-    "NSW": 1159,
+    "NSW": 1157,
     "NT": 30,
     "QLD": 27,
-    "SA": 31,
+    "SA": 30,
     "TAS": 1,
     "VIC": 20
   },
@@ -23,14 +23,14 @@
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 20,
     "JOLT": 20,
-    "Caltex": 14,
+    "Ampol": 19,
+    "Caltex": 13,
     "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
-    "Metro Fuel": 8,
+    "Metro Fuel": 7,
     "Evie Networks": 7,
     "Liberty": 7,
     "Pearl Energy": 6,
@@ -3667,15 +3667,6 @@
     },
     {
       "brand": "Caltex",
-      "code": "NSW:20949",
-      "name": "Caltex Muswellbrook",
-      "address": "42-50 Sydney ST, Muswellbrook NSW 2333",
-      "state": "NSW",
-      "lat": -32.268627,
-      "lng": 150.886739
-    },
-    {
-      "brand": "Caltex",
       "code": "NSW:2120",
       "name": "Caltex Starshop",
       "address": "315 Auburn Street, Goulburn NSW 2580",
@@ -6607,15 +6598,6 @@
       "state": "NSW",
       "lat": -33.00878,
       "lng": 151.710266
-    },
-    {
-      "brand": "Metro Fuel",
-      "code": "NSW:20106",
-      "name": "Metro Petroleum Tarro",
-      "address": "107 Anderson DR, Tarro NSW 2322",
-      "state": "NSW",
-      "lat": -32.807612,
-      "lng": 151.658842
     },
     {
       "brand": "Metro Fuel",
@@ -11128,21 +11110,6 @@
       "lng": 140.59938162698364,
       "unavailable_fuels": [
         "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "SA:61577051",
-      "name": "Ampol Mt Gambier Depot Front",
-      "address": "40 Graham Road, SA 5290",
-      "state": "SA",
-      "lat": -37.814645,
-      "lng": 140.752685,
-      "unavailable_fuels": [
-        "Diesel",
-        "Premium Diesel",
         "U91",
         "U98"
       ]

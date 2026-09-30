@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-29T23:05:35Z",
+  "fetched_at": "2026-09-30T02:04:51Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1274,
+  "station_count": 1276,
   "by_state": {
     "ACT": 9,
-    "NSW": 1156,
-    "NT": 29,
+    "NSW": 1158,
+    "NT": 30,
     "QLD": 27,
-    "SA": 32,
+    "SA": 31,
     "TAS": 1,
     "VIC": 20
   },
@@ -17,15 +17,15 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "Independent": 73,
+    "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 66,
-    "BP": 54,
+    "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "Ampol": 20,
     "JOLT": 20,
-    "Caltex": 13,
+    "Caltex": 14,
     "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
@@ -38,8 +38,8 @@
     "Everty": 4,
     "Ampol Foodary": 3,
     "Speedway": 3,
+    "Indervon": 3,
     "Budget": 2,
-    "Indervon": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
@@ -49,11 +49,11 @@
     "EG Ampol": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "AM/PM": 1,
     "Bowser Bean": 1,
+    "Solo": 1,
+    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -3667,6 +3667,15 @@
     },
     {
       "brand": "Caltex",
+      "code": "NSW:20949",
+      "name": "Caltex Muswellbrook",
+      "address": "42-50 Sydney ST, Muswellbrook NSW 2333",
+      "state": "NSW",
+      "lat": -32.268627,
+      "lng": 150.886739
+    },
+    {
+      "brand": "Caltex",
       "code": "NSW:2120",
       "name": "Caltex Starshop",
       "address": "315 Auburn Street, Goulburn NSW 2580",
@@ -6112,6 +6121,15 @@
       "state": "NSW",
       "lat": -32.761736,
       "lng": 152.082891
+    },
+    {
+      "brand": "Independent",
+      "code": "NSW:18627",
+      "name": "Legume Store",
+      "address": "9297 Mount Lindesay RD, Legume NSW 2476",
+      "state": "NSW",
+      "lat": -28.405354,
+      "lng": 152.306704
     },
     {
       "brand": "Exploren",
@@ -10677,6 +10695,15 @@
       "lng": 134.072466
     },
     {
+      "brand": "Indervon",
+      "code": "NT:08720097",
+      "name": "Ntaria Supermarket and Takeaway",
+      "address": "27-28 Tjalkabota Road, Hermannsburg, 0872, NT",
+      "state": "NT",
+      "lat": -23.942104,
+      "lng": 132.779855
+    },
+    {
       "brand": "Independent",
       "code": "NT:08000014",
       "name": "Platinum Fuel Taxi Base",
@@ -11081,22 +11108,6 @@
       "state": "QLD",
       "lat": -16.916483,
       "lng": 145.871647
-    },
-    {
-      "brand": "AM/PM",
-      "code": "SA:61577434",
-      "name": "AMPM Port Augusta",
-      "address": "2 Augusta Hwy, SA 5700",
-      "state": "SA",
-      "lat": -32.50606165185453,
-      "lng": 137.7852673579904,
-      "unavailable_fuels": [
-        "Diesel",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "Ampol",
@@ -11578,22 +11589,6 @@
       ]
     },
     {
-      "brand": "BP",
-      "code": "VIC:gx3ryqmUKuV3rpLD2cUdI50XNo66ioRn+oMGOLrbljM=",
-      "name": "Bp Hallam Rd",
-      "address": "1-7 Ormond Road, HAMPTON PARK, 3976",
-      "state": "VIC",
-      "lat": -38.04728754977631,
-      "lng": 145.2654052299657,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "ETA PETROLEUM",
       "code": "VIC:A3p+CK2mLWBYVgUPBX5XALRvf4AkDSgRB20PSic6SgU=",
       "name": "Caltex Dandenong South",
@@ -11761,6 +11756,21 @@
         "Diesel",
         "E10",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Solo",
+      "code": "VIC:Nr5peKsFEM1xnAhBZJoA6oinmNqJZf4Fj/570pVYpKA=",
+      "name": "Solo Hampton Park",
+      "address": "1-7 Ormond Road, HAMPTON PARK, 3976",
+      "state": "VIC",
+      "lat": -38.04740686,
+      "lng": 145.26555686,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-30T08:29:08Z",
+  "fetched_at": "2026-09-30T10:00:01Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1274,
+  "station_count": 1280,
   "by_state": {
     "ACT": 9,
-    "NSW": 1157,
+    "NSW": 1160,
     "NT": 30,
-    "QLD": 27,
+    "QLD": 29,
     "SA": 30,
     "TAS": 1,
-    "VIC": 20
+    "VIC": 21
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
+    "Reddy Express": 82,
     "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 71,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -499,6 +499,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:250",
+      "name": "7-Eleven Lindfield",
+      "address": "238 Pacific Highway, Lindfield NSW 2070",
+      "state": "NSW",
+      "lat": -33.778889,
+      "lng": 151.168902
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:177",
       "name": "7-Eleven Lisarow",
       "address": "911 Pacific Highway, Lisarow NSW 2250",
@@ -589,6 +598,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:17137",
+      "name": "7-Eleven Newport",
+      "address": "307-311 Barrenjoey Rd, NEWPORT NSW 2106",
+      "state": "NSW",
+      "lat": -33.65634,
+      "lng": 151.31825
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:137",
       "name": "7-Eleven North Rocks",
       "address": "340 North Rocks Road, North Rocks NSW 2151",
@@ -676,6 +694,15 @@
       "state": "NSW",
       "lat": -33.975997,
       "lng": 151.10364
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:295",
+      "name": "7-Eleven Turramurra",
+      "address": "1408 Pacific Highway (Corner Duff Street), Turramurra NSW 2074",
+      "state": "NSW",
+      "lat": -33.733062,
+      "lng": 151.126513
     },
     {
       "brand": "7-Eleven",
@@ -10821,6 +10848,38 @@
       "lng": 131.795078
     },
     {
+      "brand": "7-Eleven",
+      "code": "QLD:61477710",
+      "name": "7-Eleven Noosaville",
+      "address": "139 Eumundi Road, QLD 4566",
+      "state": "QLD",
+      "lat": -26.410052,
+      "lng": 153.046673,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61478192",
+      "name": "7-Eleven Wilsonton",
+      "address": "415 Bridge St, QLD 4350",
+      "state": "QLD",
+      "lat": -27.54349760715129,
+      "lng": 151.92383409614104,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
@@ -11731,6 +11790,21 @@
       "unavailable_fuels": [
         "Diesel",
         "E10",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "VIC:YUPtcp+uDjuB9Fj+s0izTlTdez/xBPKCJOWSID0Ty6o=",
+      "name": "Shell Reddy Express Horsham",
+      "address": "170-172 Baillie ST, HORSHAM, 3400",
+      "state": "VIC",
+      "lat": -36.711405359739494,
+      "lng": 142.19912165438998,
+      "unavailable_fuels": [
+        "Diesel",
+        "LPG",
         "U91",
         "U98"
       ]

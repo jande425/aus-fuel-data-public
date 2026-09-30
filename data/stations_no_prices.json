@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-09-30T10:00:01Z",
+  "fetched_at": "2026-09-30T14:03:59Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1280,
+  "station_count": 1278,
   "by_state": {
     "ACT": 9,
-    "NSW": 1160,
+    "NSW": 1158,
     "NT": 30,
     "QLD": 29,
     "SA": 30,
@@ -19,7 +19,7 @@
     "Reddy Express": 82,
     "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 71,
+    "7-Eleven": 68,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -45,15 +45,16 @@
     "Astron": 1,
     "Arko Energy": 1,
     "On the Run": 1,
+    "U-Go": 1,
     "Enhance": 1,
     "EG Ampol": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Bowser Bean": 1,
     "Solo": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -499,15 +500,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:250",
-      "name": "7-Eleven Lindfield",
-      "address": "238 Pacific Highway, Lindfield NSW 2070",
-      "state": "NSW",
-      "lat": -33.778889,
-      "lng": 151.168902
-    },
-    {
-      "brand": "7-Eleven",
       "code": "NSW:177",
       "name": "7-Eleven Lisarow",
       "address": "911 Pacific Highway, Lisarow NSW 2250",
@@ -694,15 +686,6 @@
       "state": "NSW",
       "lat": -33.975997,
       "lng": 151.10364
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:295",
-      "name": "7-Eleven Turramurra",
-      "address": "1408 Pacific Highway (Corner Duff Street), Turramurra NSW 2074",
-      "state": "NSW",
-      "lat": -33.733062,
-      "lng": 151.126513
     },
     {
       "brand": "7-Eleven",
@@ -10864,22 +10847,6 @@
       ]
     },
     {
-      "brand": "7-Eleven",
-      "code": "QLD:61478192",
-      "name": "7-Eleven Wilsonton",
-      "address": "415 Bridge St, QLD 4350",
-      "state": "QLD",
-      "lat": -27.54349760715129,
-      "lng": 151.92383409614104,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
@@ -11124,6 +11091,21 @@
       "state": "QLD",
       "lat": -18.290183,
       "lng": 143.549026
+    },
+    {
+      "brand": "U-Go",
+      "code": "QLD:61401696",
+      "name": "U-Go Mt Warren Park",
+      "address": "40-42 Rochester Drive, QLD 4207",
+      "state": "QLD",
+      "lat": -27.728179,
+      "lng": 153.208767,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
     },
     {
       "brand": "United",

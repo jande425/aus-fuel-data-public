@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-09-30T21:24:53Z",
+  "fetched_at": "2026-09-30T21:47:43Z",
   "station_count": 696,
   "fuel_types": [
     "E10",
@@ -331,12 +331,12 @@
       "address": "76-80 Hampstead Road (Cnr Ian Street), SA 5083",
       "state": "SA",
       "prices": {
-        "U91": 230.4,
+        "U91": 229.4,
         "U95": 246.4,
         "U98": 249.9,
-        "Premium Diesel": 289.4
+        "Premium Diesel": 286.4
       },
-      "updated": "2026-09-30T00:47:10Z",
+      "updated": "2026-09-30T21:27:09Z",
       "lat": -34.876228,
       "lng": 138.619101
     },
@@ -754,12 +754,12 @@
       "address": "1003 North East Rd & Montague Rd, SA 5092",
       "state": "SA",
       "prices": {
-        "U91": 231.9,
+        "U91": 230.9,
         "U95": 249.9,
         "U98": 253.9,
-        "Premium Diesel": 287.9
+        "Premium Diesel": 289.9
       },
-      "updated": "2026-09-30T10:12:09Z",
+      "updated": "2026-09-30T21:27:09Z",
       "lat": -34.828314,
       "lng": 138.692099
     },
@@ -1150,9 +1150,9 @@
       "state": "SA",
       "prices": {
         "U91": 228.4,
-        "Premium Diesel": 285.9
+        "Premium Diesel": 287.4
       },
-      "updated": "2026-09-30T04:22:10Z",
+      "updated": "2026-09-30T21:37:09Z",
       "lat": -34.824046,
       "lng": 138.617185
     },
@@ -1865,9 +1865,9 @@
         "U91": 222.9,
         "U95": 237.9,
         "U98": 246.5,
-        "Premium Diesel": 282.4
+        "Premium Diesel": 279.4
       },
-      "updated": "2026-09-30T03:12:08Z",
+      "updated": "2026-09-30T21:27:09Z",
       "lat": -34.994294,
       "lng": 138.575128
     },
@@ -2927,7 +2927,7 @@
         "U98": 255.9,
         "Premium Diesel": 289.9
       },
-      "updated": "2026-09-30T21:10:18Z",
+      "updated": "2026-09-30T21:40:19Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5459,7 +5459,7 @@
         "U98": 259.9,
         "Premium Diesel": 286.9
       },
-      "updated": "2026-09-30T21:10:18Z",
+      "updated": "2026-09-30T21:40:19Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -7259,12 +7259,12 @@
       "state": "SA",
       "prices": {
         "U91": 240.5,
-        "Diesel": 296.5,
+        "Diesel": 292.5,
         "LPG": 121.9,
         "U98": 265.5,
         "E10": 238.5
       },
-      "updated": "2026-09-30T01:19:58Z",
+      "updated": "2026-09-30T21:33:09Z",
       "lat": -34.176233,
       "lng": 140.743601
     },
@@ -8876,15 +8876,15 @@
       "state": "SA",
       "prices": {
         "U91": 222.9,
-        "Diesel": 281.7,
+        "Diesel": 279.3,
         "LPG": 107.9,
         "U95": 236.9,
         "U98": 245.9,
         "E10": 218.9,
-        "Premium Diesel": 283.7,
+        "Premium Diesel": 281.3,
         "E85": 249.9
       },
-      "updated": "2026-09-30T04:15:14Z",
+      "updated": "2026-09-30T21:40:10Z",
       "lat": -34.982234,
       "lng": 138.574606
     },

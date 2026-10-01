@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-01T18:34:15Z",
-  "brand_count": 158,
+  "fetched_at": "2026-10-01T22:54:15Z",
+  "brand_count": 159,
   "brands": [
     {
       "name": "24Xpress",
@@ -65,7 +65,7 @@
     },
     {
       "name": "Ampol",
-      "station_count": 839,
+      "station_count": 837,
       "states": [
         "ACT",
         "NSW",
@@ -188,7 +188,7 @@
     },
     {
       "name": "BP",
-      "station_count": 1149,
+      "station_count": 1150,
       "states": [
         "ACT",
         "NSW",
@@ -576,7 +576,7 @@
     },
     {
       "name": "Independent",
-      "station_count": 778,
+      "station_count": 779,
       "states": [
         "NSW",
         "NT",
@@ -589,7 +589,7 @@
     },
     {
       "name": "Indervon",
-      "station_count": 6,
+      "station_count": 5,
       "states": [
         "NT"
       ]
@@ -709,7 +709,7 @@
     },
     {
       "name": "Metro Fuel",
-      "station_count": 235,
+      "station_count": 234,
       "states": [
         "ACT",
         "NSW",
@@ -719,7 +719,7 @@
     },
     {
       "name": "Metro Petroleum",
-      "station_count": 47,
+      "station_count": 48,
       "states": [
         "VIC",
         "WA"
@@ -993,7 +993,7 @@
     },
     {
       "name": "Shell",
-      "station_count": 314,
+      "station_count": 315,
       "states": [
         "NSW",
         "NT",
@@ -1002,6 +1002,13 @@
         "TAS",
         "VIC",
         "WA"
+      ]
+    },
+    {
+      "name": "Shell Express",
+      "station_count": 1,
+      "states": [
+        "QLD"
       ]
     },
     {

@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-01T18:34:15Z",
+  "fetched_at": "2026-10-01T22:54:15Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1272,
   "by_state": {
     "ACT": 9,
-    "NSW": 1159,
-    "NT": 29,
-    "QLD": 26,
+    "NSW": 1157,
+    "NT": 30,
+    "QLD": 28,
     "SA": 29,
     "TAS": 1,
-    "VIC": 19
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
@@ -20,16 +20,16 @@
     "Independent": 73,
     "Chargefox": 72,
     "7-Eleven": 64,
-    "BP": 54,
+    "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
+    "Ampol": 21,
     "JOLT": 20,
-    "Ampol": 19,
     "Caltex": 13,
-    "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
+    "Shell": 9,
     "Metro Fuel": 8,
     "Evie Networks": 7,
     "Liberty": 7,
@@ -38,9 +38,8 @@
     "Everty": 4,
     "Ampol Foodary": 3,
     "Speedway": 3,
+    "Indervon": 3,
     "Budget": 2,
-    "Indervon": 2,
-    "Metro Petroleum": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
@@ -51,8 +50,9 @@
     "Perrys": 1,
     "Bowser Bean": 1,
     "Solo": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "Apco": 1,
+    "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -2853,15 +2853,6 @@
       "state": "NSW",
       "lat": -33.00802,
       "lng": 151.642586
-    },
-    {
-      "brand": "BP",
-      "code": "NSW:1145",
-      "name": "BP Viaduct",
-      "address": "190 Peel Street, Tamworth NSW 2340",
-      "state": "NSW",
-      "lat": -31.085233,
-      "lng": 150.925369
     },
     {
       "brand": "BP",
@@ -8939,15 +8930,6 @@
       "lng": 152.063139
     },
     {
-      "brand": "Shell",
-      "code": "NSW:20948",
-      "name": "Solo Casino",
-      "address": "88 Centre ST, Casino NSW 2470",
-      "state": "NSW",
-      "lat": -28.866279,
-      "lng": 153.044889
-    },
-    {
       "brand": "Exploren",
       "code": "NSW:20471",
       "name": "Solomon PTY LTD",
@@ -10703,6 +10685,15 @@
       "lng": 134.072466
     },
     {
+      "brand": "Indervon",
+      "code": "NT:08720097",
+      "name": "Ntaria Supermarket and Takeaway",
+      "address": "27-28 Tjalkabota Road, Hermannsburg, 0872, NT",
+      "state": "NT",
+      "lat": -23.942104,
+      "lng": 132.779855
+    },
+    {
       "brand": "Independent",
       "code": "NT:08000014",
       "name": "Platinum Fuel Taxi Base",
@@ -10830,6 +10821,22 @@
     },
     {
       "brand": "Ampol",
+      "code": "QLD:61401610",
+      "name": "Ampol Foodary Coombabah",
+      "address": "384 Oxley Drive, QLD 4216",
+      "state": "QLD",
+      "lat": -27.912218,
+      "lng": 153.388272,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -10845,6 +10852,19 @@
       "state": "QLD",
       "lat": -27.790458,
       "lng": 151.411238
+    },
+    {
+      "brand": "Ampol",
+      "code": "QLD:61477703",
+      "name": "Ampol Pinkenba Diesel Stop",
+      "address": "19-27 Orient Avenue, QLD 4008",
+      "state": "QLD",
+      "lat": -27.426789,
+      "lng": 153.114322,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel"
+      ]
     },
     {
       "brand": "Independent",
@@ -11579,21 +11599,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Metro Petroleum",
-      "code": "VIC:rWzBabl5XWgVh3HRwlGuVU1XYJNaRt1EPJNGCl/xAh0=",
-      "name": "Metro Sunshine",
-      "address": "147-151 Devonshire Road, SUNSHINE, 3020",
-      "state": "VIC",
-      "lat": -37.78625411,
-      "lng": 144.84557921,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
       ]
     },
     {

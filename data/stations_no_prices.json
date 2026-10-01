@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-09-30T21:47:43Z",
+  "fetched_at": "2026-10-01T01:24:38Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1277,
   "by_state": {
     "ACT": 9,
     "NSW": 1160,
-    "NT": 30,
-    "QLD": 27,
-    "SA": 30,
+    "NT": 29,
+    "QLD": 26,
+    "SA": 32,
     "TAS": 1,
     "VIC": 20
   },
@@ -16,10 +16,10 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
-    "Independent": 76,
+    "Reddy Express": 83,
+    "Independent": 77,
     "Chargefox": 72,
-    "7-Eleven": 67,
+    "7-Eleven": 65,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -30,7 +30,7 @@
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
-    "Metro Fuel": 7,
+    "Metro Fuel": 8,
     "Evie Networks": 7,
     "Liberty": 7,
     "Pearl Energy": 6,
@@ -38,22 +38,21 @@
     "Everty": 4,
     "Ampol Foodary": 3,
     "Speedway": 3,
-    "Indervon": 3,
     "Budget": 2,
+    "Indervon": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
-    "EG Ampol": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Bowser Bean": 1,
     "Solo": 1,
+    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -586,15 +585,6 @@
       "state": "NSW",
       "lat": -32.917854,
       "lng": 151.724357
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:17137",
-      "name": "7-Eleven Newport",
-      "address": "307-311 Barrenjoey Rd, NEWPORT NSW 2106",
-      "state": "NSW",
-      "lat": -33.65634,
-      "lng": 151.31825
     },
     {
       "brand": "7-Eleven",
@@ -6628,6 +6618,15 @@
     },
     {
       "brand": "Metro Fuel",
+      "code": "NSW:20106",
+      "name": "Metro Petroleum Tarro",
+      "address": "107 Anderson DR, Tarro NSW 2322",
+      "state": "NSW",
+      "lat": -32.807612,
+      "lng": 151.658842
+    },
+    {
+      "brand": "Metro Fuel",
       "code": "NSW:20078",
       "name": "Metro Weston",
       "address": "191 Cessnock RD, Weston NSW 2326",
@@ -10713,15 +10712,6 @@
       "lng": 134.072466
     },
     {
-      "brand": "Indervon",
-      "code": "NT:08720097",
-      "name": "Ntaria Supermarket and Takeaway",
-      "address": "27-28 Tjalkabota Road, Hermannsburg, 0872, NT",
-      "state": "NT",
-      "lat": -23.942104,
-      "lng": 132.779855
-    },
-    {
       "brand": "Independent",
       "code": "NT:08000014",
       "name": "Platinum Fuel Taxi Base",
@@ -10900,21 +10890,6 @@
       "state": "QLD",
       "lat": -24.865276497096275,
       "lng": 151.1198653325062
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "QLD:61477072",
-      "name": "EG Ampol Marian",
-      "address": "219 - 247 Anzac Avenue, QLD 4753",
-      "state": "QLD",
-      "lat": -21.146971,
-      "lng": 148.953633,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "Enhance",
@@ -11408,6 +11383,21 @@
       ]
     },
     {
+      "brand": "Reddy Express",
+      "code": "SA:61550242",
+      "name": "Shell Reddy Express Mount Gambier",
+      "address": "100 Commercial St West, SA 5290",
+      "state": "SA",
+      "lat": -37.826494,
+      "lng": 140.775379,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Shell",
       "code": "SA:61577283",
       "name": "Shell Robe Wharf OPT",
@@ -11463,6 +11453,20 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "Independent",
+      "code": "SA:61501594",
+      "name": "Victor Harbor Roadhouse",
+      "address": "105 Victoria St, SA 5211",
+      "state": "SA",
+      "lat": -35.558077,
+      "lng": 138.613533,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
       ]
     },
     {
@@ -11523,22 +11527,6 @@
       "lng": 145.17289763,
       "unavailable_fuels": [
         "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:siysgQGRsap8Gtct4nW6EOGd5muy6jqk+lu4UyghByI=",
-      "name": "7-Eleven St Kilda",
-      "address": "154-158 St Kilda Road, St Kilda, 3182",
-      "state": "VIC",
-      "lat": -37.86089803,
-      "lng": 144.98486796,
-      "unavailable_fuels": [
-        "E10",
         "Premium Diesel",
         "U91",
         "U95",
@@ -11740,6 +11728,21 @@
       "state": "VIC",
       "lat": -37.833503349939754,
       "lng": 145.16385929266798,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "VIC:Nv0DvM/96P/pNzh1+aNjXauV8SvQq1jHMXD0ilreNWE=",
+      "name": "Shell Express Moe",
+      "address": "92-98 Albert ST, MOE, 3825",
+      "state": "VIC",
+      "lat": -38.1740045225884,
+      "lng": 146.2596020680343,
       "unavailable_fuels": [
         "Diesel",
         "E10",

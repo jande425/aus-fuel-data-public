@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-09-30T21:47:43Z",
+  "fetched_at": "2026-10-01T01:24:38Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -88,11 +88,11 @@
       "prices": {
         "E10": 240.4,
         "U95": 264.4,
-        "U98": 272.4,
+        "U98": 271.9,
         "Premium Diesel": 297.9,
-        "U91": 242.9
+        "U91": 244.4
       },
-      "updated": "2026-09-30T01:57:26Z",
+      "updated": "2026-09-30T22:42:27Z",
       "lat": -35.270935,
       "lng": 149.133379
     },
@@ -171,9 +171,9 @@
         "U95": 265.9,
         "U98": 276.9,
         "Premium Diesel": 304.4,
-        "U91": 250.4
+        "U91": 249.9
       },
-      "updated": "2026-09-28T20:42:27Z",
+      "updated": "2026-09-30T22:37:26Z",
       "lat": -35.378878,
       "lng": 149.057528
     },
@@ -253,9 +253,9 @@
         "E10": 240.9,
         "U95": 258.9,
         "U98": 267.9,
-        "Premium Diesel": 292.9
+        "Premium Diesel": 295.9
       },
-      "updated": "2026-09-30T02:22:32Z",
+      "updated": "2026-10-01T01:10:15Z",
       "lat": -35.275825,
       "lng": 149.132595
     },
@@ -396,12 +396,12 @@
       "address": "Cnr Canopus Cres & Atalumba Cl, Giralang ACT 2617",
       "state": "ACT",
       "prices": {
-        "LPG": 127.9,
+        "LPG": 125.9,
         "U98": 272.9,
         "Premium Diesel": 299.9,
         "U91": 246.9
       },
-      "updated": "2026-09-30T00:51:15Z",
+      "updated": "2026-10-01T00:51:14Z",
       "lat": -35.2136,
       "lng": 149.096
     },
@@ -1014,12 +1014,12 @@
       "address": "Service Station 53 Lambrigg ST, Farrer ACT 2607",
       "state": "ACT",
       "prices": {
-        "E10": 239.7,
+        "E10": 241.7,
         "U98": 267.7,
         "Premium Diesel": 293.7,
-        "U91": 241.7
+        "U91": 243.7
       },
-      "updated": "2026-09-28T04:15:11Z",
+      "updated": "2026-10-01T00:22:08Z",
       "lat": -35.375911,
       "lng": 149.101739
     }

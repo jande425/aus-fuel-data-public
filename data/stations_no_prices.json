@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-01T07:30:28Z",
+  "fetched_at": "2026-10-01T08:51:24Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1272,
   "by_state": {
     "ACT": 9,
     "NSW": 1160,
     "NT": 29,
     "QLD": 26,
-    "SA": 30,
+    "SA": 29,
     "TAS": 1,
     "VIC": 18
   },
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "Independent": 75,
+    "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 64,
     "BP": 54,
@@ -26,10 +26,10 @@
     "JOLT": 20,
     "Ampol": 19,
     "Caltex": 13,
+    "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
-    "Shell": 9,
     "Metro Fuel": 8,
     "Evie Networks": 7,
     "Liberty": 7,
@@ -41,7 +41,6 @@
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
-    "Lowes": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
@@ -51,9 +50,9 @@
     "Perrys": 1,
     "Bowser Bean": 1,
     "Solo": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -6312,15 +6311,6 @@
       "lng": 148.294912
     },
     {
-      "brand": "Lowes",
-      "code": "NSW:1939",
-      "name": "Lowes Gulgong",
-      "address": "6 Railway Street, Gulgong NSW 2852",
-      "state": "NSW",
-      "lat": -32.359485,
-      "lng": 149.546141
-    },
-    {
       "brand": "NRMA",
       "code": "NSW:19301",
       "name": "Luke Park",
@@ -8958,6 +8948,15 @@
       "lng": 152.063139
     },
     {
+      "brand": "Shell",
+      "code": "NSW:20948",
+      "name": "Solo Casino",
+      "address": "88 Centre ST, Casino NSW 2470",
+      "state": "NSW",
+      "lat": -28.866279,
+      "lng": 153.044889
+    },
+    {
       "brand": "Exploren",
       "code": "NSW:20471",
       "name": "Solomon PTY LTD",
@@ -11439,20 +11438,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Independent",
-      "code": "SA:61501594",
-      "name": "Victor Harbor Roadhouse",
-      "address": "105 Victoria St, SA 5211",
-      "state": "SA",
-      "lat": -35.558077,
-      "lng": 138.613533,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
       ]
     },
     {

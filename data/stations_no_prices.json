@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-01T08:51:24Z",
+  "fetched_at": "2026-10-01T12:17:57Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1278,
   "by_state": {
     "ACT": 9,
-    "NSW": 1160,
+    "NSW": 1161,
     "NT": 29,
-    "QLD": 26,
+    "QLD": 28,
     "SA": 29,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 21
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,9 +17,9 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "Independent": 74,
+    "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 64,
+    "7-Eleven": 70,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -40,6 +40,7 @@
     "Speedway": 3,
     "Budget": 2,
     "Indervon": 2,
+    "Metro Petroleum": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
@@ -50,7 +51,6 @@
     "Perrys": 1,
     "Bowser Bean": 1,
     "Solo": 1,
-    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
     "Apco": 1
   },
@@ -597,6 +597,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:260",
+      "name": "7-Eleven North Ryde",
+      "address": "400 Lane Cove Road, North Ryde NSW 2113",
+      "state": "NSW",
+      "lat": -33.784477,
+      "lng": 151.128964
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:20057",
       "name": "7-Eleven Nowra",
       "address": "104 Worrigee ST, Nowra NSW 2541",
@@ -639,6 +648,15 @@
       "state": "NSW",
       "lat": -33.77504,
       "lng": 150.666023
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:273",
+      "name": "7-Eleven Revesby",
+      "address": "275 Canterbury Road & Mavis Street, Revesby NSW 2212",
+      "state": "NSW",
+      "lat": -33.936974,
+      "lng": 151.020888
     },
     {
       "brand": "7-Eleven",
@@ -4050,15 +4068,6 @@
       "state": "NSW",
       "lat": -33.919164,
       "lng": 151.254888
-    },
-    {
-      "brand": "Independent",
-      "code": "NSW:20901",
-      "name": "Coolah's Top Servo",
-      "address": "1a Binnia ST, Coolah NSW 2843",
-      "state": "NSW",
-      "lat": -31.819717,
-      "lng": 149.725151
     },
     {
       "brand": "Tesla",
@@ -10838,6 +10847,38 @@
       "lng": 131.795078
     },
     {
+      "brand": "7-Eleven",
+      "code": "QLD:61402375",
+      "name": "7-Eleven Rangeville",
+      "address": "85 Perth St, QLD 4350",
+      "state": "QLD",
+      "lat": -27.574743,
+      "lng": 151.969301,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61402840",
+      "name": "7-Eleven Toowoomba East",
+      "address": "221-225 Ruthven St, QLD 4350",
+      "state": "QLD",
+      "lat": -27.550881,
+      "lng": 151.954776,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
@@ -11460,6 +11501,38 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:Kyz+A2u2XYn2STIWITL4B4rhyU5Qta5lqzBZc9RBl+U=",
+      "name": "7-Eleven Caroline Springs",
+      "address": "235-239 Caroline Springs Boulevard, Caroline Springs, 3023",
+      "state": "VIC",
+      "lat": -37.72920722,
+      "lng": 144.74082286,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:xBomIQfBr1COoS5zfT3fF9XkIsL6PF0Oe/IFIY+VWu0=",
+      "name": "7-Eleven Eltham West",
+      "address": "215 Sherbourne Road, Eltham, 3095",
+      "state": "VIC",
+      "lat": -37.71591545989994,
+      "lng": 145.1371308394785,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:VkvBa8whRgy6Z46L367DlDXkAoFePQygEgkFhtVuUPE=",
       "name": "7-Eleven Noble Park",
       "address": "1100-1106 Heatherton Road, Noble Park, 3174",
@@ -11588,6 +11661,21 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "Metro Petroleum",
+      "code": "VIC:rWzBabl5XWgVh3HRwlGuVU1XYJNaRt1EPJNGCl/xAh0=",
+      "name": "Metro Sunshine",
+      "address": "147-151 Devonshire Road, SUNSHINE, 3020",
+      "state": "VIC",
+      "lat": -37.78625411,
+      "lng": 144.84557921,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U98"
       ]
     },
     {

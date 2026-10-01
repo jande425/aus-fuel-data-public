@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-01T02:06:42Z",
+  "fetched_at": "2026-10-01T03:47:06Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1278,
+  "station_count": 1277,
   "by_state": {
     "ACT": 9,
-    "NSW": 1161,
+    "NSW": 1160,
     "NT": 29,
     "QLD": 26,
     "SA": 32,
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 83,
-    "Independent": 77,
+    "Independent": 76,
     "Chargefox": 72,
     "7-Eleven": 65,
     "BP": 54,
@@ -26,10 +26,10 @@
     "JOLT": 20,
     "Ampol": 19,
     "Caltex": 13,
-    "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
+    "Shell": 9,
     "Metro Fuel": 8,
     "Evie Networks": 7,
     "Liberty": 7,
@@ -38,6 +38,7 @@
     "Everty": 4,
     "Ampol Foodary": 3,
     "Speedway": 3,
+    "Enhance": 2,
     "Budget": 2,
     "Indervon": 2,
     "Westside": 1,
@@ -45,7 +46,6 @@
     "Astron": 1,
     "Arko Energy": 1,
     "On the Run": 1,
-    "Enhance": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Bowser Bean": 1,
@@ -4466,6 +4466,15 @@
       "lng": 150.208192
     },
     {
+      "brand": "Enhance",
+      "code": "NSW:982",
+      "name": "Enhance Albion Park",
+      "address": "253 Princes Hwy, Albion Park Rail NSW 2527",
+      "state": "NSW",
+      "lat": -34.567594,
+      "lng": 150.803238
+    },
+    {
       "brand": "Chargefox",
       "code": "NSW:19214",
       "name": "Epiq Market Shopping Center",
@@ -6138,15 +6147,6 @@
       "state": "NSW",
       "lat": -32.761736,
       "lng": 152.082891
-    },
-    {
-      "brand": "Independent",
-      "code": "NSW:18627",
-      "name": "Legume Store",
-      "address": "9297 Mount Lindesay RD, Legume NSW 2476",
-      "state": "NSW",
-      "lat": -28.405354,
-      "lng": 152.306704
     },
     {
       "brand": "Exploren",
@@ -8955,15 +8955,6 @@
       "state": "NSW",
       "lat": -32.701577,
       "lng": 152.063139
-    },
-    {
-      "brand": "Shell",
-      "code": "NSW:20948",
-      "name": "Solo Casino",
-      "address": "88 Centre ST, Casino NSW 2470",
-      "state": "NSW",
-      "lat": -28.866279,
-      "lng": 153.044889
     },
     {
       "brand": "Exploren",

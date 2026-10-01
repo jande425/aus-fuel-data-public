@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-01T01:24:38Z",
+  "fetched_at": "2026-10-01T02:06:42Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1277,
+  "station_count": 1278,
   "by_state": {
     "ACT": 9,
-    "NSW": 1160,
+    "NSW": 1161,
     "NT": 29,
     "QLD": 26,
     "SA": 32,
@@ -20,7 +20,7 @@
     "Independent": 77,
     "Chargefox": 72,
     "7-Eleven": 65,
-    "BP": 53,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -50,9 +50,9 @@
     "Perrys": 1,
     "Bowser Bean": 1,
     "Solo": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -2853,6 +2853,15 @@
       "state": "NSW",
       "lat": -33.00802,
       "lng": 151.642586
+    },
+    {
+      "brand": "BP",
+      "code": "NSW:1145",
+      "name": "BP Viaduct",
+      "address": "190 Peel Street, Tamworth NSW 2340",
+      "state": "NSW",
+      "lat": -31.085233,
+      "lng": 150.925369
     },
     {
       "brand": "BP",

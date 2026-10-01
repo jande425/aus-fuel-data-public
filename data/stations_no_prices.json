@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-01T23:20:23Z",
+  "fetched_at": "2026-10-01T23:52:04Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1271,
   "by_state": {
     "ACT": 9,
     "NSW": 1157,
     "NT": 30,
-    "QLD": 28,
+    "QLD": 27,
     "SA": 29,
     "TAS": 1,
     "VIC": 18
@@ -23,7 +23,7 @@
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 21,
+    "Ampol": 20,
     "JOLT": 20,
     "Caltex": 13,
     "Puma Energy": 10,
@@ -10818,22 +10818,6 @@
       "state": "NT",
       "lat": -22.25346,
       "lng": 131.795078
-    },
-    {
-      "brand": "Ampol",
-      "code": "QLD:61401610",
-      "name": "Ampol Foodary Coombabah",
-      "address": "384 Oxley Drive, QLD 4216",
-      "state": "QLD",
-      "lat": -27.912218,
-      "lng": 153.388272,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "Ampol",

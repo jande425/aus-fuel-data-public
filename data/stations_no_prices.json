@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-02T21:18:33Z",
+  "fetched_at": "2026-10-02T21:44:20Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1277,
   "by_state": {
     "ACT": 9,
-    "NSW": 1158,
+    "NSW": 1160,
     "NT": 30,
     "QLD": 29,
     "SA": 30,
@@ -16,7 +16,7 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
+    "Reddy Express": 82,
     "Independent": 75,
     "Chargefox": 72,
     "7-Eleven": 65,
@@ -26,10 +26,10 @@
     "Ampol": 21,
     "JOLT": 20,
     "Caltex": 13,
+    "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
-    "Shell": 9,
     "Metro Fuel": 8,
     "Evie Networks": 7,
     "Liberty": 7,
@@ -8382,6 +8382,15 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "NSW:435",
+      "name": "Shell Reddy Express Bondi Junction",
+      "address": "120-138 Birrell Street, Bondi Junction NSW 2022",
+      "state": "NSW",
+      "lat": -33.895583,
+      "lng": 151.248617
+    },
+    {
+      "brand": "Reddy Express",
       "code": "NSW:36",
       "name": "Shell Reddy Express Brighton-Le-Sands",
       "address": "2-6 General Holmes Drive, Brighton-Le-Sands NSW 2216",
@@ -8937,6 +8946,15 @@
       "state": "NSW",
       "lat": -32.701577,
       "lng": 152.063139
+    },
+    {
+      "brand": "Shell",
+      "code": "NSW:20948",
+      "name": "Solo Casino",
+      "address": "88 Centre ST, Casino NSW 2470",
+      "state": "NSW",
+      "lat": -28.866279,
+      "lng": 153.044889
     },
     {
       "brand": "Exploren",

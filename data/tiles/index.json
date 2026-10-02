@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-02T21:18:33Z",
+  "fetched_at": "2026-10-02T21:44:20Z",
   "tile_size_degrees": 2,
   "tile_count": 187,
-  "total_stations": 7876,
+  "total_stations": 7874,
   "tiles": [
     {
       "tile": "lat_-44_lng_144",
@@ -496,7 +496,7 @@
         "min_lng": 150,
         "max_lng": 152
       },
-      "station_count": 974,
+      "station_count": 973,
       "file": "tiles/lat_-34_lng_150.json"
     },
     {
@@ -859,7 +859,7 @@
         "min_lng": 152,
         "max_lng": 154
       },
-      "station_count": 206,
+      "station_count": 205,
       "file": "tiles/lat_-30_lng_152.json"
     },
     {

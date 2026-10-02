@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-10-02T16:37:08Z",
+  "fetched_at": "2026-10-02T17:19:15Z",
   "station_count": 2106,
   "fuel_types": [
     "E10",
@@ -2119,9 +2119,9 @@
       "state": "NSW",
       "prices": {
         "U98": 259.4,
-        "U91": 226
+        "U91": 227
       },
-      "updated": "2026-10-02T08:27:25Z",
+      "updated": "2026-10-02T17:02:26Z",
       "lat": -33.775823,
       "lng": 151.051729
     },
@@ -3687,14 +3687,14 @@
       "address": "301 Hume HWY, Greenacre NSW 2190",
       "state": "NSW",
       "prices": {
-        "E10": 236.7,
+        "E10": 236.9,
         "LPG": 116.9,
-        "U95": 255.7,
-        "U98": 264.7,
+        "U95": 255.9,
+        "U98": 264.9,
         "Premium Diesel": 279.9,
-        "U91": 238.7
+        "U91": 238.9
       },
-      "updated": "2026-10-02T08:54:15Z",
+      "updated": "2026-10-02T17:18:16Z",
       "lat": -33.905247,
       "lng": 151.041867
     },
@@ -13273,14 +13273,14 @@
       "address": "Lot 3-4 Parramatta Road & Harbord Street, Granville East NSW 2142",
       "state": "NSW",
       "prices": {
-        "E10": 237.9,
+        "E10": 236.9,
         "LPG": 116.9,
-        "U95": 256.9,
-        "U98": 265.9,
+        "U95": 255.9,
+        "U98": 264.9,
         "Premium Diesel": 288.9,
-        "U91": 239.9
+        "U91": 238.9
       },
-      "updated": "2026-10-02T08:51:14Z",
+      "updated": "2026-10-02T17:09:13Z",
       "lat": -33.835001,
       "lng": 151.021825
     },
@@ -22772,12 +22772,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 285.9,
-        "LPG": 112.9,
-        "U95": 261.9,
-        "U98": 267.9,
-        "U91": 244.9
+        "LPG": 120.9,
+        "U95": 263.9,
+        "U98": 269.9,
+        "U91": 246.9
       },
-      "updated": "2026-09-28T16:46:36Z",
+      "updated": "2026-10-02T16:52:25Z",
       "lat": -34.520145,
       "lng": 144.838046
     },
@@ -25712,9 +25712,10 @@
       "address": "571 Beryl Street, Broken Hill NSW 2880",
       "state": "NSW",
       "prices": {
-        "Premium Diesel": 286.5
+        "Premium Diesel": 286.5,
+        "U91": 239.5
       },
-      "updated": "2026-09-30T21:29:41Z",
+      "updated": "2026-10-02T16:44:49Z",
       "lat": -31.94987,
       "lng": 141.475305
     },

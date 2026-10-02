@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-02T17:19:15Z",
+  "fetched_at": "2026-10-02T20:52:04Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1276,
   "by_state": {
@@ -19,7 +19,7 @@
     "Reddy Express": 81,
     "Independent": 75,
     "Chargefox": 72,
-    "7-Eleven": 65,
+    "7-Eleven": 66,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -49,11 +49,10 @@
     "Pacific Fuel Solutions": 1,
     "IOR": 1,
     "Perrys": 1,
-    "Bowser Bean": 1,
     "Solo": 1,
+    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -11506,6 +11505,22 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:ycQ6AnSOOUE2wrGNET75Zh0xAHQzBgX5zl+FSFzrUQA=",
+      "name": "7-Eleven Craigieburn South Inbound",
+      "address": "280 Hume Highway, Craigieburn, 3064",
+      "state": "VIC",
+      "lat": -37.61902701,
+      "lng": 144.94800392,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:VkvBa8whRgy6Z46L367DlDXkAoFePQygEgkFhtVuUPE=",
       "name": "7-Eleven Noble Park",
       "address": "1100-1106 Heatherton Road, Noble Park, 3174",
@@ -11562,22 +11577,6 @@
         "Diesel",
         "LPG",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Bowser Bean",
-      "code": "VIC:nkqbS3FzerduQEnemijbd02NnPKm1F0+1LJLM/xFTl4=",
-      "name": "BP Kilmore",
-      "address": "102 Sydney Street, Kilmore, 3764",
-      "state": "VIC",
-      "lat": -37.28751749,
-      "lng": 144.94941372,
-      "unavailable_fuels": [
-        "Diesel",
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

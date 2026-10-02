@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-02T20:52:04Z",
+  "fetched_at": "2026-10-02T21:18:33Z",
   "station_count": 696,
   "fuel_types": [
     "E10",
@@ -2465,13 +2465,13 @@
       "state": "SA",
       "prices": {
         "U91": 235.5,
+        "Diesel": 289.5,
         "U98": 255.5
       },
-      "updated": "2026-10-02T08:33:26Z",
+      "updated": "2026-10-02T21:04:12Z",
       "lat": -35.010213,
       "lng": 138.748378,
       "unavailable_fuels": [
-        "Diesel",
         "LPG"
       ]
     },
@@ -2930,7 +2930,7 @@
         "U98": 253.9,
         "Premium Diesel": 289.9
       },
-      "updated": "2026-10-02T20:40:19Z",
+      "updated": "2026-10-02T21:10:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -4617,11 +4617,11 @@
       "address": "12 Mcrae St, SA 5271",
       "state": "SA",
       "prices": {
-        "U91": 246.9,
-        "U95": 263.9,
+        "U91": 249.9,
+        "U95": 266.9,
         "Premium Diesel": 295.9
       },
-      "updated": "2026-10-02T16:00:00Z",
+      "updated": "2026-10-02T21:10:00Z",
       "lat": -36.957228,
       "lng": 140.741764
     },
@@ -5045,12 +5045,12 @@
       "address": "Lot 1 Irwin Street, SA 5556",
       "state": "SA",
       "prices": {
-        "U91": 243.9,
-        "Diesel": 298.9,
+        "U91": 239.9,
+        "Diesel": 291.9,
         "LPG": 127.9,
         "U98": 265.9
       },
-      "updated": "2026-09-22T10:50:34Z",
+      "updated": "2026-10-02T20:55:16Z",
       "lat": -33.932868,
       "lng": 137.626963
     },
@@ -5138,11 +5138,11 @@
       "address": "21 Frances Tce, SA 5554",
       "state": "SA",
       "prices": {
-        "U91": 240.9,
-        "U95": 257.9,
+        "U91": 243.9,
+        "U95": 260.9,
         "Premium Diesel": 289.9
       },
-      "updated": "2026-10-02T16:00:00Z",
+      "updated": "2026-10-02T21:00:00Z",
       "lat": -33.965051,
       "lng": 137.715423
     },
@@ -5237,11 +5237,11 @@
       "address": "Mortlock Tce & Boston St, SA 5606",
       "state": "SA",
       "prices": {
-        "U91": 242.9,
-        "U95": 259.9,
+        "U91": 245.9,
+        "U95": 262.9,
         "Premium Diesel": 290.9
       },
-      "updated": "2026-10-02T16:00:00Z",
+      "updated": "2026-10-02T21:11:00Z",
       "lat": -34.724927,
       "lng": 135.858734
     },
@@ -5462,7 +5462,7 @@
         "U98": 259.9,
         "Premium Diesel": 286.9
       },
-      "updated": "2026-10-02T20:40:19Z",
+      "updated": "2026-10-02T21:10:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },

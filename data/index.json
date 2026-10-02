@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T07:17:19Z",
-  "total_stations": 7874,
+  "last_updated": "2026-10-02T08:27:31Z",
+  "total_stations": 7875,
   "total_states": 8,
   "fuel_types": [
     "23",
@@ -20,59 +20,59 @@
   ],
   "states": {
     "ACT": {
-      "station_count": 61,
-      "price_count": 259,
+      "station_count": 62,
+      "price_count": 264,
       "file": "act/latest.json",
-      "checksum": "43d8e800",
-      "size_bytes": 24876
+      "checksum": "22f39740",
+      "size_bytes": 25293
     },
     "NSW": {
       "station_count": 2106,
-      "price_count": 8443,
+      "price_count": 8441,
       "file": "nsw/latest.json",
-      "checksum": "3ab58b40",
-      "size_bytes": 837285
+      "checksum": "c301f234",
+      "size_bytes": 837208
     },
     "NT": {
       "station_count": 209,
       "price_count": 568,
       "file": "nt/latest.json",
-      "checksum": "6727e8dd",
+      "checksum": "863452bb",
       "size_bytes": 79127
     },
     "QLD": {
       "station_count": 1777,
       "price_count": 6911,
       "file": "qld/latest.json",
-      "checksum": "f6a495fd",
+      "checksum": "b10a6135",
       "size_bytes": 701272
     },
     "SA": {
       "station_count": 696,
-      "price_count": 2467,
+      "price_count": 2469,
       "file": "sa/latest.json",
-      "checksum": "0cb455c3",
-      "size_bytes": 269578
+      "checksum": "4dec92fe",
+      "size_bytes": 269481
     },
     "TAS": {
       "station_count": 295,
       "price_count": 1441,
       "file": "tas/latest.json",
-      "checksum": "93b99d85",
+      "checksum": "2f512b6b",
       "size_bytes": 124573
     },
     "VIC": {
       "station_count": 1736,
       "price_count": 7111,
       "file": "vic/latest.json",
-      "checksum": "18accce3",
+      "checksum": "73a156fa",
       "size_bytes": 779365
     },
     "WA": {
       "station_count": 994,
       "price_count": 3367,
       "file": "wa/latest.json",
-      "checksum": "bd34c8a9",
+      "checksum": "958e3f41",
       "size_bytes": 623987
     }
   },

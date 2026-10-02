@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-02T03:44:57Z",
+  "fetched_at": "2026-10-02T07:17:19Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1278,
   "by_state": {
-    "ACT": 9,
-    "NSW": 1157,
+    "ACT": 10,
+    "NSW": 1158,
     "NT": 30,
     "QLD": 29,
     "SA": 30,
     "TAS": 1,
-    "VIC": 19
+    "VIC": 20
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 81,
     "Independent": 75,
     "Chargefox": 72,
-    "7-Eleven": 64,
+    "7-Eleven": 66,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -40,6 +40,7 @@
     "Speedway": 3,
     "Indervon": 3,
     "Budget": 2,
+    "EG Ampol": 1,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
@@ -82,6 +83,15 @@
       "state": "ACT",
       "lat": -35.309324,
       "lng": 149.188209
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "ACT:18818",
+      "name": "EG Ampol Canberra Gateway",
+      "address": "41 Federal Hwy, Lyneham ACT 2602",
+      "state": "ACT",
+      "lat": -35.2301,
+      "lng": 149.151
     },
     {
       "brand": "Chargefox",
@@ -469,6 +479,15 @@
       "state": "NSW",
       "lat": -33.759875,
       "lng": 150.726503
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:319",
+      "name": "7-Eleven Lake Illawarra",
+      "address": "2 - 4 Peterborough Avenue, Lake Illawarra NSW 2528",
+      "state": "NSW",
+      "lat": -34.54386,
+      "lng": 150.863624
     },
     {
       "brand": "7-Eleven",
@@ -11497,6 +11516,23 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:pXpS9ndtp+Yi0r1JygRPFSLDUHAUURV3+vgwFDHrpDY=",
+      "name": "7-Eleven Hawthorn East",
+      "address": "747-755 Toorak Road, Hawthorn East, 3123",
+      "state": "VIC",
+      "lat": -37.84486416,
+      "lng": 145.0418001,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:VkvBa8whRgy6Z46L367DlDXkAoFePQygEgkFhtVuUPE=",
       "name": "7-Eleven Noble Park",
       "address": "1100-1106 Heatherton Road, Noble Park, 3174",
@@ -11559,7 +11595,7 @@
     {
       "brand": "Bowser Bean",
       "code": "VIC:nkqbS3FzerduQEnemijbd02NnPKm1F0+1LJLM/xFTl4=",
-      "name": "BP Kilmore - Temporarily closed",
+      "name": "BP Kilmore",
       "address": "102 Sydney Street, Kilmore, 3764",
       "state": "VIC",
       "lat": -37.28751749,

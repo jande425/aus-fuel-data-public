@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-01T23:52:04Z",
+  "fetched_at": "2026-10-02T03:44:57Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1275,
   "by_state": {
     "ACT": 9,
     "NSW": 1157,
     "NT": 30,
-    "QLD": 27,
-    "SA": 29,
+    "QLD": 29,
+    "SA": 30,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 19
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,13 +17,13 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "Independent": 73,
+    "Independent": 75,
     "Chargefox": 72,
     "7-Eleven": 64,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 20,
+    "Ampol": 21,
     "JOLT": 20,
     "Caltex": 13,
     "Puma Energy": 10,
@@ -47,6 +47,7 @@
     "On the Run": 1,
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
+    "IOR": 1,
     "Perrys": 1,
     "Bowser Bean": 1,
     "Solo": 1,
@@ -6591,21 +6592,21 @@
     },
     {
       "brand": "Metro Fuel",
+      "code": "NSW:20950",
+      "name": "Metro Petroleum Perthville",
+      "address": "11 Vale RD, Perthville NSW 2795",
+      "state": "NSW",
+      "lat": -33.486779,
+      "lng": 149.547048
+    },
+    {
+      "brand": "Metro Fuel",
       "code": "NSW:20031",
       "name": "Metro Petroleum Redhead",
       "address": "100 Collier ST, Redhead NSW 2290",
       "state": "NSW",
       "lat": -33.00878,
       "lng": 151.710266
-    },
-    {
-      "brand": "Metro Fuel",
-      "code": "NSW:20106",
-      "name": "Metro Petroleum Tarro",
-      "address": "107 Anderson DR, Tarro NSW 2322",
-      "state": "NSW",
-      "lat": -32.807612,
-      "lng": 151.658842
     },
     {
       "brand": "Metro Fuel",
@@ -10887,6 +10888,20 @@
       "lng": 151.1198653325062
     },
     {
+      "brand": "Independent",
+      "code": "QLD:61402696",
+      "name": "Darr Creek Oasis",
+      "address": "6883 Chinchilla-Wondai Road Road, QLD 4410",
+      "state": "QLD",
+      "lat": -26.4952169379603,
+      "lng": 151.14126323313525,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95"
+      ]
+    },
+    {
       "brand": "Enhance",
       "code": "QLD:61401707",
       "name": "Enhance Service Station & Tyre Plus Mechanic",
@@ -10908,6 +10923,18 @@
       "state": "QLD",
       "lat": -27.08429424598368,
       "lng": 151.634403285256
+    },
+    {
+      "brand": "IOR",
+      "code": "QLD:61478312",
+      "name": "IOR Bohle",
+      "address": "20-21 Desma Ct, QLD 4814",
+      "state": "QLD",
+      "lat": -19.26169242167479,
+      "lng": 146.72851465489353,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
     },
     {
       "brand": "Independent",
@@ -11274,6 +11301,21 @@
     },
     {
       "brand": "Independent",
+      "code": "SA:61577208",
+      "name": "LMCT Edwardstown",
+      "address": "1112 South Rd, SA 5039",
+      "state": "SA",
+      "lat": -34.99249728575962,
+      "lng": 138.5742240196434,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Independent",
       "code": "SA:61577270",
       "name": "Mansers Motors",
       "address": "209 Commercial Street East, SA 5290",
@@ -11495,6 +11537,21 @@
       "lng": 141.304318,
       "unavailable_fuels": [
         "Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "VIC:HyL7Q5TZ4n2Qb2N3oCFwsUtY5izKE3K6z3vVP/iX0nE=",
+      "name": "Ampol Tawonga St",
+      "address": "233 Kiewa Valley Highway, TAWONGA SOUTH, 3698",
+      "state": "VIC",
+      "lat": -36.73782349,
+      "lng": 147.1607295,
+      "unavailable_fuels": [
+        "Diesel",
+        "LPG",
         "U91",
         "U98"
       ]

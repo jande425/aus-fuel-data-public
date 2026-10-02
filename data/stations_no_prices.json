@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-02T08:27:31Z",
+  "fetched_at": "2026-10-02T10:04:09Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1277,
+  "station_count": 1278,
   "by_state": {
     "ACT": 9,
     "NSW": 1158,
@@ -9,7 +9,7 @@
     "QLD": 29,
     "SA": 30,
     "TAS": 1,
-    "VIC": 20
+    "VIC": 21
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 81,
     "Independent": 75,
     "Chargefox": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 67,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -11506,14 +11506,13 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "VIC:pXpS9ndtp+Yi0r1JygRPFSLDUHAUURV3+vgwFDHrpDY=",
-      "name": "7-Eleven Hawthorn East",
-      "address": "747-755 Toorak Road, Hawthorn East, 3123",
+      "code": "VIC:VkvBa8whRgy6Z46L367DlDXkAoFePQygEgkFhtVuUPE=",
+      "name": "7-Eleven Noble Park",
+      "address": "1100-1106 Heatherton Road, Noble Park, 3174",
       "state": "VIC",
-      "lat": -37.84486416,
-      "lng": 145.0418001,
+      "lat": -37.96512786,
+      "lng": 145.17289763,
       "unavailable_fuels": [
-        "E10",
         "LPG",
         "Premium Diesel",
         "U91",
@@ -11523,14 +11522,29 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "VIC:VkvBa8whRgy6Z46L367DlDXkAoFePQygEgkFhtVuUPE=",
-      "name": "7-Eleven Noble Park",
-      "address": "1100-1106 Heatherton Road, Noble Park, 3174",
+      "code": "VIC:7slddVLl5qmOUhci9eYPMuLskajiN4uLtka22NjZdEI=",
+      "name": "7-Eleven Roxburgh Park",
+      "address": "250 Bridgewater Road, Roxburgh Park, 3064",
       "state": "VIC",
-      "lat": -37.96512786,
-      "lng": 145.17289763,
+      "lat": -37.61963973,
+      "lng": 144.92786116,
       "unavailable_fuels": [
-        "LPG",
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:f1GZdFDpfkIrdGlL3iqzp66PGETzkAQRnNB0xhME0eU=",
+      "name": "7-Eleven Royal Melbourne",
+      "address": "45 Flemington Road, North Melbourne, 3051",
+      "state": "VIC",
+      "lat": -37.80020562844225,
+      "lng": 144.95502776123,
+      "unavailable_fuels": [
         "Premium Diesel",
         "U91",
         "U95",

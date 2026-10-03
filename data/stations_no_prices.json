@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-03T01:55:05Z",
+  "fetched_at": "2026-10-03T06:51:11Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1272,
   "by_state": {
     "ACT": 9,
-    "NSW": 1158,
+    "NSW": 1160,
     "NT": 30,
-    "QLD": 29,
+    "QLD": 28,
     "SA": 29,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 15
   },
   "by_brand": {
     "Exploren": 236,
@@ -20,11 +20,11 @@
     "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 64,
-    "BP": 53,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 20,
     "JOLT": 20,
+    "Ampol": 18,
     "Caltex": 13,
     "Shell": 10,
     "Puma Energy": 10,
@@ -41,6 +41,7 @@
     "Indervon": 3,
     "Budget": 2,
     "Westside": 1,
+    "EG Ampol": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
@@ -49,7 +50,6 @@
     "Pacific Fuel Solutions": 1,
     "IOR": 1,
     "Perrys": 1,
-    "Solo": 1,
     "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
     "Apco": 1
@@ -2811,6 +2811,15 @@
     },
     {
       "brand": "BP",
+      "code": "NSW:20906",
+      "name": "BP Smithfield",
+      "address": "846 the Horsley Drive, Smithfield NSW 2164",
+      "state": "NSW",
+      "lat": -33.851569,
+      "lng": 150.925684
+    },
+    {
+      "brand": "BP",
       "code": "NSW:414",
       "name": "BP Springwood",
       "address": "28 Great Western Highway, Valley Heights NSW 2777",
@@ -4302,6 +4311,15 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "NSW:694",
+      "name": "EG Ampol Broken Hill",
+      "address": "Cnr Galena & Mercury Sts, Broken Hill NSW 2880",
+      "state": "NSW",
+      "lat": -31.961944,
+      "lng": 141.449201
     },
     {
       "brand": "EVUp",
@@ -10847,19 +10865,6 @@
       "lng": 151.411238
     },
     {
-      "brand": "Ampol",
-      "code": "QLD:61477703",
-      "name": "Ampol Pinkenba Diesel Stop",
-      "address": "19-27 Orient Avenue, QLD 4008",
-      "state": "QLD",
-      "lat": -27.426789,
-      "lng": 153.114322,
-      "unavailable_fuels": [
-        "Diesel",
-        "Premium Diesel"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "QLD:61402385",
       "name": "Blue Topaz Caravan Park",
@@ -11516,20 +11521,6 @@
       ]
     },
     {
-      "brand": "Ampol",
-      "code": "VIC:maEWbdne2tQhSWWgR4WkF7ieWGlpGvxE22zhVxwLBbA=",
-      "name": "Ampol Edenhope",
-      "address": "2 Wimmera Highway, Edenhope, 3318",
-      "state": "VIC",
-      "lat": -37.035284,
-      "lng": 141.304318,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "ETA PETROLEUM",
       "code": "VIC:A3p+CK2mLWBYVgUPBX5XALRvf4AkDSgRB20PSic6SgU=",
       "name": "Caltex Dandenong South",
@@ -11697,21 +11688,6 @@
         "Diesel",
         "LPG",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Solo",
-      "code": "VIC:Nr5peKsFEM1xnAhBZJoA6oinmNqJZf4Fj/570pVYpKA=",
-      "name": "Solo Hampton Park",
-      "address": "1-7 Ormond Road, HAMPTON PARK, 3976",
-      "state": "VIC",
-      "lat": -38.04740686,
-      "lng": 145.26555686,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

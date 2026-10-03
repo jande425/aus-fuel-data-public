@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-03T08:48:29Z",
+  "fetched_at": "2026-10-03T12:40:05Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1273,
   "by_state": {
     "ACT": 9,
-    "NSW": 1160,
+    "NSW": 1159,
     "NT": 30,
-    "QLD": 27,
+    "QLD": 28,
     "SA": 30,
     "TAS": 1,
-    "VIC": 15
+    "VIC": 16
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,17 +19,17 @@
     "Reddy Express": 81,
     "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 64,
+    "7-Eleven": 65,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 18,
+    "Ampol": 19,
     "Caltex": 13,
-    "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
+    "Shell": 9,
     "Metro Fuel": 8,
     "Evie Networks": 7,
     "Liberty": 7,
@@ -50,9 +50,9 @@
     "Pacific Fuel Solutions": 1,
     "IOR": 1,
     "Perrys": 1,
+    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -8156,15 +8156,6 @@
       "lng": 149.75737
     },
     {
-      "brand": "Shell",
-      "code": "NSW:1192",
-      "name": "Shell Park Beach",
-      "address": "33 Ocean Parade, Coffs Harbour NSW 2450",
-      "state": "NSW",
-      "lat": -30.290509,
-      "lng": 153.137839
-    },
-    {
       "brand": "Reddy Express",
       "code": "NSW:126",
       "name": "Shell Reddy  Express Bega",
@@ -10848,6 +10839,21 @@
     },
     {
       "brand": "Ampol",
+      "code": "QLD:61401887",
+      "name": "Ampol Foodary Cleveland Shore St",
+      "address": "19-23 Shore St & 2 Grant St, QLD 4163",
+      "state": "QLD",
+      "lat": -27.524198,
+      "lng": 153.253795,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -11487,6 +11493,20 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:dHM44G2DjaFQ9t8GKJtWtkVzJ2+gEtRgnoQSfKsCPWw=",
+      "name": "7-Eleven Ashwood",
+      "address": "475-479 Warrigal  Road, Ashwood, 3147",
+      "state": "VIC",
+      "lat": -37.86342085,
+      "lng": 145.09352991,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
     },
     {
       "brand": "7-Eleven",

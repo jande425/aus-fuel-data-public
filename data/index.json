@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T08:48:29Z",
-  "total_stations": 7880,
+  "last_updated": "2026-10-03T12:40:05Z",
+  "total_stations": 7879,
   "total_states": 8,
   "fuel_types": [
     "B20",
@@ -22,56 +22,56 @@
       "station_count": 62,
       "price_count": 264,
       "file": "act/latest.json",
-      "checksum": "cbbb9ccd",
+      "checksum": "43932164",
       "size_bytes": 25293
     },
     "NSW": {
-      "station_count": 2104,
+      "station_count": 2105,
       "price_count": 8436,
       "file": "nsw/latest.json",
-      "checksum": "bfbe0cc7",
-      "size_bytes": 836564
+      "checksum": "138a90c2",
+      "size_bytes": 836852
     },
     "NT": {
       "station_count": 209,
       "price_count": 568,
       "file": "nt/latest.json",
-      "checksum": "94e75cdf",
+      "checksum": "d4260976",
       "size_bytes": 79127
     },
     "QLD": {
-      "station_count": 1779,
-      "price_count": 6906,
+      "station_count": 1778,
+      "price_count": 6905,
       "file": "qld/latest.json",
-      "checksum": "48294ea1",
-      "size_bytes": 702136
+      "checksum": "13faa135",
+      "size_bytes": 701671
     },
     "SA": {
       "station_count": 696,
       "price_count": 2477,
       "file": "sa/latest.json",
-      "checksum": "32815dfc",
+      "checksum": "dd0f7f81",
       "size_bytes": 269393
     },
     "TAS": {
       "station_count": 295,
       "price_count": 1437,
       "file": "tas/latest.json",
-      "checksum": "5f926fa3",
+      "checksum": "378e1b0f",
       "size_bytes": 124474
     },
     "VIC": {
-      "station_count": 1741,
-      "price_count": 7124,
+      "station_count": 1740,
+      "price_count": 7121,
       "file": "vic/latest.json",
-      "checksum": "776a1cc7",
-      "size_bytes": 781842
+      "checksum": "e3d479e6",
+      "size_bytes": 781425
     },
     "WA": {
       "station_count": 994,
       "price_count": 3369,
       "file": "wa/latest.json",
-      "checksum": "2c5e87b3",
+      "checksum": "c2c891ca",
       "size_bytes": 624203
     }
   },

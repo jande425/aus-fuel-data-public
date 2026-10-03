@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-10-03T12:40:05Z",
-  "station_count": 2105,
+  "fetched_at": "2026-10-03T13:20:34Z",
+  "station_count": 2104,
   "fuel_types": [
     "E10",
     "U91",
@@ -249,13 +249,13 @@
       "address": "1 Weakleys Dr, THORNTON NSW 2322",
       "state": "NSW",
       "prices": {
-        "E10": 231.9,
-        "U95": 250.9,
-        "U98": 259.9,
-        "Premium Diesel": 281.9,
-        "U91": 233.9
+        "E10": 230.9,
+        "U95": 249.9,
+        "U98": 258.9,
+        "Premium Diesel": 280.9,
+        "U91": 232.9
       },
-      "updated": "2026-10-02T20:24:13Z",
+      "updated": "2026-10-03T12:48:15Z",
       "lat": -32.792986,
       "lng": 151.637461
     },
@@ -4120,12 +4120,12 @@
       "address": "36-38 Lane Cove Rd, RYDE NSW 2112",
       "state": "NSW",
       "prices": {
-        "E10": 227.9,
+        "E10": 232.9,
         "U98": 259.9,
-        "Premium Diesel": 270.9,
+        "Premium Diesel": 275.9,
         "U91": 234.9
       },
-      "updated": "2026-10-03T09:31:54Z",
+      "updated": "2026-10-03T12:44:42Z",
       "lat": -33.807511,
       "lng": 151.108604
     },
@@ -18590,24 +18590,6 @@
       "updated": "2026-10-02T19:47:26Z",
       "lat": -34.415048,
       "lng": 150.893164
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:710",
-      "name": "Ampol Foodary Seven Hills",
-      "address": "105 Station Rd Cnr Powers St, Seven Hills NSW 2147",
-      "state": "NSW",
-      "prices": {
-        "Diesel": 279.9,
-        "E10": 244.4,
-        "U95": 264.4,
-        "U98": 271.4,
-        "Premium Diesel": 283.9,
-        "U91": 242.9
-      },
-      "updated": "2026-10-03T06:32:26Z",
-      "lat": -33.773892,
-      "lng": 150.944345
     },
     {
       "brand": "Reddy Express",

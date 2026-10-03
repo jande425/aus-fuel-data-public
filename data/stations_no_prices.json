@@ -1,29 +1,29 @@
 {
-  "fetched_at": "2026-10-02T21:44:20Z",
+  "fetched_at": "2026-10-03T00:45:15Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1277,
+  "station_count": 1273,
   "by_state": {
     "ACT": 9,
-    "NSW": 1160,
+    "NSW": 1158,
     "NT": 30,
     "QLD": 29,
-    "SA": 30,
+    "SA": 29,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 82,
-    "Independent": 75,
+    "Reddy Express": 81,
+    "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 65,
+    "7-Eleven": 64,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 21,
+    "Ampol": 20,
     "JOLT": 20,
     "Caltex": 13,
     "Shell": 10,
@@ -468,15 +468,6 @@
       "state": "NSW",
       "lat": -33.759875,
       "lng": 150.726503
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:319",
-      "name": "7-Eleven Lake Illawarra",
-      "address": "2 - 4 Peterborough Avenue, Lake Illawarra NSW 2528",
-      "state": "NSW",
-      "lat": -34.54386,
-      "lng": 150.863624
     },
     {
       "brand": "7-Eleven",
@@ -8147,6 +8138,15 @@
       "lng": 149.75737
     },
     {
+      "brand": "Shell",
+      "code": "NSW:1192",
+      "name": "Shell Park Beach",
+      "address": "33 Ocean Parade, Coffs Harbour NSW 2450",
+      "state": "NSW",
+      "lat": -30.290509,
+      "lng": 153.137839
+    },
+    {
       "brand": "Reddy Express",
       "code": "NSW:126",
       "name": "Shell Reddy  Express Bega",
@@ -8379,15 +8379,6 @@
       "state": "NSW",
       "lat": -33.945714,
       "lng": 151.128092
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:435",
-      "name": "Shell Reddy Express Bondi Junction",
-      "address": "120-138 Birrell Street, Bondi Junction NSW 2022",
-      "state": "NSW",
-      "lat": -33.895583,
-      "lng": 151.248617
     },
     {
       "brand": "Reddy Express",
@@ -8946,15 +8937,6 @@
       "state": "NSW",
       "lat": -32.701577,
       "lng": 152.063139
-    },
-    {
-      "brand": "Shell",
-      "code": "NSW:20948",
-      "name": "Solo Casino",
-      "address": "88 Centre ST, Casino NSW 2470",
-      "state": "NSW",
-      "lat": -28.866279,
-      "lng": 153.044889
     },
     {
       "brand": "Exploren",
@@ -11327,21 +11309,6 @@
     },
     {
       "brand": "Independent",
-      "code": "SA:61577208",
-      "name": "LMCT Edwardstown",
-      "address": "1112 South Rd, SA 5039",
-      "state": "SA",
-      "lat": -34.99249728575962,
-      "lng": 138.5742240196434,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Independent",
       "code": "SA:61577270",
       "name": "Mansers Motors",
       "address": "209 Commercial Street East, SA 5290",
@@ -11563,21 +11530,6 @@
       "lng": 141.304318,
       "unavailable_fuels": [
         "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "VIC:HyL7Q5TZ4n2Qb2N3oCFwsUtY5izKE3K6z3vVP/iX0nE=",
-      "name": "Ampol Tawonga St",
-      "address": "233 Kiewa Valley Highway, TAWONGA SOUTH, 3698",
-      "state": "VIC",
-      "lat": -36.73782349,
-      "lng": 147.1607295,
-      "unavailable_fuels": [
-        "Diesel",
-        "LPG",
         "U91",
         "U98"
       ]

@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-04T02:33:54Z",
+  "fetched_at": "2026-10-04T03:58:05Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1273,
   "by_state": {
     "ACT": 9,
     "NSW": 1159,
@@ -9,7 +9,7 @@
     "QLD": 28,
     "SA": 30,
     "TAS": 1,
-    "VIC": 15
+    "VIC": 16
   },
   "by_brand": {
     "Exploren": 236,
@@ -40,6 +40,7 @@
     "Speedway": 3,
     "Indervon": 3,
     "Budget": 2,
+    "Metro Petroleum": 2,
     "Westside": 1,
     "EG Ampol": 1,
     "Transwest Fuels": 1,
@@ -50,7 +51,6 @@
     "Pacific Fuel Solutions": 1,
     "IOR": 1,
     "Perrys": 1,
-    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
     "Apco": 1
   },
@@ -11693,6 +11693,21 @@
       "unavailable_fuels": [
         "Diesel",
         "LPG",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Metro Petroleum",
+      "code": "VIC:v6alknE1Jui0iRlT4+m1LCHI2Y1WS2KtRtiAQmrKvmg=",
+      "name": "metro petroleum dingley village",
+      "address": "24 Marcus Road, DINGLEY VILLAGE, 3172",
+      "state": "VIC",
+      "lat": -37.98081093,
+      "lng": 145.13471443,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
         "U91",
         "U98"
       ]

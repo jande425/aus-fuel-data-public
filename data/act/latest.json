@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-10-04T02:33:54Z",
+  "fetched_at": "2026-10-04T03:58:05Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -119,13 +119,13 @@
       "address": "1 Hardwick Crescent, Holt ACT 2615",
       "state": "ACT",
       "prices": {
-        "E10": 244.9,
-        "U95": 263.9,
-        "U98": 273.9,
+        "E10": 240.9,
+        "U95": 259.9,
+        "U98": 269.9,
         "Premium Diesel": 289.9,
-        "U91": 246.9
+        "U91": 242.9
       },
-      "updated": "2026-10-04T00:47:27Z",
+      "updated": "2026-10-04T03:42:27Z",
       "lat": -35.2242,
       "lng": 149.021
     },

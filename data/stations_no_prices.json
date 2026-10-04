@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-04T16:20:25Z",
+  "fetched_at": "2026-10-04T17:44:46Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1274,
+  "station_count": 1275,
   "by_state": {
     "ACT": 9,
     "NSW": 1160,
     "NT": 30,
-    "QLD": 27,
+    "QLD": 28,
     "SA": 30,
     "TAS": 1,
     "VIC": 17
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 18,
+    "Ampol": 19,
     "Caltex": 13,
     "Puma Energy": 10,
     "United": 9,
@@ -51,8 +51,8 @@
     "Pacific Fuel Solutions": 1,
     "IOR": 1,
     "Perrys": 1,
-    "Bowser Bean": 1,
     "Apco": 1,
+    "Bowser Bean": 1,
     "ETA PETROLEUM": 1
   },
   "stations": [
@@ -10846,6 +10846,22 @@
       "state": "NT",
       "lat": -22.25346,
       "lng": 131.795078
+    },
+    {
+      "brand": "Ampol",
+      "code": "QLD:61401124",
+      "name": "Ampol Foodary Woolloongabba",
+      "address": "118 Logan Rd, QLD 4102",
+      "state": "QLD",
+      "lat": -27.490753,
+      "lng": 153.040153,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Ampol",

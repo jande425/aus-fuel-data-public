@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-04T03:58:05Z",
+  "fetched_at": "2026-10-04T10:41:55Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1278,
   "by_state": {
     "ACT": 9,
-    "NSW": 1159,
+    "NSW": 1161,
     "NT": 30,
-    "QLD": 28,
+    "QLD": 30,
     "SA": 30,
     "TAS": 1,
-    "VIC": 16
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,12 +19,12 @@
     "Reddy Express": 81,
     "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 64,
+    "7-Eleven": 69,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 19,
+    "Ampol": 18,
     "Caltex": 13,
     "Puma Energy": 10,
     "United": 9,
@@ -51,6 +51,7 @@
     "Pacific Fuel Solutions": 1,
     "IOR": 1,
     "Perrys": 1,
+    "Bowser Bean": 1,
     "ETA PETROLEUM": 1,
     "Apco": 1
   },
@@ -408,6 +409,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:18201",
+      "name": "7-Eleven Greystanes",
+      "address": "601-605 Great Western Highway, GREYSTANES NSW 2145",
+      "state": "NSW",
+      "lat": -33.808609,
+      "lng": 150.935941
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:130",
       "name": "7-Eleven Guildford West",
       "address": "534 Guildford Road West (Corner Fowler Road), Guildford West NSW 2161",
@@ -612,6 +622,15 @@
       "state": "NSW",
       "lat": -33.80187,
       "lng": 150.957827
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:261",
+      "name": "7-Eleven Penrith South",
+      "address": "15-19 Aspen Street, Penrith South NSW 2750",
+      "state": "NSW",
+      "lat": -33.777277,
+      "lng": 150.710723
     },
     {
       "brand": "7-Eleven",
@@ -10838,14 +10857,47 @@
       "lng": 131.795078
     },
     {
-      "brand": "Ampol",
-      "code": "QLD:61401887",
-      "name": "Ampol Foodary Cleveland Shore St",
-      "address": "19-23 Shore St & 2 Grant St, QLD 4163",
+      "brand": "7-Eleven",
+      "code": "QLD:61477672",
+      "name": "7-Eleven Harristown",
+      "address": "Cnr Drayton Road and South Street, QLD 4350",
       "state": "QLD",
-      "lat": -27.524198,
-      "lng": 153.253795,
+      "lat": -27.575953,
+      "lng": 151.939448,
       "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61477897",
+      "name": "7-Eleven Hillcrest",
+      "address": "118-132 Anzac Avenue, QLD 4118",
+      "state": "QLD",
+      "lat": -27.663668,
+      "lng": 153.034904,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61402155",
+      "name": "7-Eleven Newtown",
+      "address": "251-253 Bridge Street, QLD 4350",
+      "state": "QLD",
+      "lat": -27.549668,
+      "lng": 151.943278,
+      "unavailable_fuels": [
+        "E10",
         "Premium Diesel",
         "U91",
         "U95",
@@ -11524,6 +11576,22 @@
         "LPG",
         "U91",
         "U95"
+      ]
+    },
+    {
+      "brand": "Bowser Bean",
+      "code": "VIC:nkqbS3FzerduQEnemijbd02NnPKm1F0+1LJLM/xFTl4=",
+      "name": "BP Kilmore",
+      "address": "102 Sydney Street, Kilmore, 3764",
+      "state": "VIC",
+      "lat": -37.28751749,
+      "lng": 144.94941372,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
       ]
     },
     {

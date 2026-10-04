@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-04T17:44:46Z",
+  "fetched_at": "2026-10-04T20:09:16Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1276,
   "by_state": {
     "ACT": 9,
     "NSW": 1160,
@@ -9,7 +9,7 @@
     "QLD": 28,
     "SA": 30,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
@@ -26,8 +26,8 @@
     "JOLT": 20,
     "Ampol": 19,
     "Caltex": 13,
+    "United": 10,
     "Puma Energy": 10,
-    "United": 9,
     "EVUp": 9,
     "Shell": 9,
     "Metro Fuel": 8,
@@ -51,8 +51,8 @@
     "Pacific Fuel Solutions": 1,
     "IOR": 1,
     "Perrys": 1,
-    "Apco": 1,
     "Bowser Bean": 1,
+    "Apco": 1,
     "ETA PETROLEUM": 1
   },
   "stations": [
@@ -11719,6 +11719,22 @@
       "lng": 142.19912165438998,
       "unavailable_fuels": [
         "Diesel",
+        "LPG",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "United",
+      "code": "VIC:Ya5c3rOHeFJeaMtTKBpS1pYIkCB4GaNXCSPe0OqFcQw=",
+      "name": "United  Beaufort Roadhouse",
+      "address": "4932 Western Highway, Beaufort, 3373",
+      "state": "VIC",
+      "lat": -37.42478999,
+      "lng": 143.35437451,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
         "LPG",
         "U91",
         "U98"

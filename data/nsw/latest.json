@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-10-04T20:09:16Z",
-  "station_count": 2104,
+  "fetched_at": "2026-10-04T20:47:39Z",
+  "station_count": 2103,
   "fuel_types": [
     "E10",
     "U91",
@@ -1719,10 +1719,10 @@
       "state": "NSW",
       "prices": {
         "U95": 369.9,
-        "Premium Diesel": 316.9,
+        "Premium Diesel": 319.9,
         "U91": 251.9
       },
-      "updated": "2026-10-04T06:07:26Z",
+      "updated": "2026-10-04T20:37:26Z",
       "lat": -29.429312,
       "lng": 147.974698
     },
@@ -3263,11 +3263,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 292.4,
-        "E10": 241.4,
+        "E10": 244.4,
         "U95": 260.9,
         "Premium Diesel": 294.4
       },
-      "updated": "2026-10-03T23:17:26Z",
+      "updated": "2026-10-04T20:17:26Z",
       "lat": -31.023028,
       "lng": 151.069926
     },
@@ -7105,22 +7105,6 @@
     },
     {
       "brand": "Ampol Foodary",
-      "code": "NSW:18181",
-      "name": "Ampol Foodary Woolooware",
-      "address": "100 Woolooware Road, WOOLOOWARE NSW 2230",
-      "state": "NSW",
-      "prices": {
-        "E10": 243.9,
-        "U98": 272.9,
-        "Premium Diesel": 292.9,
-        "U91": 245.9
-      },
-      "updated": "2026-10-02T23:42:26Z",
-      "lat": -34.052747,
-      "lng": 151.140843
-    },
-    {
-      "brand": "Ampol Foodary",
       "code": "NSW:18182",
       "name": "Ampol Foodary Edmondson Park",
       "address": "2072 Camden Valley Way, EDMONDSON PARK NSW 2174",
@@ -7622,14 +7606,14 @@
       "address": "22-36 Parkes Road, FORBES NSW 2871",
       "state": "NSW",
       "prices": {
-        "Diesel": 289,
+        "Diesel": 286,
         "E10": 247.9,
         "U95": 266.9,
         "U98": 272.9,
-        "Premium Diesel": 294,
+        "Premium Diesel": 291,
         "U91": 245.9
       },
-      "updated": "2026-10-03T20:12:28Z",
+      "updated": "2026-10-04T20:12:28Z",
       "lat": -33.370249,
       "lng": 148.018336
     },
@@ -8283,12 +8267,12 @@
       "address": "21 Abbott ST, Gunnedah NSW 2380",
       "state": "NSW",
       "prices": {
-        "E10": 234.4,
+        "E10": 236.9,
         "U95": 265.9,
         "U98": 271.4,
         "Premium Diesel": 296.4
       },
-      "updated": "2026-10-04T06:22:26Z",
+      "updated": "2026-10-04T20:32:26Z",
       "lat": -30.980209,
       "lng": 150.256185
     },
@@ -8959,12 +8943,12 @@
       "address": "20 Pacific HWY, Bennetts Green NSW 2290",
       "state": "NSW",
       "prices": {
-        "E10": 235.9,
-        "U95": 253.9,
-        "U98": 262.9,
+        "E10": 234.9,
+        "U95": 252.9,
+        "U98": 261.9,
         "Premium Diesel": 289.9
       },
-      "updated": "2026-10-03T02:21:34Z",
+      "updated": "2026-10-04T20:22:22Z",
       "lat": -32.997154,
       "lng": 151.68498
     },
@@ -9351,12 +9335,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 273.5,
-        "E10": 231.7,
+        "E10": 229.7,
         "U98": 260.9,
         "Premium Diesel": 275.5,
-        "U91": 233.7
+        "U91": 231.7
       },
-      "updated": "2026-10-03T18:48:32Z",
+      "updated": "2026-10-04T20:41:32Z",
       "lat": -33.928392,
       "lng": 150.9772
     },
@@ -9695,12 +9679,12 @@
       "address": "279 Comur ST, Yass NSW 2582",
       "state": "NSW",
       "prices": {
-        "Diesel": 287.9,
-        "E10": 238.9,
+        "Diesel": 285.9,
+        "E10": 240.9,
         "LPG": 129.9,
-        "U91": 242.9
+        "U91": 245.9
       },
-      "updated": "2026-10-01T20:05:29Z",
+      "updated": "2026-10-04T20:17:48Z",
       "lat": -34.848394,
       "lng": 148.91631
     },
@@ -10336,10 +10320,10 @@
       "prices": {
         "E10": 233.9,
         "U98": 261.9,
-        "Premium Diesel": 279.5,
+        "Premium Diesel": 278.9,
         "U91": 235.9
       },
-      "updated": "2026-10-03T18:46:12Z",
+      "updated": "2026-10-04T20:19:19Z",
       "lat": -33.888152,
       "lng": 151.115062
     },
@@ -15377,13 +15361,13 @@
       "address": "154 Belgrave Street, Kempsey NSW 2440",
       "state": "NSW",
       "prices": {
-        "Diesel": 279.9,
-        "E10": 235.9,
-        "U95": 251.9,
-        "U98": 260.9,
-        "U91": 237.9
+        "Diesel": 276.9,
+        "E10": 233.9,
+        "U95": 249.9,
+        "U98": 258.9,
+        "U91": 235.9
       },
-      "updated": "2026-10-02T00:25:07Z",
+      "updated": "2026-10-04T20:20:15Z",
       "lat": -31.079536,
       "lng": 152.832631
     },
@@ -15652,7 +15636,7 @@
       "address": "522 Smithfield Road, Prairiewood NSW 2176",
       "state": "NSW",
       "prices": {
-        "Diesel": 279.9,
+        "Diesel": 273.9,
         "E10": 232.5,
         "E85": 259.9,
         "LPG": 115.9,
@@ -15660,7 +15644,7 @@
         "U98": 257.5,
         "U91": 234.5
       },
-      "updated": "2026-10-03T03:05:10Z",
+      "updated": "2026-10-04T20:30:12Z",
       "lat": -33.872234,
       "lng": 150.900077
     },
@@ -19620,13 +19604,13 @@
       "address": "228 Edgar Street, Condell Park NSW 2200",
       "state": "NSW",
       "prices": {
-        "Diesel": 272.9,
+        "Diesel": 270.9,
         "U95": 245.5,
         "U98": 250.5,
-        "Premium Diesel": 274.9,
+        "Premium Diesel": 272.9,
         "U91": 234.9
       },
-      "updated": "2026-10-03T18:50:34Z",
+      "updated": "2026-10-04T20:22:39Z",
       "lat": -33.922433,
       "lng": 151.012584
     },
@@ -22047,12 +22031,12 @@
       "address": "1 Brookfield Road, Minto NSW 2566",
       "state": "NSW",
       "prices": {
-        "E10": 221.9,
+        "E10": 219.9,
         "U98": 245.9,
         "Premium Diesel": 266.9,
-        "U91": 223.9
+        "U91": 221.9
       },
-      "updated": "2026-10-03T07:56:11Z",
+      "updated": "2026-10-04T20:30:23Z",
       "lat": -34.031695,
       "lng": 150.847906
     },
@@ -27237,13 +27221,13 @@
       "address": "11191 Princes Highway, BENANDARAH NSW 2536",
       "state": "NSW",
       "prices": {
-        "Diesel": 289.9,
+        "Diesel": 291.9,
         "LPG": 153.9,
-        "U98": 278.9,
-        "Premium Diesel": 295.9,
-        "U91": 242.5
+        "U98": 281.9,
+        "Premium Diesel": 297.9,
+        "U91": 245.5
       },
-      "updated": "2026-09-26T20:31:53Z",
+      "updated": "2026-10-04T20:22:07Z",
       "lat": -35.670145,
       "lng": 150.219939
     },
@@ -33683,9 +33667,9 @@
         "E10": 221.9,
         "U98": 246.9,
         "Premium Diesel": 270.9,
-        "U91": 222.9
+        "U91": 225.9
       },
-      "updated": "2026-10-03T18:46:55Z",
+      "updated": "2026-10-04T20:21:01Z",
       "lat": -34.023189,
       "lng": 150.850331
     },

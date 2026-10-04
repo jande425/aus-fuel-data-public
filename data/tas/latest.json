@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-10-04T11:41:45Z",
+  "fetched_at": "2026-10-04T15:46:45Z",
   "station_count": 295,
   "fuel_types": [
     "E10",
@@ -1726,13 +1726,13 @@
       "address": "136-138 Tarleton Street, East Devonport TAS 7310",
       "state": "TAS",
       "prices": {
-        "E10": 235.9,
-        "U95": 254.9,
+        "E10": 237.9,
+        "U95": 256.9,
         "U98": 268.9,
         "Premium Diesel": 286.9,
         "U91": 246.9
       },
-      "updated": "2026-10-04T05:15:21Z",
+      "updated": "2026-10-04T13:45:19Z",
       "lat": -41.1856297,
       "lng": 146.3712977
     },
@@ -2112,10 +2112,12 @@
       "prices": {
         "E10": 237.9,
         "U95": 256.9,
+        "U98": 265.9,
+        "Premium Diesel": 277.9,
         "U91": 239.9,
         "Diesel": 280.9
       },
-      "updated": "2026-10-02T23:00:34Z",
+      "updated": "2026-10-04T11:48:07Z",
       "lat": -40.8577002,
       "lng": 145.1330019
     },
@@ -2144,14 +2146,14 @@
       "address": "2 Risby Street, Ulverstone TAS 7315",
       "state": "TAS",
       "prices": {
-        "E10": 238.9,
+        "E10": 236.9,
         "LPG": 115.9,
-        "U98": 266.9,
+        "U98": 264.9,
         "Premium Diesel": 287.9,
         "U91": 248.9,
         "Diesel": 295.9
       },
-      "updated": "2026-10-04T03:57:16Z",
+      "updated": "2026-10-04T12:24:15Z",
       "lat": -41.1581999,
       "lng": 146.1757437
     },
@@ -2375,14 +2377,13 @@
       "address": "708 Main Road, Claremont TAS 7011",
       "state": "TAS",
       "prices": {
-        "E10": 240.9,
+        "Diesel": 299.9,
         "U95": 271.9,
         "U98": 281.9,
         "Premium Diesel": 301.9,
-        "U91": 253.9,
-        "Diesel": 299.9
+        "U91": 253.9
       },
-      "updated": "2026-10-03T02:21:14Z",
+      "updated": "2026-09-23T21:30:22Z",
       "lat": -42.8018709,
       "lng": 147.2543439
     },
@@ -2432,13 +2433,14 @@
       "address": "101 Augusta Road, Lenah Valley TAS 7008",
       "state": "TAS",
       "prices": {
-        "Diesel": 297.9,
+        "E10": 233.9,
         "U95": 267.9,
         "U98": 277.9,
         "Premium Diesel": 299.9,
-        "U91": 249.9
+        "U91": 249.9,
+        "Diesel": 297.9
       },
-      "updated": "2026-09-22T10:36:04Z",
+      "updated": "2026-10-04T12:58:44Z",
       "lat": -42.8655207,
       "lng": 147.2968076
     },
@@ -2467,14 +2469,14 @@
       "address": "6 Franklin Street, Swansea TAS 7190",
       "state": "TAS",
       "prices": {
-        "E10": 233.9,
+        "E10": 236.9,
         "U95": 264.9,
-        "U98": 261.9,
+        "U98": 264.9,
         "Premium Diesel": 277.9,
         "U91": 245.9,
         "Diesel": 285.9
       },
-      "updated": "2026-10-02T22:47:51Z",
+      "updated": "2026-10-04T14:24:13Z",
       "lat": -42.1250734,
       "lng": 148.077707
     },
@@ -2915,11 +2917,12 @@
       "address": "Unit 4 15 Esplanade, Coles Bay TAS 7215",
       "state": "TAS",
       "prices": {
-        "Diesel": 290.9,
         "U98": 264.9,
-        "U91": 257.9
+        "Premium Diesel": 287.9,
+        "U91": 257.9,
+        "Diesel": 290.9
       },
-      "updated": "2026-09-29T02:33:09Z",
+      "updated": "2026-10-04T12:54:18Z",
       "lat": -42.12249,
       "lng": 148.28464871
     },

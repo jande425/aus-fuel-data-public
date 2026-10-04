@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-10-04T11:41:45Z",
-  "station_count": 2103,
+  "fetched_at": "2026-10-04T15:46:45Z",
+  "station_count": 2104,
   "fuel_types": [
     "E10",
     "U91",
@@ -3704,12 +3704,12 @@
       "address": "307-311 Barrenjoey Rd, NEWPORT NSW 2106",
       "state": "NSW",
       "prices": {
-        "E10": 239.9,
-        "U98": 267.9,
+        "E10": 237.9,
+        "U98": 265.9,
         "Premium Diesel": 289.9,
-        "U91": 241.9
+        "U91": 239.9
       },
-      "updated": "2026-10-04T05:51:17Z",
+      "updated": "2026-10-04T14:27:11Z",
       "lat": -33.65634,
       "lng": 151.31825
     },
@@ -6952,9 +6952,9 @@
         "E85": 475,
         "U98": 254.5,
         "Premium Diesel": 274.5,
-        "U91": 227.5
+        "U91": 232.5
       },
-      "updated": "2026-10-04T07:04:49Z",
+      "updated": "2026-10-04T15:10:22Z",
       "lat": -33.915998,
       "lng": 151.1336
     },
@@ -9631,11 +9631,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 276.9,
-        "E10": 241.9,
-        "U98": 259.9,
-        "U91": 243.9
+        "E10": 236.9,
+        "U98": 254.9,
+        "U91": 239.9
       },
-      "updated": "2026-10-02T22:32:47Z",
+      "updated": "2026-10-04T12:49:23Z",
       "lat": -36.240367,
       "lng": 149.065572
     },
@@ -12888,13 +12888,13 @@
       "address": "45 Spit Road, Mosman NSW 2088",
       "state": "NSW",
       "prices": {
-        "E10": 240.9,
-        "U95": 259.9,
-        "U98": 268.9,
+        "E10": 239.9,
+        "U95": 258.9,
+        "U98": 267.9,
         "Premium Diesel": 289.9,
-        "U91": 242.9
+        "U91": 241.9
       },
-      "updated": "2026-10-02T06:18:15Z",
+      "updated": "2026-10-04T12:24:15Z",
       "lat": -33.823058,
       "lng": 151.243459
     },
@@ -13541,6 +13541,24 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:261",
+      "name": "7-Eleven Penrith South",
+      "address": "15-19 Aspen Street, Penrith South NSW 2750",
+      "state": "NSW",
+      "prices": {
+        "E10": 237.9,
+        "LPG": 113.9,
+        "U95": 256.9,
+        "U98": 265.9,
+        "Premium Diesel": 294.9,
+        "U91": 239.9
+      },
+      "updated": "2026-10-04T13:21:09Z",
+      "lat": -33.777277,
+      "lng": 150.710723
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:262",
       "name": "7-Eleven Ryde",
       "address": "326-328 Blaxland Road, Ryde NSW 2112",
@@ -13664,12 +13682,12 @@
       "address": "275 Canterbury Road & Mavis Street, Revesby NSW 2212",
       "state": "NSW",
       "prices": {
-        "E10": 233.9,
-        "U98": 261.9,
+        "E10": 231.9,
+        "U98": 259.9,
         "Premium Diesel": 280.9,
-        "U91": 235.9
+        "U91": 233.9
       },
-      "updated": "2026-10-04T03:48:19Z",
+      "updated": "2026-10-04T12:24:15Z",
       "lat": -33.936974,
       "lng": 151.020888
     },
@@ -14153,13 +14171,13 @@
       "address": "54 - 56 Windsor Road, Kellyville NSW 2155",
       "state": "NSW",
       "prices": {
-        "E10": 242.9,
-        "U95": 261.9,
-        "U98": 270.9,
+        "E10": 244.9,
+        "U95": 263.9,
+        "U98": 272.9,
         "Premium Diesel": 292.9,
-        "U91": 244.9
+        "U91": 246.9
       },
-      "updated": "2026-10-04T08:48:12Z",
+      "updated": "2026-10-04T15:21:11Z",
       "lat": -33.712414,
       "lng": 150.956801
     },
@@ -26887,10 +26905,10 @@
       "state": "NSW",
       "prices": {
         "Diesel": 287.9,
-        "U98": 284.9,
-        "U91": 242.9
+        "U98": 289.9,
+        "U91": 245.9
       },
-      "updated": "2026-09-28T13:31:33Z",
+      "updated": "2026-10-04T11:48:39Z",
       "lat": -36.216163,
       "lng": 150.13
     },

@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-10-05T10:52:08Z",
-  "station_count": 2104,
+  "fetched_at": "2026-10-05T16:18:01Z",
+  "station_count": 2103,
   "fuel_types": [
     "E10",
     "U91",
@@ -249,13 +249,13 @@
       "address": "1 Weakleys Dr, THORNTON NSW 2322",
       "state": "NSW",
       "prices": {
-        "E10": 231.9,
-        "U95": 250.9,
-        "U98": 259.9,
+        "E10": 230.9,
+        "U95": 249.9,
+        "U98": 258.9,
         "Premium Diesel": 282.5,
-        "U91": 233.9
+        "U91": 232.9
       },
-      "updated": "2026-10-04T19:30:39Z",
+      "updated": "2026-10-05T11:51:12Z",
       "lat": -32.792986,
       "lng": 151.637461
     },
@@ -3907,10 +3907,10 @@
         "E10": 244.9,
         "LPG": 117.9,
         "U98": 272.9,
-        "Premium Diesel": 279.9,
+        "Premium Diesel": 277.9,
         "U91": 246.9
       },
-      "updated": "2026-10-04T20:00:39Z",
+      "updated": "2026-10-05T16:12:13Z",
       "lat": -33.611871,
       "lng": 150.812202
     },
@@ -5609,11 +5609,11 @@
       "address": "32 Bryant St, NARWEE NSW 2209",
       "state": "NSW",
       "prices": {
-        "E10": 224.9,
-        "Premium Diesel": 274.9,
+        "E10": 229.9,
+        "Premium Diesel": 279.9,
         "U91": 231.9
       },
-      "updated": "2026-10-05T07:59:09Z",
+      "updated": "2026-10-05T11:20:01Z",
       "lat": -33.948554,
       "lng": 151.071512
     },
@@ -6899,12 +6899,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 267.5,
-        "E10": 232.5,
-        "U95": 248.5,
+        "E10": 231.5,
+        "U95": 247.5,
         "Premium Diesel": 269.5,
-        "U91": 234.5
+        "U91": 233.5
       },
-      "updated": "2026-10-03T03:21:48Z",
+      "updated": "2026-10-05T11:29:55Z",
       "lat": -33.259595,
       "lng": 149.114342
     },
@@ -8140,23 +8140,6 @@
       "updated": "2026-09-20T00:14:08Z",
       "lat": -33.919484,
       "lng": 150.814214
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:18292",
-      "name": "Ampol Foodary Kemps Creek",
-      "address": "1163-1167 Mamre RD, Kemps Creek NSW 2178",
-      "state": "NSW",
-      "prices": {
-        "Diesel": 271.9,
-        "E10": 239.9,
-        "U98": 268.9,
-        "Premium Diesel": 273.9,
-        "U91": 241.9
-      },
-      "updated": "2026-10-02T21:47:26Z",
-      "lat": -33.870525,
-      "lng": 150.795234
     },
     {
       "brand": "Ampol",
@@ -13019,7 +13002,6 @@
       "state": "NSW",
       "prices": {
         "E10": 229.9,
-        "U95": 248.9,
         "U98": 257.9,
         "Premium Diesel": 279.9,
         "U91": 231.9
@@ -19447,14 +19429,14 @@
       "address": "1443 Elizabeth Drive, Kemps Creek NSW 2178",
       "state": "NSW",
       "prices": {
-        "Diesel": 262.7,
+        "Diesel": 264.7,
         "E10": 228.7,
         "U95": 239.7,
         "U98": 247.7,
-        "Premium Diesel": 264.7,
+        "Premium Diesel": 266.7,
         "U91": 230.7
       },
-      "updated": "2026-09-29T10:15:58Z",
+      "updated": "2026-10-05T15:13:27Z",
       "lat": -33.880059,
       "lng": 150.791769
     },
@@ -21842,9 +21824,9 @@
       "prices": {
         "Diesel": 281.9,
         "U98": 259.9,
-        "U91": 237.9
+        "U91": 241.9
       },
-      "updated": "2026-10-02T13:12:05Z",
+      "updated": "2026-10-05T14:02:02Z",
       "lat": -28.318804,
       "lng": 153.429415
     },
@@ -27774,14 +27756,14 @@
       "address": "100 Rookwood RD, Yagoona NSW 2199",
       "state": "NSW",
       "prices": {
-        "Diesel": 265.9,
-        "E10": 225.9,
+        "Diesel": 269.9,
+        "E10": 231.9,
         "E85": 229.9,
         "LPG": 109.9,
         "U98": 263.9,
-        "U91": 231.7
+        "U91": 236.9
       },
-      "updated": "2026-10-05T06:18:52Z",
+      "updated": "2026-10-05T12:41:06Z",
       "lat": -33.899293,
       "lng": 151.036862
     },
@@ -28629,15 +28611,15 @@
       "address": "262 - 272 VICTORIA RD Rydalmere NSW 2116",
       "state": "NSW",
       "prices": {
-        "Diesel": 269.9,
-        "E10": 229.9,
+        "Diesel": 279.9,
+        "E10": 236.9,
         "E85": 239.9,
         "LPG": 109.7,
         "U95": 249.9,
         "U98": 259.9,
-        "U91": 235.9
+        "U91": 239.9
       },
-      "updated": "2026-10-05T05:59:05Z",
+      "updated": "2026-10-05T12:35:47Z",
       "lat": -33.810076,
       "lng": 151.032389
     },
@@ -31534,12 +31516,12 @@
       "address": "126 Windsor RD, Mcgraths Hill NSW 2756",
       "state": "NSW",
       "prices": {
-        "Diesel": 278.5,
+        "Diesel": 276.5,
         "E10": 232.9,
         "U98": 251.5,
         "U91": 234.5
       },
-      "updated": "2026-09-30T23:12:27Z",
+      "updated": "2026-10-05T14:44:34Z",
       "lat": -33.615367,
       "lng": 150.833362
     },
@@ -33162,12 +33144,12 @@
       "address": "278 Sandgate RD, Shortland NSW 2307",
       "state": "NSW",
       "prices": {
-        "E10": 227.5,
+        "E10": 232.5,
         "U95": 246.5,
         "Premium Diesel": 275.5,
         "U91": 234.5
       },
-      "updated": "2026-10-05T08:11:35Z",
+      "updated": "2026-10-05T11:11:50Z",
       "lat": -32.887467,
       "lng": 151.695193
     },

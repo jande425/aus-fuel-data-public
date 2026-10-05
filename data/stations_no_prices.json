@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-05T10:52:08Z",
+  "fetched_at": "2026-10-05T16:18:01Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1278,
+  "station_count": 1275,
   "by_state": {
     "ACT": 9,
-    "NSW": 1160,
+    "NSW": 1161,
     "NT": 30,
-    "QLD": 30,
+    "QLD": 27,
     "SA": 29,
     "TAS": 1,
-    "VIC": 19
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 82,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 69,
+    "7-Eleven": 65,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -35,8 +35,8 @@
     "Liberty": 7,
     "Pearl Energy": 6,
     "Mobil": 6,
+    "Ampol Foodary": 4,
     "Everty": 4,
-    "Ampol Foodary": 3,
     "Speedway": 3,
     "Indervon": 3,
     "Budget": 2,
@@ -53,8 +53,8 @@
     "Perrys": 1,
     "Costco": 1,
     "Bowser Bean": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "Apco": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -2243,6 +2243,15 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:18292",
+      "name": "Ampol Foodary Kemps Creek",
+      "address": "1163-1167 Mamre RD, Kemps Creek NSW 2178",
+      "state": "NSW",
+      "lat": -33.870525,
+      "lng": 150.795234
     },
     {
       "brand": "Ampol Foodary",
@@ -10849,54 +10858,6 @@
       "lng": 131.795078
     },
     {
-      "brand": "7-Eleven",
-      "code": "QLD:61477743",
-      "name": "7-Eleven Darling Heights",
-      "address": "434 Stenner Street, QLD 4350",
-      "state": "QLD",
-      "lat": -27.591754,
-      "lng": 151.937324,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61477745",
-      "name": "7-Eleven Highfields",
-      "address": "1 Cawdor Road, QLD 4352",
-      "state": "QLD",
-      "lat": -27.474303,
-      "lng": 151.939833,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61477960",
-      "name": "7-Eleven Park Ridge",
-      "address": "17 Park Ridge Road, QLD 4125",
-      "state": "QLD",
-      "lat": -27.698996,
-      "lng": 153.040984,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
@@ -11534,23 +11495,6 @@
       "lat": -37.96512786,
       "lng": 145.17289763,
       "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:zJ9yExbC7wxP2cwL9lOmwG/qvCF3tSuwZcV/9Cgo1uw=",
-      "name": "7-Eleven Point Cook",
-      "address": "Cnr Boardwalk Boulevard and Tom Roberts Parade Road, Point Cook, 3030",
-      "state": "VIC",
-      "lat": -37.89386947217886,
-      "lng": 144.72830886798138,
-      "unavailable_fuels": [
-        "E10",
         "LPG",
         "Premium Diesel",
         "U91",

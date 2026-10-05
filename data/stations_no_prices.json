@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-05T20:17:27Z",
+  "fetched_at": "2026-10-05T22:49:55Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1274,
   "by_state": {
     "ACT": 9,
-    "NSW": 1162,
+    "NSW": 1161,
     "NT": 30,
     "QLD": 27,
     "SA": 28,
@@ -16,7 +16,7 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 82,
+    "Reddy Express": 81,
     "Chargefox": 72,
     "Independent": 72,
     "7-Eleven": 65,
@@ -52,8 +52,8 @@
     "IOR": 1,
     "Perrys": 1,
     "Bowser Bean": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "Apco": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -454,12 +454,12 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:238",
-      "name": "7-Eleven Kensington",
-      "address": "110 Anzac Parade & Goodwood Street, Kensington NSW 2033",
+      "code": "NSW:237",
+      "name": "7-Eleven Jamisontown",
+      "address": "92 Mulgoa Road & Batt Street, Jamisontown NSW 2750",
       "state": "NSW",
-      "lat": -33.907017,
-      "lng": 151.223796
+      "lat": -33.766148,
+      "lng": 150.679467
     },
     {
       "brand": "7-Eleven",
@@ -8662,15 +8662,6 @@
     },
     {
       "brand": "Reddy Express",
-      "code": "NSW:335",
-      "name": "Shell Reddy Express Nowra",
-      "address": "55 Kinghorne St (Cnr Worrigee St), Nowra NSW 2541",
-      "state": "NSW",
-      "lat": -34.876305,
-      "lng": 150.602472
-    },
-    {
-      "brand": "Reddy Express",
       "code": "NSW:40",
       "name": "Shell Reddy Express Oak Flats",
       "address": "Lot 2 Lake Entrance Road, Oak Flats NSW 2529",
@@ -11594,10 +11585,7 @@
       "lat": -37.86346428271846,
       "lng": 144.68483059845133,
       "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
+        "U91"
       ]
     },
     {

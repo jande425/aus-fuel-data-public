@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-05T01:06:51Z",
-  "total_stations": 7877,
+  "last_updated": "2026-10-05T01:57:01Z",
+  "total_stations": 7878,
   "total_states": 8,
   "fuel_types": [
     "B20",
@@ -22,56 +22,56 @@
       "station_count": 62,
       "price_count": 264,
       "file": "act/latest.json",
-      "checksum": "09384f60",
+      "checksum": "bb281e9c",
       "size_bytes": 25293
     },
     "NSW": {
       "station_count": 2105,
-      "price_count": 8438,
+      "price_count": 8437,
       "file": "nsw/latest.json",
-      "checksum": "7385077f",
-      "size_bytes": 836939
+      "checksum": "896fbae9",
+      "size_bytes": 836914
     },
     "NT": {
       "station_count": 209,
       "price_count": 568,
       "file": "nt/latest.json",
-      "checksum": "60b5f26e",
+      "checksum": "56c740dd",
       "size_bytes": 79127
     },
     "QLD": {
-      "station_count": 1779,
-      "price_count": 6912,
+      "station_count": 1778,
+      "price_count": 6907,
       "file": "qld/latest.json",
-      "checksum": "c5dccb48",
-      "size_bytes": 702141
+      "checksum": "ece9a5dc",
+      "size_bytes": 701727
     },
     "SA": {
-      "station_count": 695,
-      "price_count": 2474,
+      "station_count": 697,
+      "price_count": 2478,
       "file": "sa/latest.json",
-      "checksum": "de4bb451",
-      "size_bytes": 269050
+      "checksum": "79716179",
+      "size_bytes": 269800
     },
     "TAS": {
       "station_count": 295,
       "price_count": 1438,
       "file": "tas/latest.json",
-      "checksum": "b941c7d1",
+      "checksum": "033bee4f",
       "size_bytes": 124498
     },
     "VIC": {
       "station_count": 1738,
       "price_count": 7115,
       "file": "vic/latest.json",
-      "checksum": "951a66ad",
+      "checksum": "ec250fe2",
       "size_bytes": 780348
     },
     "WA": {
       "station_count": 994,
       "price_count": 3367,
       "file": "wa/latest.json",
-      "checksum": "5c4ba45c",
+      "checksum": "0061c81a",
       "size_bytes": 509209
     }
   },

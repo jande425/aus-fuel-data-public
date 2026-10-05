@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-05T01:06:51Z",
+  "fetched_at": "2026-10-05T01:57:01Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1274,
   "by_state": {
     "ACT": 9,
     "NSW": 1159,
     "NT": 30,
-    "QLD": 27,
-    "SA": 31,
+    "QLD": 28,
+    "SA": 29,
     "TAS": 1,
     "VIC": 18
   },
@@ -17,14 +17,14 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "Independent": 74,
     "Chargefox": 72,
+    "Independent": 72,
     "7-Eleven": 64,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 18,
+    "Ampol": 19,
     "Caltex": 13,
     "Puma Energy": 10,
     "United": 9,
@@ -10842,6 +10842,22 @@
     },
     {
       "brand": "Ampol",
+      "code": "QLD:61401881",
+      "name": "Ampol Foodary Rochedale",
+      "address": "720 Underwood Rd, QLD 4123",
+      "state": "QLD",
+      "lat": -27.595176,
+      "lng": 153.121695,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -11228,19 +11244,6 @@
     },
     {
       "brand": "Independent",
-      "code": "SA:61577045",
-      "name": "Fishbowl General Store and Fuel Stop",
-      "address": "15 Main Street, SA 5454",
-      "state": "SA",
-      "lat": -33.49860091316172,
-      "lng": 138.60743622147848,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91"
-      ]
-    },
-    {
-      "brand": "Independent",
       "code": "SA:61577329",
       "name": "Frances General Store",
       "address": "1 Second Street, SA 5262",
@@ -11462,20 +11465,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Independent",
-      "code": "SA:61501443",
-      "name": "Wilksh Garage",
-      "address": "160 Melrose, SA 5235",
-      "state": "SA",
-      "lat": -34.770918,
-      "lng": 139.053186,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
       ]
     },
     {

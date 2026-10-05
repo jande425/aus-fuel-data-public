@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-05T03:42:46Z",
+  "fetched_at": "2026-10-05T07:25:42Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1274,
   "by_state": {
     "ACT": 9,
-    "NSW": 1159,
+    "NSW": 1160,
     "NT": 30,
     "QLD": 27,
-    "SA": 30,
+    "SA": 29,
     "TAS": 1,
     "VIC": 18
   },
@@ -16,7 +16,7 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
+    "Reddy Express": 82,
     "Chargefox": 72,
     "Independent": 72,
     "7-Eleven": 64,
@@ -39,10 +39,10 @@
     "Ampol Foodary": 3,
     "Speedway": 3,
     "Indervon": 3,
-    "EG Ampol": 2,
     "Budget": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
+    "EG Ampol": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
@@ -52,10 +52,10 @@
     "IOR": 1,
     "Perrys": 1,
     "Costco": 1,
-    "Apco": 1,
     "Bowser Bean": 1,
     "Solo": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -8646,6 +8646,15 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "NSW:335",
+      "name": "Shell Reddy Express Nowra",
+      "address": "55 Kinghorne St (Cnr Worrigee St), Nowra NSW 2541",
+      "state": "NSW",
+      "lat": -34.876305,
+      "lng": 150.602472
+    },
+    {
+      "brand": "Reddy Express",
       "code": "NSW:40",
       "name": "Shell Reddy Express Oak Flats",
       "address": "Lot 2 Lake Entrance Road, Oak Flats NSW 2529",
@@ -11198,21 +11207,6 @@
       "unavailable_fuels": [
         "Premium Diesel",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "SA:61501715",
-      "name": "EG Ampol Stirling",
-      "address": "66 Mount Barker Rd, SA 5152",
-      "state": "SA",
-      "lat": -35.007486,
-      "lng": 138.720213,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

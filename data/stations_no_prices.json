@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-05T01:57:01Z",
+  "fetched_at": "2026-10-05T03:42:46Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1274,
   "by_state": {
     "ACT": 9,
     "NSW": 1159,
     "NT": 30,
-    "QLD": 28,
-    "SA": 29,
+    "QLD": 27,
+    "SA": 30,
     "TAS": 1,
     "VIC": 18
   },
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 19,
+    "Ampol": 18,
     "Caltex": 13,
     "Puma Energy": 10,
     "United": 9,
@@ -39,10 +39,10 @@
     "Ampol Foodary": 3,
     "Speedway": 3,
     "Indervon": 3,
+    "EG Ampol": 2,
     "Budget": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
-    "EG Ampol": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
@@ -10842,22 +10842,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61401881",
-      "name": "Ampol Foodary Rochedale",
-      "address": "720 Underwood Rd, QLD 4123",
-      "state": "QLD",
-      "lat": -27.595176,
-      "lng": 153.121695,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -11214,6 +11198,21 @@
       "unavailable_fuels": [
         "Premium Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "SA:61501715",
+      "name": "EG Ampol Stirling",
+      "address": "66 Mount Barker Rd, SA 5152",
+      "state": "SA",
+      "lat": -35.007486,
+      "lng": 138.720213,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

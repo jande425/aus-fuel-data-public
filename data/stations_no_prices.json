@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-05T16:18:01Z",
+  "fetched_at": "2026-10-05T20:17:27Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1275,
   "by_state": {
     "ACT": 9,
-    "NSW": 1161,
+    "NSW": 1162,
     "NT": 30,
     "QLD": 27,
-    "SA": 29,
+    "SA": 28,
     "TAS": 1,
     "VIC": 18
   },
@@ -39,10 +39,10 @@
     "Everty": 4,
     "Speedway": 3,
     "Indervon": 3,
+    "EG Ampol": 2,
     "Budget": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
-    "EG Ampol": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
@@ -51,10 +51,9 @@
     "Pacific Fuel Solutions": 1,
     "IOR": 1,
     "Perrys": 1,
-    "Costco": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -452,6 +451,15 @@
       "state": "NSW",
       "lat": -33.99995,
       "lng": 150.86794
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:238",
+      "name": "7-Eleven Kensington",
+      "address": "110 Anzac Parade & Goodwood Street, Kensington NSW 2033",
+      "state": "NSW",
+      "lat": -33.907017,
+      "lng": 151.223796
     },
     {
       "brand": "7-Eleven",
@@ -11205,20 +11213,6 @@
       ]
     },
     {
-      "brand": "Costco",
-      "code": "SA:61577032",
-      "name": "Costco Kilburn",
-      "address": "404-406 Churchill Road, SA 5084",
-      "state": "SA",
-      "lat": -34.8639728811947,
-      "lng": 138.58272886725658,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "SA:61577291",
       "name": "Earles Transport",
@@ -11503,22 +11497,6 @@
       ]
     },
     {
-      "brand": "7-Eleven",
-      "code": "VIC:oYRxzRRoB+bU7xz1RcK96iQIrAISwAfW4hMea7IUqDk=",
-      "name": "7-Eleven Port Melbourne",
-      "address": "86 Crockford Street, Port Melbourne, 3207",
-      "state": "VIC",
-      "lat": -37.83429284,
-      "lng": 144.94925794,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Apco",
       "code": "VIC:9qtPVydEOFxcerCfYKlr/EKJJUaP/s+LXDm7L/QUfGM=",
       "name": "APCO Kangaroo Flat - Temporarily Closed",
@@ -11604,6 +11582,21 @@
       "lng": 144.72831692,
       "unavailable_fuels": [
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "VIC:XdEuEAcVUNy6Uu8arFOaFf/fpM0jOLd4xsivcAJXvEE=",
+      "name": "EG Ampol Werribee",
+      "address": "289 Derrimut Road, Werribee, 3030",
+      "state": "VIC",
+      "lat": -37.86346428271846,
+      "lng": 144.68483059845133,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

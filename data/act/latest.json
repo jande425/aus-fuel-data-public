@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-10-04T23:47:16Z",
+  "fetched_at": "2026-10-05T01:06:51Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -330,12 +330,12 @@
       "address": "110 Federal HWY, Watson ACT 2602",
       "state": "ACT",
       "prices": {
-        "E10": 240.9,
-        "U95": 259.9,
-        "U98": 268.9,
+        "E10": 237.9,
+        "U95": 256.9,
+        "U98": 265.9,
         "Premium Diesel": 293.9
       },
-      "updated": "2026-10-02T20:21:33Z",
+      "updated": "2026-10-04T23:52:01Z",
       "lat": -35.224985,
       "lng": 149.165864
     },
@@ -397,11 +397,11 @@
       "state": "ACT",
       "prices": {
         "LPG": 125.9,
-        "U98": 272.9,
+        "U98": 270.9,
         "Premium Diesel": 296.9,
-        "U91": 246.9
+        "U91": 244.9
       },
-      "updated": "2026-10-04T23:39:15Z",
+      "updated": "2026-10-05T00:51:14Z",
       "lat": -35.2136,
       "lng": 149.096
     },

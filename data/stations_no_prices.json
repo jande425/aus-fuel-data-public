@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-05T08:57:40Z",
+  "fetched_at": "2026-10-05T10:52:08Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1278,
   "by_state": {
     "ACT": 9,
     "NSW": 1160,
     "NT": 30,
-    "QLD": 28,
+    "QLD": 30,
     "SA": 29,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 19
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 82,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 65,
+    "7-Eleven": 69,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -53,9 +53,8 @@
     "Perrys": 1,
     "Costco": 1,
     "Bowser Bean": 1,
-    "Apco": 1,
-    "Solo": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -10851,6 +10850,38 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "QLD:61477743",
+      "name": "7-Eleven Darling Heights",
+      "address": "434 Stenner Street, QLD 4350",
+      "state": "QLD",
+      "lat": -27.591754,
+      "lng": 151.937324,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61477745",
+      "name": "7-Eleven Highfields",
+      "address": "1 Cawdor Road, QLD 4352",
+      "state": "QLD",
+      "lat": -27.474303,
+      "lng": 151.939833,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "QLD:61477960",
       "name": "7-Eleven Park Ridge",
       "address": "17 Park Ridge Road, QLD 4125",
@@ -11511,6 +11542,39 @@
       ]
     },
     {
+      "brand": "7-Eleven",
+      "code": "VIC:zJ9yExbC7wxP2cwL9lOmwG/qvCF3tSuwZcV/9Cgo1uw=",
+      "name": "7-Eleven Point Cook",
+      "address": "Cnr Boardwalk Boulevard and Tom Roberts Parade Road, Point Cook, 3030",
+      "state": "VIC",
+      "lat": -37.89386947217886,
+      "lng": 144.72830886798138,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:oYRxzRRoB+bU7xz1RcK96iQIrAISwAfW4hMea7IUqDk=",
+      "name": "7-Eleven Port Melbourne",
+      "address": "86 Crockford Street, Port Melbourne, 3207",
+      "state": "VIC",
+      "lat": -37.83429284,
+      "lng": 144.94925794,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Apco",
       "code": "VIC:9qtPVydEOFxcerCfYKlr/EKJJUaP/s+LXDm7L/QUfGM=",
       "name": "APCO Kangaroo Flat - Temporarily Closed",
@@ -11709,22 +11773,6 @@
       "unavailable_fuels": [
         "Diesel",
         "LPG",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Solo",
-      "code": "VIC:vZdzCsFb/p51FVsNqYABe/vZ+b9eZBdDxfvE48R2Lp8=",
-      "name": "Solo Wandin North",
-      "address": "361 Warburton Highway, WANDIN NORTH, 3139",
-      "state": "VIC",
-      "lat": -37.7796294,
-      "lng": 145.42793599,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "Premium Diesel",
         "U91",
         "U98"
       ]

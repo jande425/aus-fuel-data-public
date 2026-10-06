@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-10-06T08:56:05Z",
-  "station_count": 2104,
+  "fetched_at": "2026-10-06T09:42:41Z",
+  "station_count": 2103,
   "fuel_types": [
     "E10",
     "U91",
@@ -1293,13 +1293,13 @@
       "address": "131 Pennant Hills Rd, CARLINGFORD NSW 2118",
       "state": "NSW",
       "prices": {
-        "E10": 232.9,
-        "U95": 251.9,
-        "U98": 261.9,
+        "E10": 234.9,
+        "U95": 253.9,
+        "U98": 263.9,
         "Premium Diesel": 283.9,
-        "U91": 234.9
+        "U91": 236.9
       },
-      "updated": "2026-10-06T06:47:26Z",
+      "updated": "2026-10-06T09:12:27Z",
       "lat": -33.787648,
       "lng": 151.027913
     },
@@ -8385,12 +8385,12 @@
       "address": "136 Appin RD, Appin NSW 2560",
       "state": "NSW",
       "prices": {
-        "E10": 221.9,
-        "U98": 250.9,
+        "E10": 231.9,
+        "U98": 254.9,
         "Premium Diesel": 279.9,
-        "U91": 223.9
+        "U91": 233.9
       },
-      "updated": "2026-09-27T23:42:38Z",
+      "updated": "2026-10-06T09:06:45Z",
       "lat": -34.195167,
       "lng": 150.789979
     },
@@ -9206,11 +9206,10 @@
       "address": "190 Waterloo RD, Greenacre NSW 2190",
       "state": "NSW",
       "prices": {
-        "Diesel": 264.7,
         "U98": 249.7,
         "U91": 229.7
       },
-      "updated": "2026-10-06T08:24:21Z",
+      "updated": "2026-10-02T17:53:54Z",
       "lat": -33.906395,
       "lng": 151.056994
     },
@@ -9984,12 +9983,12 @@
       "address": "75 Camp ST, Grenfell NSW 2810",
       "state": "NSW",
       "prices": {
-        "E10": 217.9,
+        "E10": 223.9,
         "U98": 257.9,
         "Premium Diesel": 279.9,
         "U91": 237.9
       },
-      "updated": "2026-09-24T23:58:09Z",
+      "updated": "2026-10-06T09:39:14Z",
       "lat": -33.895468,
       "lng": 148.163041
     },
@@ -13058,12 +13057,12 @@
       "address": "611-615  Mimosa Street (Corner Forest Road), Bexley NSW 2207",
       "state": "NSW",
       "prices": {
-        "E10": 236.9,
-        "U98": 264.9,
+        "E10": 237.9,
+        "U98": 265.9,
         "Premium Diesel": 285.9,
-        "U91": 238.9
+        "U91": 239.9
       },
-      "updated": "2026-10-06T00:51:15Z",
+      "updated": "2026-10-06T09:24:15Z",
       "lat": -33.955531,
       "lng": 151.118478
     },
@@ -14014,23 +14013,6 @@
       "updated": "2026-10-06T03:24:14Z",
       "lat": -33.350815,
       "lng": 151.492283
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:294",
-      "name": "7-Eleven Toongabbie",
-      "address": "3 Metella Road & Corner Cornelia Road, Toongabbie NSW 2146",
-      "state": "NSW",
-      "prices": {
-        "E10": 244.9,
-        "U95": 263.9,
-        "U98": 272.9,
-        "Premium Diesel": 281.9,
-        "U91": 246.9
-      },
-      "updated": "2026-10-06T07:15:17Z",
-      "lat": -33.786881,
-      "lng": 150.946621
     },
     {
       "brand": "7-Eleven",
@@ -28651,14 +28633,14 @@
       "state": "NSW",
       "prices": {
         "Diesel": 279.9,
-        "E10": 236.9,
+        "E10": 233.9,
         "E85": 239.9,
         "LPG": 109.7,
         "U95": 254.9,
         "U98": 263.9,
-        "U91": 239.9
+        "U91": 236.9
       },
-      "updated": "2026-10-05T18:21:12Z",
+      "updated": "2026-10-06T09:02:01Z",
       "lat": -33.810076,
       "lng": 151.032389
     },
@@ -32594,12 +32576,12 @@
       "address": "2179 Pacific HWY, Heatherbrae NSW 2324",
       "state": "NSW",
       "prices": {
-        "E10": 232.7,
-        "U98": 255.7,
-        "Premium Diesel": 274.5,
-        "U91": 234.7
+        "E10": 227.7,
+        "U98": 250.7,
+        "Premium Diesel": 269.5,
+        "U91": 229.7
       },
-      "updated": "2026-10-05T17:56:33Z",
+      "updated": "2026-10-06T08:59:23Z",
       "lat": -32.795438,
       "lng": 151.720657
     },
@@ -32765,12 +32747,12 @@
       "address": "64 Orange Grove RD Liverpool NSW 2170",
       "state": "NSW",
       "prices": {
-        "E10": 227.9,
+        "E10": 222.9,
         "U98": 255.9,
-        "Premium Diesel": 269.7,
+        "Premium Diesel": 264.7,
         "U91": 231.9
       },
-      "updated": "2026-10-05T18:56:03Z",
+      "updated": "2026-10-06T09:35:11Z",
       "lat": -33.912293,
       "lng": 150.919592
     },

@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-10-06T08:56:05Z",
+  "fetched_at": "2026-10-06T09:42:41Z",
   "station_count": 295,
   "fuel_types": [
     "E10",
@@ -122,7 +122,6 @@
       "address": "Cnr Channel Highway & John Street, Kingston TAS 7050",
       "state": "TAS",
       "prices": {
-        "Diesel": 289.9,
         "E10": 236.9,
         "U95": 266.9,
         "U98": 274.9,
@@ -2515,11 +2514,11 @@
       "prices": {
         "Diesel": 286.9,
         "E10": 238.7,
-        "U98": 269.9,
+        "U98": 275.9,
         "Premium Diesel": 287.9,
-        "U91": 249.9
+        "U91": 254.9
       },
-      "updated": "2026-10-05T19:00:39Z",
+      "updated": "2026-10-06T09:28:09Z",
       "lat": -41.1920741,
       "lng": 145.8053715
     },
@@ -3910,11 +3909,11 @@
       "state": "TAS",
       "prices": {
         "Diesel": 287.9,
-        "U95": 262.9,
-        "U91": 247.9,
+        "U95": 264.9,
+        "U91": 249.9,
         "LPG": 149.9
       },
-      "updated": "2026-10-02T10:25:04Z",
+      "updated": "2026-10-06T09:19:53Z",
       "lat": -41.26499155,
       "lng": 146.47927174
     },
@@ -4266,15 +4265,15 @@
       "address": "10 B BANGALEE ST Lauderdale TAS 7021",
       "state": "TAS",
       "prices": {
-        "E10": 234.9,
+        "E10": 236.9,
         "LPG": 112.9,
-        "U98": 261.9,
+        "U98": 263.9,
         "Premium Diesel": 278.9,
         "U91": 240.9,
         "Diesel": 286.9,
         "U95": 260.9
       },
-      "updated": "2026-10-06T03:17:40Z",
+      "updated": "2026-10-06T09:14:35Z",
       "lat": -42.90836538,
       "lng": 147.49209155
     },

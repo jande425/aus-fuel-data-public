@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-10-06T01:38:21Z",
+  "fetched_at": "2026-10-06T07:52:04Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1276,
+  "station_count": 1272,
   "by_state": {
     "ACT": 9,
-    "NSW": 1161,
+    "NSW": 1159,
     "NT": 30,
-    "QLD": 29,
-    "SA": 28,
+    "QLD": 27,
+    "SA": 29,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
+    "Reddy Express": 82,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 65,
-    "BP": 54,
+    "7-Eleven": 64,
+    "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
     "Ampol": 19,
     "Caltex": 13,
-    "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
+    "Shell": 9,
     "Metro Fuel": 8,
     "Evie Networks": 7,
     "Liberty": 7,
@@ -39,20 +39,17 @@
     "Ampol Foodary": 3,
     "Speedway": 3,
     "Indervon": 3,
-    "EG Ampol": 2,
     "Budget": 2,
-    "Metro Petroleum": 2,
-    "U-Go": 1,
+    "On the Run": 2,
     "Westside": 1,
+    "EG Ampol": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
-    "On the Run": 1,
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
-    "IOR": 1,
     "Perrys": 1,
-    "Bowser Bean": 1,
+    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
     "Apco": 1
   },
@@ -452,15 +449,6 @@
       "state": "NSW",
       "lat": -33.99995,
       "lng": 150.86794
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:237",
-      "name": "7-Eleven Jamisontown",
-      "address": "92 Mulgoa Road & Batt Street, Jamisontown NSW 2750",
-      "state": "NSW",
-      "lat": -33.766148,
-      "lng": 150.679467
     },
     {
       "brand": "7-Eleven",
@@ -10102,15 +10090,6 @@
       "lng": 151.273708
     },
     {
-      "brand": "U-Go",
-      "code": "NSW:18068",
-      "name": "U-Go Bonnyrigg (Un-manned)",
-      "address": "Smithfield Rd, Cnr Elizabeth Drive, BONNYRIGG NSW 2177",
-      "state": "NSW",
-      "lat": -33.888347,
-      "lng": 150.88214
-    },
-    {
       "brand": "United",
       "code": "NSW:2004",
       "name": "United Marulan",
@@ -10859,12 +10838,12 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61401167",
-      "name": "Ampol Foodary Kenmore",
-      "address": "888 Moggill Rd & Marshall Ln, QLD 4069",
+      "code": "QLD:61401514",
+      "name": "Ampol Foodary Waterford",
+      "address": "950 Kingston Rd & Allora St, QLD 4133",
       "state": "QLD",
-      "lat": -27.507802,
-      "lng": 152.948185,
+      "lat": -27.691549,
+      "lng": 153.134431,
       "unavailable_fuels": [
         "E10",
         "Premium Diesel",
@@ -10949,18 +10928,6 @@
       "state": "QLD",
       "lat": -27.08429424598368,
       "lng": 151.634403285256
-    },
-    {
-      "brand": "IOR",
-      "code": "QLD:61478312",
-      "name": "IOR Bohle",
-      "address": "20-21 Desma Ct, QLD 4814",
-      "state": "QLD",
-      "lat": -19.26169242167479,
-      "lng": 146.72851465489353,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
     },
     {
       "brand": "Independent",
@@ -11103,20 +11070,6 @@
       "lng": 152.549884
     },
     {
-      "brand": "Shell",
-      "code": "QLD:61478117",
-      "name": "Sure Ogmore Tuck Stop",
-      "address": "74833 St Lawrence Rd, QLD 4706",
-      "state": "QLD",
-      "lat": -22.6880140322773,
-      "lng": 149.62725398380314,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "BP",
       "code": "QLD:61402569",
       "name": "Travellers Tavern",
@@ -11181,6 +11134,22 @@
       "state": "SA",
       "lat": -35.180316,
       "lng": 138.483943
+    },
+    {
+      "brand": "BP",
+      "code": "SA:61577435",
+      "name": "BP OPT Tailem Bend",
+      "address": "Cnr Tuscany Road & Dukes Highway, SA 5260",
+      "state": "SA",
+      "lat": -35.27647807471725,
+      "lng": 139.46740368154525,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Independent",
@@ -11535,22 +11504,6 @@
       ]
     },
     {
-      "brand": "Bowser Bean",
-      "code": "VIC:nkqbS3FzerduQEnemijbd02NnPKm1F0+1LJLM/xFTl4=",
-      "name": "BP Kilmore",
-      "address": "102 Sydney Street, Kilmore, 3764",
-      "state": "VIC",
-      "lat": -37.28751749,
-      "lng": 144.94941372,
-      "unavailable_fuels": [
-        "Diesel",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "ETA PETROLEUM",
       "code": "VIC:A3p+CK2mLWBYVgUPBX5XALRvf4AkDSgRB20PSic6SgU=",
       "name": "Caltex Dandenong South",
@@ -11608,18 +11561,6 @@
       ]
     },
     {
-      "brand": "EG Ampol",
-      "code": "VIC:XdEuEAcVUNy6Uu8arFOaFf/fpM0jOLd4xsivcAJXvEE=",
-      "name": "EG Ampol Werribee",
-      "address": "289 Derrimut Road, Werribee, 3030",
-      "state": "VIC",
-      "lat": -37.86346428271846,
-      "lng": 144.68483059845133,
-      "unavailable_fuels": [
-        "U91"
-      ]
-    },
-    {
       "brand": "Liberty",
       "code": "VIC:B9Abo+4raxqqCo4w9FjYBkKULRTDuLrShdpOhuPF4Sw=",
       "name": "Liberty Merbein South",
@@ -11643,6 +11584,21 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "On the Run",
+      "code": "VIC:J16gC7NqizB5yANSY3W2fK9RPDfBWrwWOO6Rn+27XeU=",
+      "name": "OTR FITZROY NORTH - Temporarily closed",
+      "address": "262-272 St Georges Rd, Fitzroy North, 3068",
+      "state": "VIC",
+      "lat": -37.78276969,
+      "lng": 144.98453172,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },
@@ -11720,6 +11676,22 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "VIC:NT0HE3NFNnQrtqDCSGXfftMZiwga+ZzLQFin15T1Fow=",
+      "name": "Shell Reddy Express Carlton (vic)",
+      "address": "406 Lygon ST, Carlton, 3053",
+      "state": "VIC",
+      "lat": -37.797443961483765,
+      "lng": 144.96804156986877,
+      "unavailable_fuels": [
+        "Diesel",
+        "LPG",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Reddy Express",
       "code": "VIC:YUPtcp+uDjuB9Fj+s0izTlTdez/xBPKCJOWSID0Ty6o=",
       "name": "Shell Reddy Express Horsham",
       "address": "170-172 Baillie ST, HORSHAM, 3400",
@@ -11729,21 +11701,6 @@
       "unavailable_fuels": [
         "Diesel",
         "LPG",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Metro Petroleum",
-      "code": "VIC:v6alknE1Jui0iRlT4+m1LCHI2Y1WS2KtRtiAQmrKvmg=",
-      "name": "metro petroleum dingley village",
-      "address": "24 Marcus Road, DINGLEY VILLAGE, 3172",
-      "state": "VIC",
-      "lat": -37.98081093,
-      "lng": 145.13471443,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
         "U91",
         "U98"
       ]

@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-06T22:12:24Z",
+  "fetched_at": "2026-10-06T23:10:50Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1270,
+  "station_count": 1273,
   "by_state": {
     "ACT": 9,
     "NSW": 1157,
@@ -9,7 +9,7 @@
     "QLD": 27,
     "SA": 29,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 20
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 82,
     "Chargefox": 72,
     "Independent": 71,
-    "7-Eleven": 64,
+    "7-Eleven": 67,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -49,8 +49,8 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "ETA PETROLEUM": 1,
     "Apco": 1,
+    "ETA PETROLEUM": 1,
     "Metro Petroleum": 1
   },
   "stations": [
@@ -11455,6 +11455,22 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:JhVttbJx9Q9wSf1cUmB5M7Jn4yxXf4nPq6MFf8b2w+c=",
+      "name": "7-Eleven Hoppers Crossing Derrimut",
+      "address": "88 Derrimut Road, Hoppers Crossing, 3029",
+      "state": "VIC",
+      "lat": -37.88119900259915,
+      "lng": 144.6826548969687,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:VkvBa8whRgy6Z46L367DlDXkAoFePQygEgkFhtVuUPE=",
       "name": "7-Eleven Noble Park",
       "address": "1100-1106 Heatherton Road, Noble Park, 3174",
@@ -11463,6 +11479,39 @@
       "lng": 145.17289763,
       "unavailable_fuels": [
         "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:zJ9yExbC7wxP2cwL9lOmwG/qvCF3tSuwZcV/9Cgo1uw=",
+      "name": "7-Eleven Point Cook",
+      "address": "Cnr Boardwalk Boulevard and Tom Roberts Parade Road, Point Cook, 3030",
+      "state": "VIC",
+      "lat": -37.89386947217886,
+      "lng": 144.72830886798138,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:2zlS6J1tzNZEmUpN8rAmONAFB1sdvILPEocuggrIhHc=",
+      "name": "7-Eleven Sebastopol",
+      "address": "50 Hertford Street, Sebastopol, 3356",
+      "state": "VIC",
+      "lat": -37.58591633,
+      "lng": 143.83370425,
+      "unavailable_fuels": [
+        "E10",
         "Premium Diesel",
         "U91",
         "U95",

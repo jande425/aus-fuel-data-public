@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-06T07:52:04Z",
-  "total_stations": 7882,
+  "last_updated": "2026-10-06T08:56:05Z",
+  "total_stations": 7881,
   "total_states": 8,
   "fuel_types": [
     "B20",
@@ -21,56 +21,56 @@
       "station_count": 62,
       "price_count": 264,
       "file": "act/latest.json",
-      "checksum": "fd42ce11",
+      "checksum": "41e156fd",
       "size_bytes": 25293
     },
     "NSW": {
-      "station_count": 2105,
-      "price_count": 8437,
+      "station_count": 2104,
+      "price_count": 8432,
       "file": "nsw/latest.json",
-      "checksum": "aeebcca1",
-      "size_bytes": 836926
+      "checksum": "540aecd7",
+      "size_bytes": 836501
     },
     "NT": {
       "station_count": 209,
       "price_count": 565,
       "file": "nt/latest.json",
-      "checksum": "96f65bdb",
+      "checksum": "a0a1e3f4",
       "size_bytes": 79061
     },
     "QLD": {
       "station_count": 1779,
       "price_count": 6905,
       "file": "qld/latest.json",
-      "checksum": "70405583",
-      "size_bytes": 702028
+      "checksum": "12ce302f",
+      "size_bytes": 702031
     },
     "SA": {
       "station_count": 698,
       "price_count": 2482,
       "file": "sa/latest.json",
-      "checksum": "606fee3d",
+      "checksum": "07e98d21",
       "size_bytes": 270113
     },
     "TAS": {
       "station_count": 295,
-      "price_count": 1437,
+      "price_count": 1431,
       "file": "tas/latest.json",
-      "checksum": "e4c7e055",
-      "size_bytes": 124490
+      "checksum": "012d0d88",
+      "size_bytes": 124347
     },
     "VIC": {
       "station_count": 1739,
-      "price_count": 7116,
+      "price_count": 7115,
       "file": "vic/latest.json",
-      "checksum": "a05ec798",
-      "size_bytes": 781091
+      "checksum": "b26968d3",
+      "size_bytes": 781121
     },
     "WA": {
       "station_count": 995,
       "price_count": 3373,
       "file": "wa/latest.json",
-      "checksum": "30aaf045",
+      "checksum": "b6540529",
       "size_bytes": 624556
     }
   },

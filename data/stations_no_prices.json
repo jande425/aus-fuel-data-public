@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-07T12:31:47Z",
+  "fetched_at": "2026-10-07T17:29:53Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1272,
   "by_state": {
     "ACT": 9,
     "NSW": 1156,
     "NT": 30,
-    "QLD": 30,
+    "QLD": 29,
     "SA": 30,
     "TAS": 1,
     "VIC": 17
@@ -19,7 +19,7 @@
     "Reddy Express": 81,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 65,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -10809,22 +10809,6 @@
       "state": "NT",
       "lat": -22.25346,
       "lng": 131.795078
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61477761",
-      "name": "7-Eleven Helensvale",
-      "address": "104 Helensvale Road, QLD 4212",
-      "state": "QLD",
-      "lat": -27.895427,
-      "lng": 153.326617,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "Ampol",

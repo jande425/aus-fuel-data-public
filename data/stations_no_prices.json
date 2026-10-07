@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-07T19:04:35Z",
+  "fetched_at": "2026-10-07T19:57:29Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1241,
+  "station_count": 1240,
   "by_state": {
     "ACT": 9,
     "NSW": 1156,
     "QLD": 29,
-    "SA": 30,
+    "SA": 29,
     "TAS": 1,
     "VIC": 16
   },
@@ -23,7 +23,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 15,
+    "Ampol": 14,
     "Caltex": 12,
     "EVUp": 9,
     "Shell": 9,
@@ -10829,20 +10829,6 @@
       "state": "QLD",
       "lat": -16.916483,
       "lng": 145.871647
-    },
-    {
-      "brand": "Ampol",
-      "code": "SA:61577046",
-      "name": "Ampol Berri",
-      "address": "2 Wilson St, SA 5343",
-      "state": "SA",
-      "lat": -34.28635986450745,
-      "lng": 140.59938162698364,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "Ampol",

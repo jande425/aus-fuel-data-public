@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-10-07T11:46:00Z",
-  "station_count": 2104,
+  "fetched_at": "2026-10-07T12:31:47Z",
+  "station_count": 2107,
   "fuel_types": [
     "E10",
     "U91",
@@ -3748,6 +3748,24 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:17139",
+      "name": "7-Eleven Baulkham Hills",
+      "address": "217-219 Seven Hills Rd, BAULKHAM HILLS NSW 2153",
+      "state": "NSW",
+      "prices": {
+        "E10": 235.9,
+        "LPG": 113.9,
+        "U95": 254.9,
+        "U98": 263.9,
+        "Premium Diesel": 286.8,
+        "U91": 237.9
+      },
+      "updated": "2026-10-07T12:26:50Z",
+      "lat": -33.755512,
+      "lng": 150.963514
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:17140",
       "name": "7-Eleven Moorebank",
       "address": "98-102 Heathcote Rd, MOOREBANK NSW 2170",
@@ -5444,13 +5462,13 @@
       "address": "793-797 Pittwater Rd, DEE WHY NSW 2099",
       "state": "NSW",
       "prices": {
-        "E10": 237.9,
-        "U95": 256.9,
-        "U98": 266.9,
+        "E10": 238.9,
+        "U95": 257.9,
+        "U98": 267.9,
         "Premium Diesel": 287.9,
-        "U91": 239.9
+        "U91": 240.9
       },
-      "updated": "2026-10-07T00:42:25Z",
+      "updated": "2026-10-07T12:12:26Z",
       "lat": -33.745684,
       "lng": 151.29206
     },
@@ -7144,12 +7162,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 278.5,
-        "E10": 237.5,
-        "U95": 253.5,
+        "E10": 239.5,
+        "U95": 255.5,
         "Premium Diesel": 280.5,
-        "U91": 239.5
+        "U91": 241.5
       },
-      "updated": "2026-10-06T12:36:04Z",
+      "updated": "2026-10-07T12:30:28Z",
       "lat": -31.5244,
       "lng": 150.678262
     },
@@ -9204,10 +9222,10 @@
         "E10": 235.5,
         "U95": 251.5,
         "U98": 259.5,
-        "Premium Diesel": 284.5,
+        "Premium Diesel": 279.5,
         "U91": 237.5
       },
-      "updated": "2026-09-29T13:29:28Z",
+      "updated": "2026-10-07T12:30:36Z",
       "lat": -32.21825,
       "lng": 152.321572
     },
@@ -11260,13 +11278,13 @@
       "address": "178 Pacific HWY, Coffs Harbour NSW 2450",
       "state": "NSW",
       "prices": {
-        "E10": 235.5,
-        "U95": 251.5,
-        "U98": 259.5,
+        "E10": 238.5,
+        "U95": 253.5,
+        "U98": 262.5,
         "Premium Diesel": 287.5,
-        "U91": 237.5
+        "U91": 240.5
       },
-      "updated": "2026-10-06T21:55:43Z",
+      "updated": "2026-10-07T12:20:52Z",
       "lat": -30.289043,
       "lng": 153.121484
     },
@@ -12027,13 +12045,13 @@
       "state": "NSW",
       "prices": {
         "Diesel": 283.5,
-        "E10": 235.5,
-        "U95": 251.5,
-        "U98": 260.5,
+        "E10": 237.5,
+        "U95": 253.5,
+        "U98": 262.5,
         "Premium Diesel": 285.5,
-        "U91": 237.5
+        "U91": 239.5
       },
-      "updated": "2026-10-02T12:47:39Z",
+      "updated": "2026-10-07T12:11:11Z",
       "lat": -31.12744,
       "lng": 152.8285
     },
@@ -13004,13 +13022,13 @@
       "address": "180 Stacey & Stanley Streets, Bankstown NSW 2200",
       "state": "NSW",
       "prices": {
-        "E10": 229.9,
-        "U95": 248.9,
-        "U98": 257.9,
+        "E10": 227.9,
+        "U95": 246.9,
+        "U98": 255.9,
         "Premium Diesel": 280.9,
-        "U91": 231.9
+        "U91": 229.9
       },
-      "updated": "2026-10-07T05:51:15Z",
+      "updated": "2026-10-07T11:48:18Z",
       "lat": -33.920941,
       "lng": 151.039191
     },
@@ -13606,6 +13624,22 @@
       "lng": 151.014716
     },
     {
+      "brand": "7-Eleven",
+      "code": "NSW:267",
+      "name": "7-Eleven Cranebrook",
+      "address": "212-222 Andrews & Castlereagh Roads, Cranebrook NSW 2749",
+      "state": "NSW",
+      "prices": {
+        "E10": 243.9,
+        "U98": 271.9,
+        "Premium Diesel": 294.9,
+        "U91": 245.9
+      },
+      "updated": "2026-10-07T12:02:05Z",
+      "lat": -33.730588,
+      "lng": 150.695165
+    },
+    {
       "brand": "Reddy Express",
       "code": "NSW:269",
       "name": "Shell Reddy Express Mount Annan",
@@ -14028,6 +14062,23 @@
       "updated": "2026-10-06T19:36:14Z",
       "lat": -33.719857,
       "lng": 151.116805
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:297",
+      "name": "7-Eleven Warners Bay",
+      "address": "393 Hillsborough Road  (Corner Macquarie Road), Warners Bay NSW 2282",
+      "state": "NSW",
+      "prices": {
+        "E10": 239.9,
+        "LPG": 123.9,
+        "U98": 267.9,
+        "Premium Diesel": 292.9,
+        "U91": 241.9
+      },
+      "updated": "2026-10-07T11:50:58Z",
+      "lat": -32.965976,
+      "lng": 151.654297
     },
     {
       "brand": "BP",
@@ -26578,13 +26629,13 @@
       "address": "651 Princes Highway, Rockdale NSW 2216",
       "state": "NSW",
       "prices": {
-        "Diesel": 279.9,
+        "Diesel": 277.9,
         "E10": 230.9,
         "U98": 256.9,
-        "Premium Diesel": 283.9,
+        "Premium Diesel": 280.9,
         "U91": 234.9
       },
-      "updated": "2026-10-07T01:37:56Z",
+      "updated": "2026-10-07T11:48:49Z",
       "lat": -33.959161,
       "lng": 151.137703
     },
@@ -28070,11 +28121,12 @@
       "address": "21-23 Cumberland RD, Ingleburn NSW 2565",
       "state": "NSW",
       "prices": {
+        "E10": 225.5,
         "U98": 253.5,
         "Premium Diesel": 269.5,
         "U91": 227.5
       },
-      "updated": "2026-10-07T10:59:23Z",
+      "updated": "2026-10-07T12:14:47Z",
       "lat": -33.996645,
       "lng": 150.871184
     },

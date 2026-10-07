@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-07T11:46:00Z",
+  "fetched_at": "2026-10-07T12:31:47Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1278,
+  "station_count": 1273,
   "by_state": {
     "ACT": 9,
-    "NSW": 1159,
+    "NSW": 1156,
     "NT": 30,
-    "QLD": 31,
+    "QLD": 30,
     "SA": 30,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 81,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 71,
+    "7-Eleven": 66,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -50,8 +50,8 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
+    "Apco": 1,
     "ETA PETROLEUM": 1
   },
   "stations": [
@@ -192,15 +192,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:17139",
-      "name": "7-Eleven Baulkham Hills",
-      "address": "217-219 Seven Hills Rd, BAULKHAM HILLS NSW 2153",
-      "state": "NSW",
-      "lat": -33.755512,
-      "lng": 150.963514
-    },
-    {
-      "brand": "7-Eleven",
       "code": "NSW:127",
       "name": "7-Eleven Belmore",
       "address": "792-794 Canterbury Road Chapel Street, Belmore NSW 2192",
@@ -315,15 +306,6 @@
       "state": "NSW",
       "lat": -33.775081,
       "lng": 150.793593
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:267",
-      "name": "7-Eleven Cranebrook",
-      "address": "212-222 Andrews & Castlereagh Roads, Cranebrook NSW 2749",
-      "state": "NSW",
-      "lat": -33.730588,
-      "lng": 150.695165
     },
     {
       "brand": "7-Eleven",
@@ -693,15 +675,6 @@
       "state": "NSW",
       "lat": -33.975997,
       "lng": 151.10364
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:297",
-      "name": "7-Eleven Warners Bay",
-      "address": "393 Hillsborough Road  (Corner Macquarie Road), Warners Bay NSW 2282",
-      "state": "NSW",
-      "lat": -32.965976,
-      "lng": 151.654297
     },
     {
       "brand": "7-Eleven",
@@ -10854,21 +10827,6 @@
       ]
     },
     {
-      "brand": "7-Eleven",
-      "code": "QLD:61470479",
-      "name": "7-Eleven Warwick",
-      "address": "26 Albion St, QLD 4370",
-      "state": "QLD",
-      "lat": -28.21260601962464,
-      "lng": 152.03587212423975,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
@@ -11542,22 +11500,6 @@
       "state": "VIC",
       "lat": -38.153767581498634,
       "lng": 144.3518797484277,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:fIz/B0xp0lcgA94DdtaDwHvGpWEt/AwrNbbaKx5A6kw=",
-      "name": "7-Eleven Hastings",
-      "address": "1835 Frankston-Flinders Road, Hastings, 3915",
-      "state": "VIC",
-      "lat": -38.28509718,
-      "lng": 145.18390456,
       "unavailable_fuels": [
         "LPG",
         "Premium Diesel",

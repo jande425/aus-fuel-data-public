@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-10-07T19:57:29Z",
+  "fetched_at": "2026-10-07T23:40:21Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1240,
+  "station_count": 1249,
   "by_state": {
     "ACT": 9,
-    "NSW": 1156,
-    "QLD": 29,
-    "SA": 29,
+    "NSW": 1158,
+    "QLD": 30,
+    "SA": 30,
     "TAS": 1,
-    "VIC": 16
+    "VIC": 21
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
+    "Reddy Express": 80,
     "Chargefox": 72,
-    "Independent": 66,
+    "Independent": 67,
     "7-Eleven": 65,
-    "BP": 53,
+    "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 14,
+    "Ampol": 18,
     "Caltex": 12,
+    "Shell": 10,
     "EVUp": 9,
-    "Shell": 9,
     "Metro Fuel": 7,
     "Evie Networks": 7,
     "United": 6,
@@ -38,6 +38,7 @@
     "Woodham Petroleum": 3,
     "Ampol Foodary": 2,
     "Budget": 2,
+    "U-Go": 1,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
@@ -46,9 +47,10 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Apco": 1,
+    "On the Run": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -2861,6 +2863,15 @@
     },
     {
       "brand": "BP",
+      "code": "NSW:1788",
+      "name": "BP Warwick Farm",
+      "address": "6 Hume Hwy, Warwick Farm NSW 2171",
+      "state": "NSW",
+      "lat": -33.914284,
+      "lng": 150.930756
+    },
+    {
+      "brand": "BP",
       "code": "NSW:379",
       "name": "BP West Ryde",
       "address": "1233 Victoria Road (Cnr Marsden Rd), West Ryde NSW 2114",
@@ -5180,6 +5191,15 @@
       "state": "NSW",
       "lat": -32.722399,
       "lng": 152.07788
+    },
+    {
+      "brand": "Independent",
+      "code": "NSW:1754",
+      "name": "Independent Wyndham",
+      "address": "18/19 Monaro Street, Wyndham NSW 2550",
+      "state": "NSW",
+      "lat": -36.929292,
+      "lng": 149.647495
     },
     {
       "brand": "Exploren",
@@ -8135,15 +8155,6 @@
     },
     {
       "brand": "Reddy Express",
-      "code": "NSW:66",
-      "name": "Shell Reddy  Express Belmont Maude (Nsw)",
-      "address": "504 Pacific Hwy (Cnr Maude St), Belmont NSW 2280",
-      "state": "NSW",
-      "lat": -33.03322,
-      "lng": 151.660617
-    },
-    {
-      "brand": "Reddy Express",
       "code": "NSW:77",
       "name": "Shell Reddy  Express Berowra",
       "address": "955 Pacific Highway (Cnr Yallambee Rd), Berowra NSW 2081",
@@ -10060,6 +10071,15 @@
       "lng": 151.273708
     },
     {
+      "brand": "U-Go",
+      "code": "NSW:2465",
+      "name": "U-Go Carlingford Court (Self- serve)",
+      "address": "797 Pennant Hills Road, CARLINGFORD NSW 2118",
+      "state": "NSW",
+      "lat": -33.775823,
+      "lng": 151.051729
+    },
+    {
       "brand": "United",
       "code": "NSW:2004",
       "name": "United Marulan",
@@ -10553,6 +10573,15 @@
       "state": "QLD",
       "lat": -27.790458,
       "lng": 151.411238
+    },
+    {
+      "brand": "BP",
+      "code": "QLD:61470427",
+      "name": "BP Emerald",
+      "address": "Clermont St & Ruby St, QLD 4720",
+      "state": "QLD",
+      "lat": -23.525601,
+      "lng": 148.158356
     },
     {
       "brand": "Independent",
@@ -11087,6 +11116,18 @@
       ]
     },
     {
+      "brand": "Shell",
+      "code": "SA:61577288",
+      "name": "Renmark OPT",
+      "address": "364 Renmark Avenue, SA 5341",
+      "state": "SA",
+      "lat": -34.185411,
+      "lng": 140.732525,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "SA:61577325",
       "name": "S.Y.P. Motors",
@@ -11237,6 +11278,66 @@
       ]
     },
     {
+      "brand": "Ampol",
+      "code": "VIC:c3h0SSHivRLR0EKHB9zfNBxXvxhqYkl5LQfTaFSG9tk=",
+      "name": "Ampol Airport West",
+      "address": "10-12 Louis Street, AIRPORT WEST, 3042",
+      "state": "VIC",
+      "lat": -37.71455683,
+      "lng": 144.88876496,
+      "unavailable_fuels": [
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "VIC:7+G8shIQip9rMmdabd9cbIHklBLT49PHV0WFWVMBN4E=",
+      "name": "Ampol Montmorency",
+      "address": "180 Sherbourne Road, MONTMORENCY, 3094",
+      "state": "VIC",
+      "lat": -37.71583754,
+      "lng": 145.13607309,
+      "unavailable_fuels": [
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "VIC:ry5wQlZRyrZnnWbu6C7Wh51ZmivS1Woaj6x3KPBI4jY=",
+      "name": "Ampol Oakleigh South",
+      "address": "Unit 1  2 Coora Road, OAKLEIGH SOUTH, 3167",
+      "state": "VIC",
+      "lat": -37.91423985,
+      "lng": 145.1058689,
+      "unavailable_fuels": [
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "VIC:en0OdbJG3s2UO2o/87MyXkuxz05NrfOn9JsqLjTLOQQ=",
+      "name": "Ampol kingsbury",
+      "address": "89 Dunne Street, KINGSBURY, 3083",
+      "state": "VIC",
+      "lat": -37.71360884,
+      "lng": 145.03399594,
+      "unavailable_fuels": [
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
       "brand": "ETA PETROLEUM",
       "code": "VIC:A3p+CK2mLWBYVgUPBX5XALRvf4AkDSgRB20PSic6SgU=",
       "name": "Caltex Dandenong South",
@@ -11317,6 +11418,21 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "On the Run",
+      "code": "VIC:J16gC7NqizB5yANSY3W2fK9RPDfBWrwWOO6Rn+27XeU=",
+      "name": "OTR FITZROY NORTH - Temporarily closed",
+      "address": "262-272 St Georges Rd, Fitzroy North, 3068",
+      "state": "VIC",
+      "lat": -37.78276969,
+      "lng": 144.98453172,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

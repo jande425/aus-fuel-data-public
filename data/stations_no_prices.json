@@ -1,30 +1,30 @@
 {
-  "fetched_at": "2026-10-06T23:10:50Z",
+  "fetched_at": "2026-10-07T02:20:56Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1271,
   "by_state": {
     "ACT": 9,
     "NSW": 1157,
     "NT": 30,
-    "QLD": 27,
-    "SA": 29,
+    "QLD": 28,
+    "SA": 30,
     "TAS": 1,
-    "VIC": 20
+    "VIC": 16
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 82,
+    "Reddy Express": 81,
     "Chargefox": 72,
     "Independent": 71,
-    "7-Eleven": 67,
+    "7-Eleven": 64,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 18,
+    "Ampol": 19,
     "Caltex": 13,
     "Puma Energy": 10,
     "United": 9,
@@ -36,22 +36,23 @@
     "Pearl Energy": 6,
     "Mobil": 6,
     "Everty": 4,
-    "Ampol Foodary": 3,
     "Speedway": 3,
     "Indervon": 3,
+    "Ampol Foodary": 2,
     "Budget": 2,
     "On the Run": 2,
+    "Pacific Fuel Solutions": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
     "Enhance": 1,
     "Freedom Fuels": 1,
-    "Pacific Fuel Solutions": 1,
     "Perrys": 1,
+    "EG Ampol": 1,
     "Apco": 1,
-    "ETA PETROLEUM": 1,
-    "Metro Petroleum": 1
+    "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -2134,6 +2135,15 @@
       "lng": 148.589897
     },
     {
+      "brand": "Independent",
+      "code": "NSW:1757",
+      "name": "Al Mustafa Petrol",
+      "address": "1/3 Haldon St, Lakemba NSW 2195",
+      "state": "NSW",
+      "lat": -33.917964,
+      "lng": 151.07633
+    },
+    {
       "brand": "Tesla",
       "code": "NSW:19080",
       "name": "Alabaster Motor Inn",
@@ -2222,15 +2232,6 @@
       "state": "NSW",
       "lat": -32.719967,
       "lng": 152.135661
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:18340",
-      "name": "Ampol Foodary Coolongolook",
-      "address": "Corner Pacific Highway and Midge Street, Coolongolook NSW 2423",
-      "state": "NSW",
-      "lat": -32.216448,
-      "lng": 152.322777
     },
     {
       "brand": "Ampol Foodary",
@@ -10820,6 +10821,20 @@
     },
     {
       "brand": "Ampol",
+      "code": "QLD:61402030",
+      "name": "Ampol Foodary Gracemere",
+      "address": "10 Mclaughlin St, QLD 4702",
+      "state": "QLD",
+      "lat": -23.433008,
+      "lng": 150.454529,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91"
+      ]
+    },
+    {
+      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -10985,6 +11000,18 @@
     },
     {
       "brand": "Pacific Fuel Solutions",
+      "code": "QLD:61477872",
+      "name": "Pacific Fuel Solutions Barcaldine",
+      "address": "13 Needlewood Rd, QLD 4725",
+      "state": "QLD",
+      "lat": -23.568166648606315,
+      "lng": 145.28090476686478,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
+    },
+    {
+      "brand": "Pacific Fuel Solutions",
       "code": "QLD:61477735",
       "name": "Pacific Fuel Solutions Gladstone",
       "address": "11 Red River Road, QLD 4680",
@@ -11075,15 +11102,6 @@
         "U91",
         "U98"
       ]
-    },
-    {
-      "brand": "Independent",
-      "code": "QLD:61477638",
-      "name": "Wowan Roadhouse",
-      "address": "2 Leichhardt Highway, QLD 4702",
-      "state": "QLD",
-      "lat": -23.912232824397883,
-      "lng": 150.19361016567615
     },
     {
       "brand": "Independent",
@@ -11182,6 +11200,21 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "SA:61501715",
+      "name": "EG Ampol Stirling",
+      "address": "66 Mount Barker Rd, SA 5152",
+      "state": "SA",
+      "lat": -35.007486,
+      "lng": 138.720213,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },
@@ -11455,22 +11488,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "VIC:JhVttbJx9Q9wSf1cUmB5M7Jn4yxXf4nPq6MFf8b2w+c=",
-      "name": "7-Eleven Hoppers Crossing Derrimut",
-      "address": "88 Derrimut Road, Hoppers Crossing, 3029",
-      "state": "VIC",
-      "lat": -37.88119900259915,
-      "lng": 144.6826548969687,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "VIC:VkvBa8whRgy6Z46L367DlDXkAoFePQygEgkFhtVuUPE=",
       "name": "7-Eleven Noble Park",
       "address": "1100-1106 Heatherton Road, Noble Park, 3174",
@@ -11479,39 +11496,6 @@
       "lng": 145.17289763,
       "unavailable_fuels": [
         "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:zJ9yExbC7wxP2cwL9lOmwG/qvCF3tSuwZcV/9Cgo1uw=",
-      "name": "7-Eleven Point Cook",
-      "address": "Cnr Boardwalk Boulevard and Tom Roberts Parade Road, Point Cook, 3030",
-      "state": "VIC",
-      "lat": -37.89386947217886,
-      "lng": 144.72830886798138,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:2zlS6J1tzNZEmUpN8rAmONAFB1sdvILPEocuggrIhHc=",
-      "name": "7-Eleven Sebastopol",
-      "address": "50 Hertford Street, Sebastopol, 3356",
-      "state": "VIC",
-      "lat": -37.58591633,
-      "lng": 143.83370425,
-      "unavailable_fuels": [
-        "E10",
         "Premium Diesel",
         "U91",
         "U95",
@@ -11702,22 +11686,6 @@
         "Diesel",
         "E10",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "VIC:NT0HE3NFNnQrtqDCSGXfftMZiwga+ZzLQFin15T1Fow=",
-      "name": "Shell Reddy Express Carlton (vic)",
-      "address": "406 Lygon ST, Carlton, 3053",
-      "state": "VIC",
-      "lat": -37.797443961483765,
-      "lng": 144.96804156986877,
-      "unavailable_fuels": [
-        "Diesel",
-        "LPG",
-        "U91",
-        "U95",
         "U98"
       ]
     },

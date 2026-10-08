@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-08T20:27:31Z",
+  "fetched_at": "2026-10-08T23:50:40Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1278,
+  "station_count": 1271,
   "by_state": {
-    "ACT": 9,
+    "ACT": 8,
     "NSW": 1157,
-    "NT": 30,
-    "QLD": 28,
-    "SA": 31,
+    "NT": 29,
+    "QLD": 29,
+    "SA": 29,
     "TAS": 1,
-    "VIC": 22
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,14 +17,14 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "Independent": 74,
+    "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 66,
-    "BP": 56,
+    "7-Eleven": 64,
+    "BP": 57,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 21,
     "JOLT": 20,
+    "Ampol": 16,
     "Caltex": 12,
     "Shell": 10,
     "Puma Energy": 10,
@@ -51,9 +51,9 @@
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Buxton Servo": 1,
-    "ETA PETROLEUM": 1,
     "Apco": 1,
-    "Metro Petroleum": 1
+    "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -73,15 +73,6 @@
       "state": "ACT",
       "lat": -35.281566,
       "lng": 149.122506
-    },
-    {
-      "brand": "Ampol",
-      "code": "ACT:18828",
-      "name": "Ampol Majura",
-      "address": "3 Rogan ST, Canberra Airport ACT 2609",
-      "state": "ACT",
-      "lat": -35.309324,
-      "lng": 149.188209
     },
     {
       "brand": "Chargefox",
@@ -8212,15 +8203,6 @@
     },
     {
       "brand": "Reddy Express",
-      "code": "NSW:713",
-      "name": "Shell Reddy  Express Hexham",
-      "address": "21 Maitland Road, Hexham NSW 2322",
-      "state": "NSW",
-      "lat": -32.846766,
-      "lng": 151.693388
-    },
-    {
-      "brand": "Reddy Express",
       "code": "NSW:56",
       "name": "Shell Reddy  Express Inverell",
       "address": "176 Otho St, Inverell NSW 2360",
@@ -8668,6 +8650,15 @@
       "state": "NSW",
       "lat": -33.985745,
       "lng": 151.147385
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "NSW:447",
+      "name": "Shell Reddy Express Randwick Frenchmans",
+      "address": "Frenchmans Rd & Clovelly Rd, Randwick NSW 2031",
+      "state": "NSW",
+      "lat": -33.908364,
+      "lng": 151.247674
     },
     {
       "brand": "Reddy Express",
@@ -10723,15 +10714,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "NT:08500205",
-      "name": "Refuel Australia Katherine OPT ",
-      "address": "4 Bicentennial Road, Katherine South, 0850, NT",
-      "state": "NT",
-      "lat": -14.487214,
-      "lng": 132.25816
-    },
-    {
-      "brand": "Ampol",
       "code": "NT:08700227",
       "name": "Refuel Australia Stuarts Well",
       "address": "8824-8844 Stuart Highway, Stuarts Well, 0870, NT",
@@ -10821,22 +10803,6 @@
       "lng": 131.795078
     },
     {
-      "brand": "7-Eleven",
-      "code": "QLD:61477665",
-      "name": "7-Eleven Heathwood",
-      "address": "15 Stapylton Road, QLD 4110",
-      "state": "QLD",
-      "lat": -27.630712,
-      "lng": 152.986492,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
@@ -10853,6 +10819,24 @@
       "state": "QLD",
       "lat": -27.790458,
       "lng": 151.411238
+    },
+    {
+      "brand": "BP",
+      "code": "QLD:61401559",
+      "name": "BP Nerang",
+      "address": "Cayuga Street, QLD 4211",
+      "state": "QLD",
+      "lat": -27.999308,
+      "lng": 153.339003
+    },
+    {
+      "brand": "BP",
+      "code": "QLD:61401714",
+      "name": "BP Waterford",
+      "address": "Albert Street, QLD 4133",
+      "state": "QLD",
+      "lat": -27.694061,
+      "lng": 153.142624
     },
     {
       "brand": "Independent",
@@ -11120,22 +11104,6 @@
       "state": "SA",
       "lat": -35.180316,
       "lng": 138.483943
-    },
-    {
-      "brand": "BP",
-      "code": "SA:61577435",
-      "name": "BP OPT Tailem Bend",
-      "address": "Cnr Tuscany Road & Dukes Highway, SA 5260",
-      "state": "SA",
-      "lat": -35.27647807471725,
-      "lng": 139.46740368154525,
-      "unavailable_fuels": [
-        "Diesel",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "Independent",
@@ -11466,20 +11434,6 @@
     },
     {
       "brand": "Independent",
-      "code": "SA:61501594",
-      "name": "Victor Harbor Roadhouse",
-      "address": "105 Victoria St, SA 5211",
-      "state": "SA",
-      "lat": -35.558077,
-      "lng": 138.613533,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Independent",
       "code": "SA:61577354",
       "name": "Yelwap Fuel",
       "address": "1950 North East Road, SA 5133",
@@ -11495,22 +11449,6 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:VDTRzrLOcekZyxNTczpmYcgiB60CAVSNHbDuG0v1iRk=",
-      "name": "7-Eleven Bayswater",
-      "address": "22 Scoresby Road, Bayswater, 3153",
-      "state": "VIC",
-      "lat": -37.84482186,
-      "lng": 145.26982988,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "7-Eleven",
@@ -11546,61 +11484,16 @@
     },
     {
       "brand": "Ampol",
-      "code": "VIC:c3h0SSHivRLR0EKHB9zfNBxXvxhqYkl5LQfTaFSG9tk=",
-      "name": "Ampol Airport West",
-      "address": "10-12 Louis Street, AIRPORT WEST, 3042",
+      "code": "VIC:GxkULIuaKpy0UfnZcSoSDjITM64MYbc/G8ntWSlK2M0=",
+      "name": "Ampol Foodary Wodonga Riverina",
+      "address": "89 Thomas Mitchell Drive, Wodonga, 3690",
       "state": "VIC",
-      "lat": -37.71455683,
-      "lng": 144.88876496,
+      "lat": -36.13468970316369,
+      "lng": 146.9044484544254,
       "unavailable_fuels": [
-        "LPG",
         "Premium Diesel",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "VIC:7+G8shIQip9rMmdabd9cbIHklBLT49PHV0WFWVMBN4E=",
-      "name": "Ampol Montmorency",
-      "address": "180 Sherbourne Road, MONTMORENCY, 3094",
-      "state": "VIC",
-      "lat": -37.71583754,
-      "lng": 145.13607309,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "VIC:ry5wQlZRyrZnnWbu6C7Wh51ZmivS1Woaj6x3KPBI4jY=",
-      "name": "Ampol Oakleigh South",
-      "address": "Unit 1  2 Coora Road, OAKLEIGH SOUTH, 3167",
-      "state": "VIC",
-      "lat": -37.91423985,
-      "lng": 145.1058689,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "VIC:en0OdbJG3s2UO2o/87MyXkuxz05NrfOn9JsqLjTLOQQ=",
-      "name": "Ampol kingsbury",
-      "address": "89 Dunne Street, KINGSBURY, 3083",
-      "state": "VIC",
-      "lat": -37.71360884,
-      "lng": 145.03399594,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
+        "U95",
         "U98"
       ]
     },

@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-08T07:47:31Z",
+  "fetched_at": "2026-10-08T08:54:06Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1277,
+  "station_count": 1281,
   "by_state": {
     "ACT": 9,
-    "NSW": 1157,
+    "NSW": 1159,
     "NT": 30,
-    "QLD": 28,
+    "QLD": 30,
     "SA": 31,
     "TAS": 1,
     "VIC": 21
@@ -19,7 +19,7 @@
     "Reddy Express": 80,
     "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 65,
+    "7-Eleven": 69,
     "BP": 57,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -51,9 +51,9 @@
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Buxton Servo": 1,
-    "Apco": 1,
     "ETA PETROLEUM": 1,
-    "Metro Petroleum": 1
+    "Metro Petroleum": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -229,6 +229,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:205",
+      "name": "7-Eleven Blaxland",
+      "address": "139 Great Western Highway (Corner Layton Avenue), Blaxland NSW 2774",
+      "state": "NSW",
+      "lat": -33.746366,
+      "lng": 150.613486
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:206",
       "name": "7-Eleven Bligh Park",
       "address": "735 George Street, Bligh Park NSW 2756",
@@ -325,6 +334,15 @@
       "state": "NSW",
       "lat": -33.897617,
       "lng": 151.099796
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:217",
+      "name": "7-Eleven Dee Why",
+      "address": "940 Pittwater Road & Hawkesbury Avenue, Dee Why NSW 2099",
+      "state": "NSW",
+      "lat": -33.749095,
+      "lng": 151.290234
     },
     {
       "brand": "7-Eleven",
@@ -10819,6 +10837,39 @@
       "state": "NT",
       "lat": -22.25346,
       "lng": 131.795078
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61401422",
+      "name": "7-Eleven Durack",
+      "address": "14 Rosemary St, QLD 4077",
+      "state": "QLD",
+      "lat": -27.579387,
+      "lng": 152.974637,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61477721",
+      "name": "7-Eleven Pimpama",
+      "address": "Cnr Yawalpah Rd & Dixon Drive, QLD 4209",
+      "state": "QLD",
+      "lat": -27.823747,
+      "lng": 153.317744,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Ampol",

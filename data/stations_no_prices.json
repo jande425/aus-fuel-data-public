@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-08T17:51:26Z",
+  "fetched_at": "2026-10-08T20:27:31Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1278,
   "by_state": {
@@ -16,11 +16,11 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 80,
+    "Reddy Express": 81,
     "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 66,
-    "BP": 57,
+    "BP": 56,
     "NRMA": 45,
     "ChargePoint": 23,
     "Ampol": 21,
@@ -51,9 +51,9 @@
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Buxton Servo": 1,
+    "ETA PETROLEUM": 1,
     "Apco": 1,
-    "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -2863,15 +2863,6 @@
       "state": "NSW",
       "lat": -33.00802,
       "lng": 151.642586
-    },
-    {
-      "brand": "BP",
-      "code": "NSW:1788",
-      "name": "BP Warwick Farm",
-      "address": "6 Hume Hwy, Warwick Farm NSW 2171",
-      "state": "NSW",
-      "lat": -33.914284,
-      "lng": 150.930756
     },
     {
       "brand": "BP",
@@ -8218,6 +8209,15 @@
       "state": "NSW",
       "lat": -29.934898,
       "lng": 153.094274
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "NSW:713",
+      "name": "Shell Reddy  Express Hexham",
+      "address": "21 Maitland Road, Hexham NSW 2322",
+      "state": "NSW",
+      "lat": -32.846766,
+      "lng": 151.693388
     },
     {
       "brand": "Reddy Express",

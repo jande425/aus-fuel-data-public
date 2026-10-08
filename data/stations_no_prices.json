@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-08T06:39:19Z",
+  "fetched_at": "2026-10-08T07:47:31Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1279,
+  "station_count": 1277,
   "by_state": {
     "ACT": 9,
     "NSW": 1157,
     "NT": 30,
     "QLD": 28,
-    "SA": 32,
+    "SA": 31,
     "TAS": 1,
-    "VIC": 22
+    "VIC": 21
   },
   "by_brand": {
     "Exploren": 236,
@@ -40,21 +40,20 @@
     "Woodham Petroleum": 3,
     "Ampol Foodary": 2,
     "Budget": 2,
-    "On the Run": 2,
     "Indervon": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
+    "On the Run": 1,
     "Enhance": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "EG Ampol": 1,
     "Buxton Servo": 1,
     "Apco": 1,
-    "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -11189,21 +11188,6 @@
       ]
     },
     {
-      "brand": "EG Ampol",
-      "code": "SA:61501991",
-      "name": "EG Ampol West Richmond",
-      "address": "130-132 Marion Rd, SA 5033",
-      "state": "SA",
-      "lat": -34.936699,
-      "lng": 138.552624,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "SA:61577291",
       "name": "Earles Transport",
@@ -11713,21 +11697,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "On the Run",
-      "code": "VIC:J16gC7NqizB5yANSY3W2fK9RPDfBWrwWOO6Rn+27XeU=",
-      "name": "OTR FITZROY NORTH - Temporarily closed",
-      "address": "262-272 St Georges Rd, Fitzroy North, 3068",
-      "state": "VIC",
-      "lat": -37.78276969,
-      "lng": 144.98453172,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

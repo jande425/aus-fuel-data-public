@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-08T08:54:06Z",
+  "fetched_at": "2026-10-08T14:02:04Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1281,
+  "station_count": 1278,
   "by_state": {
     "ACT": 9,
-    "NSW": 1159,
+    "NSW": 1157,
     "NT": 30,
-    "QLD": 30,
+    "QLD": 28,
     "SA": 31,
     "TAS": 1,
-    "VIC": 21
+    "VIC": 22
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 80,
     "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 69,
+    "7-Eleven": 66,
     "BP": 57,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -51,9 +51,9 @@
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Buxton Servo": 1,
-    "ETA PETROLEUM": 1,
     "Metro Petroleum": 1,
-    "Apco": 1
+    "Apco": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -229,15 +229,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:205",
-      "name": "7-Eleven Blaxland",
-      "address": "139 Great Western Highway (Corner Layton Avenue), Blaxland NSW 2774",
-      "state": "NSW",
-      "lat": -33.746366,
-      "lng": 150.613486
-    },
-    {
-      "brand": "7-Eleven",
       "code": "NSW:206",
       "name": "7-Eleven Bligh Park",
       "address": "735 George Street, Bligh Park NSW 2756",
@@ -334,15 +325,6 @@
       "state": "NSW",
       "lat": -33.897617,
       "lng": 151.099796
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:217",
-      "name": "7-Eleven Dee Why",
-      "address": "940 Pittwater Road & Hawkesbury Avenue, Dee Why NSW 2099",
-      "state": "NSW",
-      "lat": -33.749095,
-      "lng": 151.290234
     },
     {
       "brand": "7-Eleven",
@@ -10840,29 +10822,12 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "QLD:61401422",
-      "name": "7-Eleven Durack",
-      "address": "14 Rosemary St, QLD 4077",
+      "code": "QLD:61477665",
+      "name": "7-Eleven Heathwood",
+      "address": "15 Stapylton Road, QLD 4110",
       "state": "QLD",
-      "lat": -27.579387,
-      "lng": 152.974637,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61477721",
-      "name": "7-Eleven Pimpama",
-      "address": "Cnr Yawalpah Rd & Dixon Drive, QLD 4209",
-      "state": "QLD",
-      "lat": -27.823747,
-      "lng": 153.317744,
+      "lat": -27.630712,
+      "lng": 152.986492,
       "unavailable_fuels": [
         "E10",
         "Premium Diesel",
@@ -10888,20 +10853,6 @@
       "state": "QLD",
       "lat": -27.790458,
       "lng": 151.411238
-    },
-    {
-      "brand": "BP",
-      "code": "QLD:61401836",
-      "name": "BP Yandina Foodstop",
-      "address": "24 Farrell St, QLD 4561",
-      "state": "QLD",
-      "lat": -26.560061,
-      "lng": 152.956872,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "Independent",
@@ -11650,6 +11601,22 @@
         "LPG",
         "Premium Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "BP",
+      "code": "VIC:bPD4zHdE2lkuYzaY8l0gp3OzNs0TmZnDUGM2g35AIHs=",
+      "name": "BP Fernhill",
+      "address": "555 Stephensons road, Mount Waverley, 3149",
+      "state": "VIC",
+      "lat": -37.8987542,
+      "lng": 145.1242233,
+      "unavailable_fuels": [
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

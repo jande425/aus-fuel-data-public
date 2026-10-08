@@ -1,13 +1,14 @@
 {
-  "last_updated": "2026-10-08T00:40:31Z",
-  "total_stations": 7666,
-  "total_states": 7,
+  "last_updated": "2026-10-08T06:39:19Z",
+  "total_stations": 7874,
+  "total_states": 8,
   "fuel_types": [
     "B20",
     "Diesel",
     "E10",
     "E85",
     "EV",
+    "LAF",
     "LPG",
     "Opal",
     "Premium Diesel",
@@ -18,52 +19,59 @@
   "states": {
     "ACT": {
       "station_count": 62,
-      "price_count": 265,
+      "price_count": 264,
       "file": "act/latest.json",
-      "checksum": "4b24672e",
-      "size_bytes": 25315
+      "checksum": "f64135f6",
+      "size_bytes": 25282
     },
     "NSW": {
       "station_count": 2105,
-      "price_count": 8437,
+      "price_count": 8436,
       "file": "nsw/latest.json",
-      "checksum": "4880afa2",
-      "size_bytes": 836899
+      "checksum": "371e7919",
+      "size_bytes": 836876
+    },
+    "NT": {
+      "station_count": 209,
+      "price_count": 565,
+      "file": "nt/latest.json",
+      "checksum": "5128f558",
+      "size_bytes": 79031
     },
     "QLD": {
-      "station_count": 1777,
-      "price_count": 6892,
+      "station_count": 1778,
+      "price_count": 6898,
       "file": "qld/latest.json",
-      "checksum": "77b27bce",
-      "size_bytes": 701131
+      "checksum": "b98355fe",
+      "size_bytes": 701685
     },
     "SA": {
-      "station_count": 697,
-      "price_count": 2484,
+      "station_count": 695,
+      "price_count": 2475,
       "file": "sa/latest.json",
-      "checksum": "3c812c29",
-      "size_bytes": 269812
+      "checksum": "35824071",
+      "size_bytes": 269079
     },
     "TAS": {
       "station_count": 295,
-      "price_count": 1430,
+      "price_count": 1433,
       "file": "tas/latest.json",
-      "checksum": "2035bb09",
-      "size_bytes": 124328
+      "checksum": "38c106d7",
+      "size_bytes": 124406
     },
     "VIC": {
-      "station_count": 1734,
-      "price_count": 7094,
+      "station_count": 1735,
+      "price_count": 7097,
       "file": "vic/latest.json",
-      "checksum": "c1119936",
-      "size_bytes": 778838
+      "checksum": "5b3cf258",
+      "size_bytes": 779077
     },
     "WA": {
-      "station_count": 996,
-      "price_count": 3374,
+      "station_count": 995,
+      "price_count": 3371,
       "file": "wa/latest.json",
-      "checksum": "c1472f09",
-      "size_bytes": 510408
+      "checksum": "a4f8b076",
+      "size_bytes": 624804
     }
   },
   "files": {

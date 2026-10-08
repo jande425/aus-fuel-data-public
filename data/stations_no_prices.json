@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-08T00:10:07Z",
+  "fetched_at": "2026-10-08T00:40:31Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1249,
+  "station_count": 1248,
   "by_state": {
     "ACT": 9,
     "NSW": 1157,
-    "QLD": 30,
+    "QLD": 29,
     "SA": 30,
     "TAS": 1,
     "VIC": 22
@@ -17,8 +17,8 @@
     "Independent EV": 99,
     "Reddy Express": 80,
     "Chargefox": 72,
-    "Independent": 67,
     "7-Eleven": 66,
+    "Independent": 66,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -10778,15 +10778,6 @@
       "state": "QLD",
       "lat": -25.634965,
       "lng": 149.797847
-    },
-    {
-      "brand": "Independent",
-      "code": "QLD:61470864",
-      "name": "Somerset Dam General Store",
-      "address": "2 Guldbransen Street, QLD 4312",
-      "state": "QLD",
-      "lat": -27.119775,
-      "lng": 152.549884
     },
     {
       "brand": "BP",

@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-09T17:53:08Z",
+  "fetched_at": "2026-10-09T22:09:23Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1272,
   "by_state": {
     "ACT": 8,
     "NSW": 1159,
     "NT": 30,
-    "QLD": 29,
+    "QLD": 28,
     "SA": 29,
     "TAS": 1,
     "VIC": 17
@@ -37,10 +37,10 @@
     "Mobil": 6,
     "Everty": 4,
     "Speedway": 3,
-    "Woodham Petroleum": 3,
     "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
+    "Woodham Petroleum": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
@@ -52,8 +52,8 @@
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Buxton Servo": 1,
-    "Metro Petroleum": 1,
     "Apco": 1,
+    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1
   },
   "stations": [
@@ -11118,15 +11118,6 @@
       "state": "QLD",
       "lat": -27.558668050146085,
       "lng": 153.0286909502182
-    },
-    {
-      "brand": "Woodham Petroleum",
-      "code": "QLD:61478313",
-      "name": "Woodham Petroleum Yatala",
-      "address": "117 Sandy Creek Rd, QLD 4207",
-      "state": "QLD",
-      "lat": -27.76078267389247,
-      "lng": 153.22396518907735
     },
     {
       "brand": "Independent",

@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-09T00:56:04Z",
+  "fetched_at": "2026-10-09T07:44:04Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1270,
+  "station_count": 1271,
   "by_state": {
     "ACT": 8,
-    "NSW": 1157,
-    "NT": 29,
-    "QLD": 28,
+    "NSW": 1159,
+    "NT": 30,
+    "QLD": 27,
     "SA": 29,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,14 +17,14 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "Independent": 73,
+    "Independent": 75,
     "Chargefox": 72,
     "7-Eleven": 64,
     "BP": 56,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 16,
+    "Ampol": 15,
     "Caltex": 12,
     "Shell": 10,
     "Puma Energy": 10,
@@ -51,8 +51,8 @@
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Buxton Servo": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
+    "Apco": 1,
     "ETA PETROLEUM": 1
   },
   "stations": [
@@ -2755,6 +2755,15 @@
       "state": "NSW",
       "lat": -33.743757,
       "lng": 150.692323
+    },
+    {
+      "brand": "BP",
+      "code": "NSW:2037",
+      "name": "BP Prestons",
+      "address": "14- Bernera Road, Prestons NSW 2170",
+      "state": "NSW",
+      "lat": -33.93577,
+      "lng": 150.868764
     },
     {
       "brand": "BP",
@@ -8608,6 +8617,15 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "NSW:335",
+      "name": "Shell Reddy Express Nowra",
+      "address": "55 Kinghorne St (Cnr Worrigee St), Nowra NSW 2541",
+      "state": "NSW",
+      "lat": -34.876305,
+      "lng": 150.602472
+    },
+    {
+      "brand": "Reddy Express",
       "code": "NSW:40",
       "name": "Shell Reddy Express Oak Flats",
       "address": "Lot 2 Lake Entrance Road, Oak Flats NSW 2529",
@@ -8650,15 +8668,6 @@
       "state": "NSW",
       "lat": -33.985745,
       "lng": 151.147385
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:447",
-      "name": "Shell Reddy Express Randwick Frenchmans",
-      "address": "Frenchmans Rd & Clovelly Rd, Randwick NSW 2031",
-      "state": "NSW",
-      "lat": -33.908364,
-      "lng": 151.247674
     },
     {
       "brand": "Reddy Express",
@@ -9867,6 +9876,15 @@
       "lng": 152.901745
     },
     {
+      "brand": "Independent",
+      "code": "NSW:18278",
+      "name": "The Woodville Store",
+      "address": "229 Clarence Town RD, Woodville NSW 2321",
+      "state": "NSW",
+      "lat": -32.676116,
+      "lng": 151.609687
+    },
+    {
       "brand": "Tesla",
       "code": "NSW:19506",
       "name": "The Zin House",
@@ -10633,6 +10651,15 @@
     },
     {
       "brand": "Independent",
+      "code": "NT:08500240",
+      "name": "FuelXpress Katherine East ",
+      "address": "41 Chardon Street, Katherine, 0850, NT",
+      "state": "NT",
+      "lat": 14.475361,
+      "lng": 132.286312
+    },
+    {
+      "brand": "Independent",
       "code": "NT:08470151",
       "name": "Goymarr Tourist Park",
       "address": "5816 Kakadu Highway, Burrundie, 0847, NT",
@@ -10819,15 +10846,6 @@
       "state": "QLD",
       "lat": -27.790458,
       "lng": 151.411238
-    },
-    {
-      "brand": "BP",
-      "code": "QLD:61401714",
-      "name": "BP Waterford",
-      "address": "Albert Street, QLD 4133",
-      "state": "QLD",
-      "lat": -27.694061,
-      "lng": 153.142624
     },
     {
       "brand": "Independent",
@@ -11471,21 +11489,6 @@
         "LPG",
         "U91",
         "U95"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "VIC:GxkULIuaKpy0UfnZcSoSDjITM64MYbc/G8ntWSlK2M0=",
-      "name": "Ampol Foodary Wodonga Riverina",
-      "address": "89 Thomas Mitchell Drive, Wodonga, 3690",
-      "state": "VIC",
-      "lat": -36.13468970316369,
-      "lng": 146.9044484544254,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {

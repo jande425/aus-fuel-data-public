@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-10-09T00:56:04Z",
+  "fetched_at": "2026-10-09T07:44:04Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -171,10 +171,10 @@
         "E10": 244.9,
         "U95": 263.9,
         "U98": 276.9,
-        "Premium Diesel": 291.9,
+        "Premium Diesel": 290.9,
         "U91": 245.9
       },
-      "updated": "2026-10-08T22:37:26Z",
+      "updated": "2026-10-09T01:37:25Z",
       "lat": -35.378878,
       "lng": 149.057528
     },
@@ -380,13 +380,13 @@
       "address": "Cnr Tharwa Drive & Norman Lindsay Street, Conder ACT 2906",
       "state": "ACT",
       "prices": {
-        "E10": 245.9,
-        "U95": 265.9,
-        "U98": 275.9,
-        "Premium Diesel": 293.9,
-        "U91": 247.9
+        "E10": 247.9,
+        "U95": 267.9,
+        "U98": 277.9,
+        "Premium Diesel": 292.9,
+        "U91": 249.9
       },
-      "updated": "2026-10-07T22:00:51Z",
+      "updated": "2026-10-09T04:18:15Z",
       "lat": -35.4582,
       "lng": 149.092
     },
@@ -833,15 +833,15 @@
       "address": "150 O'Halloran Circuit, Kambah ACT 2902",
       "state": "ACT",
       "prices": {
-        "Diesel": 287.7,
-        "E10": 237.7,
+        "Diesel": 287.9,
+        "E10": 237.9,
         "E85": 259.9,
         "LPG": 119.9,
-        "U95": 255.7,
-        "U98": 263.7,
-        "U91": 239.7
+        "U95": 255.9,
+        "U98": 263.9,
+        "U91": 239.9
       },
-      "updated": "2026-10-07T22:00:13Z",
+      "updated": "2026-10-09T02:25:11Z",
       "lat": -35.3924,
       "lng": 149.069
     },
@@ -953,8 +953,7 @@
         "E10": 245.9,
         "LPG": 121.9,
         "U98": 273.9,
-        "Premium Diesel": 287.9,
-        "U91": 247.9
+        "Premium Diesel": 287.9
       },
       "updated": "2026-10-08T23:45:21Z",
       "lat": -35.4052,

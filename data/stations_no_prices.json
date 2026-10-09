@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-08T23:50:40Z",
+  "fetched_at": "2026-10-09T00:19:51Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1270,
   "by_state": {
     "ACT": 8,
     "NSW": 1157,
     "NT": 29,
-    "QLD": 29,
+    "QLD": 28,
     "SA": 29,
     "TAS": 1,
     "VIC": 18
@@ -20,7 +20,7 @@
     "Independent": 73,
     "Chargefox": 72,
     "7-Eleven": 64,
-    "BP": 57,
+    "BP": 56,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -10819,15 +10819,6 @@
       "state": "QLD",
       "lat": -27.790458,
       "lng": 151.411238
-    },
-    {
-      "brand": "BP",
-      "code": "QLD:61401559",
-      "name": "BP Nerang",
-      "address": "Cayuga Street, QLD 4211",
-      "state": "QLD",
-      "lat": -27.999308,
-      "lng": 153.339003
     },
     {
       "brand": "BP",

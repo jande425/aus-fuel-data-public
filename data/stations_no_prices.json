@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-10T04:00:09Z",
+  "fetched_at": "2026-10-10T07:30:40Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1274,
   "by_state": {
     "ACT": 8,
     "NSW": 1159,
@@ -9,7 +9,7 @@
     "QLD": 27,
     "SA": 29,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 20
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,14 +19,14 @@
     "Reddy Express": 81,
     "Independent": 75,
     "Chargefox": 72,
-    "7-Eleven": 64,
-    "BP": 56,
+    "7-Eleven": 65,
+    "BP": 57,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
     "Ampol": 15,
     "Caltex": 12,
-    "Shell": 10,
+    "Shell": 11,
     "Puma Energy": 10,
     "United": 9,
     "Liberty": 9,
@@ -50,9 +50,9 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "ETA PETROLEUM": 1,
+    "Metro Petroleum": 1,
     "Apco": 1,
-    "Metro Petroleum": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -11467,6 +11467,21 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:h9+i49hcwtVWP0NHBCrTSSJ73VaLbh3Q7BvlfFKE/XI=",
+      "name": "7-Eleven Clyde North",
+      "address": "380 Patterson Road, Clyde, 3978",
+      "state": "VIC",
+      "lat": -38.1245309,
+      "lng": 145.37233236,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:VkvBa8whRgy6Z46L367DlDXkAoFePQygEgkFhtVuUPE=",
       "name": "7-Eleven Noble Park",
       "address": "1100-1106 Heatherton Road, Noble Park, 3174",
@@ -11510,6 +11525,20 @@
         "Premium Diesel",
         "U91",
         "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "BP",
+      "code": "VIC:xo21jK4etTzsRzqhsrD+YgsgZ0PUVvL2S+WRxur3V+k=",
+      "name": "BP Tremont",
+      "address": "100 Mount Dandenong Tourist Road, tremont, 3785",
+      "state": "VIC",
+      "lat": -37.88654729,
+      "lng": 145.32778884,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
         "U98"
       ]
     },
@@ -11679,6 +11708,21 @@
       "unavailable_fuels": [
         "Diesel",
         "E10",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Shell",
+      "code": "VIC:992ohKa5diZq8Ax7PrdOZayo7gjLe/5a6LaNrfYSH9k=",
+      "name": "Shell Maffra",
+      "address": "87 Powerscourt Street, MAFFRA, 3860",
+      "state": "VIC",
+      "lat": -37.96009047,
+      "lng": 146.98590773,
+      "unavailable_fuels": [
+        "Diesel",
+        "LPG",
         "U91",
         "U98"
       ]

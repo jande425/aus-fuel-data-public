@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-10-10T04:00:09Z",
+  "fetched_at": "2026-10-10T07:30:40Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -38,12 +38,12 @@
       "address": "2 Callan ST, Mitchell ACT 2911",
       "state": "ACT",
       "prices": {
-        "E10": 239.9,
+        "E10": 244.9,
         "U98": 270.9,
         "Premium Diesel": 291.9,
-        "U91": 241.9
+        "U91": 246.9
       },
-      "updated": "2026-10-04T16:07:34Z",
+      "updated": "2026-10-10T07:21:43Z",
       "lat": -35.214511,
       "lng": 149.143317
     },
@@ -856,9 +856,9 @@
         "LPG": 124.9,
         "U98": 271.9,
         "Premium Diesel": 294.9,
-        "U91": 242.9
+        "U91": 247.9
       },
-      "updated": "2026-10-04T04:44:18Z",
+      "updated": "2026-10-10T06:40:03Z",
       "lat": -35.215024,
       "lng": 149.139903
     },

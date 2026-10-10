@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-10T11:47:26Z",
+  "fetched_at": "2026-10-10T15:55:29Z",
   "station_count": 698,
   "fuel_types": [
     "E10",
@@ -411,12 +411,14 @@
       "prices": {
         "U91": 234.9,
         "U95": 250.9,
-        "U98": 261.9,
-        "Premium Diesel": 283.9
+        "U98": 261.9
       },
       "updated": "2026-10-10T00:49:45Z",
       "lat": -34.857743,
-      "lng": 138.655199
+      "lng": 138.655199,
+      "unavailable_fuels": [
+        "Premium Diesel"
+      ]
     },
     {
       "brand": "On the Run",
@@ -2854,7 +2856,7 @@
         "U98": 263.9,
         "Premium Diesel": 288.9
       },
-      "updated": "2026-10-10T11:01:09Z",
+      "updated": "2026-10-10T11:53:04Z",
       "lat": -34.602959822396265,
       "lng": 138.74903527116396,
       "unavailable_fuels": [
@@ -2942,7 +2944,7 @@
         "U98": 259.9,
         "Premium Diesel": 288.9
       },
-      "updated": "2026-10-10T11:40:18Z",
+      "updated": "2026-10-10T15:40:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5464,7 +5466,7 @@
         "U98": 263.9,
         "Premium Diesel": 283.9
       },
-      "updated": "2026-10-10T11:40:18Z",
+      "updated": "2026-10-10T15:40:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },

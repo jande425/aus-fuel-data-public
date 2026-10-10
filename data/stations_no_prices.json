@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-10T00:00:43Z",
+  "fetched_at": "2026-10-10T04:00:09Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1271,
   "by_state": {
     "ACT": 8,
     "NSW": 1159,
     "NT": 30,
-    "QLD": 28,
+    "QLD": 27,
     "SA": 29,
     "TAS": 1,
     "VIC": 17
@@ -29,8 +29,8 @@
     "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
+    "Liberty": 9,
     "EVUp": 9,
-    "Liberty": 8,
     "Metro Fuel": 7,
     "Evie Networks": 7,
     "Pearl Energy": 6,
@@ -46,15 +46,13 @@
     "Astron": 1,
     "Arko Energy": 1,
     "On the Run": 1,
-    "U-Go": 1,
     "Enhance": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Buxton Servo": 1,
-    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
-    "Apco": 1
+    "Apco": 1,
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -11071,21 +11069,6 @@
       "lng": 143.549026
     },
     {
-      "brand": "U-Go",
-      "code": "QLD:61401696",
-      "name": "U-Go Mt Warren Park",
-      "address": "40-42 Rochester Drive, QLD 4207",
-      "state": "QLD",
-      "lat": -27.728179,
-      "lng": 153.208767,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "United",
       "code": "QLD:61470127",
       "name": "United Esplanade",
@@ -11531,20 +11514,6 @@
       ]
     },
     {
-      "brand": "Buxton Servo",
-      "code": "VIC:1aXxGwpMwA/DBC5eQwqaGE3led1OLBTZtXGTFEG5Mkk=",
-      "name": "Buxton Servo",
-      "address": "2093 Maroondah Highway, BUXTON, 3711",
-      "state": "VIC",
-      "lat": -37.42959882,
-      "lng": 145.70308675,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "ETA PETROLEUM",
       "code": "VIC:A3p+CK2mLWBYVgUPBX5XALRvf4AkDSgRB20PSic6SgU=",
       "name": "Caltex Dandenong South",
@@ -11612,6 +11581,20 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "Liberty",
+      "code": "VIC:eDoJIVuLNP3Dz1a23gZdO4B7mx+oMSdoiGyzVNPgQOU=",
+      "name": "Liberty Wonthaggi",
+      "address": "25 McKenzie Street, WONTHAGGI, 3995",
+      "state": "VIC",
+      "lat": -38.60500266,
+      "lng": 145.59332179,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
       ]
     },
     {

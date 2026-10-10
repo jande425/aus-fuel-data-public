@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-10-10T07:30:40Z",
+  "fetched_at": "2026-10-10T08:26:54Z",
   "station_count": 295,
   "fuel_types": [
     "E10",
@@ -1825,13 +1825,13 @@
       "address": "98 Main Street, Penguin TAS 7315",
       "state": "TAS",
       "prices": {
-        "E10": 242.9,
+        "E10": 241.9,
         "U98": 276.9,
         "Premium Diesel": 285.9,
         "U91": 254.9,
         "U95": 267.9
       },
-      "updated": "2026-10-09T20:54:14Z",
+      "updated": "2026-10-10T08:18:13Z",
       "lat": -41.115095,
       "lng": 146.07483
     },
@@ -2729,10 +2729,10 @@
         "E10": 240.9,
         "LPG": 119.7,
         "U98": 272.9,
-        "Premium Diesel": 285.9,
         "U91": 250.9,
         "Diesel": 281.9,
-        "U95": 262.9
+        "U95": 262.9,
+        "Premium Diesel": 285.9
       },
       "updated": "2026-10-08T23:45:15Z",
       "lat": -42.84477,

@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-10T07:30:40Z",
+  "fetched_at": "2026-10-10T08:26:54Z",
   "station_count": 698,
   "fuel_types": [
     "E10",
@@ -115,14 +115,12 @@
       "prices": {
         "U91": 238.9,
         "U95": 254.9,
-        "U98": 265.9
+        "U98": 265.9,
+        "Premium Diesel": 286.9
       },
-      "updated": "2026-10-09T21:45:09Z",
+      "updated": "2026-10-10T08:26:03Z",
       "lat": -34.82886309614701,
-      "lng": 138.6718060785389,
-      "unavailable_fuels": [
-        "Premium Diesel"
-      ]
+      "lng": 138.6718060785389
     },
     {
       "brand": "Reddy Express",
@@ -809,12 +807,14 @@
       "prices": {
         "U91": 236.9,
         "U95": 252.9,
-        "U98": 263.9,
-        "Premium Diesel": 284.9
+        "U98": 263.9
       },
-      "updated": "2026-10-09T22:47:02Z",
+      "updated": "2026-10-10T08:20:48Z",
       "lat": -34.6847011274469,
-      "lng": 138.69317797916793
+      "lng": 138.69317797916793,
+      "unavailable_fuels": [
+        "Premium Diesel"
+      ]
     },
     {
       "brand": "Caltex",
@@ -1617,12 +1617,14 @@
       "prices": {
         "U91": 239.9,
         "U95": 256.9,
-        "U98": 266.9,
-        "Premium Diesel": 286.9
+        "U98": 266.9
       },
-      "updated": "2026-10-09T22:47:35Z",
+      "updated": "2026-10-10T08:08:23Z",
       "lat": -34.905093,
-      "lng": 138.532671
+      "lng": 138.532671,
+      "unavailable_fuels": [
+        "Premium Diesel"
+      ]
     },
     {
       "brand": "United",
@@ -2938,7 +2940,7 @@
         "U98": 259.9,
         "Premium Diesel": 288.9
       },
-      "updated": "2026-10-10T07:25:18Z",
+      "updated": "2026-10-10T08:10:19Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5462,7 +5464,7 @@
         "U98": 263.9,
         "Premium Diesel": 283.9
       },
-      "updated": "2026-10-10T07:25:18Z",
+      "updated": "2026-10-10T08:10:19Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -5890,12 +5892,14 @@
       "state": "SA",
       "prices": {
         "U91": 252.9,
-        "U98": 274.9,
-        "Premium Diesel": 298.9
+        "U98": 274.9
       },
-      "updated": "2026-10-08T07:36:01Z",
+      "updated": "2026-10-10T07:44:43Z",
       "lat": -33.929323,
-      "lng": 137.631827
+      "lng": 137.631827,
+      "unavailable_fuels": [
+        "Premium Diesel"
+      ]
     },
     {
       "brand": "Perrys",
@@ -7536,13 +7540,15 @@
       "address": "12905 Sturt Highway, SA 5330",
       "state": "SA",
       "prices": {
-        "U91": 249.9,
-        "U98": 271.9,
         "Premium Diesel": 296.9
       },
-      "updated": "2026-10-08T08:20:31Z",
+      "updated": "2026-10-10T07:43:42Z",
       "lat": -34.188248,
-      "lng": 140.004297
+      "lng": 140.004297,
+      "unavailable_fuels": [
+        "U91",
+        "U98"
+      ]
     },
     {
       "brand": "Shell",
@@ -8454,12 +8460,12 @@
       "address": "596-600 North East Road, SA 5088",
       "state": "SA",
       "prices": {
-        "U91": 233.5,
+        "U91": 234.5,
         "U95": 241.1,
         "U98": 249.5,
         "Premium Diesel": 294.5
       },
-      "updated": "2026-10-10T01:17:09Z",
+      "updated": "2026-10-10T07:37:09Z",
       "lat": -34.854245,
       "lng": 138.662346
     },

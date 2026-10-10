@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-10T20:33:34Z",
+  "fetched_at": "2026-10-10T21:02:59Z",
   "station_count": 698,
   "fuel_types": [
     "E10",
@@ -296,13 +296,15 @@
       "prices": {
         "U91": 229.5,
         "Diesel": 279.5,
-        "LPG": 99.5,
         "U98": 251.5,
         "E10": 228.5
       },
-      "updated": "2026-10-09T05:20:26Z",
+      "updated": "2026-10-10T21:01:05Z",
       "lat": -35.004222,
-      "lng": 138.557335
+      "lng": 138.557335,
+      "unavailable_fuels": [
+        "LPG"
+      ]
     },
     {
       "brand": "On the Run",
@@ -760,9 +762,9 @@
         "U91": 235.4,
         "U95": 250.4,
         "U98": 257.4,
-        "Premium Diesel": 288.9
+        "Premium Diesel": 291.4
       },
-      "updated": "2026-10-10T20:22:09Z",
+      "updated": "2026-10-10T20:37:09Z",
       "lat": -34.828314,
       "lng": 138.692099
     },
@@ -2537,14 +2539,12 @@
       "state": "SA",
       "prices": {
         "U91": 240.9,
-        "U98": 267.9
+        "U98": 267.9,
+        "Premium Diesel": 286.9
       },
-      "updated": "2026-10-10T02:58:49Z",
+      "updated": "2026-10-10T20:47:07Z",
       "lat": -34.972423,
-      "lng": 138.609036,
-      "unavailable_fuels": [
-        "Premium Diesel"
-      ]
+      "lng": 138.609036
     },
     {
       "brand": "EG Ampol",
@@ -2940,7 +2940,7 @@
         "U98": 259.9,
         "Premium Diesel": 288.9
       },
-      "updated": "2026-10-10T20:25:18Z",
+      "updated": "2026-10-10T20:55:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5462,7 +5462,7 @@
         "U98": 263.9,
         "Premium Diesel": 283.9
       },
-      "updated": "2026-10-10T20:25:18Z",
+      "updated": "2026-10-10T20:55:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -7653,15 +7653,13 @@
       "address": "37-39 Adelaide Road, SA 5360",
       "state": "SA",
       "prices": {
+        "U91": 249.9,
+        "Diesel": 289.9,
         "U98": 269.9
       },
-      "updated": "2026-10-08T08:35:31Z",
+      "updated": "2026-10-10T20:42:14Z",
       "lat": -34.459099,
-      "lng": 138.925032,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91"
-      ]
+      "lng": 138.925032
     },
     {
       "brand": "On the Run",

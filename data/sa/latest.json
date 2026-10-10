@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-10T08:26:54Z",
+  "fetched_at": "2026-10-10T11:47:26Z",
   "station_count": 698,
   "fuel_types": [
     "E10",
@@ -2850,15 +2850,17 @@
       "address": "12 Murray St, SA 5118",
       "state": "SA",
       "prices": {
-        "U91": 236.9,
-        "LPG": 108.9,
         "U95": 252.9,
         "U98": 263.9,
         "Premium Diesel": 288.9
       },
-      "updated": "2026-10-09T22:58:56Z",
+      "updated": "2026-10-10T11:01:09Z",
       "lat": -34.602959822396265,
-      "lng": 138.74903527116396
+      "lng": 138.74903527116396,
+      "unavailable_fuels": [
+        "LPG",
+        "U91"
+      ]
     },
     {
       "brand": "On the Run",
@@ -2940,7 +2942,7 @@
         "U98": 259.9,
         "Premium Diesel": 288.9
       },
-      "updated": "2026-10-10T08:10:19Z",
+      "updated": "2026-10-10T11:40:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -3504,14 +3506,12 @@
       "prices": {
         "U91": 240.9,
         "U95": 256.9,
-        "U98": 267.9
+        "U98": 267.9,
+        "Premium Diesel": 285.9
       },
-      "updated": "2026-10-10T03:05:10Z",
+      "updated": "2026-10-10T09:10:59Z",
       "lat": -34.789245,
-      "lng": 138.697576,
-      "unavailable_fuels": [
-        "Premium Diesel"
-      ]
+      "lng": 138.697576
     },
     {
       "brand": "Independent",
@@ -5464,7 +5464,7 @@
         "U98": 263.9,
         "Premium Diesel": 283.9
       },
-      "updated": "2026-10-10T08:10:19Z",
+      "updated": "2026-10-10T11:40:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -5703,13 +5703,13 @@
       "address": "17 Scott St, SA 5231",
       "state": "SA",
       "prices": {
-        "U91": 239.9,
+        "U91": 242.9,
         "LPG": 121.9,
         "U95": 257.9,
         "U98": 265.9,
-        "Premium Diesel": 284.9
+        "Premium Diesel": 288.9
       },
-      "updated": "2026-10-09T23:00:49Z",
+      "updated": "2026-10-10T11:04:52Z",
       "lat": -34.781789,
       "lng": 138.852242
     },
@@ -6889,12 +6889,14 @@
       "state": "SA",
       "prices": {
         "U91": 245.5,
-        "U98": 265.5,
-        "Premium Diesel": 290.5
+        "U98": 265.5
       },
       "updated": "2026-10-06T00:04:21Z",
       "lat": -34.733027,
-      "lng": 135.855012
+      "lng": 135.855012,
+      "unavailable_fuels": [
+        "Premium Diesel"
+      ]
     },
     {
       "brand": "Perrys",

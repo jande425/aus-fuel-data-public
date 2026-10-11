@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-11T07:35:15Z",
+  "fetched_at": "2026-10-11T08:45:04Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1276,
   "by_state": {
     "ACT": 8,
-    "NSW": 1159,
+    "NSW": 1162,
     "NT": 30,
     "QLD": 28,
     "SA": 30,
@@ -19,7 +19,7 @@
     "Reddy Express": 80,
     "Independent": 75,
     "Chargefox": 72,
-    "7-Eleven": 65,
+    "7-Eleven": 68,
     "BP": 56,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -50,9 +50,9 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Apco": 1,
     "ETA PETROLEUM": 1,
-    "Metro Petroleum": 1
+    "Metro Petroleum": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -135,6 +135,15 @@
       "state": "NSW",
       "lat": -33.79059,
       "lng": 151.084418
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:16917",
+      "name": "7- Eleven Towradgi",
+      "address": "162-166 Pioneer Rd, TOWRADGI NSW 2518",
+      "state": "NSW",
+      "lat": -34.384116,
+      "lng": 150.906484
     },
     {
       "brand": "7-Eleven",
@@ -660,12 +669,30 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:279",
+      "name": "7-Eleven Shortland",
+      "address": "300 Sandgate Road, Shortland NSW 2307",
+      "state": "NSW",
+      "lat": -32.886168,
+      "lng": 151.695396
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:185",
       "name": "7-Eleven South Hurstville",
       "address": "822 King Georges Road & Joffre St, South Hurstville NSW 2220",
       "state": "NSW",
       "lat": -33.975997,
       "lng": 151.10364
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:17144",
+      "name": "7-Eleven Tweed Heads Sth",
+      "address": "112 Minjungbal Dr, TWEED HEADS SOUTH NSW 2486",
+      "state": "NSW",
+      "lat": -28.207216,
+      "lng": 153.54543
     },
     {
       "brand": "7-Eleven",

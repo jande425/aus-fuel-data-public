@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-11T07:35:15Z",
+  "fetched_at": "2026-10-11T08:45:04Z",
   "station_count": 697,
   "fuel_types": [
     "E10",
@@ -533,12 +533,12 @@
       "address": "88 Stephens Tce, SA 5069",
       "state": "SA",
       "prices": {
-        "U91": 241.5,
-        "U95": 257.5,
-        "U98": 265.5,
+        "U91": 239.9,
+        "U95": 255.9,
+        "U98": 263.9,
         "Premium Diesel": 287.5
       },
-      "updated": "2026-10-11T03:43:38Z",
+      "updated": "2026-10-11T08:01:08Z",
       "lat": -34.901242,
       "lng": 138.618762
     },
@@ -2936,7 +2936,7 @@
         "U98": 259.9,
         "Premium Diesel": 288.9
       },
-      "updated": "2026-10-11T07:25:18Z",
+      "updated": "2026-10-11T08:40:19Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -4763,14 +4763,16 @@
       "address": "575 North East Road, SA 5086",
       "state": "SA",
       "prices": {
-        "U91": 229.5,
         "U95": 242.5,
         "U98": 251.5,
         "Premium Diesel": 279.5
       },
       "updated": "2026-10-07T20:32:19Z",
       "lat": -34.85602364792724,
-      "lng": 138.6544745042992
+      "lng": 138.6544745042992,
+      "unavailable_fuels": [
+        "U91"
+      ]
     },
     {
       "brand": "Caltex",
@@ -5456,7 +5458,7 @@
         "U98": 264.9,
         "Premium Diesel": 283.9
       },
-      "updated": "2026-10-11T07:25:18Z",
+      "updated": "2026-10-11T08:40:19Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -7333,14 +7335,12 @@
       "address": "12 Princes Highway, SA 5275",
       "state": "SA",
       "prices": {
-        "U91": 246.5
+        "U91": 246.5,
+        "Diesel": 289.5
       },
-      "updated": "2026-10-10T01:26:16Z",
+      "updated": "2026-10-11T08:22:44Z",
       "lat": -36.822247,
-      "lng": 139.863986,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
+      "lng": 139.863986
     },
     {
       "brand": "Ampol",

@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-11T06:27:07Z",
+  "fetched_at": "2026-10-11T07:35:15Z",
   "station_count": 697,
   "fuel_types": [
     "E10",
@@ -405,24 +405,6 @@
       "lng": 138.644999
     },
     {
-      "brand": "Caltex",
-      "code": "SA:61501050",
-      "name": "Caltex Windsor Gardens",
-      "address": "526 North East Rd & Sudholz Rd, SA 5087",
-      "state": "SA",
-      "prices": {
-        "U91": 236.9,
-        "U95": 252.9,
-        "Premium Diesel": 283.9
-      },
-      "updated": "2026-10-10T22:56:28Z",
-      "lat": -34.857743,
-      "lng": 138.655199,
-      "unavailable_fuels": [
-        "U98"
-      ]
-    },
-    {
       "brand": "On the Run",
       "code": "SA:61501056",
       "name": "OTR Newton",
@@ -474,6 +456,24 @@
       "updated": "2026-10-10T20:17:37Z",
       "lat": -34.890146,
       "lng": 138.674065
+    },
+    {
+      "brand": "Caltex",
+      "code": "SA:61501061",
+      "name": "Caltex Hectorville",
+      "address": "150 Montacute Rd, SA 5073",
+      "state": "SA",
+      "prices": {
+        "U91": 240.9,
+        "U98": 267.9,
+        "Premium Diesel": 286.9
+      },
+      "updated": "2026-10-11T06:50:30Z",
+      "lat": -34.888625,
+      "lng": 138.673655,
+      "unavailable_fuels": [
+        "U95"
+      ]
     },
     {
       "brand": "AM/PM",
@@ -549,13 +549,13 @@
       "address": "150 Fullarton Rd (Cnr Alexandra Ave), SA 5067",
       "state": "SA",
       "prices": {
-        "U91": 240.9
+        "U91": 240.9,
+        "Premium Diesel": 286.9
       },
-      "updated": "2026-10-11T04:13:06Z",
+      "updated": "2026-10-11T07:19:26Z",
       "lat": -34.930751,
       "lng": 138.62420295833587,
       "unavailable_fuels": [
-        "Premium Diesel",
         "U95",
         "U98"
       ]
@@ -2060,7 +2060,6 @@
       "address": "2 Ramrod Av, SA 5158",
       "state": "SA",
       "prices": {
-        "U91": 239.9,
         "LPG": 104.9,
         "U98": 266.9
       },
@@ -2068,7 +2067,8 @@
       "lat": -35.077844,
       "lng": 138.517967,
       "unavailable_fuels": [
-        "Premium Diesel"
+        "Premium Diesel",
+        "U91"
       ]
     },
     {
@@ -2561,12 +2561,14 @@
       "prices": {
         "U91": 242.9,
         "U95": 259.9,
-        "U98": 269.9,
-        "Premium Diesel": 286.9
+        "U98": 269.9
       },
-      "updated": "2026-10-11T01:02:28Z",
+      "updated": "2026-10-11T07:25:24Z",
       "lat": -35.02118050775076,
-      "lng": 138.6155685018177
+      "lng": 138.6155685018177,
+      "unavailable_fuels": [
+        "Premium Diesel"
+      ]
     },
     {
       "brand": "On the Run",
@@ -2840,16 +2842,16 @@
       "address": "12 Murray St, SA 5118",
       "state": "SA",
       "prices": {
-        "U91": 236.9,
-        "U95": 252.9,
         "U98": 263.9,
         "Premium Diesel": 288.9
       },
-      "updated": "2026-10-10T21:15:49Z",
+      "updated": "2026-10-11T07:14:40Z",
       "lat": -34.602959822396265,
       "lng": 138.74903527116396,
       "unavailable_fuels": [
-        "LPG"
+        "LPG",
+        "U91",
+        "U95"
       ]
     },
     {
@@ -2934,7 +2936,7 @@
         "U98": 259.9,
         "Premium Diesel": 288.9
       },
-      "updated": "2026-10-11T06:25:18Z",
+      "updated": "2026-10-11T07:25:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5454,7 +5456,7 @@
         "U98": 264.9,
         "Premium Diesel": 283.9
       },
-      "updated": "2026-10-11T06:25:18Z",
+      "updated": "2026-10-11T07:25:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },

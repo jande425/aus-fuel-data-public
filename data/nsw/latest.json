@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-10-11T00:29:14Z",
-  "station_count": 2104,
+  "fetched_at": "2026-10-11T01:07:07Z",
+  "station_count": 2103,
   "fuel_types": [
     "E10",
     "U91",
@@ -1703,11 +1703,11 @@
       "address": "360 Armidale Rd, EAST TAMWORTH NSW 2340",
       "state": "NSW",
       "prices": {
-        "Diesel": 277.5,
+        "Diesel": 275.9,
         "E10": 242.9,
         "U91": 244.9
       },
-      "updated": "2026-10-08T10:38:42Z",
+      "updated": "2026-10-11T00:41:38Z",
       "lat": -31.114077,
       "lng": 150.961366
     },
@@ -2523,9 +2523,9 @@
         "U95": 259.9,
         "U98": 269.9,
         "Premium Diesel": 272.9,
-        "U91": 245.9
+        "U91": 243.9
       },
-      "updated": "2026-10-10T04:18:00Z",
+      "updated": "2026-10-11T00:32:34Z",
       "lat": -31.642115,
       "lng": 152.810203
     },
@@ -3757,13 +3757,13 @@
       "state": "NSW",
       "prices": {
         "E10": 240.9,
-        "LPG": 111.9,
+        "LPG": 110.9,
         "U95": 259.9,
         "U98": 268.9,
         "Premium Diesel": 288.9,
         "U91": 242.9
       },
-      "updated": "2026-10-10T08:18:13Z",
+      "updated": "2026-10-11T00:48:17Z",
       "lat": -33.755512,
       "lng": 150.963514
     },
@@ -3791,13 +3791,13 @@
       "state": "NSW",
       "prices": {
         "E10": 235.9,
-        "LPG": 116.9,
+        "LPG": 117.9,
         "U95": 254.9,
         "U98": 263.9,
         "Premium Diesel": 288.9,
         "U91": 237.9
       },
-      "updated": "2026-10-10T08:18:13Z",
+      "updated": "2026-10-11T00:51:13Z",
       "lat": -33.768936,
       "lng": 150.94268
     },
@@ -7337,13 +7337,13 @@
       "address": "1 Spring Street, SOUTH GRAFTON NSW 2460",
       "state": "NSW",
       "prices": {
-        "Diesel": 285.9,
+        "Diesel": 284.9,
         "E10": 240.9,
         "U98": 267.9,
-        "Premium Diesel": 288.9,
+        "Premium Diesel": 287.9,
         "U91": 242.9
       },
-      "updated": "2026-10-09T00:08:24Z",
+      "updated": "2026-10-11T00:50:11Z",
       "lat": -29.706278,
       "lng": 152.94218
     },
@@ -12814,9 +12814,9 @@
       "prices": {
         "E10": 235.9,
         "U95": 254.9,
-        "Premium Diesel": 286.9
+        "Premium Diesel": 287.9
       },
-      "updated": "2026-10-10T10:51:12Z",
+      "updated": "2026-10-11T00:51:13Z",
       "lat": -33.902707,
       "lng": 150.896724
     },
@@ -12995,12 +12995,12 @@
       "address": "132 Liverpool RD, Ashfield NSW 2131",
       "state": "NSW",
       "prices": {
-        "E10": 237.9,
+        "E10": 236.9,
         "LPG": 108.9,
-        "U98": 265.9,
+        "U98": 264.9,
         "Premium Diesel": 271.9
       },
-      "updated": "2026-10-10T06:18:15Z",
+      "updated": "2026-10-11T00:48:17Z",
       "lat": -33.890578,
       "lng": 151.129552
     },
@@ -13097,10 +13097,10 @@
       "prices": {
         "E10": 235.9,
         "U98": 263.9,
-        "Premium Diesel": 285.9,
+        "Premium Diesel": 287.9,
         "U91": 237.9
       },
-      "updated": "2026-10-10T19:27:15Z",
+      "updated": "2026-10-11T00:54:17Z",
       "lat": -33.884086,
       "lng": 150.892033
     },
@@ -13469,12 +13469,12 @@
       "state": "NSW",
       "prices": {
         "E10": 245.9,
-        "U95": 263.9,
+        "U95": 264.9,
         "U98": 273.9,
         "Premium Diesel": 282.9,
         "U91": 247.9
       },
-      "updated": "2026-10-10T19:27:15Z",
+      "updated": "2026-10-11T00:51:13Z",
       "lat": -34.01574,
       "lng": 151.013222
     },
@@ -15708,13 +15708,13 @@
       "address": "1542  Federal Highway Service Road, Sutton NSW 2620",
       "state": "NSW",
       "prices": {
-        "Diesel": 289.9,
+        "Diesel": 287.9,
         "E10": 237.9,
         "LPG": 120.9,
         "U98": 263.9,
         "U91": 239.9
       },
-      "updated": "2026-10-10T22:15:09Z",
+      "updated": "2026-10-11T00:30:12Z",
       "lat": -35.203032,
       "lng": 149.21056
     },
@@ -19705,25 +19705,6 @@
       "lng": 152.828608
     },
     {
-      "brand": "Metro Fuel",
-      "code": "NSW:1020",
-      "name": "Metro Fuel Young",
-      "address": "186 Nasmyth St, Young NSW 2594",
-      "state": "NSW",
-      "prices": {
-        "Diesel": 269.9,
-        "E10": 223.9,
-        "LPG": 129,
-        "U95": 239.9,
-        "U98": 249.9,
-        "Premium Diesel": 271.9,
-        "U91": 229.9
-      },
-      "updated": "2026-10-09T21:52:31Z",
-      "lat": -34.309721,
-      "lng": 148.291245
-    },
-    {
       "brand": "Independent",
       "code": "NSW:1025",
       "name": "Uncle Clarries",
@@ -21030,9 +21011,9 @@
       "state": "NSW",
       "prices": {
         "Diesel": 278.5,
-        "U91": 239.5
+        "U91": 241.5
       },
-      "updated": "2026-10-07T00:07:44Z",
+      "updated": "2026-10-11T00:43:42Z",
       "lat": -31.516867,
       "lng": 150.674731
     },
@@ -30841,13 +30822,13 @@
       "address": "41 Gurley ST, Gurley NSW 2398",
       "state": "NSW",
       "prices": {
-        "Diesel": 275.5,
+        "Diesel": 269.5,
         "E10": 231.5,
         "U98": 258.5,
-        "Premium Diesel": 278.5,
+        "Premium Diesel": 272.5,
         "U91": 235.5
       },
-      "updated": "2026-10-09T04:18:31Z",
+      "updated": "2026-10-11T00:31:27Z",
       "lat": -29.736494,
       "lng": 149.799321
     },

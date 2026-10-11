@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-11T08:45:04Z",
+  "fetched_at": "2026-10-11T13:31:45Z",
   "station_count": 697,
   "fuel_types": [
     "E10",
@@ -185,7 +185,7 @@
         "U98": 249.5,
         "Premium Diesel": 278.9
       },
-      "updated": "2026-10-08T00:27:31Z",
+      "updated": "2026-10-11T13:18:22Z",
       "lat": -34.86355166281097,
       "lng": 138.59275236441806
     },
@@ -533,12 +533,12 @@
       "address": "88 Stephens Tce, SA 5069",
       "state": "SA",
       "prices": {
-        "U91": 239.9,
-        "U95": 255.9,
-        "U98": 263.9,
+        "U91": 241.5,
+        "U95": 257.5,
+        "U98": 265.5,
         "Premium Diesel": 287.5
       },
-      "updated": "2026-10-11T08:01:08Z",
+      "updated": "2026-10-11T10:14:41Z",
       "lat": -34.901242,
       "lng": 138.618762
     },
@@ -1603,14 +1603,16 @@
       "address": "Findon Rd & Grange Rd, SA 5023",
       "state": "SA",
       "prices": {
-        "U91": 239.9,
         "U95": 256.9,
         "U98": 266.9,
         "Premium Diesel": 286.9
       },
-      "updated": "2026-10-10T19:59:18Z",
+      "updated": "2026-10-11T10:29:11Z",
       "lat": -34.905093,
-      "lng": 138.532671
+      "lng": 138.532671,
+      "unavailable_fuels": [
+        "U91"
+      ]
     },
     {
       "brand": "United",
@@ -1877,12 +1879,14 @@
       "prices": {
         "U91": 240.9,
         "U95": 257.9,
-        "U98": 266.9,
-        "Premium Diesel": 284.9
+        "U98": 266.9
       },
-      "updated": "2026-10-11T00:53:02Z",
+      "updated": "2026-10-11T09:39:02Z",
       "lat": -35.024488,
-      "lng": 138.562157
+      "lng": 138.562157,
+      "unavailable_fuels": [
+        "Premium Diesel"
+      ]
     },
     {
       "brand": "Caltex",
@@ -1891,15 +1895,15 @@
       "address": "89 Main S Rd, SA 5161",
       "state": "SA",
       "prices": {
+        "U91": 240.9,
         "LPG": 107.9,
         "U98": 266.9,
         "Premium Diesel": 286.9
       },
-      "updated": "2026-10-11T04:12:54Z",
+      "updated": "2026-10-11T10:38:40Z",
       "lat": -35.09929822215118,
       "lng": 138.53247861226845,
       "unavailable_fuels": [
-        "U91",
         "U95"
       ]
     },
@@ -2842,14 +2846,14 @@
       "address": "12 Murray St, SA 5118",
       "state": "SA",
       "prices": {
-        "U98": 263.9,
-        "Premium Diesel": 288.9
+        "U98": 263.9
       },
-      "updated": "2026-10-11T07:14:40Z",
+      "updated": "2026-10-11T12:52:32Z",
       "lat": -34.602959822396265,
       "lng": 138.74903527116396,
       "unavailable_fuels": [
         "LPG",
+        "Premium Diesel",
         "U91",
         "U95"
       ]
@@ -2936,7 +2940,7 @@
         "U98": 259.9,
         "Premium Diesel": 288.9
       },
-      "updated": "2026-10-11T08:40:19Z",
+      "updated": "2026-10-11T13:25:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -3498,12 +3502,14 @@
       "prices": {
         "U91": 240.9,
         "U95": 256.9,
-        "U98": 267.9,
-        "Premium Diesel": 285.9
+        "U98": 267.9
       },
-      "updated": "2026-10-10T09:10:59Z",
+      "updated": "2026-10-11T10:58:56Z",
       "lat": -34.789245,
-      "lng": 138.697576
+      "lng": 138.697576,
+      "unavailable_fuels": [
+        "Premium Diesel"
+      ]
     },
     {
       "brand": "Independent",
@@ -5458,7 +5464,7 @@
         "U98": 264.9,
         "Premium Diesel": 283.9
       },
-      "updated": "2026-10-11T08:40:19Z",
+      "updated": "2026-10-11T13:25:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -5697,13 +5703,13 @@
       "address": "17 Scott St, SA 5231",
       "state": "SA",
       "prices": {
-        "U91": 239.9,
+        "U91": 242.9,
         "LPG": 121.9,
         "U95": 257.9,
         "U98": 265.9,
-        "Premium Diesel": 284.9
+        "Premium Diesel": 288.9
       },
-      "updated": "2026-10-11T00:45:08Z",
+      "updated": "2026-10-11T10:12:38Z",
       "lat": -34.781789,
       "lng": 138.852242
     },
@@ -7534,14 +7540,14 @@
       "address": "12905 Sturt Highway, SA 5330",
       "state": "SA",
       "prices": {
+        "U98": 271.9,
         "Premium Diesel": 296.9
       },
-      "updated": "2026-10-10T07:43:42Z",
+      "updated": "2026-10-11T08:55:27Z",
       "lat": -34.188248,
       "lng": 140.004297,
       "unavailable_fuels": [
-        "U91",
-        "U98"
+        "U91"
       ]
     },
     {
@@ -7712,10 +7718,10 @@
       "address": "16-18 Stuart Street, SA 5483",
       "state": "SA",
       "prices": {
-        "U91": 242.9,
-        "Diesel": 289.9
+        "U91": 244.9,
+        "Diesel": 287.9
       },
-      "updated": "2026-09-23T10:13:22Z",
+      "updated": "2026-10-11T09:30:07Z",
       "lat": -32.825218,
       "lng": 138.187853
     },

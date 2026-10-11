@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-11T16:38:09Z",
+  "fetched_at": "2026-10-11T19:18:05Z",
   "station_count": 697,
   "fuel_types": [
     "E10",
@@ -2064,16 +2064,14 @@
       "address": "2 Ramrod Av, SA 5158",
       "state": "SA",
       "prices": {
+        "U91": 239.9,
         "LPG": 104.9,
-        "U98": 266.9
+        "U98": 266.9,
+        "Premium Diesel": 248.9
       },
-      "updated": "2026-10-09T22:46:42Z",
+      "updated": "2026-10-11T18:19:51Z",
       "lat": -35.077844,
-      "lng": 138.517967,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91"
-      ]
+      "lng": 138.517967
     },
     {
       "brand": "On the Run",
@@ -2940,7 +2938,7 @@
         "U98": 259.9,
         "Premium Diesel": 288.9
       },
-      "updated": "2026-10-11T16:25:18Z",
+      "updated": "2026-10-11T19:10:19Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5464,7 +5462,7 @@
         "U98": 264.9,
         "Premium Diesel": 283.9
       },
-      "updated": "2026-10-11T16:25:18Z",
+      "updated": "2026-10-11T19:10:19Z",
       "lat": -32.508998,
       "lng": 137.796545
     },

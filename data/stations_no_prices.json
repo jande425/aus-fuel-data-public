@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-12T16:07:01Z",
+  "fetched_at": "2026-10-12T21:48:28Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1269,
+  "station_count": 1267,
   "by_state": {
     "ACT": 8,
     "NSW": 1157,
-    "NT": 30,
-    "QLD": 27,
+    "NT": 29,
+    "QLD": 26,
     "SA": 29,
     "TAS": 1,
     "VIC": 17
@@ -17,10 +17,10 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 82,
-    "Independent": 75,
+    "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 65,
-    "BP": 56,
+    "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -50,8 +50,8 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Apco": 1,
     "ETA PETROLEUM": 1,
+    "Apco": 1,
     "Metro Petroleum": 1
   },
   "stations": [
@@ -10632,15 +10632,6 @@
     },
     {
       "brand": "Independent",
-      "code": "NT:08500240",
-      "name": "FuelXpress Katherine East ",
-      "address": "41 Chardon Street, Katherine, 0850, NT",
-      "state": "NT",
-      "lat": 14.475361,
-      "lng": 132.286312
-    },
-    {
-      "brand": "Independent",
       "code": "NT:08470151",
       "name": "Goymarr Tourist Park",
       "address": "5816 Kakadu Highway, Burrundie, 0847, NT",
@@ -10964,21 +10955,6 @@
         "Diesel",
         "U91",
         "U95"
-      ]
-    },
-    {
-      "brand": "BP",
-      "code": "QLD:61470301",
-      "name": "NightOwl BP Clifton Beach",
-      "address": "55-57 Endeavour Road, QLD 4879",
-      "state": "QLD",
-      "lat": -16.764507,
-      "lng": 145.667979,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {

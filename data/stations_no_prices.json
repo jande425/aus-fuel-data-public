@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-12T01:32:22Z",
+  "fetched_at": "2026-10-12T02:20:47Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1268,
+  "station_count": 1267,
   "by_state": {
     "ACT": 8,
-    "NSW": 1158,
+    "NSW": 1157,
     "NT": 30,
     "QLD": 26,
     "SA": 28,
@@ -38,7 +38,6 @@
     "Everty": 4,
     "Speedway": 3,
     "Ampol Foodary": 2,
-    "Enhance": 2,
     "Budget": 2,
     "Indervon": 2,
     "Woodham Petroleum": 2,
@@ -47,12 +46,13 @@
     "Astron": 1,
     "Arko Energy": 1,
     "On the Run": 1,
+    "Enhance": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Apco": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -4446,15 +4446,6 @@
       "state": "NSW",
       "lat": -33.227823,
       "lng": 150.208192
-    },
-    {
-      "brand": "Enhance",
-      "code": "NSW:982",
-      "name": "Enhance Albion Park",
-      "address": "253 Princes Hwy, Albion Park Rail NSW 2527",
-      "state": "NSW",
-      "lat": -34.567594,
-      "lng": 150.803238
     },
     {
       "brand": "Chargefox",

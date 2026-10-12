@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-12T01:32:22Z",
+  "fetched_at": "2026-10-12T02:20:47Z",
   "station_count": 699,
   "fuel_types": [
     "E10",
@@ -761,10 +761,10 @@
       "prices": {
         "U91": 235.4,
         "U95": 250.9,
-        "U98": 257.4,
+        "U98": 258.4,
         "Premium Diesel": 292.9
       },
-      "updated": "2026-10-12T00:17:09Z",
+      "updated": "2026-10-12T01:32:09Z",
       "lat": -34.828314,
       "lng": 138.692099
     },
@@ -1378,10 +1378,10 @@
       "address": "207 Victoria Rd, SA 5016",
       "state": "SA",
       "prices": {
-        "Diesel": 281.5,
-        "Premium Diesel": 283.5
+        "Diesel": 279.5,
+        "Premium Diesel": 281.5
       },
-      "updated": "2026-10-08T00:19:20Z",
+      "updated": "2026-10-12T01:38:52Z",
       "lat": -34.82568369580605,
       "lng": 138.49966604639758
     },
@@ -2950,7 +2950,7 @@
         "U98": 259.9,
         "Premium Diesel": 288.9
       },
-      "updated": "2026-10-12T01:25:19Z",
+      "updated": "2026-10-12T02:10:20Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -2961,11 +2961,11 @@
       "address": "202 Eastern Pde, SA 5013",
       "state": "SA",
       "prices": {
-        "U91": 235.9,
+        "U91": 239.9,
         "Diesel": 285.9,
-        "U98": 262.9
+        "U98": 266.9
       },
-      "updated": "2026-10-11T22:07:10Z",
+      "updated": "2026-10-12T02:17:09Z",
       "lat": -34.837261,
       "lng": 138.520259
     },
@@ -3087,13 +3087,13 @@
       "address": "61 Seaford Road, SA 5169",
       "state": "SA",
       "prices": {
-        "U91": 234.5,
+        "U91": 235.5,
         "Diesel": 283.4,
         "U95": 253.9,
         "U98": 258.9,
         "Premium Diesel": 288.4
       },
-      "updated": "2026-10-12T00:47:10Z",
+      "updated": "2026-10-12T02:17:09Z",
       "lat": -35.180373,
       "lng": 138.483225
     },
@@ -3584,13 +3584,13 @@
       "address": "Lot 12 Grand Junction Road, SA 5015",
       "state": "SA",
       "prices": {
-        "U91": 234.9
+        "Premium Diesel": 285.5
       },
-      "updated": "2026-10-11T23:08:28Z",
+      "updated": "2026-10-12T02:13:56Z",
       "lat": -34.852745,
       "lng": 138.504511,
       "unavailable_fuels": [
-        "Premium Diesel",
+        "U91",
         "U98"
       ]
     },
@@ -4069,9 +4069,9 @@
       "address": "99 Old Tarcoola Rd, SA 5700",
       "state": "SA",
       "prices": {
-        "Diesel": 279.5
+        "Diesel": 278.5
       },
-      "updated": "2026-09-28T05:00:58Z",
+      "updated": "2026-10-12T01:38:52Z",
       "lat": -32.47069784548801,
       "lng": 137.73773572988125
     },
@@ -5468,7 +5468,7 @@
         "U98": 265.9,
         "Premium Diesel": 283.9
       },
-      "updated": "2026-10-12T01:25:19Z",
+      "updated": "2026-10-12T02:10:20Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -8567,12 +8567,12 @@
       "state": "SA",
       "prices": {
         "U91": 241.9,
-        "Diesel": 281.9,
+        "Diesel": 277.9,
         "U95": 259.4,
         "U98": 264.9,
-        "Premium Diesel": 285.9
+        "Premium Diesel": 281.9
       },
-      "updated": "2026-10-09T01:30:40Z",
+      "updated": "2026-10-12T01:35:40Z",
       "lat": -35.303815320280826,
       "lng": 139.50095524339926
     },
@@ -9016,12 +9016,12 @@
       "address": "702 Main North Road, SA 5094",
       "state": "SA",
       "prices": {
-        "U91": 231.9,
-        "U95": 247.9,
-        "U98": 255.9,
+        "U91": 229.9,
+        "U95": 245.9,
+        "U98": 253.9,
         "Premium Diesel": 277.9
       },
-      "updated": "2026-10-10T23:16:58Z",
+      "updated": "2026-10-12T01:40:49Z",
       "lat": -34.841243,
       "lng": 138.604345
     },

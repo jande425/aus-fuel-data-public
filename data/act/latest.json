@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-10-12T01:32:22Z",
+  "fetched_at": "2026-10-12T02:20:47Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -286,9 +286,9 @@
         "E10": 245.9,
         "U95": 263.9,
         "U98": 272.9,
-        "Premium Diesel": 283.9
+        "Premium Diesel": 281.9
       },
-      "updated": "2026-10-12T01:22:41Z",
+      "updated": "2026-10-12T01:33:58Z",
       "lat": -35.320031,
       "lng": 149.138892
     },
@@ -364,12 +364,12 @@
       "address": "4 Luxton ST, Belconnen ACT 2617",
       "state": "ACT",
       "prices": {
-        "U95": 261.9,
-        "U98": 271.9,
+        "U95": 262.9,
+        "U98": 272.9,
         "Premium Diesel": 289.9,
-        "U91": 244.9
+        "U91": 245.9
       },
-      "updated": "2026-10-09T23:39:14Z",
+      "updated": "2026-10-12T02:15:20Z",
       "lat": -35.236307,
       "lng": 149.059066
     },

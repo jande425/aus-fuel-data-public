@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-12T00:08:55Z",
+  "fetched_at": "2026-10-12T01:32:22Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1270,
+  "station_count": 1268,
   "by_state": {
     "ACT": 8,
     "NSW": 1158,
     "NT": 30,
-    "QLD": 27,
-    "SA": 29,
+    "QLD": 26,
+    "SA": 28,
     "TAS": 1,
     "VIC": 17
   },
@@ -20,24 +20,25 @@
     "Independent": 75,
     "Chargefox": 72,
     "7-Eleven": 65,
-    "BP": 56,
+    "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
     "Ampol": 15,
-    "Caltex": 13,
+    "Caltex": 12,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
     "Shell": 9,
-    "Liberty": 8,
     "Metro Fuel": 7,
     "Evie Networks": 7,
+    "Liberty": 7,
     "Mobil": 6,
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 3,
     "Ampol Foodary": 2,
+    "Enhance": 2,
     "Budget": 2,
     "Indervon": 2,
     "Woodham Petroleum": 2,
@@ -46,13 +47,12 @@
     "Astron": 1,
     "Arko Energy": 1,
     "On the Run": 1,
-    "Enhance": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Apco": 1,
-    "ETA PETROLEUM": 1,
-    "Metro Petroleum": 1
+    "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -2757,15 +2757,6 @@
     },
     {
       "brand": "BP",
-      "code": "NSW:2037",
-      "name": "BP Prestons",
-      "address": "14- Bernera Road, Prestons NSW 2170",
-      "state": "NSW",
-      "lat": -33.93577,
-      "lng": 150.868764
-    },
-    {
-      "brand": "BP",
       "code": "NSW:19699",
       "name": "BP Pulse Wiley Park",
       "address": "24-42 King Georges Rd, Wiley Park NSW 2195",
@@ -4455,6 +4446,15 @@
       "state": "NSW",
       "lat": -33.227823,
       "lng": 150.208192
+    },
+    {
+      "brand": "Enhance",
+      "code": "NSW:982",
+      "name": "Enhance Albion Park",
+      "address": "253 Princes Hwy, Albion Park Rail NSW 2527",
+      "state": "NSW",
+      "lat": -34.567594,
+      "lng": 150.803238
     },
     {
       "brand": "Chargefox",
@@ -10940,22 +10940,6 @@
       "lng": 152.240816
     },
     {
-      "brand": "Liberty",
-      "code": "QLD:61477747",
-      "name": "Liberty Molendinar",
-      "address": "501 Olsen Road, QLD 4215",
-      "state": "QLD",
-      "lat": -27.974096,
-      "lng": 153.379152,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "Mobil",
       "code": "QLD:61402654",
       "name": "Mobil Barcaldine",
@@ -11122,21 +11106,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Caltex",
-      "code": "SA:61501050",
-      "name": "Caltex Windsor Gardens",
-      "address": "526 North East Rd & Sudholz Rd, SA 5087",
-      "state": "SA",
-      "lat": -34.857743,
-      "lng": 138.655199,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {

@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-12T12:18:17Z",
+  "fetched_at": "2026-10-12T16:07:01Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1269,
   "by_state": {
     "ACT": 8,
-    "NSW": 1158,
+    "NSW": 1157,
     "NT": 30,
-    "QLD": 28,
+    "QLD": 27,
     "SA": 29,
     "TAS": 1,
     "VIC": 17
@@ -36,8 +36,8 @@
     "Mobil": 6,
     "Pearl Energy": 5,
     "Everty": 4,
-    "Ampol Foodary": 3,
     "Speedway": 3,
+    "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
     "Woodham Petroleum": 2,
@@ -46,7 +46,6 @@
     "Astron": 1,
     "Arko Energy": 1,
     "On the Run": 1,
-    "U-Go": 1,
     "Enhance": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
@@ -2224,15 +2223,6 @@
       "state": "NSW",
       "lat": -32.719967,
       "lng": 152.135661
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:2122",
-      "name": "Ampol Foodary Brunswick Heads R/H",
-      "address": "5 Tweed ST, Brunswick Heads NSW 2483",
-      "state": "NSW",
-      "lat": -28.538168,
-      "lng": 153.548694
     },
     {
       "brand": "Ampol Foodary",
@@ -11058,21 +11048,6 @@
       "state": "QLD",
       "lat": -18.290183,
       "lng": 143.549026
-    },
-    {
-      "brand": "U-Go",
-      "code": "QLD:61401620",
-      "name": "U-Go Loganholme",
-      "address": "80 Bryants Rd, QLD 4129",
-      "state": "QLD",
-      "lat": -27.663087497535884,
-      "lng": 153.17983496197124,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "United",

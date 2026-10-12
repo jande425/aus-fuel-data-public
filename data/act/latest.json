@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-10-12T02:20:47Z",
+  "fetched_at": "2026-10-12T06:32:09Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -869,12 +869,12 @@
       "address": "51 Whyalla St, Fyshwick ACT 2609",
       "state": "ACT",
       "prices": {
-        "E10": 241.9,
-        "U98": 265.9,
+        "E10": 243.9,
+        "U98": 269.9,
         "Premium Diesel": 279.9,
-        "U91": 243.9
+        "U91": 245.9
       },
-      "updated": "2026-10-07T23:08:16Z",
+      "updated": "2026-10-12T02:50:42Z",
       "lat": -35.3326,
       "lng": 149.176
     },
@@ -885,12 +885,12 @@
       "address": "2 Chinner Cres, Melba ACT 2615",
       "state": "ACT",
       "prices": {
-        "E10": 242.9,
-        "U98": 270.9,
+        "E10": 245.9,
+        "U98": 273.9,
         "Premium Diesel": 289.9,
-        "U91": 244.9
+        "U91": 247.9
       },
-      "updated": "2026-10-10T02:21:12Z",
+      "updated": "2026-10-12T06:21:13Z",
       "lat": -35.2078,
       "lng": 149.048
     },
@@ -1014,12 +1014,12 @@
       "address": "Service Station 53 Lambrigg ST, Farrer ACT 2607",
       "state": "ACT",
       "prices": {
-        "E10": 239.7,
-        "U98": 267.7,
+        "E10": 241.9,
+        "U98": 267.9,
         "Premium Diesel": 287.7,
-        "U91": 243.7
+        "U91": 243.9
       },
-      "updated": "2026-10-08T22:31:18Z",
+      "updated": "2026-10-12T05:45:00Z",
       "lat": -35.375911,
       "lng": 149.101739
     }

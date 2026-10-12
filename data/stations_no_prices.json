@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-11T20:57:17Z",
+  "fetched_at": "2026-10-12T00:08:55Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1270,
   "by_state": {
     "ACT": 8,
     "NSW": 1158,
     "NT": 30,
     "QLD": 27,
-    "SA": 30,
+    "SA": 29,
     "TAS": 1,
     "VIC": 17
   },
@@ -24,15 +24,15 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 16,
+    "Ampol": 15,
     "Caltex": 13,
-    "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
+    "Shell": 9,
+    "Liberty": 8,
     "Metro Fuel": 7,
     "Evie Networks": 7,
-    "Liberty": 7,
     "Mobil": 6,
     "Pearl Energy": 5,
     "Everty": 4,
@@ -50,8 +50,8 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "ETA PETROLEUM": 1,
     "Apco": 1,
+    "ETA PETROLEUM": 1,
     "Metro Petroleum": 1
   },
   "stations": [
@@ -10821,22 +10821,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61401610",
-      "name": "Ampol Foodary Coombabah",
-      "address": "384 Oxley Drive, QLD 4216",
-      "state": "QLD",
-      "lat": -27.912218,
-      "lng": 153.388272,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -10954,6 +10938,22 @@
       "state": "QLD",
       "lat": -26.086213,
       "lng": 152.240816
+    },
+    {
+      "brand": "Liberty",
+      "code": "QLD:61477747",
+      "name": "Liberty Molendinar",
+      "address": "501 Olsen Road, QLD 4215",
+      "state": "QLD",
+      "lat": -27.974096,
+      "lng": 153.379152,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
     },
     {
       "brand": "Mobil",
@@ -11355,18 +11355,6 @@
         "Diesel",
         "U91",
         "U98"
-      ]
-    },
-    {
-      "brand": "Shell",
-      "code": "SA:61577288",
-      "name": "Renmark OPT",
-      "address": "364 Renmark Avenue, SA 5341",
-      "state": "SA",
-      "lat": -34.185411,
-      "lng": 140.732525,
-      "unavailable_fuels": [
-        "Diesel"
       ]
     },
     {

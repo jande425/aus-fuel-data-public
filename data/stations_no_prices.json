@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-13T22:13:46Z",
+  "fetched_at": "2026-10-13T23:43:57Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1274,
+  "station_count": 1273,
   "by_state": {
     "ACT": 8,
     "NSW": 1158,
-    "NT": 32,
+    "NT": 31,
     "QLD": 27,
     "SA": 30,
     "TAS": 1,
@@ -19,8 +19,8 @@
     "Reddy Express": 81,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 67,
-    "BP": 57,
+    "7-Eleven": 66,
+    "BP": 56,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -43,6 +43,7 @@
     "Indervon": 2,
     "Woodham Petroleum": 2,
     "Westside": 1,
+    "EG Ampol": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
@@ -50,9 +51,9 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
-    "Apco": 1
+    "Apco": 1,
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -396,15 +397,6 @@
       "state": "NSW",
       "lat": -33.907829,
       "lng": 150.865922
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:18201",
-      "name": "7-Eleven Greystanes",
-      "address": "601-605 Great Western Highway, GREYSTANES NSW 2145",
-      "state": "NSW",
-      "lat": -33.808609,
-      "lng": 150.935941
     },
     {
       "brand": "7-Eleven",
@@ -4329,6 +4321,15 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "NSW:562",
+      "name": "EG Ampol Moorebank",
+      "address": "Cnr Dredge & Stockton Avenue, Moorebank NSW 2170",
+      "state": "NSW",
+      "lat": -33.931329,
+      "lng": 150.948838
     },
     {
       "brand": "EVUp",
@@ -10602,15 +10603,6 @@
       "state": "NT",
       "lat": -14.4535,
       "lng": 132.24627
-    },
-    {
-      "brand": "BP",
-      "code": "NT:08700160",
-      "name": "BP Sadadeen",
-      "address": "70 Spearwood Road, ALICE SPRINGS, 0870, NT",
-      "state": "NT",
-      "lat": -23.700637,
-      "lng": 133.899943
     },
     {
       "brand": "BP",

@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-12T22:07:20Z",
+  "fetched_at": "2026-10-13T00:03:45Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1267,
+  "station_count": 1268,
   "by_state": {
     "ACT": 8,
     "NSW": 1157,
-    "NT": 29,
+    "NT": 30,
     "QLD": 26,
     "SA": 29,
     "TAS": 1,
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 82,
-    "Independent": 74,
+    "Independent": 75,
     "Chargefox": 72,
     "7-Eleven": 65,
     "BP": 55,
@@ -50,9 +50,9 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
+    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
-    "Apco": 1,
-    "Metro Petroleum": 1
+    "Apco": 1
   },
   "stations": [
     {
@@ -10539,6 +10539,15 @@
       "state": "NSW",
       "lat": -33.769235,
       "lng": 150.946945
+    },
+    {
+      "brand": "Independent",
+      "code": "NT:08700228",
+      "name": "Alice Springs OPT",
+      "address": "4 Dowdy Court, Ciccone, 0870, NT",
+      "state": "NT",
+      "lat": -23.69296,
+      "lng": 133.86375
     },
     {
       "brand": "Puma Energy",

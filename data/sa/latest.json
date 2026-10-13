@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-13T19:55:09Z",
+  "fetched_at": "2026-10-13T20:14:13Z",
   "station_count": 698,
   "fuel_types": [
     "E10",
@@ -2735,15 +2735,13 @@
       "state": "SA",
       "prices": {
         "U91": 238.9,
+        "U95": 255.9,
         "U98": 265.9,
         "Premium Diesel": 287.9
       },
-      "updated": "2026-10-13T02:08:52Z",
+      "updated": "2026-10-13T20:06:26Z",
       "lat": -34.863683982832576,
-      "lng": 138.514615,
-      "unavailable_fuels": [
-        "U95"
-      ]
+      "lng": 138.514615
     },
     {
       "brand": "X Convenience",
@@ -2942,7 +2940,7 @@
         "U98": 256.9,
         "Premium Diesel": 286.9
       },
-      "updated": "2026-10-13T19:40:18Z",
+      "updated": "2026-10-13T20:10:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5460,7 +5458,7 @@
         "U98": 265.9,
         "Premium Diesel": 283.9
       },
-      "updated": "2026-10-13T19:40:18Z",
+      "updated": "2026-10-13T20:10:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },

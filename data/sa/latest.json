@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-13T12:02:00Z",
+  "fetched_at": "2026-10-13T12:40:41Z",
   "station_count": 698,
   "fuel_types": [
     "E10",
@@ -1822,7 +1822,6 @@
       "prices": {
         "U91": 233.9,
         "Diesel": 279.5,
-        "LPG": 104.5,
         "U95": 247.9,
         "U98": 256.9
       },
@@ -1830,6 +1829,7 @@
       "lat": -34.991152,
       "lng": 138.521292,
       "unavailable_fuels": [
+        "LPG",
         "Premium Diesel"
       ]
     },
@@ -2944,7 +2944,7 @@
         "U98": 256.9,
         "Premium Diesel": 286.9
       },
-      "updated": "2026-10-13T11:55:18Z",
+      "updated": "2026-10-13T12:25:19Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5462,7 +5462,7 @@
         "U98": 265.9,
         "Premium Diesel": 283.9
       },
-      "updated": "2026-10-13T11:55:18Z",
+      "updated": "2026-10-13T12:25:19Z",
       "lat": -32.508998,
       "lng": 137.796545
     },

@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-13T00:03:45Z",
+  "fetched_at": "2026-10-13T03:06:27Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1268,
+  "station_count": 1274,
   "by_state": {
     "ACT": 8,
-    "NSW": 1157,
-    "NT": 30,
+    "NSW": 1159,
+    "NT": 32,
     "QLD": 26,
-    "SA": 29,
+    "SA": 31,
     "TAS": 1,
     "VIC": 17
   },
@@ -16,26 +16,27 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 82,
+    "Reddy Express": 81,
     "Independent": 75,
     "Chargefox": 72,
     "7-Eleven": 65,
-    "BP": 55,
+    "BP": 57,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
     "Ampol": 16,
     "Caltex": 12,
+    "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
-    "Shell": 9,
     "Metro Fuel": 7,
     "Evie Networks": 7,
-    "Liberty": 6,
+    "Liberty": 7,
     "Mobil": 6,
     "Pearl Energy": 5,
     "Everty": 4,
+    "EG Ampol": 3,
     "Speedway": 3,
     "Ampol Foodary": 2,
     "Budget": 2,
@@ -50,8 +51,8 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
+    "Metro Petroleum": 1,
     "Apco": 1
   },
   "stations": [
@@ -4304,6 +4305,24 @@
       "lng": 150.650238
     },
     {
+      "brand": "EG Ampol",
+      "code": "NSW:566",
+      "name": "EG Ampol Gunnedah",
+      "address": "18-22 Tempest Street, Gunnedah NSW 2380",
+      "state": "NSW",
+      "lat": -30.976233,
+      "lng": 150.248262
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "NSW:573",
+      "name": "EG Ampol Tamworth",
+      "address": "119 Bridge Street (Cnr Belmore St), Tamworth NSW 2340",
+      "state": "NSW",
+      "lat": -31.093607,
+      "lng": 150.916778
+    },
+    {
       "brand": "EVUp",
       "code": "NSW:19218",
       "name": "EVUp at Train St Central",
@@ -8111,6 +8130,15 @@
       "lng": 149.75737
     },
     {
+      "brand": "Shell",
+      "code": "NSW:20649",
+      "name": "Shell North Rocks",
+      "address": "264 North Rocks RD, North Rocks NSW 2151",
+      "state": "NSW",
+      "lat": -33.776819,
+      "lng": 151.013689
+    },
+    {
       "brand": "Reddy Express",
       "code": "NSW:126",
       "name": "Shell Reddy  Express Bega",
@@ -8595,15 +8623,6 @@
       "state": "NSW",
       "lat": -32.593538,
       "lng": 149.588282
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:335",
-      "name": "Shell Reddy Express Nowra",
-      "address": "55 Kinghorne St (Cnr Worrigee St), Nowra NSW 2541",
-      "state": "NSW",
-      "lat": -34.876305,
-      "lng": 150.602472
     },
     {
       "brand": "Reddy Express",
@@ -10577,6 +10596,15 @@
       "lng": 133.874878
     },
     {
+      "brand": "BP",
+      "code": "NT:08700159",
+      "name": "BP Gap Road ",
+      "address": "73 Gap Road , Alice Springs, 0870, NT",
+      "state": "NT",
+      "lat": -23.716921,
+      "lng": 133.872582
+    },
+    {
       "brand": "Puma Energy",
       "code": "NT:08500089",
       "name": "BP Katherine Depot (not trading)",
@@ -10584,6 +10612,15 @@
       "state": "NT",
       "lat": -14.4535,
       "lng": 132.24627
+    },
+    {
+      "brand": "BP",
+      "code": "NT:08700160",
+      "name": "BP Sadadeen",
+      "address": "70 Spearwood Road, ALICE SPRINGS, 0870, NT",
+      "state": "NT",
+      "lat": -23.700637,
+      "lng": 133.899943
     },
     {
       "brand": "BP",
@@ -11148,6 +11185,34 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Liberty",
+      "code": "SA:61577397",
+      "name": "Dunning's Yalata",
+      "address": "66880 Eyre Hwy, SA 5690",
+      "state": "SA",
+      "lat": -31.495886282010407,
+      "lng": 131.8122447754631,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91"
+      ]
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "SA:61501978",
+      "name": "EG Ampol Seaford",
+      "address": "131-145 Griffiths Dv, SA 5169",
+      "state": "SA",
+      "lat": -35.192267,
+      "lng": 138.480479,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

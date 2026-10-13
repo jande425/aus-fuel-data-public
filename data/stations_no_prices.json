@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-13T16:41:02Z",
+  "fetched_at": "2026-10-13T19:55:09Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1274,
+  "station_count": 1275,
   "by_state": {
     "ACT": 8,
-    "NSW": 1159,
+    "NSW": 1160,
     "NT": 32,
     "QLD": 27,
     "SA": 30,
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 82,
-    "Independent": 75,
+    "Independent": 76,
     "Chargefox": 72,
     "7-Eleven": 67,
     "BP": 57,
@@ -51,8 +51,8 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Metro Petroleum": 1,
     "Apco": 1,
+    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1
   },
   "stations": [
@@ -4258,6 +4258,15 @@
       "state": "NSW",
       "lat": -34.182393,
       "lng": 150.711428
+    },
+    {
+      "brand": "Independent",
+      "code": "NSW:2060",
+      "name": "Dowling's General Store",
+      "address": "102 Hooke St, Dungog NSW 2420",
+      "state": "NSW",
+      "lat": -32.398254,
+      "lng": 151.748286
     },
     {
       "brand": "Tesla",

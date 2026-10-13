@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-13T03:06:27Z",
+  "fetched_at": "2026-10-13T03:31:13Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1274,
+  "station_count": 1272,
   "by_state": {
     "ACT": 8,
-    "NSW": 1159,
+    "NSW": 1157,
     "NT": 32,
     "QLD": 26,
     "SA": 31,
@@ -26,19 +26,19 @@
     "JOLT": 20,
     "Ampol": 16,
     "Caltex": 12,
-    "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
+    "Shell": 9,
     "Metro Fuel": 7,
     "Evie Networks": 7,
     "Liberty": 7,
     "Mobil": 6,
     "Pearl Energy": 5,
     "Everty": 4,
-    "EG Ampol": 3,
     "Speedway": 3,
     "Ampol Foodary": 2,
+    "EG Ampol": 2,
     "Budget": 2,
     "Indervon": 2,
     "Woodham Petroleum": 2,
@@ -4306,15 +4306,6 @@
     },
     {
       "brand": "EG Ampol",
-      "code": "NSW:566",
-      "name": "EG Ampol Gunnedah",
-      "address": "18-22 Tempest Street, Gunnedah NSW 2380",
-      "state": "NSW",
-      "lat": -30.976233,
-      "lng": 150.248262
-    },
-    {
-      "brand": "EG Ampol",
       "code": "NSW:573",
       "name": "EG Ampol Tamworth",
       "address": "119 Bridge Street (Cnr Belmore St), Tamworth NSW 2340",
@@ -8128,15 +8119,6 @@
       "state": "NSW",
       "lat": -30.348586,
       "lng": 149.75737
-    },
-    {
-      "brand": "Shell",
-      "code": "NSW:20649",
-      "name": "Shell North Rocks",
-      "address": "264 North Rocks RD, North Rocks NSW 2151",
-      "state": "NSW",
-      "lat": -33.776819,
-      "lng": 151.013689
     },
     {
       "brand": "Reddy Express",

@@ -1,22 +1,22 @@
 {
-  "fetched_at": "2026-10-13T20:14:13Z",
+  "fetched_at": "2026-10-13T22:13:46Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1274,
   "by_state": {
     "ACT": 8,
-    "NSW": 1160,
+    "NSW": 1158,
     "NT": 32,
     "QLD": 27,
     "SA": 30,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 82,
+    "Reddy Express": 81,
     "Independent": 76,
     "Chargefox": 72,
     "7-Eleven": 67,
@@ -30,20 +30,19 @@
     "United": 9,
     "EVUp": 9,
     "Shell": 9,
-    "Metro Fuel": 7,
     "Evie Networks": 7,
-    "Liberty": 6,
+    "Liberty": 7,
+    "Metro Fuel": 6,
     "Mobil": 6,
     "Pearl Energy": 5,
     "Everty": 4,
+    "Ampol Foodary": 3,
     "Speedway": 3,
-    "Ampol Foodary": 2,
     "Budget": 2,
     "On the Run": 2,
     "Indervon": 2,
     "Woodham Petroleum": 2,
     "Westside": 1,
-    "EG Ampol": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
@@ -51,9 +50,9 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Apco": 1,
+    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
-    "Metro Petroleum": 1
+    "Apco": 1
   },
   "stations": [
     {
@@ -2236,6 +2235,15 @@
     },
     {
       "brand": "Ampol Foodary",
+      "code": "NSW:18340",
+      "name": "Ampol Foodary Coolongolook",
+      "address": "Corner Pacific Highway and Midge Street, Coolongolook NSW 2423",
+      "state": "NSW",
+      "lat": -32.216448,
+      "lng": 152.322777
+    },
+    {
+      "brand": "Ampol Foodary",
       "code": "NSW:20046",
       "name": "Ampol Foodary Halfway Creek",
       "address": "50 Kungala RD, Halfway Creek NSW 2460",
@@ -4321,15 +4329,6 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "NSW:573",
-      "name": "EG Ampol Tamworth",
-      "address": "119 Bridge Street (Cnr Belmore St), Tamworth NSW 2340",
-      "state": "NSW",
-      "lat": -31.093607,
-      "lng": 150.916778
     },
     {
       "brand": "EVUp",
@@ -6583,15 +6582,6 @@
     },
     {
       "brand": "Metro Fuel",
-      "code": "NSW:20080",
-      "name": "Metro Berkeley",
-      "address": "57 Winnima WAY, Berkeley NSW 2506",
-      "state": "NSW",
-      "lat": -34.479927,
-      "lng": 150.845923
-    },
-    {
-      "brand": "Metro Fuel",
       "code": "NSW:20032",
       "name": "Metro Charlestown",
       "address": "132-138 Pacific HWY, Charlestown NSW 2290",
@@ -8623,15 +8613,6 @@
       "state": "NSW",
       "lat": -32.593538,
       "lng": 149.588282
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:335",
-      "name": "Shell Reddy Express Nowra",
-      "address": "55 Kinghorne St (Cnr Worrigee St), Nowra NSW 2541",
-      "state": "NSW",
-      "lat": -34.876305,
-      "lng": 150.602472
     },
     {
       "brand": "Reddy Express",
@@ -11627,6 +11608,20 @@
       "unavailable_fuels": [
         "U91",
         "U98"
+      ]
+    },
+    {
+      "brand": "Liberty",
+      "code": "VIC:q0ZDVB2DzQfwVyp7ktR+dDrSAKuqCQtqwmcwqq5OheQ=",
+      "name": "LIberty Stanhope",
+      "address": "86 Midland Highway, STANHOPE, 3623",
+      "state": "VIC",
+      "lat": -36.44672091,
+      "lng": 144.99345538,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91"
       ]
     },
     {

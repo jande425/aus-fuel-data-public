@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-13T12:40:41Z",
+  "fetched_at": "2026-10-13T16:41:02Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1276,
+  "station_count": 1274,
   "by_state": {
     "ACT": 8,
-    "NSW": 1160,
+    "NSW": 1159,
     "NT": 32,
-    "QLD": 28,
+    "QLD": 27,
     "SA": 30,
     "TAS": 1,
     "VIC": 17
@@ -16,7 +16,7 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 83,
+    "Reddy Express": 82,
     "Independent": 75,
     "Chargefox": 72,
     "7-Eleven": 67,
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 17,
+    "Ampol": 16,
     "Caltex": 12,
     "Puma Energy": 10,
     "United": 9,
@@ -51,9 +51,9 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "ETA PETROLEUM": 1,
     "Metro Petroleum": 1,
-    "Apco": 1
+    "Apco": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -8419,15 +8419,6 @@
     },
     {
       "brand": "Reddy Express",
-      "code": "NSW:291",
-      "name": "Shell Reddy Express Cremorne",
-      "address": "227 Military Rd, Cremorne NSW 2090",
-      "state": "NSW",
-      "lat": -33.830574,
-      "lng": 151.226235
-    },
-    {
-      "brand": "Reddy Express",
       "code": "NSW:413",
       "name": "Shell Reddy Express Dundas",
       "address": "199-203 Kissing Point Rd (Cnr Kirby St), Dundas NSW 2117",
@@ -10865,23 +10856,6 @@
       "lat": -25.53730863156694,
       "lng": 152.69536662963867,
       "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "QLD:61401782",
-      "name": "Ampol Foodary Caboolture Travel Centre",
-      "address": "Bruce Hwy & Pumicestone Rd, QLD 4510",
-      "state": "QLD",
-      "lat": -27.042111,
-      "lng": 152.975171,
-      "unavailable_fuels": [
-        "Diesel",
         "E10",
         "Premium Diesel",
         "U91",

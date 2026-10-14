@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-14T23:11:20Z",
+  "fetched_at": "2026-10-14T23:36:41Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1272,
   "by_state": {
     "ACT": 8,
-    "NSW": 1160,
+    "NSW": 1161,
     "NT": 30,
     "QLD": 28,
     "SA": 28,
@@ -19,7 +19,7 @@
     "Reddy Express": 81,
     "Independent": 77,
     "Chargefox": 72,
-    "7-Eleven": 65,
+    "7-Eleven": 66,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -675,6 +675,15 @@
       "state": "NSW",
       "lat": -33.975997,
       "lng": 151.10364
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:297",
+      "name": "7-Eleven Warners Bay",
+      "address": "393 Hillsborough Road  (Corner Macquarie Road), Warners Bay NSW 2282",
+      "state": "NSW",
+      "lat": -32.965976,
+      "lng": 151.654297
     },
     {
       "brand": "7-Eleven",

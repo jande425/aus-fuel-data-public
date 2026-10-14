@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-14T03:15:23Z",
+  "fetched_at": "2026-10-14T06:28:31Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1274,
+  "station_count": 1270,
   "by_state": {
     "ACT": 8,
     "NSW": 1158,
     "NT": 30,
-    "QLD": 28,
-    "SA": 29,
+    "QLD": 27,
+    "SA": 28,
     "TAS": 1,
-    "VIC": 20
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,8 +19,8 @@
     "Reddy Express": 81,
     "Independent": 77,
     "Chargefox": 72,
-    "7-Eleven": 66,
-    "BP": 55,
+    "7-Eleven": 65,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -40,20 +40,19 @@
     "Speedway": 3,
     "EG Ampol": 2,
     "Budget": 2,
-    "On the Run": 2,
     "Indervon": 2,
     "Woodham Petroleum": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
+    "On the Run": 1,
     "Enhance": 1,
     "Freedom Fuels": 1,
-    "Shell Express": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
+    "Metro Petroleum": 1,
     "Apco": 1
   },
   "stations": [
@@ -11037,20 +11036,6 @@
       "lng": 149.797847
     },
     {
-      "brand": "Shell Express",
-      "code": "QLD:61402891",
-      "name": "Shell Express Edmonton",
-      "address": "9-11 Walker Rd (Cnr Hambledon Dr), QLD 4869",
-      "state": "QLD",
-      "lat": -17.020150981097686,
-      "lng": 145.72881333498765,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "U91"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "QLD:61402672",
       "name": "The Post Office Roadhouse",
@@ -11297,21 +11282,6 @@
       "lng": 134.532901
     },
     {
-      "brand": "On the Run",
-      "code": "SA:61577233",
-      "name": "OTR Nairne",
-      "address": "91 Old Princes Hwy, SA 5252",
-      "state": "SA",
-      "lat": -35.036255,
-      "lng": 138.91372846686477,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "SA:61577334",
       "name": "One Tree Hill General Store and Dinner",
@@ -11503,21 +11473,6 @@
       ]
     },
     {
-      "brand": "7-Eleven",
-      "code": "VIC:gUmmjwXR3AllpnOZqkgo672EUJaYmXFXKVzhFlKquU8=",
-      "name": "7-Eleven Traralgon Central",
-      "address": "21 Princes Street, Traralgon, 3844",
-      "state": "VIC",
-      "lat": -38.19787786,
-      "lng": 146.54005099,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Apco",
       "code": "VIC:9qtPVydEOFxcerCfYKlr/EKJJUaP/s+LXDm7L/QUfGM=",
       "name": "APCO Kangaroo Flat - Temporarily Closed",
@@ -11531,22 +11486,6 @@
         "LPG",
         "U91",
         "U95"
-      ]
-    },
-    {
-      "brand": "BP",
-      "code": "VIC:bPD4zHdE2lkuYzaY8l0gp3OzNs0TmZnDUGM2g35AIHs=",
-      "name": "BP Fernhill",
-      "address": "555 Stephensons road, Mount Waverley, 3149",
-      "state": "VIC",
-      "lat": -37.8987542,
-      "lng": 145.1242233,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {

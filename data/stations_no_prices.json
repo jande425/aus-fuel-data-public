@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-13T23:43:57Z",
+  "fetched_at": "2026-10-14T01:19:08Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1272,
   "by_state": {
     "ACT": 8,
     "NSW": 1158,
-    "NT": 31,
-    "QLD": 27,
+    "NT": 30,
+    "QLD": 26,
     "SA": 30,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 19
   },
   "by_brand": {
     "Exploren": 236,
@@ -20,7 +20,7 @@
     "Independent": 76,
     "Chargefox": 72,
     "7-Eleven": 66,
-    "BP": 56,
+    "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -51,9 +51,9 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "ETA PETROLEUM": 1,
+    "Metro Petroleum": 1,
     "Apco": 1,
-    "Metro Petroleum": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -10587,15 +10587,6 @@
       "lng": 133.874878
     },
     {
-      "brand": "BP",
-      "code": "NT:08700159",
-      "name": "BP Gap Road ",
-      "address": "73 Gap Road , Alice Springs, 0870, NT",
-      "state": "NT",
-      "lat": -23.716921,
-      "lng": 133.872582
-    },
-    {
       "brand": "Puma Energy",
       "code": "NT:08500089",
       "name": "BP Katherine Depot (not trading)",
@@ -10828,22 +10819,6 @@
       "state": "NT",
       "lat": -22.25346,
       "lng": 131.795078
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61478191",
-      "name": "7-Eleven Maryborough",
-      "address": "341 Alice St, QLD 4650",
-      "state": "QLD",
-      "lat": -25.53730863156694,
-      "lng": 152.69536662963867,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "Ampol",
@@ -11507,6 +11482,21 @@
       "lng": 145.17289763,
       "unavailable_fuels": [
         "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:gUmmjwXR3AllpnOZqkgo672EUJaYmXFXKVzhFlKquU8=",
+      "name": "7-Eleven Traralgon Central",
+      "address": "21 Princes Street, Traralgon, 3844",
+      "state": "VIC",
+      "lat": -38.19787786,
+      "lng": 146.54005099,
+      "unavailable_fuels": [
         "Premium Diesel",
         "U91",
         "U95",

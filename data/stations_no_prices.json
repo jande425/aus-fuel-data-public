@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T12:58:41Z",
+  "fetched_at": "2026-10-14T13:40:10Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1272,
   "by_state": {
@@ -19,12 +19,12 @@
     "Reddy Express": 81,
     "Independent": 77,
     "Chargefox": 72,
-    "7-Eleven": 67,
+    "7-Eleven": 66,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 15,
+    "Ampol": 16,
     "Caltex": 12,
     "Puma Energy": 10,
     "United": 9,
@@ -11452,23 +11452,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "VIC:WGNBpXsvFZGbAQrQkT58UjyrlSOYQVCEulI44Kazaso=",
-      "name": "7-Eleven Belmont",
-      "address": "19-21 Settlement Road, Belmont, 3216",
-      "state": "VIC",
-      "lat": -38.179002460702456,
-      "lng": 144.35154040862605,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "VIC:h9+i49hcwtVWP0NHBCrTSSJ73VaLbh3Q7BvlfFKE/XI=",
       "name": "7-Eleven Clyde North",
       "address": "380 Patterson Road, Clyde, 3978",
@@ -11512,6 +11495,22 @@
         "LPG",
         "U91",
         "U95"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "VIC:hwIbXE3lsDjOB0rG1STMMiK41H+hoeBq8/ErSky/y1M=",
+      "name": "Ampol Foodary Avenel",
+      "address": "Jones St Cnr, Ash Street, AVENEL, 3664",
+      "state": "VIC",
+      "lat": -36.90764042691814,
+      "lng": 145.24018996118943,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
       ]
     },
     {

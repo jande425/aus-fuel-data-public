@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-14T14:39:53Z",
+  "fetched_at": "2026-10-14T18:06:35Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1273,
   "by_state": {
     "ACT": 8,
-    "NSW": 1159,
+    "NSW": 1160,
     "NT": 30,
     "QLD": 27,
     "SA": 28,
@@ -16,7 +16,7 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
+    "Reddy Express": 82,
     "Independent": 77,
     "Chargefox": 72,
     "7-Eleven": 66,
@@ -51,9 +51,9 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
-    "Apco": 1
+    "Apco": 1,
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -8380,6 +8380,15 @@
       "state": "NSW",
       "lat": -33.957809,
       "lng": 151.15748
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "NSW:913",
+      "name": "Shell Reddy Express Broadmeadow",
+      "address": "2 Brunker Rd, Broadmeadow NSW 2292",
+      "state": "NSW",
+      "lat": -32.925089,
+      "lng": 151.736426
     },
     {
       "brand": "Reddy Express",

@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-14T01:19:08Z",
+  "fetched_at": "2026-10-14T03:15:23Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1274,
   "by_state": {
     "ACT": 8,
     "NSW": 1158,
     "NT": 30,
-    "QLD": 26,
-    "SA": 30,
+    "QLD": 28,
+    "SA": 29,
     "TAS": 1,
-    "VIC": 19
+    "VIC": 20
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,14 +17,14 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "Independent": 76,
+    "Independent": 77,
     "Chargefox": 72,
     "7-Eleven": 66,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 16,
+    "Ampol": 15,
     "Caltex": 12,
     "Puma Energy": 10,
     "United": 9,
@@ -38,22 +38,23 @@
     "Everty": 4,
     "Ampol Foodary": 3,
     "Speedway": 3,
+    "EG Ampol": 2,
     "Budget": 2,
     "On the Run": 2,
     "Indervon": 2,
     "Woodham Petroleum": 2,
     "Westside": 1,
-    "EG Ampol": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
     "Arko Energy": 1,
     "Enhance": 1,
     "Freedom Fuels": 1,
+    "Shell Express": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Metro Petroleum": 1,
-    "Apco": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -11036,6 +11037,32 @@
       "lng": 149.797847
     },
     {
+      "brand": "Shell Express",
+      "code": "QLD:61402891",
+      "name": "Shell Express Edmonton",
+      "address": "9-11 Walker Rd (Cnr Hambledon Dr), QLD 4869",
+      "state": "QLD",
+      "lat": -17.020150981097686,
+      "lng": 145.72881333498765,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91"
+      ]
+    },
+    {
+      "brand": "Independent",
+      "code": "QLD:61402672",
+      "name": "The Post Office Roadhouse",
+      "address": "21 Garland Street, QLD 4871",
+      "state": "QLD",
+      "lat": -18.145353,
+      "lng": 144.322473,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
+    },
+    {
       "brand": "BP",
       "code": "QLD:61402569",
       "name": "Travellers Tavern",
@@ -11086,19 +11113,6 @@
       "state": "QLD",
       "lat": -16.916483,
       "lng": 145.871647
-    },
-    {
-      "brand": "Ampol",
-      "code": "SA:61577210",
-      "name": "Ampol Mount Gambier East Diesel Stop",
-      "address": "Rear 190 Jubilee Highway East, SA 5290",
-      "state": "SA",
-      "lat": -37.840097,
-      "lng": 140.814058,
-      "unavailable_fuels": [
-        "Diesel",
-        "Premium Diesel"
-      ]
     },
     {
       "brand": "Ampol",
@@ -11589,6 +11603,21 @@
       "lng": 144.72831692,
       "unavailable_fuels": [
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "VIC:lDH3QKnxkHnon5YwdAGK9TI23aazC0eswPp4+d+zPF4=",
+      "name": "EG Ampol Clarinda",
+      "address": "58 Viney Street, Clarinda, 3169",
+      "state": "VIC",
+      "lat": -37.940833216040616,
+      "lng": 145.10204423925694,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

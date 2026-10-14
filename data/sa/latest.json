@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-14T06:28:31Z",
+  "fetched_at": "2026-10-14T07:32:47Z",
   "station_count": 699,
   "fuel_types": [
     "E10",
@@ -2131,13 +2131,15 @@
       "state": "SA",
       "prices": {
         "U91": 241.4,
-        "U95": 258.9,
         "U98": 264.4,
         "Premium Diesel": 287.4
       },
       "updated": "2026-10-14T05:00:47Z",
       "lat": -34.92169325100844,
-      "lng": 138.629916
+      "lng": 138.629916,
+      "unavailable_fuels": [
+        "U95"
+      ]
     },
     {
       "brand": "On the Run",
@@ -2918,7 +2920,7 @@
         "U98": 255.9,
         "Premium Diesel": 286.9
       },
-      "updated": "2026-10-14T06:25:18Z",
+      "updated": "2026-10-14T07:25:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -4266,14 +4268,12 @@
       "prices": {
         "U91": 246.9,
         "Diesel": 288.9,
+        "U95": 264.4,
         "U98": 269.9
       },
-      "updated": "2026-10-10T03:20:21Z",
+      "updated": "2026-10-14T07:05:21Z",
       "lat": -33.020156469159105,
-      "lng": 137.52615392394256,
-      "unavailable_fuels": [
-        "U95"
-      ]
+      "lng": 137.52615392394256
     },
     {
       "brand": "Ampol",
@@ -5434,7 +5434,7 @@
         "U98": 265.9,
         "Premium Diesel": 283.9
       },
-      "updated": "2026-10-14T06:25:18Z",
+      "updated": "2026-10-14T07:25:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -6666,9 +6666,9 @@
       "address": "15351 Eyre Highway, SA 5641",
       "state": "SA",
       "prices": {
-        "Diesel": 282.9
+        "Diesel": 279.9
       },
-      "updated": "2026-09-21T04:29:51Z",
+      "updated": "2026-10-14T06:57:03Z",
       "lat": -33.142121,
       "lng": 136.421848
     },
@@ -7826,15 +7826,13 @@
       "prices": {
         "U91": 238.4,
         "LPG": 107.9,
+        "U95": 255.9,
         "U98": 261.4,
         "Premium Diesel": 286.4
       },
-      "updated": "2026-10-13T01:35:20Z",
+      "updated": "2026-10-14T07:05:21Z",
       "lat": -34.87717162349212,
-      "lng": 138.5290661570778,
-      "unavailable_fuels": [
-        "U95"
-      ]
+      "lng": 138.5290661570778
     },
     {
       "brand": "Mobil",
@@ -8315,13 +8313,13 @@
       "address": "Cnr Old Sturt Hwy and Murray Street, SA 5355",
       "state": "SA",
       "prices": {
-        "U91": 239.4,
+        "U91": 238.4,
         "Diesel": 289.4,
         "U95": 254.9,
         "U98": 261.4,
         "Premium Diesel": 289.9
       },
-      "updated": "2026-10-13T20:17:10Z",
+      "updated": "2026-10-14T07:22:09Z",
       "lat": -34.457321,
       "lng": 139.003159
     },
@@ -8683,14 +8681,12 @@
       "prices": {
         "U91": 246.9,
         "Diesel": 288.9,
+        "U95": 264.4,
         "U98": 269.9
       },
-      "updated": "2026-10-09T07:00:48Z",
+      "updated": "2026-10-14T07:05:21Z",
       "lat": -33.02957106608354,
-      "lng": 137.5684825889549,
-      "unavailable_fuels": [
-        "U95"
-      ]
+      "lng": 137.5684825889549
     },
     {
       "brand": "X Convenience",
@@ -9130,14 +9126,12 @@
       "prices": {
         "U91": 244.9,
         "U95": 262.4,
-        "U98": 267.9
+        "U98": 267.9,
+        "Premium Diesel": 288.9
       },
-      "updated": "2026-10-09T06:30:39Z",
+      "updated": "2026-10-14T07:00:51Z",
       "lat": -35.135033,
-      "lng": 139.282153,
-      "unavailable_fuels": [
-        "Premium Diesel"
-      ]
+      "lng": 139.282153
     },
     {
       "brand": "On the Run",
@@ -9346,14 +9340,12 @@
       "state": "SA",
       "prices": {
         "U91": 245.0,
-        "Diesel": 278.0
+        "Diesel": 278.0,
+        "U98": 275.0
       },
-      "updated": "2026-10-14T01:47:41Z",
+      "updated": "2026-10-14T06:46:59Z",
       "lat": -33.682956,
-      "lng": 136.922231,
-      "unavailable_fuels": [
-        "U98"
-      ]
+      "lng": 136.922231
     },
     {
       "brand": "Perrys",

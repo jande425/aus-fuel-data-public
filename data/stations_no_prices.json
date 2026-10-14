@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-14T22:29:00Z",
+  "fetched_at": "2026-10-14T23:11:20Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1271,
   "by_state": {
     "ACT": 8,
-    "NSW": 1159,
-    "NT": 31,
+    "NSW": 1160,
+    "NT": 30,
     "QLD": 28,
     "SA": 28,
     "TAS": 1,
@@ -20,7 +20,7 @@
     "Independent": 77,
     "Chargefox": 72,
     "7-Eleven": 65,
-    "BP": 56,
+    "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -39,20 +39,20 @@
     "Ampol Foodary": 3,
     "Speedway": 3,
     "Budget": 2,
+    "Arko Energy": 2,
     "Indervon": 2,
     "Woodham Petroleum": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
-    "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "Apco": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -2088,6 +2088,15 @@
       "state": "NSW",
       "lat": -33.85326,
       "lng": 151.18076
+    },
+    {
+      "brand": "Arko Energy",
+      "code": "NSW:20637",
+      "name": "ARKO Earlwood",
+      "address": "108 Homer ST, Earlwood NSW 2206",
+      "state": "NSW",
+      "lat": -33.924048,
+      "lng": 151.135875
     },
     {
       "brand": "Independent EV",
@@ -10593,15 +10602,6 @@
       "state": "NT",
       "lat": -23.694613,
       "lng": 133.874878
-    },
-    {
-      "brand": "BP",
-      "code": "NT:08100222",
-      "name": "BP Coconut Grove",
-      "address": "331 Bagot Road, Coconut Grove, 0810, NT",
-      "state": "NT",
-      "lat": -12.394908,
-      "lng": 130.85574
     },
     {
       "brand": "Puma Energy",

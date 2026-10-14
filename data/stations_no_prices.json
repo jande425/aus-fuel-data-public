@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-14T07:32:47Z",
+  "fetched_at": "2026-10-14T09:01:44Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1270,
+  "station_count": 1276,
   "by_state": {
     "ACT": 8,
-    "NSW": 1158,
+    "NSW": 1161,
     "NT": 30,
     "QLD": 27,
     "SA": 28,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 21
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 81,
     "Independent": 77,
     "Chargefox": 72,
-    "7-Eleven": 65,
+    "7-Eleven": 71,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -51,9 +51,9 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Apco": 1,
+    "ETA PETROLEUM": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "Apco": 1
   },
   "stations": [
     {
@@ -181,6 +181,15 @@
       "state": "NSW",
       "lat": -33.810521,
       "lng": 151.177429
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:156",
+      "name": "7-Eleven Belmont North",
+      "address": "378 Pacific Highway, Belmont North NSW 2280",
+      "state": "NSW",
+      "lat": -33.022787,
+      "lng": 151.664179
     },
     {
       "brand": "7-Eleven",
@@ -517,6 +526,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:254",
+      "name": "7-Eleven Mayfield West",
+      "address": "412-416 Maitland Road & Frith Street, Mayfield West NSW 2304",
+      "state": "NSW",
+      "lat": -32.892733,
+      "lng": 151.730031
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:133",
       "name": "7-Eleven Merrylands",
       "address": "295-297 Merrylands Road (Corner Windsor Street), Merrylands NSW 2160",
@@ -667,6 +685,15 @@
       "state": "NSW",
       "lat": -33.975997,
       "lng": 151.10364
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:17129",
+      "name": "7-Eleven Unanderra",
+      "address": "41-43 Princes Hwy, UNANDERRA NSW 2526",
+      "state": "NSW",
+      "lat": -34.450291,
+      "lng": 150.849268
     },
     {
       "brand": "7-Eleven",
@@ -11443,6 +11470,23 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:WGNBpXsvFZGbAQrQkT58UjyrlSOYQVCEulI44Kazaso=",
+      "name": "7-Eleven Belmont",
+      "address": "19-21 Settlement Road, Belmont, 3216",
+      "state": "VIC",
+      "lat": -38.179002460702456,
+      "lng": 144.35154040862605,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:h9+i49hcwtVWP0NHBCrTSSJ73VaLbh3Q7BvlfFKE/XI=",
       "name": "7-Eleven Clyde North",
       "address": "380 Patterson Road, Clyde, 3978",
@@ -11465,6 +11509,40 @@
       "lat": -37.96512786,
       "lng": 145.17289763,
       "unavailable_fuels": [
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:7hr7MTVCj7AFjkV/da7lEMuoZTIZ0Qq3VOFX/vxLSeA=",
+      "name": "7-Eleven Officer East",
+      "address": "496 Princes Highway, Officer, 3809",
+      "state": "VIC",
+      "lat": -38.06233141,
+      "lng": 145.41760872,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:+TKjZZp7ia6sKg+Lklj+It4GWobGroPs6IR3g21SKEk=",
+      "name": "7-Eleven St Albans North",
+      "address": "33-37 Taylors Road, St Albans, 3021",
+      "state": "VIC",
+      "lat": -37.72935211,
+      "lng": 144.81045185,
+      "unavailable_fuels": [
+        "E10",
         "LPG",
         "Premium Diesel",
         "U91",

@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-10-14T19:08:05Z",
+  "fetched_at": "2026-10-14T22:29:00Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1271,
   "by_state": {
     "ACT": 8,
-    "NSW": 1160,
-    "NT": 30,
-    "QLD": 27,
+    "NSW": 1159,
+    "NT": 31,
+    "QLD": 28,
     "SA": 28,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 16
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 82,
+    "Reddy Express": 81,
     "Independent": 77,
     "Chargefox": 72,
     "7-Eleven": 65,
-    "BP": 54,
+    "BP": 56,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -31,14 +31,13 @@
     "EVUp": 9,
     "Shell": 9,
     "Evie Networks": 7,
-    "Liberty": 7,
+    "Mobil": 7,
     "Metro Fuel": 6,
-    "Mobil": 6,
+    "Liberty": 6,
     "Pearl Energy": 5,
     "Everty": 4,
     "Ampol Foodary": 3,
     "Speedway": 3,
-    "EG Ampol": 2,
     "Budget": 2,
     "Indervon": 2,
     "Woodham Petroleum": 2,
@@ -51,9 +50,9 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Apco": 1,
+    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
-    "Metro Petroleum": 1
+    "Apco": 1
   },
   "stations": [
     {
@@ -2506,6 +2505,15 @@
     },
     {
       "brand": "BP",
+      "code": "NSW:343",
+      "name": "BP Coffs Harbour",
+      "address": "136 Pacific Highway, Coffs Harbour NSW 2450",
+      "state": "NSW",
+      "lat": -30.291826,
+      "lng": 153.118513
+    },
+    {
+      "brand": "BP",
       "code": "NSW:15",
       "name": "BP Cronulla",
       "address": "Cnr Wilbur & Kingsway Streets, Cronulla NSW 2230",
@@ -4330,15 +4338,6 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "NSW:562",
-      "name": "EG Ampol Moorebank",
-      "address": "Cnr Dredge & Stockton Avenue, Moorebank NSW 2170",
-      "state": "NSW",
-      "lat": -33.931329,
-      "lng": 150.948838
     },
     {
       "brand": "EVUp",
@@ -8383,15 +8382,6 @@
     },
     {
       "brand": "Reddy Express",
-      "code": "NSW:913",
-      "name": "Shell Reddy Express Broadmeadow",
-      "address": "2 Brunker Rd, Broadmeadow NSW 2292",
-      "state": "NSW",
-      "lat": -32.925089,
-      "lng": 151.736426
-    },
-    {
-      "brand": "Reddy Express",
       "code": "NSW:5",
       "name": "Shell Reddy Express Bulli",
       "address": "279-287 Princes Highway, Bulli NSW 2516",
@@ -10605,6 +10595,15 @@
       "lng": 133.874878
     },
     {
+      "brand": "BP",
+      "code": "NT:08100222",
+      "name": "BP Coconut Grove",
+      "address": "331 Bagot Road, Coconut Grove, 0810, NT",
+      "state": "NT",
+      "lat": -12.394908,
+      "lng": 130.85574
+    },
+    {
       "brand": "Puma Energy",
       "code": "NT:08500089",
       "name": "BP Katherine Depot (not trading)",
@@ -10966,6 +10965,20 @@
       "state": "QLD",
       "lat": -23.552773,
       "lng": 145.292808
+    },
+    {
+      "brand": "Mobil",
+      "code": "QLD:61470034",
+      "name": "Mobil Gordonvale",
+      "address": "67 George St, QLD 4865",
+      "state": "QLD",
+      "lat": -17.093198,
+      "lng": 145.785016,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95"
+      ]
     },
     {
       "brand": "Mobil",
@@ -11562,35 +11575,6 @@
       "unavailable_fuels": [
         "U91",
         "U98"
-      ]
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "VIC:lDH3QKnxkHnon5YwdAGK9TI23aazC0eswPp4+d+zPF4=",
-      "name": "EG Ampol Clarinda",
-      "address": "58 Viney Street, Clarinda, 3169",
-      "state": "VIC",
-      "lat": -37.940833216040616,
-      "lng": 145.10204423925694,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Liberty",
-      "code": "VIC:q0ZDVB2DzQfwVyp7ktR+dDrSAKuqCQtqwmcwqq5OheQ=",
-      "name": "LIberty Stanhope",
-      "address": "86 Midland Highway, STANHOPE, 3623",
-      "state": "VIC",
-      "lat": -36.44672091,
-      "lng": 144.99345538,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "U91"
       ]
     },
     {

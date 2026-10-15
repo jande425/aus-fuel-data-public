@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T06:11:36Z",
+  "last_updated": "2026-10-15T07:22:49Z",
   "total_stations": 7886,
   "total_states": 8,
   "fuel_types": [
@@ -21,57 +21,57 @@
       "station_count": 62,
       "price_count": 264,
       "file": "act/latest.json",
-      "checksum": "d73426c7",
+      "checksum": "ebc480a0",
       "size_bytes": 25293
     },
     "NSW": {
       "station_count": 2105,
-      "price_count": 8433,
+      "price_count": 8435,
       "file": "nsw/latest.json",
-      "checksum": "5315bbf8",
-      "size_bytes": 836811
+      "checksum": "0fea1d5a",
+      "size_bytes": 836869
     },
     "NT": {
       "station_count": 210,
       "price_count": 567,
       "file": "nt/latest.json",
-      "checksum": "a8d5791d",
+      "checksum": "9ec9f80b",
       "size_bytes": 79412
     },
     "QLD": {
       "station_count": 1777,
-      "price_count": 6904,
+      "price_count": 6902,
       "file": "qld/latest.json",
-      "checksum": "c97dd58f",
-      "size_bytes": 701257
+      "checksum": "b87b6b08",
+      "size_bytes": 701317
     },
     "SA": {
       "station_count": 699,
       "price_count": 2483,
       "file": "sa/latest.json",
-      "checksum": "acd9526f",
+      "checksum": "0753225a",
       "size_bytes": 270661
     },
     "TAS": {
       "station_count": 294,
-      "price_count": 1429,
+      "price_count": 1430,
       "file": "tas/latest.json",
-      "checksum": "08c75aec",
-      "size_bytes": 123975
+      "checksum": "73b7b454",
+      "size_bytes": 124000
     },
     "VIC": {
       "station_count": 1744,
       "price_count": 7125,
       "file": "vic/latest.json",
-      "checksum": "5942a2aa",
+      "checksum": "e58bab25",
       "size_bytes": 782975
     },
     "WA": {
       "station_count": 995,
       "price_count": 3377,
       "file": "wa/latest.json",
-      "checksum": "b9d0b016",
-      "size_bytes": 509986
+      "checksum": "8790cf80",
+      "size_bytes": 624123
     }
   },
   "files": {

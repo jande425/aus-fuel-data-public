@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-15T02:53:39Z",
+  "fetched_at": "2026-10-15T06:11:36Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1270,
   "by_state": {
     "ACT": 8,
     "NSW": 1159,
@@ -9,7 +9,7 @@
     "QLD": 29,
     "SA": 28,
     "TAS": 1,
-    "VIC": 16
+    "VIC": 15
   },
   "by_brand": {
     "Exploren": 236,
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 16,
+    "Ampol": 15,
     "Caltex": 12,
     "Shell": 10,
     "Puma Energy": 10,
@@ -50,8 +50,8 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
+    "Metro Petroleum": 1,
     "Apco": 1
   },
   "stations": [
@@ -11502,22 +11502,6 @@
         "LPG",
         "U91",
         "U95"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "VIC:hwIbXE3lsDjOB0rG1STMMiK41H+hoeBq8/ErSky/y1M=",
-      "name": "Ampol Foodary Avenel",
-      "address": "Jones St Cnr, Ash Street, AVENEL, 3664",
-      "state": "VIC",
-      "lat": -36.90764042691814,
-      "lng": 145.24018996118943,
-      "unavailable_fuels": [
-        "Diesel",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {

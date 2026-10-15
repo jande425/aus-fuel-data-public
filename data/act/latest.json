@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-10-15T02:53:39Z",
+  "fetched_at": "2026-10-15T06:11:36Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -88,12 +88,12 @@
       "state": "ACT",
       "prices": {
         "E10": 243.9,
-        "U95": 262.4,
+        "U95": 262.9,
         "U98": 272.9,
         "Premium Diesel": 285.4,
         "U91": 247.4
       },
-      "updated": "2026-10-12T20:22:25Z",
+      "updated": "2026-10-15T04:17:25Z",
       "lat": -35.270935,
       "lng": 149.133379
     },
@@ -185,12 +185,12 @@
       "address": "3 Rogan ST, Canberra Airport ACT 2609",
       "state": "ACT",
       "prices": {
-        "U95": 264.9,
-        "U98": 274.9,
-        "Premium Diesel": 286.9,
-        "U91": 247.9
+        "U95": 260.9,
+        "U98": 270.9,
+        "Premium Diesel": 279.9,
+        "U91": 243.9
       },
-      "updated": "2026-10-07T20:32:26Z",
+      "updated": "2026-10-15T04:17:25Z",
       "lat": -35.309323,
       "lng": 149.188209
     },

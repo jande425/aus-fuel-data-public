@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-10-15T01:26:57Z",
+  "fetched_at": "2026-10-15T02:53:39Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -267,12 +267,12 @@
       "address": "3 Benham St, Chisholm ACT 2905",
       "state": "ACT",
       "prices": {
-        "E10": 244.9,
-        "U95": 261.9,
-        "U98": 270.9,
-        "Premium Diesel": 288.9
+        "E10": 243.9,
+        "U95": 260.9,
+        "U98": 269.9,
+        "Premium Diesel": 283.9
       },
-      "updated": "2026-10-13T23:10:24Z",
+      "updated": "2026-10-15T02:23:40Z",
       "lat": -35.4129,
       "lng": 149.128
     },
@@ -380,13 +380,13 @@
       "address": "Cnr Tharwa Drive & Norman Lindsay Street, Conder ACT 2906",
       "state": "ACT",
       "prices": {
-        "E10": 247.9,
-        "U95": 267.9,
-        "U98": 277.9,
+        "E10": 245.9,
+        "U95": 265.9,
+        "U98": 275.9,
         "Premium Diesel": 292.9,
-        "U91": 249.9
+        "U91": 247.9
       },
-      "updated": "2026-10-15T00:22:27Z",
+      "updated": "2026-10-15T02:42:26Z",
       "lat": -35.4582,
       "lng": 149.092
     },

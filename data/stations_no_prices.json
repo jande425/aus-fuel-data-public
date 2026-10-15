@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-15T01:26:57Z",
+  "fetched_at": "2026-10-15T02:53:39Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1271,
   "by_state": {
     "ACT": 8,
-    "NSW": 1160,
+    "NSW": 1159,
     "NT": 30,
     "QLD": 29,
     "SA": 28,
@@ -19,17 +19,17 @@
     "Reddy Express": 81,
     "Independent": 78,
     "Chargefox": 72,
-    "7-Eleven": 65,
+    "7-Eleven": 64,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
     "Ampol": 16,
     "Caltex": 12,
+    "Shell": 10,
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
-    "Shell": 9,
     "Evie Networks": 7,
     "Mobil": 7,
     "Metro Fuel": 6,
@@ -39,20 +39,20 @@
     "Ampol Foodary": 3,
     "Speedway": 3,
     "Budget": 2,
-    "Arko Energy": 2,
     "Indervon": 2,
     "Woodham Petroleum": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
+    "Arko Energy": 1,
     "On the Run": 1,
     "Enhance": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
+    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
-    "Apco": 1,
-    "Metro Petroleum": 1
+    "Apco": 1
   },
   "stations": [
     {
@@ -666,15 +666,6 @@
       "state": "NSW",
       "lat": -33.975997,
       "lng": 151.10364
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:297",
-      "name": "7-Eleven Warners Bay",
-      "address": "393 Hillsborough Road  (Corner Macquarie Road), Warners Bay NSW 2282",
-      "state": "NSW",
-      "lat": -32.965976,
-      "lng": 151.654297
     },
     {
       "brand": "7-Eleven",
@@ -2088,15 +2079,6 @@
       "state": "NSW",
       "lat": -33.85326,
       "lng": 151.18076
-    },
-    {
-      "brand": "Arko Energy",
-      "code": "NSW:20637",
-      "name": "ARKO Earlwood",
-      "address": "108 Homer ST, Earlwood NSW 2206",
-      "state": "NSW",
-      "lat": -33.924048,
-      "lng": 151.135875
     },
     {
       "brand": "Independent EV",
@@ -8136,6 +8118,15 @@
       "state": "NSW",
       "lat": -32.253672,
       "lng": 148.602401
+    },
+    {
+      "brand": "Shell",
+      "code": "NSW:20523",
+      "name": "Shell Jindera",
+      "address": "99 Urana ST, Jindera NSW 2642",
+      "state": "NSW",
+      "lat": -35.954556,
+      "lng": 146.889003
     },
     {
       "brand": "Shell",

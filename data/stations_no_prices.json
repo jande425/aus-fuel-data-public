@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-15T07:56:41Z",
+  "fetched_at": "2026-10-15T12:45:31Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1273,
   "by_state": {
     "ACT": 8,
-    "NSW": 1159,
+    "NSW": 1162,
     "NT": 30,
-    "QLD": 30,
+    "QLD": 29,
     "SA": 28,
     "TAS": 1,
     "VIC": 15
@@ -19,7 +19,7 @@
     "Reddy Express": 82,
     "Independent": 78,
     "Chargefox": 72,
-    "7-Eleven": 64,
+    "7-Eleven": 65,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -35,8 +35,8 @@
     "Metro Fuel": 6,
     "Liberty": 6,
     "Pearl Energy": 5,
+    "Ampol Foodary": 4,
     "Everty": 4,
-    "Ampol Foodary": 3,
     "Speedway": 3,
     "Budget": 2,
     "Indervon": 2,
@@ -51,8 +51,8 @@
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Apco": 1,
-    "ETA PETROLEUM": 1,
-    "Metro Petroleum": 1
+    "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -369,6 +369,15 @@
       "state": "NSW",
       "lat": -33.872141,
       "lng": 150.937268
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:2286",
+      "name": "7-Eleven Gateshead",
+      "address": "13-15 Pacific Highway, GATESHEAD NSW 2290",
+      "state": "NSW",
+      "lat": -32.987353,
+      "lng": 151.69179
     },
     {
       "brand": "7-Eleven",
@@ -2241,6 +2250,15 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:17310",
+      "name": "Ampol Foodary St Ives North",
+      "address": "363 Mona Vale Road, ST IVES NORTH NSW 2075",
+      "state": "NSW",
+      "lat": -33.716381,
+      "lng": 151.173316
     },
     {
       "brand": "Ampol Foodary",
@@ -8670,6 +8688,15 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "NSW:447",
+      "name": "Shell Reddy Express Randwick Frenchmans",
+      "address": "Frenchmans Rd & Clovelly Rd, Randwick NSW 2031",
+      "state": "NSW",
+      "lat": -33.908364,
+      "lng": 151.247674
+    },
+    {
+      "brand": "Reddy Express",
       "code": "NSW:62",
       "name": "Shell Reddy Express Ryde",
       "address": "45 Lane Cove Rd & Myra Ave, Ryde NSW 2112",
@@ -11065,22 +11092,6 @@
       "state": "QLD",
       "lat": -25.634965,
       "lng": 149.797847
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "QLD:61401149",
-      "name": "Shell Reddy Express Tingalpa",
-      "address": "1469 Wynnum Rd, QLD 4173",
-      "state": "QLD",
-      "lat": -27.474597374792506,
-      "lng": 153.12096549570083,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "Independent",

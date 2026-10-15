@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-15T22:33:52Z",
+  "fetched_at": "2026-10-15T23:03:27Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1271,
   "by_state": {
     "ACT": 8,
     "NSW": 1160,
     "NT": 30,
-    "QLD": 30,
+    "QLD": 29,
     "SA": 28,
     "TAS": 1,
     "VIC": 15
@@ -16,7 +16,7 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 82,
+    "Reddy Express": 81,
     "Independent": 78,
     "Chargefox": 72,
     "7-Eleven": 64,
@@ -50,9 +50,9 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "ETA PETROLEUM": 1,
     "Metro Petroleum": 1,
-    "Apco": 1
+    "Apco": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -11074,22 +11074,6 @@
       "state": "QLD",
       "lat": -25.634965,
       "lng": 149.797847
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "QLD:61401531",
-      "name": "Shell Reddy Express Alexandra Hills",
-      "address": "96 Finucane Rd & Abelia St, QLD 4161",
-      "state": "QLD",
-      "lat": -27.521101,
-      "lng": 153.211992,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "Independent",

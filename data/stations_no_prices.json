@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-15T07:22:49Z",
+  "fetched_at": "2026-10-15T07:56:41Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1270,
+  "station_count": 1271,
   "by_state": {
     "ACT": 8,
     "NSW": 1159,
     "NT": 30,
-    "QLD": 29,
+    "QLD": 30,
     "SA": 28,
     "TAS": 1,
     "VIC": 15
@@ -16,7 +16,7 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
+    "Reddy Express": 82,
     "Independent": 78,
     "Chargefox": 72,
     "7-Eleven": 64,
@@ -11065,6 +11065,22 @@
       "state": "QLD",
       "lat": -25.634965,
       "lng": 149.797847
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "QLD:61401149",
+      "name": "Shell Reddy Express Tingalpa",
+      "address": "1469 Wynnum Rd, QLD 4173",
+      "state": "QLD",
+      "lat": -27.474597374792506,
+      "lng": 153.12096549570083,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Independent",

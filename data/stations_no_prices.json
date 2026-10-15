@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-14T23:36:41Z",
+  "fetched_at": "2026-10-15T00:46:23Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1272,
   "by_state": {
     "ACT": 8,
-    "NSW": 1161,
+    "NSW": 1160,
     "NT": 30,
-    "QLD": 28,
+    "QLD": 29,
     "SA": 28,
     "TAS": 1,
     "VIC": 16
@@ -17,9 +17,9 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "Independent": 77,
+    "Independent": 78,
     "Chargefox": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 65,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -50,9 +50,9 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1,
     "Apco": 1,
-    "ETA PETROLEUM": 1
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -513,15 +513,6 @@
       "state": "NSW",
       "lat": -33.951306,
       "lng": 151.24905
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:254",
-      "name": "7-Eleven Mayfield West",
-      "address": "412-416 Maitland Road & Frith Street, Mayfield West NSW 2304",
-      "state": "NSW",
-      "lat": -32.892733,
-      "lng": 151.730031
     },
     {
       "brand": "7-Eleven",
@@ -10904,6 +10895,15 @@
         "U91",
         "U98"
       ]
+    },
+    {
+      "brand": "Independent",
+      "code": "QLD:61477795",
+      "name": "Foxtrap",
+      "address": "8736 Diamantina Development Road, QLD 4479",
+      "state": "QLD",
+      "lat": -26.648189,
+      "lng": 145.467961
     },
     {
       "brand": "Freedom Fuels",

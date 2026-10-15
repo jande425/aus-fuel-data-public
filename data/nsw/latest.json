@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-10-15T12:45:31Z",
-  "station_count": 2102,
+  "fetched_at": "2026-10-15T13:22:39Z",
+  "station_count": 2103,
   "fuel_types": [
     "E10",
     "U91",
@@ -823,6 +823,23 @@
       "updated": "2026-10-15T01:27:26Z",
       "lat": -33.373145,
       "lng": 151.473789
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:2286",
+      "name": "7-Eleven Gateshead",
+      "address": "13-15 Pacific Highway, GATESHEAD NSW 2290",
+      "state": "NSW",
+      "prices": {
+        "E10": 247.9,
+        "U95": 266.9,
+        "U98": 275.9,
+        "Premium Diesel": 287.9,
+        "U91": 249.9
+      },
+      "updated": "2026-10-15T13:04:56Z",
+      "lat": -32.987353,
+      "lng": 151.69179
     },
     {
       "brand": "Ampol",
@@ -10958,10 +10975,10 @@
         "E10": 239.5,
         "U95": 254.5,
         "U98": 263.5,
-        "Premium Diesel": 278.5,
+        "Premium Diesel": 277.5,
         "U91": 241.5
       },
-      "updated": "2026-10-11T06:48:15Z",
+      "updated": "2026-10-15T13:13:24Z",
       "lat": -32.256935,
       "lng": 148.62549
     },
@@ -20407,13 +20424,13 @@
       "address": "127 Loftus Ave, Loftus NSW 2232",
       "state": "NSW",
       "prices": {
-        "E10": 243.7,
-        "U95": 262.7,
-        "U98": 271.7,
+        "E10": 257.9,
+        "U95": 269.9,
+        "U98": 277.9,
         "Premium Diesel": 279.9,
-        "U91": 246.7
+        "U91": 259.9
       },
-      "updated": "2026-10-15T01:25:50Z",
+      "updated": "2026-10-15T13:15:49Z",
       "lat": -34.045708,
       "lng": 151.050799
     },
@@ -27700,14 +27717,14 @@
       "address": "100 Rookwood RD, Yagoona NSW 2199",
       "state": "NSW",
       "prices": {
-        "Diesel": 261.7,
-        "E10": 231.5,
+        "Diesel": 263.9,
+        "E10": 234.9,
         "E85": 229.8,
         "LPG": 112.5,
         "U98": 269.9,
-        "U91": 233.5
+        "U91": 236.9
       },
-      "updated": "2026-10-15T08:11:45Z",
+      "updated": "2026-10-15T12:51:46Z",
       "lat": -33.899293,
       "lng": 151.036862
     },

@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-15T23:03:27Z",
+  "fetched_at": "2026-10-15T23:31:11Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1272,
   "by_state": {
     "ACT": 8,
     "NSW": 1160,
     "NT": 30,
-    "QLD": 29,
+    "QLD": 30,
     "SA": 28,
     "TAS": 1,
     "VIC": 15
@@ -30,9 +30,9 @@
     "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
+    "Metro Fuel": 7,
     "Evie Networks": 7,
     "Mobil": 7,
-    "Metro Fuel": 6,
     "Liberty": 6,
     "Pearl Energy": 5,
     "Ampol Foodary": 4,
@@ -10965,6 +10965,21 @@
       "state": "QLD",
       "lat": -26.086213,
       "lng": 152.240816
+    },
+    {
+      "brand": "Metro Fuel",
+      "code": "QLD:61402410",
+      "name": "Metro Toowoomba City",
+      "address": "282 Ruthven St, QLD 4350",
+      "state": "QLD",
+      "lat": -27.554601450694772,
+      "lng": 151.95483798954922,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
     },
     {
       "brand": "Mobil",

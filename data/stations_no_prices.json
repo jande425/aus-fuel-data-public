@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-15T18:50:46Z",
+  "fetched_at": "2026-10-15T22:33:52Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1272,
   "by_state": {
     "ACT": 8,
-    "NSW": 1161,
+    "NSW": 1160,
     "NT": 30,
-    "QLD": 29,
+    "QLD": 30,
     "SA": 28,
     "TAS": 1,
     "VIC": 15
@@ -50,9 +50,9 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Apco": 1,
     "ETA PETROLEUM": 1,
-    "Metro Petroleum": 1
+    "Metro Petroleum": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -8679,15 +8679,6 @@
     },
     {
       "brand": "Reddy Express",
-      "code": "NSW:447",
-      "name": "Shell Reddy Express Randwick Frenchmans",
-      "address": "Frenchmans Rd & Clovelly Rd, Randwick NSW 2031",
-      "state": "NSW",
-      "lat": -33.908364,
-      "lng": 151.247674
-    },
-    {
-      "brand": "Reddy Express",
       "code": "NSW:62",
       "name": "Shell Reddy Express Ryde",
       "address": "45 Lane Cove Rd & Myra Ave, Ryde NSW 2112",
@@ -11083,6 +11074,22 @@
       "state": "QLD",
       "lat": -25.634965,
       "lng": 149.797847
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "QLD:61401531",
+      "name": "Shell Reddy Express Alexandra Hills",
+      "address": "96 Finucane Rd & Abelia St, QLD 4161",
+      "state": "QLD",
+      "lat": -27.521101,
+      "lng": 153.211992,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Independent",

@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-15T23:31:11Z",
+  "fetched_at": "2026-10-16T01:18:22Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1271,
   "by_state": {
     "ACT": 8,
-    "NSW": 1160,
+    "NSW": 1159,
     "NT": 30,
     "QLD": 30,
     "SA": 28,
@@ -35,8 +35,8 @@
     "Mobil": 7,
     "Liberty": 6,
     "Pearl Energy": 5,
-    "Ampol Foodary": 4,
     "Everty": 4,
+    "Ampol Foodary": 3,
     "Speedway": 3,
     "Budget": 2,
     "Indervon": 2,
@@ -50,9 +50,9 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
+    "ETA PETROLEUM": 1,
     "Metro Petroleum": 1,
-    "Apco": 1,
-    "ETA PETROLEUM": 1
+    "Apco": 1
   },
   "stations": [
     {
@@ -2241,15 +2241,6 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:17310",
-      "name": "Ampol Foodary St Ives North",
-      "address": "363 Mona Vale Road, ST IVES NORTH NSW 2075",
-      "state": "NSW",
-      "lat": -33.716381,
-      "lng": 151.173316
     },
     {
       "brand": "Ampol Foodary",

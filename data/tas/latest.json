@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-10-16T13:42:15Z",
+  "fetched_at": "2026-10-16T17:35:44Z",
   "station_count": 294,
   "fuel_types": [
     "E10",
@@ -379,9 +379,9 @@
         "U95": 258.9,
         "U98": 262.5,
         "U91": 239.5,
-        "Premium Diesel": 270
+        "Premium Diesel": 270.1
       },
-      "updated": "2026-10-16T13:22:12Z",
+      "updated": "2026-10-16T13:52:13Z",
       "lat": -42.8517409,
       "lng": 147.3601656
     },
@@ -2832,14 +2832,14 @@
       "address": "2 Charlton Street, Cygnet TAS 7112",
       "state": "TAS",
       "prices": {
-        "E10": 240.9,
-        "U95": 259.9,
+        "E10": 239.9,
+        "U95": 258.9,
         "U98": 253.9,
         "Premium Diesel": 291.9,
         "U91": 226.9,
         "Diesel": 291.9
       },
-      "updated": "2026-10-16T06:42:13Z",
+      "updated": "2026-10-16T15:21:11Z",
       "lat": -43.1635085,
       "lng": 147.0799709
     },
@@ -2901,13 +2901,13 @@
       "address": "295 Hobart Road, Youngtown TAS 7249",
       "state": "TAS",
       "prices": {
-        "E10": 241.9,
+        "E10": 240.9,
         "U98": 287.9,
         "Premium Diesel": 292.9,
         "U91": 257.9,
         "U95": 277.9
       },
-      "updated": "2026-10-16T07:48:13Z",
+      "updated": "2026-10-16T17:09:13Z",
       "lat": -41.4796874,
       "lng": 147.167044173
     },

@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-16T07:06:05Z",
+  "fetched_at": "2026-10-16T07:49:59Z",
   "station_count": 699,
   "fuel_types": [
     "E10",
@@ -2918,7 +2918,7 @@
         "U98": 255.9,
         "Premium Diesel": 285.9
       },
-      "updated": "2026-10-16T06:55:18Z",
+      "updated": "2026-10-16T07:40:19Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -4050,11 +4050,11 @@
       "address": "24169 Horrocks Highway, SA 5485",
       "state": "SA",
       "prices": {
-        "U91": 249.8,
-        "Diesel": 288.9,
+        "U91": 244.8,
+        "Diesel": 286.9,
         "LPG": 129.9
       },
-      "updated": "2026-10-06T00:03:30Z",
+      "updated": "2026-10-16T07:12:31Z",
       "lat": -32.655441,
       "lng": 138.101744
     },
@@ -4773,14 +4773,16 @@
       "state": "SA",
       "prices": {
         "U91": 239.4,
-        "LPG": 99.9,
         "U95": 256.9,
         "U98": 262.4,
         "Premium Diesel": 287.4
       },
       "updated": "2026-10-15T01:15:28Z",
       "lat": -34.910369,
-      "lng": 138.627652
+      "lng": 138.627652,
+      "unavailable_fuels": [
+        "LPG"
+      ]
     },
     {
       "brand": "On the Run",
@@ -4906,14 +4908,12 @@
         "U91": 236.4,
         "LPG": 107.9,
         "U95": 253.9,
-        "U98": 259.4
+        "U98": 259.4,
+        "Premium Diesel": 286.4
       },
-      "updated": "2026-10-13T02:00:50Z",
+      "updated": "2026-10-16T07:15:26Z",
       "lat": -34.681559,
-      "lng": 138.694004,
-      "unavailable_fuels": [
-        "Premium Diesel"
-      ]
+      "lng": 138.694004
     },
     {
       "brand": "BP",
@@ -4956,12 +4956,14 @@
       "prices": {
         "U91": 242.9,
         "U95": 260.4,
-        "U98": 265.9,
-        "Premium Diesel": 286.9
+        "U98": 265.9
       },
       "updated": "2026-10-09T06:30:39Z",
       "lat": -34.33892816010363,
-      "lng": 138.91707884292217
+      "lng": 138.91707884292217,
+      "unavailable_fuels": [
+        "Premium Diesel"
+      ]
     },
     {
       "brand": "BP",
@@ -5434,7 +5436,7 @@
         "U98": 265.9,
         "Premium Diesel": 282.9
       },
-      "updated": "2026-10-16T06:55:18Z",
+      "updated": "2026-10-16T07:40:19Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -7405,12 +7407,12 @@
       "address": "Dukes Hwy, SA 5266",
       "state": "SA",
       "prices": {
-        "U91": 242.9,
+        "U91": 239.9,
         "Diesel": 274.9,
         "LPG": 119.9,
-        "U98": 265.9
+        "U98": 262.9
       },
-      "updated": "2026-10-15T21:55:10Z",
+      "updated": "2026-10-16T07:35:15Z",
       "lat": -35.879426,
       "lng": 140.050918
     },
@@ -7783,14 +7785,12 @@
       "prices": {
         "U91": 234.9,
         "U95": 252.4,
-        "U98": 257.9
+        "U98": 257.9,
+        "Premium Diesel": 287.4
       },
-      "updated": "2026-10-14T23:50:22Z",
+      "updated": "2026-10-16T07:15:26Z",
       "lat": -34.672423,
-      "lng": 138.681396,
-      "unavailable_fuels": [
-        "Premium Diesel"
-      ]
+      "lng": 138.681396
     },
     {
       "brand": "Costco",
@@ -8461,17 +8461,15 @@
       "address": "10 Augusta Hwy, SA 5700",
       "state": "SA",
       "prices": {
+        "U91": 245.9,
         "Diesel": 281.9,
         "U95": 263.4,
         "U98": 268.9,
         "Premium Diesel": 285.9
       },
-      "updated": "2026-10-09T06:50:26Z",
+      "updated": "2026-10-16T07:15:26Z",
       "lat": -32.51125904893163,
-      "lng": 137.80279389848187,
-      "unavailable_fuels": [
-        "U91"
-      ]
+      "lng": 137.80279389848187
     },
     {
       "brand": "Independent",

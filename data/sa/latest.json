@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-16T06:07:34Z",
+  "fetched_at": "2026-10-16T07:06:05Z",
   "station_count": 699,
   "fuel_types": [
     "E10",
@@ -1374,10 +1374,10 @@
       "address": "207 Victoria Rd, SA 5016",
       "state": "SA",
       "prices": {
-        "Diesel": 279.5,
-        "Premium Diesel": 281.5
+        "Diesel": 277.5,
+        "Premium Diesel": 279.5
       },
-      "updated": "2026-10-12T01:38:52Z",
+      "updated": "2026-10-16T06:32:57Z",
       "lat": -34.82568369580605,
       "lng": 138.49966604639758
     },
@@ -2918,7 +2918,7 @@
         "U98": 255.9,
         "Premium Diesel": 285.9
       },
-      "updated": "2026-10-16T05:55:18Z",
+      "updated": "2026-10-16T06:55:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -2944,9 +2944,9 @@
       "address": "Pedder Cres, SA 5010",
       "state": "SA",
       "prices": {
-        "Diesel": 279.5
+        "Diesel": 277.5
       },
-      "updated": "2026-10-12T04:21:52Z",
+      "updated": "2026-10-16T07:01:06Z",
       "lat": -34.873079,
       "lng": 138.579358
     },
@@ -3239,11 +3239,11 @@
       "address": "32 Dukes Highway, SA 5267",
       "state": "SA",
       "prices": {
-        "U91": 243.9,
+        "U91": 240.9,
         "Diesel": 277.9,
-        "U98": 267.9
+        "U98": 266.9
       },
-      "updated": "2026-10-12T01:16:48Z",
+      "updated": "2026-10-16T06:16:22Z",
       "lat": -36.092683,
       "lng": 140.349225
     },
@@ -5434,7 +5434,7 @@
         "U98": 265.9,
         "Premium Diesel": 282.9
       },
-      "updated": "2026-10-16T05:55:18Z",
+      "updated": "2026-10-16T06:55:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -5952,10 +5952,10 @@
       "state": "SA",
       "prices": {
         "U91": 258.0,
-        "Diesel": 275.0,
+        "Diesel": 282.0,
         "U98": 272.0
       },
-      "updated": "2026-10-14T04:21:32Z",
+      "updated": "2026-10-16T06:11:18Z",
       "lat": -34.172557,
       "lng": 139.083574
     },
@@ -7247,14 +7247,14 @@
       "address": "Lot 22 Hutchison Road, SA 5723",
       "state": "SA",
       "prices": {
-        "U91": 269.9,
         "Diesel": 327.9
       },
-      "updated": "2026-10-03T11:37:34Z",
+      "updated": "2026-10-16T06:35:24Z",
       "lat": -29.011316,
       "lng": 134.755059,
       "unavailable_fuels": [
         "LPG",
+        "U91",
         "U98"
       ]
     },
@@ -7815,9 +7815,9 @@
       "state": "SA",
       "prices": {
         "U91": 264.0,
-        "Diesel": 286.0
+        "Diesel": 284.0
       },
-      "updated": "2026-10-13T23:56:30Z",
+      "updated": "2026-10-16T06:14:07Z",
       "lat": -34.26126951423701,
       "lng": 135.72903568589646
     },

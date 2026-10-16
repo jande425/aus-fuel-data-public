@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-16T06:07:34Z",
+  "fetched_at": "2026-10-16T07:06:05Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1272,
   "by_state": {
     "ACT": 8,
-    "NSW": 1161,
+    "NSW": 1160,
     "NT": 29,
     "QLD": 30,
     "SA": 28,
@@ -16,7 +16,7 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 82,
+    "Reddy Express": 81,
     "Independent": 78,
     "Chargefox": 72,
     "7-Eleven": 64,
@@ -51,8 +51,8 @@
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
     "Apco": 1,
-    "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -8343,15 +8343,6 @@
       "state": "NSW",
       "lat": -34.026377,
       "lng": 151.120108
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:65",
-      "name": "Shell Reddy Express Bass Hill",
-      "address": "884-888 Hume Hwy (Cnr Strickland St), Bass Hill NSW 2197",
-      "state": "NSW",
-      "lat": -33.89964,
-      "lng": 150.997487
     },
     {
       "brand": "Reddy Express",

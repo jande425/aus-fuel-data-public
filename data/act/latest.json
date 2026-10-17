@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-10-17T19:59:34Z",
+  "fetched_at": "2026-10-17T21:35:09Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -168,13 +168,13 @@
       "address": "3 Marconi Cr, Kambah ACT 2902",
       "state": "ACT",
       "prices": {
-        "E10": 245.4,
-        "U95": 264.4,
-        "U98": 273.4,
-        "Premium Diesel": 294.9,
-        "U91": 248.9
+        "E10": 244.9,
+        "U95": 265.9,
+        "U98": 274.9,
+        "Premium Diesel": 292.4,
+        "U91": 248.4
       },
-      "updated": "2026-10-17T03:17:26Z",
+      "updated": "2026-10-17T21:22:26Z",
       "lat": -35.378878,
       "lng": 149.057528
     },
@@ -448,10 +448,10 @@
         "E10": 239.9,
         "U95": 258.9,
         "U98": 268.9,
-        "Premium Diesel": 292.9,
+        "Premium Diesel": 290.9,
         "U91": 241.9
       },
-      "updated": "2026-10-16T21:27:25Z",
+      "updated": "2026-10-17T21:22:26Z",
       "lat": -35.2301,
       "lng": 149.151
     },
@@ -998,12 +998,12 @@
       "address": "Mobil Outlet 15 Barrier ST, Fyshwick ACT 2609",
       "state": "ACT",
       "prices": {
-        "E10": 230.9,
-        "U98": 254.9,
-        "Premium Diesel": 271.9,
-        "U91": 232.9
+        "E10": 235.9,
+        "U98": 259.9,
+        "Premium Diesel": 276.9,
+        "U91": 237.9
       },
-      "updated": "2026-10-17T08:03:02Z",
+      "updated": "2026-10-17T20:12:06Z",
       "lat": -35.329111,
       "lng": 149.172604
     },

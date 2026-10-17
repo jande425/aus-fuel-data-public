@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-10-17T21:35:09Z",
+  "fetched_at": "2026-10-17T22:15:17Z",
   "station_count": 294,
   "fuel_types": [
     "E10",
@@ -224,13 +224,13 @@
       "address": "36 North Terrace, Burnie TAS 7320",
       "state": "TAS",
       "prices": {
-        "E10": 234.9,
+        "E10": 233.9,
         "U98": 271.9,
         "Premium Diesel": 283.9,
         "U91": 246.9,
         "U95": 263.9
       },
-      "updated": "2026-10-17T05:06:35Z",
+      "updated": "2026-10-17T21:52:39Z",
       "lat": -41.0478,
       "lng": 145.901
     },
@@ -480,10 +480,10 @@
       "prices": {
         "U95": 267.9,
         "U98": 277.9,
-        "Premium Diesel": 284.9,
+        "Premium Diesel": 285.9,
         "U91": 250.9
       },
-      "updated": "2026-10-16T21:52:13Z",
+      "updated": "2026-10-17T21:47:12Z",
       "lat": -42.8294,
       "lng": 147.2691
     },
@@ -549,11 +549,11 @@
         "Diesel": 284.9,
         "E10": 235.9,
         "U98": 276.9,
-        "Premium Diesel": 283.9,
+        "Premium Diesel": 284.9,
         "U95": 266.9,
         "U91": 249.9
       },
-      "updated": "2026-10-16T05:30:28Z",
+      "updated": "2026-10-17T21:47:12Z",
       "lat": -42.9799431,
       "lng": 147.3027728
     },
@@ -1376,14 +1376,14 @@
       "address": "353-357 Argyle Street, NORTH HOBART TAS 7000",
       "state": "TAS",
       "prices": {
-        "Diesel": 282.9,
+        "Diesel": 283.9,
         "U95": 253.5,
         "U98": 262.5,
         "U91": 239.5,
         "E10": 234.5,
         "E85": 249.9
       },
-      "updated": "2026-10-17T00:30:08Z",
+      "updated": "2026-10-17T21:35:18Z",
       "lat": -42.8708967,
       "lng": 147.3170467
     },
@@ -3317,12 +3317,12 @@
       "state": "TAS",
       "prices": {
         "U95": 260.9,
-        "U98": 265.9,
+        "U98": 264.9,
         "Premium Diesel": 289.9,
         "U91": 243.9,
         "Diesel": 269.9
       },
-      "updated": "2026-10-16T23:24:28Z",
+      "updated": "2026-10-17T21:52:39Z",
       "lat": -42.8312934,
       "lng": 147.4859474
     },

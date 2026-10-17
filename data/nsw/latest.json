@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-10-17T05:53:23Z",
+  "fetched_at": "2026-10-17T06:53:14Z",
   "station_count": 2107,
   "fuel_types": [
     "E10",
@@ -75,12 +75,12 @@
       "address": "80-82 Central Ave, OAK FLATS NSW 2529",
       "state": "NSW",
       "prices": {
-        "E10": 236.9,
-        "U98": 261.9,
+        "E10": 234.9,
+        "U98": 259.9,
         "Premium Diesel": 279.9,
-        "U91": 238.9
+        "U91": 236.9
       },
-      "updated": "2026-10-14T06:34:21Z",
+      "updated": "2026-10-17T06:32:28Z",
       "lat": -34.562617,
       "lng": 150.819412
     },
@@ -3421,10 +3421,9 @@
       "address": "84 Cowabbie St, COOLAMON NSW 2701",
       "state": "NSW",
       "prices": {
-        "Diesel": 285.9,
         "U91": 253.9
       },
-      "updated": "2026-10-16T03:54:08Z",
+      "updated": "2026-10-08T21:38:37Z",
       "lat": -34.81678,
       "lng": 147.200138
     },
@@ -4997,11 +4996,11 @@
       "address": "88 Clovelly Rd, RANDWICK NSW 2031",
       "state": "NSW",
       "prices": {
-        "U98": 265.9,
+        "U98": 263.9,
         "Premium Diesel": 279.9,
-        "U91": 241.9
+        "U91": 239.9
       },
-      "updated": "2026-10-16T06:15:09Z",
+      "updated": "2026-10-17T06:20:30Z",
       "lat": -33.909141,
       "lng": 151.248626
     },
@@ -7958,9 +7957,11 @@
       "address": "46 Albert ST, Freshwater NSW 2096",
       "state": "NSW",
       "prices": {
+        "Diesel": 282.9,
+        "E10": 230.9,
         "U98": 258.9
       },
-      "updated": "2026-10-16T08:25:58Z",
+      "updated": "2026-10-17T06:09:08Z",
       "lat": -33.777395,
       "lng": 151.286952
     },
@@ -9519,11 +9520,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 271.9,
-        "E10": 239.9,
-        "U98": 266.9,
+        "E10": 237.9,
+        "U98": 263.9,
         "U91": 241.9
       },
-      "updated": "2026-10-15T20:44:06Z",
+      "updated": "2026-10-17T05:53:27Z",
       "lat": -34.465994,
       "lng": 150.872235
     },
@@ -11354,11 +11355,11 @@
       "state": "NSW",
       "prices": {
         "E10": 239.4,
-        "U98": 263.8,
+        "U98": 264.8,
         "Premium Diesel": 276.9,
         "U91": 235.4
       },
-      "updated": "2026-10-16T16:13:25Z",
+      "updated": "2026-10-17T06:52:10Z",
       "lat": -33.88394,
       "lng": 151.150779
     },
@@ -12377,12 +12378,12 @@
       "address": "12 Pacific HWY, Ourimbah NSW 2258",
       "state": "NSW",
       "prices": {
-        "LPG": 99.9,
-        "U98": 259.9,
-        "Premium Diesel": 279.7,
-        "U91": 236.9
+        "LPG": 94.9,
+        "U98": 254.9,
+        "Premium Diesel": 274.7,
+        "U91": 231.9
       },
-      "updated": "2026-10-16T16:12:50Z",
+      "updated": "2026-10-17T06:51:50Z",
       "lat": -33.36297,
       "lng": 151.371353
     },
@@ -23955,12 +23956,12 @@
       "address": "52 Cardiff Road, Elermore Vale NSW 2287",
       "state": "NSW",
       "prices": {
-        "U95": 263.7,
-        "U98": 271.7,
+        "U95": 261.7,
+        "U98": 269.7,
         "Premium Diesel": 279.7,
-        "U91": 244.7
+        "U91": 242.7
       },
-      "updated": "2026-10-14T03:12:51Z",
+      "updated": "2026-10-17T06:51:06Z",
       "lat": -32.914543,
       "lng": 151.672747
     },
@@ -31534,11 +31535,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 269.9,
-        "E10": 235.9,
-        "U98": 257.9,
-        "U91": 237.9
+        "E10": 232.9,
+        "U98": 254.9,
+        "U91": 234.9
       },
-      "updated": "2026-10-17T00:34:57Z",
+      "updated": "2026-10-17T06:16:53Z",
       "lat": -36.075549,
       "lng": 146.925641
     },
@@ -31614,12 +31615,12 @@
       "address": "15-17 Castlereagh ST, Gilgandra NSW 2827",
       "state": "NSW",
       "prices": {
-        "Diesel": 278.9,
+        "Diesel": 276.9,
         "U98": 265.9,
-        "Premium Diesel": 279.9,
-        "U91": 242.9
+        "Premium Diesel": 277.9,
+        "U91": 241.9
       },
-      "updated": "2026-10-16T02:19:24Z",
+      "updated": "2026-10-17T06:28:06Z",
       "lat": -31.716598,
       "lng": 148.658731
     },
@@ -33212,7 +33213,6 @@
       "state": "NSW",
       "prices": {
         "E10": 235.9,
-        "U95": 249.9,
         "Premium Diesel": 275.5
       },
       "updated": "2026-10-16T10:59:51Z",

@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-17T05:53:23Z",
+  "fetched_at": "2026-10-17T06:53:14Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1272,
   "by_state": {
     "ACT": 8,
     "NSW": 1158,
@@ -9,7 +9,7 @@
     "QLD": 28,
     "SA": 29,
     "TAS": 1,
-    "VIC": 16
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -50,9 +50,10 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "Apco": 1,
+    "Goughs Bay Fuel": 1,
+    "ETA PETROLEUM": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "Apco": 1
   },
   "stations": [
     {
@@ -11582,6 +11583,20 @@
       "lat": -38.33434482,
       "lng": 144.72831692,
       "unavailable_fuels": [
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Goughs Bay Fuel",
+      "code": "VIC:y5r/ZoehrEkeX7eUXO7T4DmIY/gGvQ8dnE1gwSPNZ/8=",
+      "name": "Goughs Bay General Store",
+      "address": "4 Howes Creek-Goughs Bay Road, GOUGHS BAY, 3723",
+      "state": "VIC",
+      "lat": -37.18058949,
+      "lng": 146.06750365,
+      "unavailable_fuels": [
+        "Diesel",
         "U91",
         "U98"
       ]

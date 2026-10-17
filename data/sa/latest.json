@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-17T15:56:10Z",
+  "fetched_at": "2026-10-17T16:34:06Z",
   "station_count": 698,
   "fuel_types": [
     "E10",
@@ -1867,14 +1867,16 @@
       "address": "1129-1131 South Rd & Southern Av, SA 5042",
       "state": "SA",
       "prices": {
-        "U91": 223.4,
         "U95": 239.4,
         "U98": 247.0,
         "Premium Diesel": 279.5
       },
-      "updated": "2026-10-17T00:27:11Z",
+      "updated": "2026-10-15T04:37:09Z",
       "lat": -34.994294,
-      "lng": 138.575128
+      "lng": 138.575128,
+      "unavailable_fuels": [
+        "U91"
+      ]
     },
     {
       "brand": "Caltex",
@@ -2918,7 +2920,7 @@
         "U98": 255.9,
         "Premium Diesel": 285.9
       },
-      "updated": "2026-10-17T15:40:18Z",
+      "updated": "2026-10-17T16:25:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5419,7 +5421,7 @@
         "U98": 265.9,
         "Premium Diesel": 282.9
       },
-      "updated": "2026-10-17T15:40:18Z",
+      "updated": "2026-10-17T16:25:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },

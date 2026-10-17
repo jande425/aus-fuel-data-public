@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-17T15:56:10Z",
+  "fetched_at": "2026-10-17T16:34:06Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1270,
+  "station_count": 1272,
   "by_state": {
     "ACT": 8,
     "NSW": 1158,
     "NT": 30,
-    "QLD": 28,
+    "QLD": 30,
     "SA": 29,
     "TAS": 1,
     "VIC": 16
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 16,
+    "Ampol": 18,
     "Caltex": 12,
     "Shell": 10,
     "Puma Energy": 10,
@@ -10818,6 +10818,37 @@
       "state": "NT",
       "lat": -22.25346,
       "lng": 131.795078
+    },
+    {
+      "brand": "Ampol",
+      "code": "QLD:61477037",
+      "name": "Ampol Foodary Mareeba",
+      "address": "70 Byrnes Street, QLD 4880",
+      "state": "QLD",
+      "lat": -16.990774,
+      "lng": 145.421748,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "QLD:61401772",
+      "name": "Ampol Foodary Slacks Creek",
+      "address": "115-119 Paradise Road, QLD 4127",
+      "state": "QLD",
+      "lat": -27.640701,
+      "lng": 153.131201,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Ampol",

@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-16T23:55:10Z",
+  "fetched_at": "2026-10-17T00:40:19Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1270,
+  "station_count": 1269,
   "by_state": {
     "ACT": 8,
     "NSW": 1158,
@@ -9,7 +9,7 @@
     "QLD": 28,
     "SA": 28,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 16
   },
   "by_brand": {
     "Exploren": 236,
@@ -26,9 +26,9 @@
     "JOLT": 20,
     "Ampol": 16,
     "Caltex": 12,
-    "United": 10,
     "Shell": 10,
     "Puma Energy": 10,
+    "United": 9,
     "EVUp": 9,
     "Metro Fuel": 7,
     "Evie Networks": 7,
@@ -49,9 +49,9 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Metro Petroleum": 1,
     "Apco": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -11673,24 +11673,6 @@
         "Diesel",
         "LPG",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "United",
-      "code": "VIC:U1vJMXhuMN0/heJ+kheRzWGvy5uLWTPjVGGBgHdJaek=",
-      "name": "United Hastings West",
-      "address": "1996 Frankston-Flinders Road, Hastings, 3915",
-      "state": "VIC",
-      "lat": -38.29934886,
-      "lng": 145.18332684,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "E85",
-        "LPG",
-        "U91",
-        "U95",
         "U98"
       ]
     },

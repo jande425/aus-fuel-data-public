@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-17T07:27:50Z",
+  "fetched_at": "2026-10-17T11:42:22Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1271,
   "by_state": {
     "ACT": 8,
     "NSW": 1158,
-    "NT": 31,
+    "NT": 30,
     "QLD": 28,
     "SA": 29,
     "TAS": 1,
@@ -26,8 +26,8 @@
     "JOLT": 20,
     "Ampol": 16,
     "Caltex": 12,
-    "Puma Energy": 11,
     "Shell": 10,
+    "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
     "Metro Fuel": 7,
@@ -51,8 +51,8 @@
     "X Convenience": 1,
     "Perrys": 1,
     "Goughs Bay Fuel": 1,
-    "ETA PETROLEUM": 1,
     "Apco": 1,
+    "ETA PETROLEUM": 1,
     "Metro Petroleum": 1
   },
   "stations": [
@@ -10756,15 +10756,6 @@
       "state": "NT",
       "lat": -24.340135,
       "lng": 133.458759
-    },
-    {
-      "brand": "Puma Energy",
-      "code": "NT:08220126",
-      "name": "Thamarrurr Development Corporation Mechanical Workshop",
-      "address": "Lot 485 Perdjert Street, WADEYE, 0822, NT",
-      "state": "NT",
-      "lat": -14.237557,
-      "lng": 129.520224
     },
     {
       "brand": "Puma Energy",

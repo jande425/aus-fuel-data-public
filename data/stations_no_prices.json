@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-17T01:17:03Z",
+  "fetched_at": "2026-10-17T02:42:46Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1269,
+  "station_count": 1268,
   "by_state": {
     "ACT": 8,
-    "NSW": 1158,
+    "NSW": 1157,
     "NT": 30,
     "QLD": 28,
     "SA": 28,
@@ -20,7 +20,7 @@
     "Independent": 78,
     "Chargefox": 72,
     "7-Eleven": 64,
-    "BP": 55,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -49,9 +49,9 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "Perrys": 1,
-    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
-    "Apco": 1
+    "Apco": 1,
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -2492,15 +2492,6 @@
       "state": "NSW",
       "lat": -30.938466,
       "lng": 152.942578
-    },
-    {
-      "brand": "BP",
-      "code": "NSW:343",
-      "name": "BP Coffs Harbour",
-      "address": "136 Pacific Highway, Coffs Harbour NSW 2450",
-      "state": "NSW",
-      "lat": -30.291826,
-      "lng": 153.118513
     },
     {
       "brand": "BP",

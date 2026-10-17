@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-17T02:42:46Z",
+  "fetched_at": "2026-10-17T05:53:23Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1268,
+  "station_count": 1271,
   "by_state": {
     "ACT": 8,
-    "NSW": 1157,
-    "NT": 30,
+    "NSW": 1158,
+    "NT": 31,
     "QLD": 28,
-    "SA": 28,
+    "SA": 29,
     "TAS": 1,
     "VIC": 16
   },
@@ -16,7 +16,7 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 80,
+    "Reddy Express": 81,
     "Independent": 78,
     "Chargefox": 72,
     "7-Eleven": 64,
@@ -26,8 +26,8 @@
     "JOLT": 20,
     "Ampol": 16,
     "Caltex": 12,
+    "Puma Energy": 11,
     "Shell": 10,
-    "Puma Energy": 10,
     "United": 9,
     "EVUp": 9,
     "Metro Fuel": 7,
@@ -48,10 +48,11 @@
     "Enhance": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
+    "X Convenience": 1,
     "Perrys": 1,
-    "ETA PETROLEUM": 1,
     "Apco": 1,
-    "Metro Petroleum": 1
+    "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -8606,6 +8607,15 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "NSW:335",
+      "name": "Shell Reddy Express Nowra",
+      "address": "55 Kinghorne St (Cnr Worrigee St), Nowra NSW 2541",
+      "state": "NSW",
+      "lat": -34.876305,
+      "lng": 150.602472
+    },
+    {
+      "brand": "Reddy Express",
       "code": "NSW:40",
       "name": "Shell Reddy Express Oak Flats",
       "address": "Lot 2 Lake Entrance Road, Oak Flats NSW 2529",
@@ -10748,6 +10758,15 @@
     },
     {
       "brand": "Puma Energy",
+      "code": "NT:08220126",
+      "name": "Thamarrurr Development Corporation Mechanical Workshop",
+      "address": "Lot 485 Perdjert Street, WADEYE, 0822, NT",
+      "state": "NT",
+      "lat": -14.237557,
+      "lng": 129.520224
+    },
+    {
+      "brand": "Puma Energy",
       "code": "NT:08720019",
       "name": "Ti Tree Store",
       "address": "35 Spencer St, Ti Tree , 0872, NT",
@@ -11430,6 +11449,20 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "X Convenience",
+      "code": "SA:61501450",
+      "name": "X Convenience Port Adelaide",
+      "address": "Lot 12 Grand Junction Road, SA 5015",
+      "state": "SA",
+      "lat": -34.852745,
+      "lng": 138.504511,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U98"
       ]
     },
     {

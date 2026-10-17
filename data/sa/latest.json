@@ -2,8 +2,8 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-17T02:42:46Z",
-  "station_count": 699,
+  "fetched_at": "2026-10-17T05:53:23Z",
+  "station_count": 698,
   "fuel_types": [
     "E10",
     "U91",
@@ -753,12 +753,12 @@
       "address": "1003 North East Rd & Montague Rd, SA 5092",
       "state": "SA",
       "prices": {
-        "U91": 238.9,
+        "U91": 236.9,
         "U95": 253.9,
         "U98": 259.9,
         "Premium Diesel": 282.9
       },
-      "updated": "2026-10-17T00:12:11Z",
+      "updated": "2026-10-17T05:32:09Z",
       "lat": -34.828314,
       "lng": 138.692099
     },
@@ -2717,9 +2717,9 @@
         "U91": 237.9,
         "U95": 254.9,
         "U98": 264.9,
-        "Premium Diesel": 287.9
+        "Premium Diesel": 286.9
       },
-      "updated": "2026-10-15T22:18:53Z",
+      "updated": "2026-10-17T04:49:09Z",
       "lat": -34.863683982832576,
       "lng": 138.514615
     },
@@ -2918,7 +2918,7 @@
         "U98": 255.9,
         "Premium Diesel": 285.9
       },
-      "updated": "2026-10-17T02:40:18Z",
+      "updated": "2026-10-17T05:40:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -3057,13 +3057,13 @@
       "address": "61 Seaford Road, SA 5169",
       "state": "SA",
       "prices": {
-        "U91": 231.5,
+        "U91": 231.0,
         "Diesel": 282.9,
         "U95": 252.9,
         "U98": 257.4,
         "Premium Diesel": 287.9
       },
-      "updated": "2026-10-16T20:17:09Z",
+      "updated": "2026-10-17T03:22:10Z",
       "lat": -35.180373,
       "lng": 138.483225
     },
@@ -3546,23 +3546,6 @@
       "updated": "2026-10-02T02:51:02Z",
       "lat": -34.145273,
       "lng": 138.411617
-    },
-    {
-      "brand": "X Convenience",
-      "code": "SA:61501450",
-      "name": "X Convenience Port Adelaide",
-      "address": "Lot 12 Grand Junction Road, SA 5015",
-      "state": "SA",
-      "prices": {
-        "U91": 229.5
-      },
-      "updated": "2026-10-15T22:19:12Z",
-      "lat": -34.852745,
-      "lng": 138.504511,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U98"
-      ]
     },
     {
       "brand": "Independent",
@@ -4923,11 +4906,11 @@
       "state": "SA",
       "prices": {
         "U91": 239.9,
-        "Diesel": 278.9,
+        "Diesel": 276.9,
         "U98": 265.9,
-        "Premium Diesel": 280.9
+        "Premium Diesel": 278.9
       },
-      "updated": "2026-10-14T23:55:22Z",
+      "updated": "2026-10-17T03:49:20Z",
       "lat": -36.10511568799039,
       "lng": 140.36172703098566
     },
@@ -5436,7 +5419,7 @@
         "U98": 265.9,
         "Premium Diesel": 282.9
       },
-      "updated": "2026-10-17T02:40:18Z",
+      "updated": "2026-10-17T05:40:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -7201,12 +7184,12 @@
       "state": "SA",
       "prices": {
         "U91": 235.9,
-        "Diesel": 284.9,
+        "Diesel": 282.9,
         "LPG": 111.9,
         "U98": 258.9,
         "E10": 231.9
       },
-      "updated": "2026-10-13T23:50:11Z",
+      "updated": "2026-10-17T02:55:10Z",
       "lat": -34.53302890075858,
       "lng": 138.43749631318542
     },
@@ -8428,12 +8411,12 @@
       "address": "596-600 North East Road, SA 5088",
       "state": "SA",
       "prices": {
-        "U91": 232.5,
+        "U91": 234.0,
         "U95": 242.1,
         "U98": 257.0,
         "Premium Diesel": 289.5
       },
-      "updated": "2026-10-17T02:22:09Z",
+      "updated": "2026-10-17T05:12:09Z",
       "lat": -34.854245,
       "lng": 138.662346
     },
@@ -10638,14 +10621,16 @@
       "address": "2-4 Adelaide Rd, SA 5211",
       "state": "SA",
       "prices": {
-        "U91": 229.9,
         "U95": 245.9,
         "U98": 253.9,
         "Premium Diesel": 266.9
       },
       "updated": "2026-10-15T00:16:09Z",
       "lat": -35.53570791596358,
-      "lng": 138.6395459216282
+      "lng": 138.6395459216282,
+      "unavailable_fuels": [
+        "U91"
+      ]
     },
     {
       "brand": "Perrys",

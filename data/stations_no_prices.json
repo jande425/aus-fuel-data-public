@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-18T19:59:13Z",
+  "fetched_at": "2026-10-18T21:39:35Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1274,
   "by_state": {
     "ACT": 8,
     "NSW": 1159,
     "NT": 30,
-    "QLD": 28,
-    "SA": 30,
+    "QLD": 29,
+    "SA": 31,
     "TAS": 1,
     "VIC": 16
   },
@@ -39,6 +39,7 @@
     "Ampol Foodary": 3,
     "Speedway": 3,
     "Budget": 2,
+    "EG Ampol": 2,
     "Indervon": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
@@ -50,8 +51,8 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "Apco": 1,
     "ETA PETROLEUM": 1,
+    "Apco": 1,
     "Metro Petroleum": 1
   },
   "stations": [
@@ -10649,6 +10650,15 @@
       "lng": 132.673207
     },
     {
+      "brand": "EG Ampol",
+      "code": "NT:08100049",
+      "name": "EG Ampol Casuarina",
+      "address": "283 Trower Road, Casuarina, 0810, NT",
+      "state": "NT",
+      "lat": -12.37214,
+      "lng": 130.8837
+    },
+    {
       "brand": "Independent",
       "code": "NT:08470151",
       "name": "Goymarr Tourist Park",
@@ -10757,15 +10767,6 @@
       "lng": 130.837418
     },
     {
-      "brand": "Ampol",
-      "code": "NT:08720154",
-      "name": "Stuarts Well Roadhouse",
-      "address": "8864 Stuart Highway, HUGH, 0872, NT",
-      "state": "NT",
-      "lat": -24.340135,
-      "lng": 133.458759
-    },
-    {
       "brand": "Puma Energy",
       "code": "NT:08720019",
       "name": "Ti Tree Store",
@@ -10872,6 +10873,22 @@
       "state": "QLD",
       "lat": -24.865276497096275,
       "lng": 151.1198653325062
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "QLD:61478219",
+      "name": "EG Ampol Caboolture South",
+      "address": "80-90 Morayfield Rd, QLD 4510",
+      "state": "QLD",
+      "lat": -27.096278400080855,
+      "lng": 152.9488247396431,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Enhance",
@@ -11135,6 +11152,20 @@
       "state": "SA",
       "lat": -35.180316,
       "lng": 138.483943
+    },
+    {
+      "brand": "Ampol",
+      "code": "SA:61570114",
+      "name": "Barossa Roadhouse",
+      "address": "371 Angaston Road, SA 5353",
+      "state": "SA",
+      "lat": -34.493874,
+      "lng": 139.027539,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
+      ]
     },
     {
       "brand": "Independent",

@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-18T12:08:16Z",
+  "fetched_at": "2026-10-18T12:35:32Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1274,
+  "station_count": 1273,
   "by_state": {
     "ACT": 8,
-    "NSW": 1160,
+    "NSW": 1159,
     "NT": 30,
     "QLD": 28,
     "SA": 30,
@@ -19,7 +19,7 @@
     "Reddy Express": 81,
     "Independent": 79,
     "Chargefox": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 65,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -504,15 +504,6 @@
       "state": "NSW",
       "lat": -33.385396,
       "lng": 151.365375
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:17131",
-      "name": "7-Eleven Lithgow",
-      "address": "1131 Great Western Hwy, LITHGOW NSW 2790",
-      "state": "NSW",
-      "lat": -33.479907,
-      "lng": 150.13677
     },
     {
       "brand": "7-Eleven",

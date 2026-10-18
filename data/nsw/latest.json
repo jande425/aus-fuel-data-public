@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-10-18T12:08:16Z",
-  "station_count": 2105,
+  "fetched_at": "2026-10-18T12:35:32Z",
+  "station_count": 2106,
   "fuel_types": [
     "E10",
     "U91",
@@ -3573,6 +3573,23 @@
       "updated": "2026-10-15T21:00:38Z",
       "lat": -33.871082,
       "lng": 150.902893
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:17131",
+      "name": "7-Eleven Lithgow",
+      "address": "1131 Great Western Hwy, LITHGOW NSW 2790",
+      "state": "NSW",
+      "prices": {
+        "E10": 247.9,
+        "U95": 266.9,
+        "U98": 275.9,
+        "Premium Diesel": 284.9,
+        "U91": 249.9
+      },
+      "updated": "2026-10-18T12:35:15Z",
+      "lat": -33.479907,
+      "lng": 150.13677
     },
     {
       "brand": "7-Eleven",
@@ -13021,12 +13038,12 @@
       "address": "611-615  Mimosa Street (Corner Forest Road), Bexley NSW 2207",
       "state": "NSW",
       "prices": {
-        "E10": 238.9,
-        "U98": 266.9,
+        "E10": 237.9,
+        "U98": 265.9,
         "Premium Diesel": 283.9,
-        "U91": 240.9
+        "U91": 239.9
       },
-      "updated": "2026-10-16T07:21:14Z",
+      "updated": "2026-10-18T12:21:11Z",
       "lat": -33.955531,
       "lng": 151.118478
     },
@@ -13224,12 +13241,12 @@
       "address": "154-160 Parramatta Road & Corner Bold Street, Granville NSW 2142",
       "state": "NSW",
       "prices": {
-        "E10": 240.9,
-        "U98": 268.9,
+        "E10": 239.9,
+        "U98": 267.9,
         "Premium Diesel": 285.9,
-        "U91": 242.9
+        "U91": 241.9
       },
-      "updated": "2026-10-18T07:12:13Z",
+      "updated": "2026-10-18T12:21:11Z",
       "lat": -33.830128,
       "lng": 151.01003
     },
@@ -25700,7 +25717,6 @@
       "state": "NSW",
       "prices": {
         "Diesel": 277.9,
-        "U95": 258.9,
         "U98": 269.9,
         "U91": 249.9
       },

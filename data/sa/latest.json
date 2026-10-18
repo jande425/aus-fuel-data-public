@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-18T22:24:05Z",
+  "fetched_at": "2026-10-18T22:42:49Z",
   "station_count": 695,
   "fuel_types": [
     "E10",
@@ -1563,13 +1563,13 @@
       "address": "95 Henley Beach Road, SA 5031",
       "state": "SA",
       "prices": {
-        "U91": 232.5,
+        "U91": 229.9,
         "LPG": 108.9,
-        "U95": 248.5,
-        "U98": 257.5,
-        "Premium Diesel": 279.9
+        "U95": 245.9,
+        "U98": 254.9,
+        "Premium Diesel": 278.9
       },
-      "updated": "2026-10-15T23:07:42Z",
+      "updated": "2026-10-18T22:25:22Z",
       "lat": -34.924268,
       "lng": 138.569445
     },
@@ -1596,11 +1596,11 @@
       "address": "299 Henley Beach Road, SA 5032",
       "state": "SA",
       "prices": {
-        "U91": 232.5,
-        "U98": 256.5,
-        "Premium Diesel": 279.9
+        "U91": 229.9,
+        "U98": 253.9,
+        "Premium Diesel": 278.9
       },
-      "updated": "2026-10-15T06:08:55Z",
+      "updated": "2026-10-18T22:37:10Z",
       "lat": -34.924992,
       "lng": 138.547632
     },
@@ -1868,11 +1868,11 @@
       "state": "SA",
       "prices": {
         "U91": 220.9,
-        "U95": 235.4,
+        "U95": 236.9,
         "U98": 250.9,
         "Premium Diesel": 279.5
       },
-      "updated": "2026-10-18T22:12:11Z",
+      "updated": "2026-10-18T22:42:09Z",
       "lat": -34.994294,
       "lng": 138.575128
     },
@@ -2403,12 +2403,12 @@
       "address": "171 Tapleys Hill Rd & Morley Rd, SA 5023",
       "state": "SA",
       "prices": {
-        "U91": 232.9,
+        "U91": 229.5,
         "Diesel": 283.9,
-        "U98": 255.9,
-        "E10": 228.9
+        "U98": 252.5,
+        "E10": 225.5
       },
-      "updated": "2026-10-16T21:50:11Z",
+      "updated": "2026-10-18T22:30:11Z",
       "lat": -34.882187,
       "lng": 138.513093,
       "unavailable_fuels": [
@@ -2918,7 +2918,7 @@
         "U98": 255.9,
         "Premium Diesel": 285.9
       },
-      "updated": "2026-10-18T22:10:18Z",
+      "updated": "2026-10-18T22:40:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5401,7 +5401,7 @@
         "U98": 265.9,
         "Premium Diesel": 282.9
       },
-      "updated": "2026-10-18T22:10:18Z",
+      "updated": "2026-10-18T22:40:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -5861,9 +5861,9 @@
       "address": "3 Burton Terrace, SA 5652",
       "state": "SA",
       "prices": {
-        "Diesel": 278.9
+        "Diesel": 284.9
       },
-      "updated": "2026-10-16T02:36:29Z",
+      "updated": "2026-10-18T22:38:25Z",
       "lat": -33.045925,
       "lng": 135.459698
     },
@@ -7751,9 +7751,9 @@
       "prices": {
         "U91": 228.7,
         "U98": 247.7,
-        "Premium Diesel": 273.7
+        "Premium Diesel": 270.7
       },
-      "updated": "2026-10-15T22:18:34Z",
+      "updated": "2026-10-18T22:37:01Z",
       "lat": -34.8639728811947,
       "lng": 138.58272886725658
     },

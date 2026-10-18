@@ -2,8 +2,8 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-18T02:43:58Z",
-  "station_count": 698,
+  "fetched_at": "2026-10-18T06:20:33Z",
+  "station_count": 697,
   "fuel_types": [
     "E10",
     "U91",
@@ -1867,16 +1867,14 @@
       "address": "1129-1131 South Rd & Southern Av, SA 5042",
       "state": "SA",
       "prices": {
+        "U91": 223.9,
         "U95": 239.4,
         "U98": 247.0,
         "Premium Diesel": 279.5
       },
-      "updated": "2026-10-15T04:37:09Z",
+      "updated": "2026-10-18T05:27:09Z",
       "lat": -34.994294,
-      "lng": 138.575128,
-      "unavailable_fuels": [
-        "U91"
-      ]
+      "lng": 138.575128
     },
     {
       "brand": "Caltex",
@@ -2920,7 +2918,7 @@
         "U98": 255.9,
         "Premium Diesel": 285.9
       },
-      "updated": "2026-10-18T02:40:18Z",
+      "updated": "2026-10-18T06:10:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -4596,22 +4594,6 @@
     },
     {
       "brand": "Independent",
-      "code": "SA:61501639",
-      "name": "OME Fuel",
-      "address": "Lot 1299 Old Water Tank Rd, SA 5723",
-      "state": "SA",
-      "prices": {
-        "Diesel": 314.9
-      },
-      "updated": "2026-10-02T21:27:59Z",
-      "lat": -29.00800992563101,
-      "lng": 134.76149327116394,
-      "unavailable_fuels": [
-        "U91"
-      ]
-    },
-    {
-      "brand": "Independent",
       "code": "SA:61501640",
       "name": "Bulls Garage Coober Pedy",
       "address": "143-147 Hutchison Street, SA 5723",
@@ -5324,7 +5306,7 @@
         "E10": 226.9,
         "Premium Diesel": 266.9
       },
-      "updated": "2026-10-15T04:19:58Z",
+      "updated": "2026-10-18T03:57:21Z",
       "lat": -35.53867770525654,
       "lng": 138.6382512711639
     },
@@ -5419,7 +5401,7 @@
         "U98": 265.9,
         "Premium Diesel": 282.9
       },
-      "updated": "2026-10-18T02:40:18Z",
+      "updated": "2026-10-18T06:10:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -5756,11 +5738,11 @@
       "state": "SA",
       "prices": {
         "U91": 271.9,
-        "Diesel": 294.9,
+        "Diesel": 293.9,
         "LPG": 244.9,
         "U95": 287.9
       },
-      "updated": "2026-10-14T22:27:32Z",
+      "updated": "2026-10-18T04:00:11Z",
       "lat": -30.484152,
       "lng": 136.892523
     },
@@ -5849,12 +5831,14 @@
       "state": "SA",
       "prices": {
         "U91": 249.9,
-        "U98": 271.9,
-        "Premium Diesel": 289.9
+        "U98": 271.9
       },
-      "updated": "2026-10-14T01:32:25Z",
+      "updated": "2026-10-18T03:33:49Z",
       "lat": -33.929323,
-      "lng": 137.631827
+      "lng": 137.631827,
+      "unavailable_fuels": [
+        "Premium Diesel"
+      ]
     },
     {
       "brand": "Perrys",
@@ -6720,7 +6704,7 @@
         "Diesel": 279.9,
         "U98": 271.9
       },
-      "updated": "2026-10-17T08:04:32Z",
+      "updated": "2026-10-18T03:51:46Z",
       "lat": -36.308268,
       "lng": 140.772506
     },
@@ -8379,14 +8363,16 @@
       "state": "SA",
       "prices": {
         "U91": 229.5,
-        "Diesel": 269.5,
         "U98": 251.5,
         "E10": 228.5,
         "Premium Diesel": 272.5
       },
-      "updated": "2026-10-16T00:35:46Z",
+      "updated": "2026-10-18T04:25:24Z",
       "lat": -34.863954,
-      "lng": 138.600776
+      "lng": 138.600776,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
     },
     {
       "brand": "X Convenience",
@@ -8416,7 +8402,7 @@
         "U98": 257.0,
         "Premium Diesel": 291.5
       },
-      "updated": "2026-10-18T01:22:10Z",
+      "updated": "2026-10-18T05:27:09Z",
       "lat": -34.854245,
       "lng": 138.662346
     },
@@ -8476,11 +8462,11 @@
       "prices": {
         "U91": 231.5,
         "Diesel": 279.5,
-        "U98": 253.5,
+        "U98": 254.5,
         "E10": 229.5,
         "Premium Diesel": 282.5
       },
-      "updated": "2026-10-15T01:41:02Z",
+      "updated": "2026-10-18T05:37:28Z",
       "lat": -34.673921,
       "lng": 138.683178
     },
@@ -8793,12 +8779,12 @@
       "address": "839 North East Road, SA 5093",
       "state": "SA",
       "prices": {
-        "U91": 239.9,
+        "U91": 235.9,
         "Diesel": 279.9,
-        "U95": 254.9,
-        "U98": 262.9
+        "U95": 250.9,
+        "U98": 258.9
       },
-      "updated": "2026-10-13T00:24:49Z",
+      "updated": "2026-10-18T03:48:55Z",
       "lat": -34.84006936926389,
       "lng": 138.67490129828644
     },
@@ -8992,11 +8978,11 @@
         "U91": 231.5,
         "Diesel": 279.5,
         "LPG": 99.5,
-        "U98": 253.5,
+        "U98": 254.5,
         "E10": 229.5,
         "Premium Diesel": 282.5
       },
-      "updated": "2026-10-16T04:35:38Z",
+      "updated": "2026-10-18T05:45:36Z",
       "lat": -34.69801028830176,
       "lng": 138.65642178902436
     },

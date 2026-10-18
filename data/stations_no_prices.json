@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-18T02:43:58Z",
+  "fetched_at": "2026-10-18T06:20:33Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1271,
   "by_state": {
@@ -7,9 +7,9 @@
     "NSW": 1158,
     "NT": 30,
     "QLD": 28,
-    "SA": 29,
+    "SA": 30,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 16
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "Independent": 78,
+    "Independent": 79,
     "Chargefox": 72,
     "7-Eleven": 64,
     "BP": 54,
@@ -32,8 +32,8 @@
     "EVUp": 9,
     "Metro Fuel": 7,
     "Evie Networks": 7,
-    "Liberty": 7,
     "Mobil": 7,
+    "Liberty": 6,
     "Pearl Energy": 5,
     "Everty": 4,
     "Ampol Foodary": 3,
@@ -51,8 +51,8 @@
     "X Convenience": 1,
     "Perrys": 1,
     "Metro Petroleum": 1,
-    "Apco": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -11302,6 +11302,19 @@
     },
     {
       "brand": "Independent",
+      "code": "SA:61501639",
+      "name": "OME Fuel",
+      "address": "Lot 1299 Old Water Tank Rd, SA 5723",
+      "state": "SA",
+      "lat": -29.00800992563101,
+      "lng": 134.76149327116394,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91"
+      ]
+    },
+    {
+      "brand": "Independent",
       "code": "SA:61577334",
       "name": "One Tree Hill General Store and Dinner",
       "address": "Shop A lot 2 Blacktop Road, SA 5114",
@@ -11575,18 +11588,6 @@
       "unavailable_fuels": [
         "U91",
         "U98"
-      ]
-    },
-    {
-      "brand": "Liberty",
-      "code": "VIC:vboRVDxv5lfupbgTXoe7bomKpJ5CFXtvtwNOeYYjwhw=",
-      "name": "Liberty Horsham 24hr Unmanned",
-      "address": "93 Dimboola Road, HORSHAM, 3400",
-      "state": "VIC",
-      "lat": -36.70418384,
-      "lng": 142.18240655,
-      "unavailable_fuels": [
-        "Diesel"
       ]
     },
     {

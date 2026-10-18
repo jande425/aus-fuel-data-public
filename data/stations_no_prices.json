@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-18T12:56:27Z",
+  "fetched_at": "2026-10-18T16:41:24Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1272,
   "by_state": {
     "ACT": 8,
     "NSW": 1159,
@@ -9,7 +9,7 @@
     "QLD": 28,
     "SA": 30,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 16
   },
   "by_brand": {
     "Exploren": 236,
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 17,
+    "Ampol": 16,
     "Caltex": 12,
     "Shell": 10,
     "Puma Energy": 10,
@@ -50,8 +50,8 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "Apco": 1,
     "ETA PETROLEUM": 1,
+    "Apco": 1,
     "Metro Petroleum": 1
   },
   "stations": [
@@ -11526,21 +11526,6 @@
         "LPG",
         "U91",
         "U95"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "VIC:Vz4cKapdR5YFhubaPmIhitilP43QWx0wy8fbjRGHxno=",
-      "name": "Ampol Foodary Footscray",
-      "address": "62-82 Gordon Street, Footscray, 3011",
-      "state": "VIC",
-      "lat": -37.78670915036687,
-      "lng": 144.8898645440411,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {

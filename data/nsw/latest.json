@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-10-18T16:41:24Z",
+  "fetched_at": "2026-10-18T17:19:23Z",
   "station_count": 2106,
   "fuel_types": [
     "E10",
@@ -5393,12 +5393,12 @@
       "address": "33-37 Carrington Rd, RANDWICK NSW 2031",
       "state": "NSW",
       "prices": {
-        "E10": 240.7,
-        "U98": 267.7,
+        "E10": 267.9,
+        "U98": 289.9,
         "Premium Diesel": 281.9,
-        "U91": 242.7
+        "U91": 269.9
       },
-      "updated": "2026-10-17T00:41:47Z",
+      "updated": "2026-10-18T16:58:22Z",
       "lat": -33.906507,
       "lng": 151.252581
     },

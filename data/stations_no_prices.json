@@ -1,23 +1,23 @@
 {
-  "fetched_at": "2026-10-19T01:12:13Z",
+  "fetched_at": "2026-10-19T02:57:23Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1274,
   "by_state": {
     "ACT": 8,
     "NSW": 1158,
     "NT": 29,
-    "QLD": 30,
+    "QLD": 31,
     "SA": 30,
     "TAS": 1,
-    "VIC": 16
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
-    "Independent": 78,
+    "Reddy Express": 82,
+    "Independent": 79,
     "Chargefox": 72,
     "7-Eleven": 64,
     "BP": 54,
@@ -11090,6 +11090,22 @@
       "lng": 149.797847
     },
     {
+      "brand": "Reddy Express",
+      "code": "QLD:61401617",
+      "name": "Shell Reddy Express Beenleigh",
+      "address": "1-5 George St (Cnr Boundary Rd), QLD 4207",
+      "state": "QLD",
+      "lat": -27.714342,
+      "lng": 153.193515,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "QLD:61402672",
       "name": "The Post Office Roadhouse",
@@ -11718,6 +11734,20 @@
       "unavailable_fuels": [
         "Diesel",
         "LPG",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Independent",
+      "code": "VIC:GO4ERWQP2W0oryopzSMCUT0IOGG1rWsBBNfMci+zuCQ=",
+      "name": "Thornton Servo",
+      "address": "1294 Goulburn Valley Highway, THORNTON, 3712",
+      "state": "VIC",
+      "lat": -37.25457769,
+      "lng": 145.79843381,
+      "unavailable_fuels": [
+        "Diesel",
         "U91",
         "U98"
       ]

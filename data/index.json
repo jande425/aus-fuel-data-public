@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T16:07:54Z",
+  "last_updated": "2026-10-19T21:11:10Z",
   "total_stations": 7884,
   "total_states": 8,
   "fuel_types": [
@@ -21,56 +21,56 @@
       "station_count": 62,
       "price_count": 264,
       "file": "act/latest.json",
-      "checksum": "736c4b81",
+      "checksum": "d57a159f",
       "size_bytes": 25293
     },
     "NSW": {
       "station_count": 2107,
-      "price_count": 8433,
+      "price_count": 8437,
       "file": "nsw/latest.json",
-      "checksum": "a43c9620",
-      "size_bytes": 837483
+      "checksum": "1d65f931",
+      "size_bytes": 837576
     },
     "NT": {
       "station_count": 211,
       "price_count": 565,
       "file": "nt/latest.json",
-      "checksum": "518ad724",
+      "checksum": "6b67c811",
       "size_bytes": 79666
     },
     "QLD": {
       "station_count": 1776,
-      "price_count": 6897,
+      "price_count": 6896,
       "file": "qld/latest.json",
-      "checksum": "b5628dbe",
-      "size_bytes": 700925
+      "checksum": "61b8915a",
+      "size_bytes": 700955
     },
     "SA": {
       "station_count": 696,
-      "price_count": 2471,
+      "price_count": 2472,
       "file": "sa/latest.json",
-      "checksum": "9fd73c9f",
-      "size_bytes": 269489
+      "checksum": "68f66f78",
+      "size_bytes": 269459
     },
     "TAS": {
       "station_count": 294,
-      "price_count": 1431,
+      "price_count": 1430,
       "file": "tas/latest.json",
-      "checksum": "1980f2eb",
-      "size_bytes": 124036
+      "checksum": "060744b5",
+      "size_bytes": 124003
     },
     "VIC": {
       "station_count": 1743,
-      "price_count": 7135,
+      "price_count": 7139,
       "file": "vic/latest.json",
-      "checksum": "19c15489",
-      "size_bytes": 782471
+      "checksum": "8aee3947",
+      "size_bytes": 782373
     },
     "WA": {
       "station_count": 995,
       "price_count": 3378,
       "file": "wa/latest.json",
-      "checksum": "b1b0df59",
+      "checksum": "36f779c1",
       "size_bytes": 509208
     }
   },

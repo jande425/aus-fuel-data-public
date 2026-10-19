@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-19T16:07:54Z",
+  "fetched_at": "2026-10-19T21:11:10Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1274,
   "by_state": {
@@ -17,14 +17,14 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "Independent": 80,
+    "Independent": 79,
     "Chargefox": 72,
     "7-Eleven": 64,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 16,
+    "Ampol": 17,
     "Caltex": 12,
     "Shell": 10,
     "Puma Energy": 10,
@@ -50,8 +50,8 @@
     "Freedom Fuels": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "ETA PETROLEUM": 1,
     "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1,
     "Apco": 1
   },
   "stations": [
@@ -11552,6 +11552,20 @@
       ]
     },
     {
+      "brand": "Ampol",
+      "code": "VIC:Rd/M59vuh7IHWWagi2BEgLWwLbwvqoF/8tu4p+5f/Pg=",
+      "name": "Ampol Foodary Narre Warren",
+      "address": "Brechin Drive Cnr, 2 Princes Highway, NARRE WARREN, 3805",
+      "state": "VIC",
+      "lat": -38.0217538,
+      "lng": 145.2989383,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "VIC:+3ilgEq9OuCV9hrPLrdOvkQjhTZA8qaBtvRvlUCZQtM=",
       "name": "Bundalong Riverside Resort",
@@ -11732,20 +11746,6 @@
       "unavailable_fuels": [
         "Diesel",
         "LPG",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Independent",
-      "code": "VIC:GO4ERWQP2W0oryopzSMCUT0IOGG1rWsBBNfMci+zuCQ=",
-      "name": "Thornton Servo",
-      "address": "1294 Goulburn Valley Highway, THORNTON, 3712",
-      "state": "VIC",
-      "lat": -37.25457769,
-      "lng": 145.79843381,
-      "unavailable_fuels": [
-        "Diesel",
         "U91",
         "U98"
       ]

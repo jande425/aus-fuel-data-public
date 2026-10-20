@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-20T23:09:55Z",
+  "fetched_at": "2026-10-20T23:35:32Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1276,
   "by_state": {
     "ACT": 8,
-    "NSW": 1160,
+    "NSW": 1159,
     "NT": 29,
     "QLD": 30,
-    "SA": 31,
+    "SA": 32,
     "TAS": 1,
     "VIC": 17
   },
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 17,
+    "Ampol": 18,
     "Caltex": 12,
     "Shell": 10,
     "Puma Energy": 10,
@@ -36,8 +36,8 @@
     "Liberty": 6,
     "Pearl Energy": 5,
     "Everty": 4,
-    "Ampol Foodary": 3,
     "Speedway": 3,
+    "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
     "Perrys": 2,
@@ -2223,15 +2223,6 @@
       "state": "NSW",
       "lat": -32.719967,
       "lng": 152.135661
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:18340",
-      "name": "Ampol Foodary Coolongolook",
-      "address": "Corner Pacific Highway and Midge Street, Coolongolook NSW 2423",
-      "state": "NSW",
-      "lat": -32.216448,
-      "lng": 152.322777
     },
     {
       "brand": "Ampol Foodary",
@@ -11155,6 +11146,22 @@
       "state": "QLD",
       "lat": -16.916483,
       "lng": 145.871647
+    },
+    {
+      "brand": "Ampol",
+      "code": "SA:61501137",
+      "name": "Ampol Foodary Bolivar Gardens",
+      "address": "965 Port Wakefield Road, SA 5110",
+      "state": "SA",
+      "lat": -34.759829,
+      "lng": 138.590985,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Ampol",

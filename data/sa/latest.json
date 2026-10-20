@@ -2,8 +2,8 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-20T23:09:55Z",
-  "station_count": 696,
+  "fetched_at": "2026-10-20T23:35:32Z",
+  "station_count": 695,
   "fuel_types": [
     "E10",
     "U91",
@@ -162,11 +162,11 @@
       "address": "891-895 Main N Rd, SA 5095",
       "state": "SA",
       "prices": {
-        "U91": 233.9,
-        "U98": 258.9,
-        "Premium Diesel": 277.9
+        "U91": 226.9,
+        "U98": 251.9,
+        "Premium Diesel": 272.9
       },
-      "updated": "2026-10-14T21:42:12Z",
+      "updated": "2026-10-20T23:30:08Z",
       "lat": -34.82566079865768,
       "lng": 138.61703023434123,
       "unavailable_fuels": [
@@ -328,12 +328,12 @@
       "address": "76-80 Hampstead Road (Cnr Ian Street), SA 5083",
       "state": "SA",
       "prices": {
-        "U91": 228.9,
+        "U91": 227.4,
         "U95": 247.9,
         "U98": 258.9,
         "Premium Diesel": 282.4
       },
-      "updated": "2026-10-20T20:12:10Z",
+      "updated": "2026-10-20T23:17:09Z",
       "lat": -34.876228,
       "lng": 138.619101
     },
@@ -1128,32 +1128,15 @@
     },
     {
       "brand": "Ampol",
-      "code": "SA:61501137",
-      "name": "Ampol Foodary Bolivar Gardens",
-      "address": "965 Port Wakefield Road, SA 5110",
-      "state": "SA",
-      "prices": {
-        "U91": 239.9,
-        "Diesel": 282.9,
-        "U95": 256.9,
-        "U98": 266.9,
-        "Premium Diesel": 285.9
-      },
-      "updated": "2026-10-16T03:17:09Z",
-      "lat": -34.759829,
-      "lng": 138.590985
-    },
-    {
-      "brand": "Ampol",
       "code": "SA:61501141",
       "name": "Ampol Foodary Pooraka (Mawson Lakes)",
       "address": "898 Main North Rd & Montague Rd, SA 5095",
       "state": "SA",
       "prices": {
         "U91": 226.9,
-        "Premium Diesel": 276.9
+        "Premium Diesel": 277.4
       },
-      "updated": "2026-10-20T22:17:11Z",
+      "updated": "2026-10-20T23:22:09Z",
       "lat": -34.824046,
       "lng": 138.617185
     },
@@ -1497,12 +1480,12 @@
       "address": "509-511 Anzac Hwy & Pine Av, SA 5045",
       "state": "SA",
       "prices": {
-        "U91": 230.9,
-        "U95": 247.9,
-        "U98": 257.9,
+        "U91": 228.9,
+        "U95": 245.9,
+        "U98": 255.9,
         "Premium Diesel": 279.9
       },
-      "updated": "2026-10-19T00:17:10Z",
+      "updated": "2026-10-20T23:32:10Z",
       "lat": -34.975548,
       "lng": 138.528485
     },
@@ -2550,13 +2533,15 @@
       "state": "SA",
       "prices": {
         "U91": 238.9,
-        "U95": 255.9,
         "U98": 265.9,
         "Premium Diesel": 284.9
       },
-      "updated": "2026-10-20T04:41:08Z",
+      "updated": "2026-10-20T23:15:54Z",
       "lat": -35.02118050775076,
-      "lng": 138.6155685018177
+      "lng": 138.6155685018177,
+      "unavailable_fuels": [
+        "U95"
+      ]
     },
     {
       "brand": "On the Run",
@@ -2916,7 +2901,7 @@
         "U98": 255.9,
         "Premium Diesel": 285.9
       },
-      "updated": "2026-10-20T22:55:18Z",
+      "updated": "2026-10-20T23:25:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5415,7 +5400,7 @@
         "U98": 265.9,
         "Premium Diesel": 282.9
       },
-      "updated": "2026-10-20T22:55:18Z",
+      "updated": "2026-10-20T23:25:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -8138,12 +8123,12 @@
       "state": "SA",
       "prices": {
         "U91": 236.9,
-        "Diesel": 283.9,
+        "Diesel": 282.9,
         "U95": 253.9,
         "U98": 263.9,
-        "Premium Diesel": 286.9
+        "Premium Diesel": 285.9
       },
-      "updated": "2026-10-20T20:02:10Z",
+      "updated": "2026-10-20T23:12:10Z",
       "lat": -34.715873,
       "lng": 138.601796
     },
@@ -8295,13 +8280,13 @@
       "address": "40 Frederick Rd, SA 5021",
       "state": "SA",
       "prices": {
-        "U91": 238.9,
+        "U91": 227.9,
         "LPG": 108.9,
-        "U95": 254.9,
-        "U98": 263.9,
-        "Premium Diesel": 287.9
+        "U95": 243.9,
+        "U98": 252.9,
+        "Premium Diesel": 282.9
       },
-      "updated": "2026-10-13T23:50:55Z",
+      "updated": "2026-10-20T23:25:15Z",
       "lat": -34.88036644118986,
       "lng": 138.5032417410698
     },
@@ -8378,11 +8363,11 @@
       "state": "SA",
       "prices": {
         "U91": 229.5,
-        "U95": 241.6,
-        "U98": 252.0,
+        "U95": 244.1,
+        "U98": 251.5,
         "Premium Diesel": 289.4
       },
-      "updated": "2026-10-20T21:32:11Z",
+      "updated": "2026-10-20T23:17:09Z",
       "lat": -34.854245,
       "lng": 138.662346
     },
@@ -8810,12 +8795,12 @@
       "state": "SA",
       "prices": {
         "U91": 228.5,
-        "Diesel": 279.5,
+        "Diesel": 269.5,
         "U98": 250.5,
         "E10": 227.5,
-        "Premium Diesel": 282.5
+        "Premium Diesel": 272.5
       },
-      "updated": "2026-10-19T21:21:04Z",
+      "updated": "2026-10-20T23:15:21Z",
       "lat": -34.821243,
       "lng": 138.638303
     },
@@ -10032,12 +10017,12 @@
       "state": "SA",
       "prices": {
         "U91": 228.5,
-        "Diesel": 279.5,
+        "Diesel": 269.5,
         "U98": 250.5,
         "E10": 227.5,
-        "Premium Diesel": 282.5
+        "Premium Diesel": 272.5
       },
-      "updated": "2026-10-19T20:41:03Z",
+      "updated": "2026-10-20T23:15:27Z",
       "lat": -34.860945,
       "lng": 138.618003
     },

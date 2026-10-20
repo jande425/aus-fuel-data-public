@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-20T07:28:49Z",
+  "fetched_at": "2026-10-20T08:52:37Z",
   "station_count": 696,
   "fuel_types": [
     "E10",
@@ -755,11 +755,11 @@
       "address": "1003 North East Rd & Montague Rd, SA 5092",
       "state": "SA",
       "prices": {
-        "U91": 227.9,
+        "U91": 227.4,
         "U95": 246.4,
         "U98": 252.9
       },
-      "updated": "2026-10-20T06:17:09Z",
+      "updated": "2026-10-20T07:32:09Z",
       "lat": -34.828314,
       "lng": 138.692099,
       "unavailable_fuels": [
@@ -2920,7 +2920,7 @@
         "U98": 255.9,
         "Premium Diesel": 285.9
       },
-      "updated": "2026-10-20T07:25:18Z",
+      "updated": "2026-10-20T08:40:20Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -3059,13 +3059,13 @@
       "address": "61 Seaford Road, SA 5169",
       "state": "SA",
       "prices": {
-        "U91": 225.5,
+        "U91": 225.0,
         "Diesel": 282.4,
-        "U95": 248.4,
-        "U98": 250.4,
+        "U95": 247.4,
+        "U98": 249.4,
         "Premium Diesel": 287.4
       },
-      "updated": "2026-10-20T06:17:09Z",
+      "updated": "2026-10-20T08:17:09Z",
       "lat": -35.180373,
       "lng": 138.483225
     },
@@ -3760,14 +3760,12 @@
       "state": "SA",
       "prices": {
         "U91": 244.9,
+        "Diesel": 288.9,
         "U98": 266.9
       },
-      "updated": "2026-10-10T23:21:51Z",
+      "updated": "2026-10-20T08:21:54Z",
       "lat": -35.111942,
-      "lng": 139.286078,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
+      "lng": 139.286078
     },
     {
       "brand": "EG Ampol",
@@ -3854,12 +3852,12 @@
       "address": "36 Cadell St, SA 5214",
       "state": "SA",
       "prices": {
-        "U91": 244.9,
-        "Diesel": 299.9,
-        "U98": 271.9,
-        "Premium Diesel": 300.9
+        "U91": 246.9,
+        "Diesel": 295.9,
+        "U98": 273.9,
+        "Premium Diesel": 297.9
       },
-      "updated": "2026-10-09T06:28:34Z",
+      "updated": "2026-10-20T08:46:19Z",
       "lat": -35.499684,
       "lng": 138.781024
     },
@@ -5423,7 +5421,7 @@
         "U98": 265.9,
         "Premium Diesel": 282.9
       },
-      "updated": "2026-10-20T07:25:18Z",
+      "updated": "2026-10-20T08:40:20Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -6133,12 +6131,12 @@
       "address": "131-145 Griffiths Dv, SA 5169",
       "state": "SA",
       "prices": {
-        "U91": 227.9,
-        "U95": 244.9,
-        "U98": 254.9,
+        "U91": 225.9,
+        "U95": 242.9,
+        "U98": 252.9,
         "Premium Diesel": 281.9
       },
-      "updated": "2026-10-20T00:57:09Z",
+      "updated": "2026-10-20T07:47:09Z",
       "lat": -35.192267,
       "lng": 138.480479
     },

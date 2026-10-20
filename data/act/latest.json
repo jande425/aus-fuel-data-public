@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-10-20T01:08:33Z",
+  "fetched_at": "2026-10-20T01:47:34Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -349,11 +349,11 @@
       "prices": {
         "Diesel": 275.9,
         "LPG": 139.9,
-        "U98": 272.9,
+        "U98": 262.9,
         "Premium Diesel": 277.9,
-        "U91": 247.9
+        "U91": 239.9
       },
-      "updated": "2026-10-12T00:51:50Z",
+      "updated": "2026-10-20T01:08:52Z",
       "lat": -35.3298,
       "lng": 149.163
     },
@@ -397,12 +397,12 @@
       "address": "Cnr Canopus Cres & Atalumba Cl, Giralang ACT 2617",
       "state": "ACT",
       "prices": {
-        "LPG": 127.9,
+        "LPG": 125.9,
         "U98": 272.9,
         "Premium Diesel": 289.9,
         "U91": 246.9
       },
-      "updated": "2026-10-19T19:27:12Z",
+      "updated": "2026-10-20T01:39:14Z",
       "lat": -35.2136,
       "lng": 149.096
     },
@@ -575,12 +575,12 @@
       "state": "ACT",
       "prices": {
         "E10": 245.9,
-        "LPG": 127.9,
+        "LPG": 125.9,
         "U98": 273.9,
         "Premium Diesel": 289.9,
         "U91": 247.9
       },
-      "updated": "2026-10-18T23:54:14Z",
+      "updated": "2026-10-20T01:39:14Z",
       "lat": -35.2207,
       "lng": 149.018
     },
@@ -752,12 +752,12 @@
       "state": "ACT",
       "prices": {
         "E10": 245.9,
-        "LPG": 121.9,
+        "LPG": 123.9,
         "U98": 273.9,
         "Premium Diesel": 289.9,
         "U91": 247.9
       },
-      "updated": "2026-10-16T19:27:14Z",
+      "updated": "2026-10-20T01:45:23Z",
       "lat": -35.365,
       "lng": 149.094
     },

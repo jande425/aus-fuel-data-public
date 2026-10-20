@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-20T22:29:51Z",
+  "fetched_at": "2026-10-20T23:09:55Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1276,
   "by_state": {
     "ACT": 8,
     "NSW": 1160,
     "NT": 29,
     "QLD": 30,
-    "SA": 30,
+    "SA": 31,
     "TAS": 1,
     "VIC": 17
   },
@@ -40,6 +40,7 @@
     "Speedway": 3,
     "Budget": 2,
     "Indervon": 2,
+    "Perrys": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
@@ -49,10 +50,9 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
-    "Perrys": 1,
-    "ETA PETROLEUM": 1,
+    "Metro Petroleum": 1,
     "Apco": 1,
-    "Metro Petroleum": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -11386,6 +11386,19 @@
       "state": "SA",
       "lat": -34.852694,
       "lng": 139.160905
+    },
+    {
+      "brand": "Perrys",
+      "code": "SA:61570042",
+      "name": "Perrys Kyancutta",
+      "address": "11 Railway Terrace, SA 5651",
+      "state": "SA",
+      "lat": -33.133401,
+      "lng": 135.552721,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91"
+      ]
     },
     {
       "brand": "Perrys",

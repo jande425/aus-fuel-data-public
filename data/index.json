@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T03:07:07Z",
-  "total_stations": 7883,
+  "last_updated": "2026-10-20T06:19:18Z",
+  "total_stations": 7884,
   "total_states": 8,
   "fuel_types": [
     "B20",
@@ -21,56 +21,56 @@
       "station_count": 62,
       "price_count": 265,
       "file": "act/latest.json",
-      "checksum": "bd55870c",
+      "checksum": "68dd139e",
       "size_bytes": 25315
     },
     "NSW": {
-      "station_count": 2106,
-      "price_count": 8427,
+      "station_count": 2107,
+      "price_count": 8433,
       "file": "nsw/latest.json",
-      "checksum": "6f516fc8",
-      "size_bytes": 837020
+      "checksum": "5daf683c",
+      "size_bytes": 837457
     },
     "NT": {
       "station_count": 211,
       "price_count": 565,
       "file": "nt/latest.json",
-      "checksum": "e38d3edf",
-      "size_bytes": 79666
+      "checksum": "382f83c2",
+      "size_bytes": 79665
     },
     "QLD": {
-      "station_count": 1776,
-      "price_count": 6894,
+      "station_count": 1777,
+      "price_count": 6898,
       "file": "qld/latest.json",
-      "checksum": "fafd36d2",
-      "size_bytes": 700775
+      "checksum": "d0154b25",
+      "size_bytes": 701198
     },
     "SA": {
-      "station_count": 696,
-      "price_count": 2475,
+      "station_count": 695,
+      "price_count": 2473,
       "file": "sa/latest.json",
-      "checksum": "ce3de749",
-      "size_bytes": 269458
+      "checksum": "1fed640e",
+      "size_bytes": 269099
     },
     "TAS": {
       "station_count": 294,
       "price_count": 1431,
       "file": "tas/latest.json",
-      "checksum": "25ba6617",
+      "checksum": "215dd33b",
       "size_bytes": 124038
     },
     "VIC": {
       "station_count": 1743,
       "price_count": 7142,
       "file": "vic/latest.json",
-      "checksum": "7424d11b",
-      "size_bytes": 782313
+      "checksum": "4a917fec",
+      "size_bytes": 782276
     },
     "WA": {
       "station_count": 995,
       "price_count": 3378,
       "file": "wa/latest.json",
-      "checksum": "459ba4be",
+      "checksum": "21ddf2f0",
       "size_bytes": 509208
     }
   },

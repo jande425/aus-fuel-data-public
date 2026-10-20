@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-10-20T08:52:37Z",
+  "fetched_at": "2026-10-20T12:51:00Z",
   "station_count": 294,
   "fuel_types": [
     "E10",
@@ -241,12 +241,12 @@
       "address": "214 West Tamar Road, Riverside TAS 7250",
       "state": "TAS",
       "prices": {
-        "U95": 259.9,
+        "U95": 257.9,
         "U98": 276.9,
         "Premium Diesel": 286.9,
         "U91": 251.9
       },
-      "updated": "2026-10-20T06:06:31Z",
+      "updated": "2026-10-20T09:36:07Z",
       "lat": -41.4200043,
       "lng": 147.1093515
     },
@@ -615,13 +615,14 @@
       "address": "360-364 Westbury Road, Prospect Vale TAS 7250",
       "state": "TAS",
       "prices": {
+        "Diesel": 286.9,
         "E10": 240.9,
         "U95": 266.9,
         "U98": 265.9,
         "Premium Diesel": 288.9,
         "U91": 249.9
       },
-      "updated": "2026-10-16T05:30:54Z",
+      "updated": "2026-10-20T10:30:33Z",
       "lat": -41.4810797,
       "lng": 147.1259995
     },
@@ -2195,9 +2196,15 @@
       "address": "1 Bollard Drive, Burnie TAS 7320",
       "state": "TAS",
       "prices": {
+        "E10": 231.9,
+        "LPG": 113.9,
+        "U95": 250.9,
+        "U98": 259.9,
+        "Premium Diesel": 279.9,
+        "U91": 233.9,
         "Diesel": 274.9
       },
-      "updated": "2026-10-14T03:38:08Z",
+      "updated": "2026-10-20T11:40:37Z",
       "lat": -41.058771,
       "lng": 145.910512
     },
@@ -2616,13 +2623,13 @@
       "state": "TAS",
       "prices": {
         "Diesel": 284,
-        "E10": 233.9,
+        "E10": 231.9,
         "U95": 265,
-        "U98": 262.9,
+        "U98": 260.9,
         "Premium Diesel": 283.9,
         "U91": 250
       },
-      "updated": "2026-10-20T03:35:50Z",
+      "updated": "2026-10-20T09:34:08Z",
       "lat": -41.2419108,
       "lng": 147.739909
     },
@@ -2918,7 +2925,7 @@
         "U91": 266.9,
         "Diesel": 290.9
       },
-      "updated": "2026-10-20T07:15:18Z",
+      "updated": "2026-10-20T10:45:19Z",
       "lat": -42.12249,
       "lng": 148.28464871
     },
@@ -2929,14 +2936,14 @@
       "address": "2233 Arthur Highway, Copping TAS 7174",
       "state": "TAS",
       "prices": {
-        "E10": 238.9,
+        "E10": 236.9,
         "U95": 270.9,
-        "U98": 266.9,
+        "U98": 264.9,
         "Premium Diesel": 284.9,
         "U91": 257.9,
         "Diesel": 277.9
       },
-      "updated": "2026-10-18T21:18:14Z",
+      "updated": "2026-10-20T12:21:12Z",
       "lat": -42.8194331,
       "lng": 147.8015479
     },
@@ -4472,7 +4479,7 @@
         "U95": 264.9,
         "Premium Diesel": 279.9
       },
-      "updated": "2026-10-20T00:24:59Z",
+      "updated": "2026-10-20T10:52:46Z",
       "lat": -42.8290538,
       "lng": 147.60749095
     },

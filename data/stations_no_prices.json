@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-20T12:51:00Z",
+  "fetched_at": "2026-10-20T13:32:12Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1275,
+  "station_count": 1274,
   "by_state": {
     "ACT": 8,
     "NSW": 1159,
@@ -9,7 +9,7 @@
     "QLD": 29,
     "SA": 31,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 81,
     "Independent": 80,
     "Chargefox": 72,
-    "7-Eleven": 65,
+    "7-Eleven": 64,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -50,9 +50,9 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1,
     "Apco": 1,
-    "ETA PETROLEUM": 1
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -11515,20 +11515,6 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:hnYD2k+KMHFhfu2g4CH/mOlNhIBaam5Vn/WkeXtdsjA=",
-      "name": "7-Eleven McKinnon",
-      "address": "211 Tucker Road, McKinnon, 3204",
-      "state": "VIC",
-      "lat": -37.91256684,
-      "lng": 145.05199391,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "7-Eleven",

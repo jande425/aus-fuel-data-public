@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-10-20T12:51:00Z",
+  "fetched_at": "2026-10-20T13:32:12Z",
   "station_count": 2107,
   "fuel_types": [
     "E10",
@@ -4070,13 +4070,13 @@
       "address": "90-94 Lakeside Dr, KANAHOOKA NSW 2530",
       "state": "NSW",
       "prices": {
-        "Diesel": 279.5,
-        "E10": 237.9,
-        "U95": 254.9,
-        "U98": 259.9,
-        "U91": 239.9
+        "Diesel": 277.5,
+        "E10": 235.9,
+        "U95": 252.9,
+        "U98": 257.9,
+        "U91": 237.9
       },
-      "updated": "2026-10-19T03:27:53Z",
+      "updated": "2026-10-20T13:30:27Z",
       "lat": -34.501175,
       "lng": 150.814575
     },
@@ -19119,13 +19119,13 @@
       "address": "105 Willmington RD, Luddenham NSW 2745",
       "state": "NSW",
       "prices": {
-        "E10": 246.9,
+        "E10": 246.2,
         "U95": 262.9,
         "U98": 266.4,
         "Premium Diesel": 288.9,
         "U91": 248.9
       },
-      "updated": "2026-10-20T03:17:26Z",
+      "updated": "2026-10-20T13:22:26Z",
       "lat": -33.87506,
       "lng": 150.688891
     },
@@ -20526,12 +20526,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 273.5,
-        "E10": 235.5,
-        "U95": 249.5,
-        "U98": 259.5,
-        "U91": 237.5
+        "E10": 267.9,
+        "U95": 283.9,
+        "U98": 289.9,
+        "U91": 269.9
       },
-      "updated": "2026-10-20T02:28:44Z",
+      "updated": "2026-10-20T13:05:22Z",
       "lat": -32.99252,
       "lng": 151.683118
     },
@@ -27763,14 +27763,14 @@
       "address": "100 Rookwood RD, Yagoona NSW 2199",
       "state": "NSW",
       "prices": {
-        "Diesel": 261.7,
-        "E10": 229.9,
+        "Diesel": 262.7,
+        "E10": 230.7,
         "E85": 229.8,
         "LPG": 113.9,
         "U98": 269.9,
         "U91": 232.7
       },
-      "updated": "2026-10-20T09:14:43Z",
+      "updated": "2026-10-20T12:55:43Z",
       "lat": -33.899293,
       "lng": 151.036862
     },
@@ -30123,10 +30123,8 @@
       "address": "42-50 Sydney ST, Muswellbrook NSW 2333",
       "state": "NSW",
       "prices": {
-        "E10": 232.7,
         "U98": 256.7,
-        "Premium Diesel": 283.7,
-        "U91": 234.7
+        "Premium Diesel": 283.7
       },
       "updated": "2026-10-18T06:03:28Z",
       "lat": -32.268627,

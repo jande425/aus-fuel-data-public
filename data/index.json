@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T18:52:14Z",
+  "last_updated": "2026-10-20T22:29:51Z",
   "total_stations": 7884,
   "total_states": 8,
   "fuel_types": [
@@ -21,56 +21,56 @@
       "station_count": 62,
       "price_count": 265,
       "file": "act/latest.json",
-      "checksum": "a8532f76",
+      "checksum": "502d1f62",
       "size_bytes": 25315
     },
     "NSW": {
       "station_count": 2106,
-      "price_count": 8432,
+      "price_count": 8439,
       "file": "nsw/latest.json",
-      "checksum": "6ed59e75",
-      "size_bytes": 837152
+      "checksum": "c0e665ac",
+      "size_bytes": 837306
     },
     "NT": {
       "station_count": 211,
-      "price_count": 565,
+      "price_count": 564,
       "file": "nt/latest.json",
-      "checksum": "d30271fe",
-      "size_bytes": 79665
+      "checksum": "e20710b6",
+      "size_bytes": 79643
     },
     "QLD": {
-      "station_count": 1777,
-      "price_count": 6897,
+      "station_count": 1776,
+      "price_count": 6895,
       "file": "qld/latest.json",
-      "checksum": "aff75c7c",
-      "size_bytes": 701228
+      "checksum": "0e6d3087",
+      "size_bytes": 700812
     },
     "SA": {
-      "station_count": 696,
-      "price_count": 2476,
+      "station_count": 697,
+      "price_count": 2481,
       "file": "sa/latest.json",
-      "checksum": "f32a4b2e",
-      "size_bytes": 269465
+      "checksum": "fe25f111",
+      "size_bytes": 269761
     },
     "TAS": {
       "station_count": 294,
       "price_count": 1433,
       "file": "tas/latest.json",
-      "checksum": "f2d8b853",
-      "size_bytes": 124085
+      "checksum": "1ff82632",
+      "size_bytes": 124087
     },
     "VIC": {
       "station_count": 1743,
-      "price_count": 7140,
+      "price_count": 7139,
       "file": "vic/latest.json",
-      "checksum": "e5d49ef0",
-      "size_bytes": 782337
+      "checksum": "14e553d6",
+      "size_bytes": 782372
     },
     "WA": {
       "station_count": 995,
       "price_count": 3376,
       "file": "wa/latest.json",
-      "checksum": "cc3b1d56",
+      "checksum": "d4f631e5",
       "size_bytes": 509164
     }
   },

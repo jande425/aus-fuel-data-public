@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-21T03:01:33Z",
+  "fetched_at": "2026-10-21T06:18:59Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1276,
   "by_state": {
     "ACT": 8,
-    "NSW": 1160,
-    "NT": 29,
+    "NSW": 1159,
+    "NT": 30,
     "QLD": 30,
     "SA": 31,
     "TAS": 1,
@@ -16,18 +16,18 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
     "Independent": 80,
+    "Reddy Express": 80,
     "Chargefox": 72,
     "7-Eleven": 65,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 17,
+    "Ampol": 16,
     "Caltex": 12,
     "Shell": 11,
-    "Puma Energy": 10,
+    "Puma Energy": 11,
     "United": 9,
     "EVUp": 9,
     "Mobil": 8,
@@ -40,7 +40,6 @@
     "Ampol Foodary": 2,
     "Budget": 2,
     "Indervon": 2,
-    "Perrys": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "Astron": 1,
@@ -50,8 +49,11 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
-    "ETA PETROLEUM": 1,
+    "Perrys": 1,
+    "Shell Express": 1,
+    "Riordan Fuels": 1,
     "Apco": 1,
+    "ETA PETROLEUM": 1,
     "Metro Petroleum": 1
   },
   "stations": [
@@ -8274,15 +8276,6 @@
     },
     {
       "brand": "Reddy Express",
-      "code": "NSW:735",
-      "name": "Shell Reddy  Express Narrabeen",
-      "address": "1418 Pittwater Rd, Narrabeen NSW 2101",
-      "state": "NSW",
-      "lat": -33.700102,
-      "lng": 151.300198
-    },
-    {
-      "brand": "Reddy Express",
       "code": "NSW:391",
       "name": "Shell Reddy  Express Northmead",
       "address": "197 Windsor Road, Northmead NSW 2152",
@@ -10712,6 +10705,15 @@
       "lng": 134.072466
     },
     {
+      "brand": "Puma Energy",
+      "code": "NT:08520106",
+      "name": "Numbulwar Workshop",
+      "address": "Lot 53 Numbulwar, Numbalwar, 0852, NT",
+      "state": "NT",
+      "lat": -14.283876,
+      "lng": 135.725471
+    },
+    {
       "brand": "Independent",
       "code": "NT:08000014",
       "name": "Platinum Fuel Taxi Base",
@@ -11389,19 +11391,6 @@
     },
     {
       "brand": "Perrys",
-      "code": "SA:61570042",
-      "name": "Perrys Kyancutta",
-      "address": "11 Railway Terrace, SA 5651",
-      "state": "SA",
-      "lat": -33.133401,
-      "lng": 135.552721,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91"
-      ]
-    },
-    {
-      "brand": "Perrys",
       "code": "SA:61501655",
       "name": "Perrys Tarlee",
       "address": "21-33 Main North Road, SA 5411",
@@ -11447,6 +11436,21 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "Shell Express",
+      "code": "SA:61550242",
+      "name": "Shell Express Mount Gambier",
+      "address": "100 Commercial St West, SA 5290",
+      "state": "SA",
+      "lat": -37.826524,
+      "lng": 140.775419,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95",
+        "U98"
       ]
     },
     {
@@ -11569,20 +11573,6 @@
         "LPG",
         "U91",
         "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "VIC:Rd/M59vuh7IHWWagi2BEgLWwLbwvqoF/8tu4p+5f/Pg=",
-      "name": "Ampol Foodary Narre Warren",
-      "address": "Brechin Drive Cnr, 2 Princes Highway, NARRE WARREN, 3805",
-      "state": "VIC",
-      "lat": -38.0217538,
-      "lng": 145.2989383,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
         "U98"
       ]
     },
@@ -11725,6 +11715,18 @@
         "Diesel",
         "U91",
         "U95"
+      ]
+    },
+    {
+      "brand": "Riordan Fuels",
+      "code": "VIC:enkEwCBIGeb5u7wtYhfo5A8wMGSGsg/cVXe5DWL0Ha4=",
+      "name": "Riordan Fuels - Swan Hill",
+      "address": "7 Queen Street, Swan Hill, 3585",
+      "state": "VIC",
+      "lat": -35.33286042,
+      "lng": 143.5574137,
+      "unavailable_fuels": [
+        "Diesel"
       ]
     },
     {

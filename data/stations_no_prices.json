@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-21T23:15:52Z",
+  "fetched_at": "2026-10-21T23:52:23Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1278,
+  "station_count": 1276,
   "by_state": {
     "ACT": 8,
-    "NSW": 1161,
+    "NSW": 1160,
     "NT": 30,
     "QLD": 30,
-    "SA": 30,
+    "SA": 29,
     "TAS": 1,
     "VIC": 18
   },
@@ -16,15 +16,15 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Independent": 80,
     "Reddy Express": 80,
+    "Independent": 79,
     "Chargefox": 72,
     "7-Eleven": 67,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 16,
+    "Ampol": 15,
     "Caltex": 12,
     "Shell": 11,
     "Puma Energy": 11,
@@ -5149,15 +5149,6 @@
       "state": "NSW",
       "lat": -33.875181,
       "lng": 151.199863
-    },
-    {
-      "brand": "Independent",
-      "code": "NSW:1824",
-      "name": "Independent Beresfield",
-      "address": "199 Anderson Drive, Beresfield NSW 2322",
-      "state": "NSW",
-      "lat": -32.802715,
-      "lng": 151.651407
     },
     {
       "brand": "Independent",
@@ -11183,20 +11174,6 @@
       "state": "SA",
       "lat": -35.180316,
       "lng": 138.483943
-    },
-    {
-      "brand": "Ampol",
-      "code": "SA:61570114",
-      "name": "Barossa Roadhouse",
-      "address": "371 Angaston Road, SA 5353",
-      "state": "SA",
-      "lat": -34.493874,
-      "lng": 139.027539,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "Independent",

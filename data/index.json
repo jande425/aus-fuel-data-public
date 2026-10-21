@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T23:35:32Z",
-  "total_stations": 7883,
+  "last_updated": "2026-10-21T00:49:43Z",
+  "total_stations": 7882,
   "total_states": 8,
   "fuel_types": [
     "B20",
@@ -21,56 +21,56 @@
       "station_count": 62,
       "price_count": 264,
       "file": "act/latest.json",
-      "checksum": "a1d221ef",
+      "checksum": "6e6c7113",
       "size_bytes": 25293
     },
     "NSW": {
       "station_count": 2107,
-      "price_count": 8437,
+      "price_count": 8436,
       "file": "nsw/latest.json",
-      "checksum": "3ba7a9f7",
-      "size_bytes": 837610
+      "checksum": "1e2310b4",
+      "size_bytes": 837586
     },
     "NT": {
       "station_count": 211,
       "price_count": 564,
       "file": "nt/latest.json",
-      "checksum": "879e46c1",
+      "checksum": "a2953cee",
       "size_bytes": 79643
     },
     "QLD": {
       "station_count": 1776,
       "price_count": 6894,
       "file": "qld/latest.json",
-      "checksum": "0be210b9",
+      "checksum": "945164f5",
       "size_bytes": 700879
     },
     "SA": {
       "station_count": 695,
-      "price_count": 2473,
+      "price_count": 2471,
       "file": "sa/latest.json",
-      "checksum": "54d5b707",
-      "size_bytes": 269031
+      "checksum": "42fde4fa",
+      "size_bytes": 269091
     },
     "TAS": {
       "station_count": 294,
-      "price_count": 1433,
+      "price_count": 1428,
       "file": "tas/latest.json",
-      "checksum": "d3a77910",
-      "size_bytes": 124087
+      "checksum": "f203a475",
+      "size_bytes": 123962
     },
     "VIC": {
-      "station_count": 1743,
+      "station_count": 1742,
       "price_count": 7139,
       "file": "vic/latest.json",
-      "checksum": "baefd2de",
-      "size_bytes": 782367
+      "checksum": "7013a594",
+      "size_bytes": 781922
     },
     "WA": {
       "station_count": 995,
       "price_count": 3376,
       "file": "wa/latest.json",
-      "checksum": "ab71e730",
+      "checksum": "fe8a84cb",
       "size_bytes": 509164
     }
   },

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-21T14:18:09Z",
-  "total_stations": 7881,
+  "last_updated": "2026-10-21T18:09:54Z",
+  "total_stations": 7880,
   "total_states": 8,
   "fuel_types": [
     "B20",
@@ -21,57 +21,57 @@
       "station_count": 62,
       "price_count": 264,
       "file": "act/latest.json",
-      "checksum": "c83c279d",
+      "checksum": "e9da84bf",
       "size_bytes": 25293
     },
     "NSW": {
-      "station_count": 2106,
-      "price_count": 8437,
+      "station_count": 2105,
+      "price_count": 8431,
       "file": "nsw/latest.json",
-      "checksum": "0ddb5003",
-      "size_bytes": 837309
+      "checksum": "71b5b8a7",
+      "size_bytes": 836844
     },
     "NT": {
       "station_count": 210,
       "price_count": 561,
       "file": "nt/latest.json",
-      "checksum": "f7989531",
+      "checksum": "5106f1be",
       "size_bytes": 79260
     },
     "QLD": {
-      "station_count": 1775,
-      "price_count": 6887,
+      "station_count": 1776,
+      "price_count": 6892,
       "file": "qld/latest.json",
-      "checksum": "74d75466",
-      "size_bytes": 700450
+      "checksum": "802615c2",
+      "size_bytes": 700865
     },
     "SA": {
       "station_count": 697,
       "price_count": 2481,
       "file": "sa/latest.json",
-      "checksum": "d557f35b",
+      "checksum": "8ed5f6fe",
       "size_bytes": 269706
     },
     "TAS": {
       "station_count": 294,
       "price_count": 1429,
       "file": "tas/latest.json",
-      "checksum": "72483089",
+      "checksum": "b87381dd",
       "size_bytes": 123979
     },
     "VIC": {
       "station_count": 1742,
       "price_count": 7137,
       "file": "vic/latest.json",
-      "checksum": "eb109df6",
+      "checksum": "eaef7233",
       "size_bytes": 781956
     },
     "WA": {
-      "station_count": 995,
-      "price_count": 3379,
+      "station_count": 994,
+      "price_count": 3356,
       "file": "wa/latest.json",
-      "checksum": "d3824b20",
-      "size_bytes": 623893
+      "checksum": "469ca729",
+      "size_bytes": 508315
     }
   },
   "files": {

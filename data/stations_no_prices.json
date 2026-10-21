@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-21T07:32:54Z",
+  "fetched_at": "2026-10-21T08:52:41Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1276,
+  "station_count": 1279,
   "by_state": {
     "ACT": 8,
-    "NSW": 1159,
+    "NSW": 1161,
     "NT": 30,
-    "QLD": 30,
+    "QLD": 31,
     "SA": 31,
     "TAS": 1,
     "VIC": 17
@@ -19,7 +19,7 @@
     "Independent": 80,
     "Reddy Express": 80,
     "Chargefox": 72,
-    "7-Eleven": 65,
+    "7-Eleven": 68,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -182,6 +182,15 @@
       "state": "NSW",
       "lat": -33.810521,
       "lng": 151.177429
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:20873",
+      "name": "7-Eleven Bankstown Airport",
+      "address": "335 Henry Lawson DR, Bankstown Aerodrome NSW 2200",
+      "state": "NSW",
+      "lat": -33.927522,
+      "lng": 150.98044
     },
     {
       "brand": "7-Eleven",
@@ -443,6 +452,15 @@
       "state": "NSW",
       "lat": -33.99995,
       "lng": 150.86794
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:17130",
+      "name": "7-Eleven Kelso",
+      "address": "64 Sydney Rd, KELSO NSW 2795",
+      "state": "NSW",
+      "lat": -33.418418,
+      "lng": 149.606234
     },
     {
       "brand": "7-Eleven",
@@ -10842,6 +10860,22 @@
         "E10",
         "Premium Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61478210",
+      "name": "7-Eleven Ormeau Hills",
+      "address": "3-7 Tillyroen Rd, QLD 4208",
+      "state": "QLD",
+      "lat": -27.79341239951985,
+      "lng": 153.2585940115998,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

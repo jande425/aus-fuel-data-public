@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-10-21T07:32:54Z",
+  "fetched_at": "2026-10-21T08:52:41Z",
   "station_count": 294,
   "fuel_types": [
     "E10",
@@ -1756,12 +1756,11 @@
       "address": "32-36 Main Road, George Town TAS 7253",
       "state": "TAS",
       "prices": {
-        "E10": 232.9,
-        "U95": 269.9,
         "Diesel": 285.9,
+        "U95": 269.9,
         "U91": 256.9
       },
-      "updated": "2026-10-20T23:07:12Z",
+      "updated": "2026-10-20T01:28:51Z",
       "lat": -41.1082991,
       "lng": 146.8312461
     },
@@ -2325,7 +2324,7 @@
         "U91": 255.9,
         "Diesel": 293.9
       },
-      "updated": "2026-10-19T20:03:15Z",
+      "updated": "2026-10-21T07:51:12Z",
       "lat": -43.068618,
       "lng": 147.2568884
     },
@@ -4965,11 +4964,11 @@
       "address": "156 William ST, Devonport TAS 7310",
       "state": "TAS",
       "prices": {
-        "Diesel": 295.9,
+        "Diesel": 289.9,
         "U95": 279.9,
         "U91": 259.9
       },
-      "updated": "2026-10-11T21:47:26Z",
+      "updated": "2026-10-21T08:14:21Z",
       "lat": -41.17527457,
       "lng": 146.35179133
     }

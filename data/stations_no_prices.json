@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-21T19:04:42Z",
+  "fetched_at": "2026-10-21T22:35:07Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1277,
+  "station_count": 1278,
   "by_state": {
     "ACT": 8,
     "NSW": 1160,
@@ -9,7 +9,7 @@
     "QLD": 30,
     "SA": 31,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
@@ -52,8 +52,9 @@
     "Perrys": 1,
     "Shell Express": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
-    "Riordan Fuels": 1
+    "Riordan Fuels": 1,
+    "Apco": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -11578,6 +11579,23 @@
       "unavailable_fuels": [
         "LPG",
         "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Apco",
+      "code": "VIC:9qtPVydEOFxcerCfYKlr/EKJJUaP/s+LXDm7L/QUfGM=",
+      "name": "APCO Kangaroo Flat - Temporarily Closed",
+      "address": "35-37 High Street, Kangaroo Flat, 3555",
+      "state": "VIC",
+      "lat": -36.78922238,
+      "lng": 144.2452292,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "LPG",
         "U91",
         "U95",
         "U98"

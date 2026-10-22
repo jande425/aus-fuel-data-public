@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-22T07:30:31Z",
+  "fetched_at": "2026-10-22T08:55:15Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1276,
   "by_state": {
     "ACT": 8,
-    "NSW": 1159,
+    "NSW": 1161,
     "NT": 30,
     "QLD": 29,
-    "SA": 29,
+    "SA": 30,
     "TAS": 1,
-    "VIC": 16
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,12 +19,12 @@
     "Reddy Express": 80,
     "Independent": 79,
     "Chargefox": 72,
-    "7-Eleven": 65,
+    "7-Eleven": 68,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 15,
+    "Ampol": 16,
     "Caltex": 12,
     "Puma Energy": 11,
     "Shell": 10,
@@ -180,15 +180,6 @@
       "state": "NSW",
       "lat": -33.810521,
       "lng": 151.177429
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:20873",
-      "name": "7-Eleven Bankstown Airport",
-      "address": "335 Henry Lawson DR, Bankstown Aerodrome NSW 2200",
-      "state": "NSW",
-      "lat": -33.927522,
-      "lng": 150.98044
     },
     {
       "brand": "7-Eleven",
@@ -471,6 +462,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:244",
+      "name": "7-Eleven Kirrawee",
+      "address": "542 Princes Highway, Kirrawee NSW 2232",
+      "state": "NSW",
+      "lat": -34.032382,
+      "lng": 151.075805
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:246",
       "name": "7-Eleven Lambton",
       "address": "21 Croudace & De Vitre Streets, Lambton NSW 2299",
@@ -570,6 +570,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:140",
+      "name": "7-Eleven Mount Pritchard",
+      "address": "352 Elizabeth Drive (Corner Meadow Road), Mount Pritchard NSW 2170",
+      "state": "NSW",
+      "lat": -33.902707,
+      "lng": 150.896724
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:164",
       "name": "7-Eleven Narrabeen",
       "address": "1234 Pittwater Road, Narrabeen NSW 2101",
@@ -603,6 +612,15 @@
       "state": "NSW",
       "lat": -34.877361,
       "lng": 150.604329
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:18258",
+      "name": "7-Eleven Orange North",
+      "address": "68-74 Molong RD, Orange NSW 2800",
+      "state": "NSW",
+      "lat": -33.269627,
+      "lng": 149.082285
     },
     {
       "brand": "7-Eleven",
@@ -11143,6 +11161,22 @@
     },
     {
       "brand": "Ampol",
+      "code": "SA:61501137",
+      "name": "Ampol Foodary Bolivar Gardens",
+      "address": "965 Port Wakefield Road, SA 5110",
+      "state": "SA",
+      "lat": -34.759829,
+      "lng": 138.590985,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
       "code": "SA:61577309",
       "name": "Ampol Seaford Unmanned",
       "address": "55 Seaford Road, SA 5169",
@@ -11496,6 +11530,23 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:fgAT9rDHOF91biFvj6uKoqqlJ+J5h7U82gqdvFqSG6w=",
+      "name": "7-Eleven Mooroolbark",
+      "address": "22 Manchester Road, Mooroolbark, 3138",
+      "state": "VIC",
+      "lat": -37.7871478,
+      "lng": 145.31090372,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "7-Eleven",

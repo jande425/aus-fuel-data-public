@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-22T13:44:37Z",
+  "fetched_at": "2026-10-22T14:18:19Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1248,
+  "station_count": 1247,
   "by_state": {
     "ACT": 8,
-    "NSW": 1159,
+    "NSW": 1158,
     "NT": 5,
     "QLD": 29,
     "SA": 30,
@@ -19,7 +19,7 @@
     "Reddy Express": 80,
     "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 65,
+    "7-Eleven": 64,
     "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -48,9 +48,9 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "Apco": 1,
+    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
-    "Metro Petroleum": 1
+    "Apco": 1
   },
   "stations": [
     {
@@ -457,15 +457,6 @@
       "state": "NSW",
       "lat": -33.759875,
       "lng": 150.726503
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:244",
-      "name": "7-Eleven Kirrawee",
-      "address": "542 Princes Highway, Kirrawee NSW 2232",
-      "state": "NSW",
-      "lat": -34.032382,
-      "lng": 151.075805
     },
     {
       "brand": "7-Eleven",

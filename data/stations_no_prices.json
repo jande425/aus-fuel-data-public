@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-22T03:00:20Z",
+  "fetched_at": "2026-10-22T06:22:45Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1276,
+  "station_count": 1274,
   "by_state": {
     "ACT": 8,
-    "NSW": 1162,
+    "NSW": 1160,
     "NT": 30,
     "QLD": 29,
     "SA": 29,
@@ -16,7 +16,7 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
+    "Reddy Express": 80,
     "Independent": 79,
     "Chargefox": 72,
     "7-Eleven": 65,
@@ -26,8 +26,8 @@
     "JOLT": 20,
     "Ampol": 15,
     "Caltex": 12,
-    "Shell": 11,
     "Puma Energy": 11,
+    "Shell": 10,
     "United": 9,
     "EVUp": 9,
     "Mobil": 8,
@@ -50,8 +50,8 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
+    "Metro Petroleum": 1,
     "Riordan Fuels": 1,
     "Apco": 1
   },
@@ -8149,15 +8149,6 @@
     },
     {
       "brand": "Shell",
-      "code": "NSW:20931",
-      "name": "Shell Lake Cargelligo",
-      "address": "108 Canada ST, Lake Cargelligo NSW 2672",
-      "state": "NSW",
-      "lat": -33.293042,
-      "lng": 146.372405
-    },
-    {
-      "brand": "Shell",
       "code": "NSW:20020",
       "name": "Shell Narrabri Truck Stop",
       "address": "Shell Service Station 11553 Newell HWY, Narrabri NSW 2390",
@@ -8209,15 +8200,6 @@
       "state": "NSW",
       "lat": -33.435578,
       "lng": 151.385108
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:669",
-      "name": "Shell Reddy  Express Forestville",
-      "address": "665-671 Warringah Rd (Cnr Cook St), Forestville NSW 2087",
-      "state": "NSW",
-      "lat": -33.76068,
-      "lng": 151.218168
     },
     {
       "brand": "Reddy Express",

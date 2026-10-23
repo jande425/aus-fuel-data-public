@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-23T06:16:26Z",
+  "fetched_at": "2026-10-23T07:25:47Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1250,
+  "station_count": 1249,
   "by_state": {
     "ACT": 8,
-    "NSW": 1159,
+    "NSW": 1158,
     "NT": 6,
     "QLD": 29,
     "SA": 30,
@@ -25,7 +25,7 @@
     "ChargePoint": 23,
     "JOLT": 20,
     "Ampol": 14,
-    "Caltex": 12,
+    "Caltex": 11,
     "Shell": 10,
     "EVUp": 9,
     "Mobil": 8,
@@ -50,8 +50,8 @@
     "X Convenience": 1,
     "Perrys": 1,
     "Metro Petroleum": 1,
-    "Apco": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -3662,15 +3662,6 @@
       "state": "NSW",
       "lat": -34.042454,
       "lng": 151.048953
-    },
-    {
-      "brand": "Caltex",
-      "code": "NSW:20211",
-      "name": "Caltex Heddon Greta",
-      "address": "195 Main Rd Heddon Greta NSW 2321",
-      "state": "NSW",
-      "lat": -32.807536,
-      "lng": 151.5021
     },
     {
       "brand": "Evie Networks",

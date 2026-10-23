@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-10-23T14:01:14Z",
+  "fetched_at": "2026-10-23T17:55:52Z",
   "station_count": 2108,
   "fuel_types": [
     "E10",
@@ -2644,13 +2644,13 @@
       "address": "126 Pacific Hwy, SWANSEA NSW 2281",
       "state": "NSW",
       "prices": {
-        "E10": 235.9,
+        "E10": 235.4,
         "U95": 254.9,
         "U98": 262.4,
         "Premium Diesel": 289.9,
         "U91": 237.9
       },
-      "updated": "2026-10-23T12:12:27Z",
+      "updated": "2026-10-23T17:12:26Z",
       "lat": -33.088127,
       "lng": 151.638255
     },
@@ -7936,10 +7936,10 @@
         "E10": 239.9,
         "U95": 258.9,
         "U98": 268.9,
-        "Premium Diesel": 291.9,
+        "Premium Diesel": 289.9,
         "U91": 241.9
       },
-      "updated": "2026-10-22T22:12:27Z",
+      "updated": "2026-10-23T17:32:26Z",
       "lat": -29.686001,
       "lng": 152.937109
     },
@@ -8359,10 +8359,10 @@
       "state": "NSW",
       "prices": {
         "Diesel": 277.9,
-        "U95": 254.9,
-        "U91": 242.9
+        "U95": 256.9,
+        "U91": 243.9
       },
-      "updated": "2026-10-20T23:24:42Z",
+      "updated": "2026-10-23T16:48:13Z",
       "lat": -31.091463,
       "lng": 152.836987
     },
@@ -8495,10 +8495,10 @@
         "E10": 235.9,
         "U95": 254.9,
         "U98": 264.9,
-        "Premium Diesel": 292.9,
+        "Premium Diesel": 290.9,
         "U91": 237.9
       },
-      "updated": "2026-10-22T21:02:28Z",
+      "updated": "2026-10-23T17:52:26Z",
       "lat": -33.416626,
       "lng": 151.324256
     },
@@ -9161,11 +9161,11 @@
       "address": "190 Waterloo RD, Greenacre NSW 2190",
       "state": "NSW",
       "prices": {
-        "Diesel": 254.7,
-        "U98": 245.7,
-        "U91": 219.7
+        "Diesel": 259.7,
+        "U98": 249.7,
+        "U91": 225.7
       },
-      "updated": "2026-10-23T12:26:00Z",
+      "updated": "2026-10-23T16:53:33Z",
       "lat": -33.906395,
       "lng": 151.056994
     },
@@ -11266,9 +11266,11 @@
       "address": "51 Lambton RD, Waratah NSW 2298",
       "state": "NSW",
       "prices": {
-        "Diesel": 269.3
+        "Diesel": 269.3,
+        "U98": 252.9,
+        "U91": 230.9
       },
-      "updated": "2026-10-21T23:01:05Z",
+      "updated": "2026-10-23T15:36:41Z",
       "lat": -32.90686,
       "lng": 151.719512
     },
@@ -13313,13 +13315,13 @@
       "address": "110 Anzac Parade & Goodwood Street, Kensington NSW 2033",
       "state": "NSW",
       "prices": {
-        "E10": 237.9,
+        "E10": 238.9,
         "LPG": 112.9,
-        "U98": 265.9,
+        "U98": 266.9,
         "Premium Diesel": 291.9,
-        "U91": 239.9
+        "U91": 240.9
       },
-      "updated": "2026-10-23T00:27:14Z",
+      "updated": "2026-10-23T14:51:11Z",
       "lat": -33.907017,
       "lng": 151.223796
     },
@@ -13921,13 +13923,13 @@
       "address": "Corner Forrester Road & Christie Street, St Marys NSW 2760",
       "state": "NSW",
       "prices": {
-        "E10": 236.9,
-        "U95": 255.9,
-        "U98": 264.9,
+        "E10": 237.9,
+        "U95": 256.9,
+        "U98": 265.9,
         "Premium Diesel": 279.9,
-        "U91": 238.9
+        "U91": 239.9
       },
-      "updated": "2026-10-22T22:21:13Z",
+      "updated": "2026-10-23T15:15:13Z",
       "lat": -33.747899,
       "lng": 150.776737
     },
@@ -18923,12 +18925,12 @@
       "address": "602-606 Great Western Hwy, Pendle Hill NSW 2145",
       "state": "NSW",
       "prices": {
-        "U95": 255.9,
-        "U98": 265.9,
+        "U95": 256.9,
+        "U98": 266.9,
         "Premium Diesel": 292.9,
-        "U91": 238.9
+        "U91": 239.9
       },
-      "updated": "2026-10-23T05:02:28Z",
+      "updated": "2026-10-23T15:57:26Z",
       "lat": -33.808324,
       "lng": 150.942036
     },

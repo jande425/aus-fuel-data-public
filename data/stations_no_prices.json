@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-23T03:04:29Z",
+  "fetched_at": "2026-10-23T06:16:26Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1249,
+  "station_count": 1250,
   "by_state": {
     "ACT": 8,
     "NSW": 1159,
@@ -9,7 +9,7 @@
     "QLD": 29,
     "SA": 30,
     "TAS": 1,
-    "VIC": 16
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,9 +17,9 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 80,
-    "Independent": 75,
+    "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 63,
+    "7-Eleven": 64,
     "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -41,6 +41,7 @@
     "Budget": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
+    "PK's": 1,
     "Astron": 1,
     "Arko Energy": 1,
     "Enhance": 1,
@@ -48,9 +49,9 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "ETA PETROLEUM": 1,
+    "Metro Petroleum": 1,
     "Apco": 1,
-    "Metro Petroleum": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -7362,13 +7363,13 @@
       "lng": 151.286249
     },
     {
-      "brand": "Independent",
+      "brand": "PK's",
       "code": "NSW:20036",
       "name": "PKs Olde General Store",
       "address": "73 Allandale RD, Cessnock NSW 2325",
       "state": "NSW",
-      "lat": -32.824523,
-      "lng": 151.352362
+      "lat": -32.824525,
+      "lng": 151.352367
     },
     {
       "brand": "Independent EV",
@@ -11291,6 +11292,21 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:h9+i49hcwtVWP0NHBCrTSSJ73VaLbh3Q7BvlfFKE/XI=",
+      "name": "7-Eleven Clyde North",
+      "address": "380 Patterson Road, Clyde, 3978",
+      "state": "VIC",
+      "lat": -38.1245309,
+      "lng": 145.37233236,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "7-Eleven",

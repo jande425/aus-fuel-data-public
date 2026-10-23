@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-23T22:29:06Z",
+  "fetched_at": "2026-10-23T23:06:50Z",
   "station_count": 698,
   "fuel_types": [
     "E10",
@@ -2920,7 +2920,7 @@
         "U98": 255.9,
         "Premium Diesel": 282.9
       },
-      "updated": "2026-10-23T22:25:18Z",
+      "updated": "2026-10-23T22:55:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -4620,12 +4620,12 @@
       "address": "31 Torrens Rd & Hindmarsh Rd, SA 5211",
       "state": "SA",
       "prices": {
-        "U91": 225.9,
-        "U95": 242.9,
-        "U98": 252.9,
+        "U91": 224.9,
+        "U95": 241.9,
+        "U98": 251.9,
         "Premium Diesel": 267.9
       },
-      "updated": "2026-10-23T21:22:10Z",
+      "updated": "2026-10-23T22:37:09Z",
       "lat": -35.553842,
       "lng": 138.620917
     },
@@ -5419,7 +5419,7 @@
         "U98": 264.9,
         "Premium Diesel": 281.9
       },
-      "updated": "2026-10-23T22:25:18Z",
+      "updated": "2026-10-23T22:55:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -5658,13 +5658,13 @@
       "address": "17 Scott St, SA 5231",
       "state": "SA",
       "prices": {
-        "U91": 235.9,
+        "U91": 229.9,
         "LPG": 121.9,
         "U95": 250.9,
         "U98": 258.9,
-        "Premium Diesel": 285.9
+        "Premium Diesel": 281.9
       },
-      "updated": "2026-10-23T10:27:40Z",
+      "updated": "2026-10-23T22:41:48Z",
       "lat": -34.781789,
       "lng": 138.852242
     },
@@ -6126,15 +6126,13 @@
       "state": "SA",
       "prices": {
         "U91": 220.9,
+        "U95": 237.9,
         "U98": 247.9,
         "Premium Diesel": 277.9
       },
-      "updated": "2026-10-23T09:12:10Z",
+      "updated": "2026-10-23T22:42:09Z",
       "lat": -35.192267,
-      "lng": 138.480479,
-      "unavailable_fuels": [
-        "U95"
-      ]
+      "lng": 138.480479
     },
     {
       "brand": "EG Ampol",
@@ -6496,11 +6494,11 @@
       "address": "80 Church Street, SA 5277",
       "state": "SA",
       "prices": {
-        "U91": 245.9,
-        "Diesel": 275.9,
-        "U98": 267.9
+        "U91": 242.9,
+        "Diesel": 276.9,
+        "U98": 264.9
       },
-      "updated": "2026-10-22T00:09:23Z",
+      "updated": "2026-10-23T22:29:41Z",
       "lat": -37.375614,
       "lng": 140.836263
     },

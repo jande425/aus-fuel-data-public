@@ -2,8 +2,8 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-24T08:24:09Z",
-  "station_count": 698,
+  "fetched_at": "2026-10-24T12:08:46Z",
+  "station_count": 697,
   "fuel_types": [
     "E10",
     "U91",
@@ -294,13 +294,13 @@
       "address": "734  Marion Road, SA 5043",
       "state": "SA",
       "prices": {
-        "U91": 220.5,
-        "Diesel": 268.5,
+        "U91": 217.5,
+        "Diesel": 265.5,
         "LPG": 97.5,
-        "U98": 242.5,
-        "E10": 219.5
+        "U98": 239.5,
+        "E10": 216.5
       },
-      "updated": "2026-10-24T04:10:29Z",
+      "updated": "2026-10-24T08:55:22Z",
       "lat": -35.004222,
       "lng": 138.557335
     },
@@ -824,21 +824,6 @@
       "updated": "2026-10-22T00:50:35Z",
       "lat": -34.78841713084044,
       "lng": 138.6178008981476
-    },
-    {
-      "brand": "Caltex",
-      "code": "SA:61501106",
-      "name": "Caltex Salisbury East",
-      "address": "1461 Main North Rd & Mcintyre Rd, SA 5109",
-      "state": "SA",
-      "prices": {
-        "U91": 235.9,
-        "U98": 262.9,
-        "Premium Diesel": 285.9
-      },
-      "updated": "2026-10-19T01:33:18Z",
-      "lat": -34.791338,
-      "lng": 138.647778
     },
     {
       "brand": "On the Run",
@@ -2922,7 +2907,7 @@
         "U98": 255.9,
         "Premium Diesel": 282.9
       },
-      "updated": "2026-10-24T08:10:20Z",
+      "updated": "2026-10-24T11:55:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5304,13 +5289,13 @@
       "address": "20 Hindmarsh Rd, SA 5211",
       "state": "SA",
       "prices": {
-        "U91": 223.9,
+        "U91": 222.9,
         "Diesel": 264.9,
-        "U98": 248.9,
-        "E10": 221.9,
+        "U98": 247.9,
+        "E10": 220.9,
         "Premium Diesel": 266.9
       },
-      "updated": "2026-10-23T21:13:47Z",
+      "updated": "2026-10-24T10:39:39Z",
       "lat": -35.53867770525654,
       "lng": 138.6382512711639
     },
@@ -5421,7 +5406,7 @@
         "U98": 264.9,
         "Premium Diesel": 281.9
       },
-      "updated": "2026-10-24T08:10:20Z",
+      "updated": "2026-10-24T11:55:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -8383,12 +8368,12 @@
       "state": "SA",
       "prices": {
         "U91": 221.5,
-        "Diesel": 268.5,
+        "Diesel": 264.5,
         "U98": 243.5,
         "E10": 220.5,
-        "Premium Diesel": 271.5
+        "Premium Diesel": 267.5
       },
-      "updated": "2026-10-24T04:15:29Z",
+      "updated": "2026-10-24T09:40:27Z",
       "lat": -34.863954,
       "lng": 138.600776
     },

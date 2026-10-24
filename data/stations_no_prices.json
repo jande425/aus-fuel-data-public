@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T08:24:09Z",
+  "fetched_at": "2026-10-24T12:08:46Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1250,
   "by_state": {
@@ -7,9 +7,9 @@
     "NSW": 1158,
     "NT": 6,
     "QLD": 29,
-    "SA": 30,
+    "SA": 31,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 17
   },
   "by_brand": {
     "Exploren": 236,
@@ -49,9 +49,9 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
+    "ETA PETROLEUM": 1,
     "Metro Petroleum": 1,
-    "Apco": 1,
-    "ETA PETROLEUM": 1
+    "Apco": 1
   },
   "stations": [
     {
@@ -10951,6 +10951,20 @@
       ]
     },
     {
+      "brand": "Caltex",
+      "code": "SA:61501106",
+      "name": "Caltex Salisbury East",
+      "address": "1461 Main North Rd & Mcintyre Rd, SA 5109",
+      "state": "SA",
+      "lat": -34.791338,
+      "lng": 138.647778,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "SA:61501546",
       "name": "Cape Jervis Tavern And General Store",
@@ -11360,19 +11374,6 @@
         "U91",
         "U95",
         "U98"
-      ]
-    },
-    {
-      "brand": "Caltex",
-      "code": "VIC:CQeu3EYden2VBg332LwOy5M7R/fbsvB9/WupzthTIiA=",
-      "name": "Caltex Darley",
-      "address": "12/151 Gisborne Road, Darley, 3340",
-      "state": "VIC",
-      "lat": -37.65935912,
-      "lng": 144.4414623,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91"
       ]
     },
     {

@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-24T17:46:19Z",
+  "fetched_at": "2026-10-24T20:06:07Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1251,
+  "station_count": 1250,
   "by_state": {
     "ACT": 8,
     "NSW": 1158,
     "NT": 6,
     "QLD": 30,
-    "SA": 31,
+    "SA": 30,
     "TAS": 1,
     "VIC": 17
   },
@@ -25,7 +25,7 @@
     "ChargePoint": 23,
     "JOLT": 20,
     "Ampol": 15,
-    "Caltex": 12,
+    "Caltex": 11,
     "Shell": 10,
     "EVUp": 9,
     "Mobil": 8,
@@ -49,9 +49,9 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
+    "ETA PETROLEUM": 1,
     "Apco": 1,
-    "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -10962,20 +10962,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Caltex",
-      "code": "SA:61501106",
-      "name": "Caltex Salisbury East",
-      "address": "1461 Main North Rd & Mcintyre Rd, SA 5109",
-      "state": "SA",
-      "lat": -34.791338,
-      "lng": 138.647778,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U98"
       ]
     },
     {

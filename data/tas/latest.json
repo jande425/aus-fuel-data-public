@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-10-24T07:14:58Z",
+  "fetched_at": "2026-10-24T08:24:09Z",
   "station_count": 293,
   "fuel_types": [
     "E10",
@@ -3946,13 +3946,13 @@
       "state": "TAS",
       "prices": {
         "Diesel": 280.9,
-        "E10": 232.5,
+        "E10": 227.5,
         "U98": 269.9,
         "U91": 245.9,
         "U95": 259.9,
         "Premium Diesel": 287.9
       },
-      "updated": "2026-10-23T03:36:01Z",
+      "updated": "2026-10-24T07:53:01Z",
       "lat": -41.06059709,
       "lng": 145.9111714
     },
@@ -4569,13 +4569,13 @@
       "address": "2 Pier RD, Opossum Bay TAS 7023",
       "state": "TAS",
       "prices": {
+        "Diesel": 299.9,
         "E10": 229.5,
         "U98": 255.5,
         "U91": 259.9,
-        "Diesel": 299.9,
         "U95": 275.9
       },
-      "updated": "2026-10-22T02:40:49Z",
+      "updated": "2026-10-24T08:22:28Z",
       "lat": -42.99408272,
       "lng": 147.4027304
     },

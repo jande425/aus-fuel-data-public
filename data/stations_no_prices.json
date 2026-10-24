@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-24T20:06:07Z",
+  "fetched_at": "2026-10-24T21:44:06Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1250,
+  "station_count": 1251,
   "by_state": {
     "ACT": 8,
     "NSW": 1158,
     "NT": 6,
     "QLD": 30,
-    "SA": 30,
+    "SA": 31,
     "TAS": 1,
     "VIC": 17
   },
@@ -47,10 +47,11 @@
     "Enhance": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
+    "EG Ampol": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "ETA PETROLEUM": 1,
     "Apco": 1,
+    "ETA PETROLEUM": 1,
     "Metro Petroleum": 1
   },
   "stations": [
@@ -11000,6 +11001,21 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "SA:61501319",
+      "name": "EG Ampol Eden Hills",
+      "address": "272 Shepherds Hill Rd & Northcote Rd, SA 5050",
+      "state": "SA",
+      "lat": -35.026448,
+      "lng": 138.603635,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

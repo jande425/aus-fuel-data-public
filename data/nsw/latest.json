@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-10-25T13:09:39Z",
-  "station_count": 2108,
+  "fetched_at": "2026-10-25T13:31:22Z",
+  "station_count": 2107,
   "fuel_types": [
     "E10",
     "U91",
@@ -1029,13 +1029,13 @@
       "address": "Dunheved Road, WERRINGTON NSW 2747",
       "state": "NSW",
       "prices": {
-        "E10": 234.9,
-        "U95": 253.9,
-        "U98": 263.9,
+        "E10": 235.9,
+        "U95": 254.9,
+        "U98": 264.9,
         "Premium Diesel": 291.9,
-        "U91": 236.9
+        "U91": 237.9
       },
-      "updated": "2026-10-22T22:07:26Z",
+      "updated": "2026-10-25T13:12:27Z",
       "lat": -33.745821,
       "lng": 150.741051
     },
@@ -7404,13 +7404,13 @@
       "address": "2 Bridges Road, MOOREBANK NSW 2170",
       "state": "NSW",
       "prices": {
-        "E10": 221.5,
+        "E10": 221.9,
         "U95": 242.5,
         "U98": 248.9,
         "Premium Diesel": 261.7,
-        "U91": 225.5
+        "U91": 225.9
       },
-      "updated": "2026-10-25T12:07:27Z",
+      "updated": "2026-10-25T13:27:27Z",
       "lat": -33.928372,
       "lng": 150.932684
     },
@@ -8320,21 +8320,6 @@
       "updated": "2026-10-21T23:54:32Z",
       "lat": -34.195167,
       "lng": 150.789979
-    },
-    {
-      "brand": "U-Go",
-      "code": "NSW:18311",
-      "name": "U-Go Yamba (Self- serve)",
-      "address": "22 Treelands DR, Yamba NSW 2464",
-      "state": "NSW",
-      "prices": {
-        "U98": 259.5,
-        "Premium Diesel": 282.5,
-        "U91": 242.5
-      },
-      "updated": "2026-10-24T00:47:30Z",
-      "lat": -29.427004,
-      "lng": 153.327922
     },
     {
       "brand": "Liberty",
@@ -9588,12 +9573,12 @@
       "address": "556 Snowy Mountains HWY, Dairymans Plains NSW 2630",
       "state": "NSW",
       "prices": {
-        "Diesel": 272.9,
-        "E10": 240.9,
-        "U98": 263.9,
-        "U91": 242.9
+        "Diesel": 271.9,
+        "E10": 234.9,
+        "U98": 262.9,
+        "U91": 236.9
       },
-      "updated": "2026-10-14T04:06:52Z",
+      "updated": "2026-10-25T13:16:34Z",
       "lat": -36.240367,
       "lng": 149.065572
     },

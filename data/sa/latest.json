@@ -2,8 +2,8 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-25T21:58:14Z",
-  "station_count": 698,
+  "fetched_at": "2026-10-25T22:31:28Z",
+  "station_count": 697,
   "fuel_types": [
     "E10",
     "U91",
@@ -129,11 +129,11 @@
       "address": "267 Wright Rd, SA 5093",
       "state": "SA",
       "prices": {
-        "U91": 235.4,
+        "U91": 233.4,
         "Diesel": 282.9,
-        "U98": 258.4
+        "U98": 256.4
       },
-      "updated": "2026-10-23T00:05:22Z",
+      "updated": "2026-10-25T22:20:26Z",
       "lat": -34.83548773604752,
       "lng": 138.65325692757796
     },
@@ -787,12 +787,12 @@
       "address": "110 Yorktown Rd, SA 5113",
       "state": "SA",
       "prices": {
-        "U91": 231.9,
+        "U91": 229.9,
         "Diesel": 287.9,
         "LPG": 102.9,
-        "U98": 254.9
+        "U98": 252.9
       },
-      "updated": "2026-10-23T00:05:22Z",
+      "updated": "2026-10-25T22:30:35Z",
       "lat": -34.70915657600746,
       "lng": 138.684869754631
     },
@@ -884,13 +884,13 @@
       "address": "323 Hancock Rd, SA 5126",
       "state": "SA",
       "prices": {
-        "U91": 235.4,
+        "U91": 233.4,
         "Diesel": 286.4,
         "LPG": 106.9,
-        "U95": 252.9,
-        "U98": 258.4
+        "U95": 250.9,
+        "U98": 256.4
       },
-      "updated": "2026-10-23T00:15:25Z",
+      "updated": "2026-10-25T22:20:26Z",
       "lat": -34.80295794521658,
       "lng": 138.717747733799
     },
@@ -1435,12 +1435,12 @@
       "address": "356 Tapleys Hill Rd & Wilford Av, SA 5023",
       "state": "SA",
       "prices": {
-        "U91": 235.9,
-        "U95": 253.4,
-        "U98": 258.9,
+        "U91": 233.9,
+        "U95": 251.4,
+        "U98": 256.9,
         "Premium Diesel": 285.9
       },
-      "updated": "2026-10-20T23:45:33Z",
+      "updated": "2026-10-25T22:30:35Z",
       "lat": -34.902034,
       "lng": 138.514044
     },
@@ -2350,12 +2350,12 @@
       "address": "279 Anzac Hwy & Marion Rd, SA 5038",
       "state": "SA",
       "prices": {
-        "U91": 229.9,
-        "U95": 247.4,
-        "U98": 252.9,
+        "U91": 227.9,
+        "U95": 245.4,
+        "U98": 250.9,
         "Premium Diesel": 280.9
       },
-      "updated": "2026-10-22T05:45:24Z",
+      "updated": "2026-10-25T22:30:35Z",
       "lat": -34.963319,
       "lng": 138.555349,
       "unavailable_fuels": [
@@ -2926,7 +2926,7 @@
         "U98": 255.9,
         "Premium Diesel": 282.9
       },
-      "updated": "2026-10-25T21:55:17Z",
+      "updated": "2026-10-25T22:25:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -3456,15 +3456,13 @@
       "state": "SA",
       "prices": {
         "U91": 226.5,
+        "Diesel": 268.5,
         "U95": 241.5,
         "U98": 249.5
       },
-      "updated": "2026-10-24T04:33:40Z",
+      "updated": "2026-10-25T22:01:00Z",
       "lat": -34.69139920686908,
-      "lng": 138.6875776351656,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
+      "lng": 138.6875776351656
     },
     {
       "brand": "Reddy Express",
@@ -3473,13 +3471,13 @@
       "address": "201 Main Rd, SA 5171",
       "state": "SA",
       "prices": {
-        "U91": 222.9,
+        "U91": 220.9,
         "Diesel": 275.9,
         "LPG": 110.9,
-        "U95": 240.4,
-        "U98": 245.9
+        "U95": 238.4,
+        "U98": 243.9
       },
-      "updated": "2026-10-23T00:01:01Z",
+      "updated": "2026-10-25T22:20:26Z",
       "lat": -35.213672,
       "lng": 138.535428
     },
@@ -5431,7 +5429,7 @@
         "U98": 264.9,
         "Premium Diesel": 281.9
       },
-      "updated": "2026-10-25T21:55:17Z",
+      "updated": "2026-10-25T22:25:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -6264,14 +6262,16 @@
       "address": "569 Salisbury Highway, SA 5107",
       "state": "SA",
       "prices": {
-        "U91": 229.9,
-        "U95": 245.9,
-        "U98": 253.9,
-        "Premium Diesel": 279.9
+        "U95": 245.9
       },
       "updated": "2026-10-23T06:54:57Z",
       "lat": -34.798094,
-      "lng": 138.608873
+      "lng": 138.608873,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
     },
     {
       "brand": "EG Ampol",
@@ -7810,25 +7810,11 @@
       "prices": {
         "U91": 220.7,
         "U98": 240.7,
-        "Premium Diesel": 266.7
+        "Premium Diesel": 262.7
       },
-      "updated": "2026-10-22T21:42:28Z",
+      "updated": "2026-10-25T22:07:09Z",
       "lat": -34.8639728811947,
       "lng": 138.58272886725658
-    },
-    {
-      "brand": "Mogas",
-      "code": "SA:61577033",
-      "name": "Bascombe Autoag",
-      "address": "2-8 Railway Terrace, SA 5631",
-      "state": "SA",
-      "prices": {
-        "U91": 254.0,
-        "Diesel": 287.0
-      },
-      "updated": "2026-10-23T06:01:59Z",
-      "lat": -34.26126951423701,
-      "lng": 135.72903568589646
     },
     {
       "brand": "On the Run",
@@ -8330,13 +8316,13 @@
       "address": "Cnr Old Sturt Hwy and Murray Street, SA 5355",
       "state": "SA",
       "prices": {
-        "U91": 234.9,
+        "U91": 234.4,
         "Diesel": 286.4,
         "U95": 252.9,
         "U98": 256.4,
         "Premium Diesel": 286.9
       },
-      "updated": "2026-10-25T20:17:10Z",
+      "updated": "2026-10-25T22:17:11Z",
       "lat": -34.457321,
       "lng": 139.003159
     },

@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-25T21:58:14Z",
+  "fetched_at": "2026-10-25T22:31:28Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1251,
+  "station_count": 1252,
   "by_state": {
     "ACT": 8,
     "NSW": 1158,
     "NT": 6,
     "QLD": 30,
-    "SA": 30,
+    "SA": 31,
     "TAS": 1,
     "VIC": 18
   },
@@ -50,9 +50,10 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "ETA PETROLEUM": 1,
+    "Mogas": 1,
     "Riordan Fuels": 1,
     "Apco": 1,
+    "ETA PETROLEUM": 1,
     "Metro Petroleum": 1
   },
   "stations": [
@@ -10954,6 +10955,19 @@
       "state": "SA",
       "lat": -35.180316,
       "lng": 138.483943
+    },
+    {
+      "brand": "Mogas",
+      "code": "SA:61577033",
+      "name": "Bascombe Autoag",
+      "address": "2-8 Railway Terrace, SA 5631",
+      "state": "SA",
+      "lat": -34.26126951423701,
+      "lng": 135.72903568589646,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91"
+      ]
     },
     {
       "brand": "Independent",

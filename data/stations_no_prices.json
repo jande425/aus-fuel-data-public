@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-25T02:53:56Z",
+  "fetched_at": "2026-10-25T06:31:53Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1249,
+  "station_count": 1250,
   "by_state": {
     "ACT": 8,
-    "NSW": 1158,
+    "NSW": 1159,
     "NT": 6,
     "QLD": 29,
     "SA": 30,
@@ -39,6 +39,7 @@
     "Speedway": 3,
     "Puma Energy": 3,
     "Budget": 2,
+    "U-Go": 1,
     "Westside": 1,
     "Transwest Fuels": 1,
     "PK's": 1,
@@ -10061,6 +10062,15 @@
       "state": "NSW",
       "lat": -32.769186,
       "lng": 151.273708
+    },
+    {
+      "brand": "U-Go",
+      "code": "NSW:18007",
+      "name": "U-Go Canley Heights (Un-manned)",
+      "address": "280-282 Canley Vale Road, CANLEY HEIGHTS NSW 2166",
+      "state": "NSW",
+      "lat": -33.883924,
+      "lng": 150.924202
     },
     {
       "brand": "United",

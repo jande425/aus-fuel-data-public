@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-10-25T02:53:56Z",
+  "fetched_at": "2026-10-25T06:31:53Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -88,12 +88,12 @@
       "state": "ACT",
       "prices": {
         "E10": 240.9,
-        "U95": 260.9,
-        "U98": 267.9,
+        "U95": 260.4,
+        "U98": 267.4,
         "Premium Diesel": 277.4,
         "U91": 244.9
       },
-      "updated": "2026-10-25T01:12:27Z",
+      "updated": "2026-10-25T03:27:26Z",
       "lat": -35.270935,
       "lng": 149.133379
     },

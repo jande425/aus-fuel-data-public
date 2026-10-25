@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-10-25T02:53:56Z",
+  "fetched_at": "2026-10-25T06:31:53Z",
   "station_count": 293,
   "fuel_types": [
     "E10",
@@ -2177,7 +2177,7 @@
       "address": "16 River Road, Wivenhoe TAS 7320",
       "state": "TAS",
       "prices": {
-        "E10": 229.9,
+        "E10": 227.9,
         "LPG": 109.7,
         "U95": 253.9,
         "U98": 263.9,
@@ -2185,7 +2185,7 @@
         "U91": 239.9,
         "Diesel": 274.9
       },
-      "updated": "2026-10-23T06:45:23Z",
+      "updated": "2026-10-25T05:30:37Z",
       "lat": -41.0733646,
       "lng": 145.923983
     },
@@ -2232,13 +2232,13 @@
       "address": "18 Ten Mile Track, Scottsdale TAS 7260",
       "state": "TAS",
       "prices": {
-        "E10": 229.9,
-        "U98": 257.9,
-        "Premium Diesel": 289.9,
-        "U91": 231.9,
+        "E10": 228.9,
+        "U98": 256.9,
+        "Premium Diesel": 284.4,
+        "U91": 230.9,
         "Diesel": 283.9
       },
-      "updated": "2026-10-24T04:42:12Z",
+      "updated": "2026-10-25T05:27:14Z",
       "lat": -41.1982041,
       "lng": 147.5464421
     },
@@ -2391,7 +2391,7 @@
       "address": "Cnr Montagu & Burnett Streets, New Norfolk TAS 7140",
       "state": "TAS",
       "prices": {
-        "E10": 244.9,
+        "E10": 243.9,
         "U98": 271.9,
         "Premium Diesel": 285.9,
         "U91": 247.9,
@@ -2399,7 +2399,7 @@
         "EV": 50,
         "U95": 261.9
       },
-      "updated": "2026-10-24T21:48:14Z",
+      "updated": "2026-10-25T03:45:24Z",
       "lat": -42.779245,
       "lng": 147.06143
     },
@@ -2971,11 +2971,11 @@
         "E10": 236.9,
         "U95": 255.9,
         "U98": 264.9,
-        "Premium Diesel": 283.9,
+        "Premium Diesel": 285.9,
         "U91": 248.9,
         "Diesel": 283.9
       },
-      "updated": "2026-10-24T19:21:11Z",
+      "updated": "2026-10-25T03:48:16Z",
       "lat": -41.4237153,
       "lng": 147.1799574
     },
@@ -3039,11 +3039,11 @@
       "prices": {
         "E10": 235.9,
         "U98": 276.8,
-        "Premium Diesel": 288.9,
+        "Premium Diesel": 290.9,
         "U91": 248.8,
         "Diesel": 284.9
       },
-      "updated": "2026-10-23T19:21:14Z",
+      "updated": "2026-10-25T04:24:14Z",
       "lat": -41.6493151,
       "lng": 146.9390448
     },
@@ -3346,13 +3346,13 @@
       "address": "3 Robert ST, Whitemark TAS 7255",
       "state": "TAS",
       "prices": {
-        "U95": 265.9,
+        "U95": 267.9,
         "U98": 267.9,
         "Premium Diesel": 290.9,
-        "U91": 253.9,
-        "Diesel": 309.9
+        "U91": 256.9,
+        "Diesel": 311.9
       },
-      "updated": "2026-10-25T02:12:23Z",
+      "updated": "2026-10-25T05:15:03Z",
       "lat": -40.1200307,
       "lng": 148.0154478
     },
@@ -4487,9 +4487,9 @@
         "E10": 236.9,
         "U95": 259.9,
         "U98": 269.9,
-        "Premium Diesel": 276.9,
         "U91": 242.9,
-        "Diesel": 272.9
+        "Diesel": 272.9,
+        "Premium Diesel": 276.9
       },
       "updated": "2026-10-22T23:45:22Z",
       "lat": -42.98154055,

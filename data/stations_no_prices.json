@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-25T18:03:00Z",
+  "fetched_at": "2026-10-25T21:14:22Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1252,
+  "station_count": 1251,
   "by_state": {
     "ACT": 8,
-    "NSW": 1159,
+    "NSW": 1158,
     "NT": 6,
     "QLD": 30,
     "SA": 30,
@@ -38,8 +38,8 @@
     "Everty": 4,
     "Speedway": 3,
     "Puma Energy": 3,
-    "U-Go": 2,
     "Budget": 2,
+    "U-Go": 1,
     "Westside": 1,
     "Transwest Fuels": 1,
     "PK's": 1,
@@ -50,10 +50,10 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1,
     "Riordan Fuels": 1,
     "Apco": 1,
-    "ETA PETROLEUM": 1
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -10063,15 +10063,6 @@
       "state": "NSW",
       "lat": -33.883924,
       "lng": 150.924202
-    },
-    {
-      "brand": "U-Go",
-      "code": "NSW:18311",
-      "name": "U-Go Yamba (Self- serve)",
-      "address": "22 Treelands DR, Yamba NSW 2464",
-      "state": "NSW",
-      "lat": -29.427004,
-      "lng": 153.327922
     },
     {
       "brand": "United",

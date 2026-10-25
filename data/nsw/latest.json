@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-10-25T17:37:31Z",
+  "fetched_at": "2026-10-25T18:03:00Z",
   "station_count": 2107,
   "fuel_types": [
     "E10",
@@ -9323,8 +9323,7 @@
       "address": "394 Crown ST, Wollongong NSW 2500",
       "state": "NSW",
       "prices": {
-        "E10": 232.5,
-        "U91": 234.5
+        "E10": 232.5
       },
       "updated": "2026-10-16T22:44:22Z",
       "lat": -34.425799,
@@ -20282,12 +20281,12 @@
       "address": "533 Mowbray RD West, Lane Cove North NSW 2066",
       "state": "NSW",
       "prices": {
-        "E10": 225.8,
+        "E10": 229.8,
         "U98": 259.9,
         "Premium Diesel": 269.3,
         "U91": 235.8
       },
-      "updated": "2026-10-25T05:30:29Z",
+      "updated": "2026-10-25T17:41:43Z",
       "lat": -33.805971,
       "lng": 151.166274
     },

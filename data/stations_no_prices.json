@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-25T08:02:51Z",
+  "fetched_at": "2026-10-25T12:41:09Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1250,
+  "station_count": 1252,
   "by_state": {
     "ACT": 8,
-    "NSW": 1159,
+    "NSW": 1158,
     "NT": 6,
-    "QLD": 29,
+    "QLD": 31,
     "SA": 30,
     "TAS": 1,
-    "VIC": 17
+    "VIC": 18
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,15 +19,15 @@
     "Reddy Express": 80,
     "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 64,
+    "7-Eleven": 66,
     "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
     "Ampol": 14,
     "Caltex": 11,
-    "Shell": 10,
     "EVUp": 9,
+    "Shell": 9,
     "Mobil": 8,
     "Metro Fuel": 7,
     "Evie Networks": 7,
@@ -50,9 +50,10 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
+    "Riordan Fuels": 1,
+    "Apco": 1,
     "ETA PETROLEUM": 1,
-    "Metro Petroleum": 1,
-    "Apco": 1
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -8112,15 +8113,6 @@
     },
     {
       "brand": "Shell",
-      "code": "NSW:20523",
-      "name": "Shell Jindera",
-      "address": "99 Urana ST, Jindera NSW 2642",
-      "state": "NSW",
-      "lat": -35.954556,
-      "lng": 146.889003
-    },
-    {
-      "brand": "Shell",
       "code": "NSW:20020",
       "name": "Shell Narrabri Truck Stop",
       "address": "Shell Service Station 11553 Newell HWY, Narrabri NSW 2390",
@@ -10613,6 +10605,38 @@
       "lng": 134.528786
     },
     {
+      "brand": "7-Eleven",
+      "code": "QLD:61478209",
+      "name": "7-Eleven Aitkenvale",
+      "address": "243 Ross River Rd, QLD 4814",
+      "state": "QLD",
+      "lat": -19.295944923350856,
+      "lng": 146.771336756534,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61478193",
+      "name": "7-Eleven Northgate",
+      "address": "185 Toombul Rd, QLD 4013",
+      "state": "QLD",
+      "lat": -27.391817254810274,
+      "lng": 153.07109543650816,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
@@ -11481,6 +11505,18 @@
         "Diesel",
         "U91",
         "U95"
+      ]
+    },
+    {
+      "brand": "Riordan Fuels",
+      "code": "VIC:7cshnOSg3XR4pQp5OPszNeUds38t1UFKyyVVZJPeVxA=",
+      "name": "Riordan Fuels - Balliang\u00a0",
+      "address": "1 Sharkey Road, Balliang, 3340",
+      "state": "VIC",
+      "lat": -37.82690678,
+      "lng": 144.39474635,
+      "unavailable_fuels": [
+        "Diesel"
       ]
     },
     {

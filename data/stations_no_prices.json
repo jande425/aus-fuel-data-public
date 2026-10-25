@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-25T12:41:09Z",
+  "fetched_at": "2026-10-25T13:09:39Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1252,
+  "station_count": 1251,
   "by_state": {
     "ACT": 8,
     "NSW": 1158,
     "NT": 6,
-    "QLD": 31,
+    "QLD": 30,
     "SA": 30,
     "TAS": 1,
     "VIC": 18
@@ -19,7 +19,7 @@
     "Reddy Express": 80,
     "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 65,
     "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -10603,22 +10603,6 @@
       "state": "NT",
       "lat": -14.735076,
       "lng": 134.528786
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61478209",
-      "name": "7-Eleven Aitkenvale",
-      "address": "243 Ross River Rd, QLD 4814",
-      "state": "QLD",
-      "lat": -19.295944923350856,
-      "lng": 146.771336756534,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "7-Eleven",

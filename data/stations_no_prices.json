@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-25T22:31:28Z",
+  "fetched_at": "2026-10-25T23:32:52Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1252,
+  "station_count": 1253,
   "by_state": {
     "ACT": 8,
     "NSW": 1158,
     "NT": 6,
     "QLD": 30,
-    "SA": 31,
+    "SA": 32,
     "TAS": 1,
     "VIC": 18
   },
@@ -19,12 +19,12 @@
     "Reddy Express": 80,
     "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 65,
+    "7-Eleven": 64,
     "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 14,
+    "Ampol": 15,
     "Caltex": 11,
     "EVUp": 9,
     "Shell": 9,
@@ -39,6 +39,7 @@
     "Speedway": 3,
     "Puma Energy": 3,
     "Budget": 2,
+    "X Convenience": 2,
     "U-Go": 1,
     "Westside": 1,
     "Transwest Fuels": 1,
@@ -48,13 +49,12 @@
     "Enhance": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
-    "X Convenience": 1,
     "Perrys": 1,
     "Mogas": 1,
     "Riordan Fuels": 1,
     "Apco": 1,
-    "ETA PETROLEUM": 1,
-    "Metro Petroleum": 1
+    "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -10606,19 +10606,17 @@
       "lng": 134.528786
     },
     {
-      "brand": "7-Eleven",
-      "code": "QLD:61478193",
-      "name": "7-Eleven Northgate",
-      "address": "185 Toombul Rd, QLD 4013",
+      "brand": "Ampol",
+      "code": "QLD:61402175",
+      "name": "Ampol Gladstone Depot Front",
+      "address": "Chapple St, QLD 4680",
       "state": "QLD",
-      "lat": -27.391817254810274,
-      "lng": 153.07109543650816,
+      "lat": -23.842297,
+      "lng": 151.245741,
       "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
+        "Diesel",
         "U91",
-        "U95",
-        "U98"
+        "U95"
       ]
     },
     {
@@ -11295,6 +11293,21 @@
       "unavailable_fuels": [
         "Premium Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "X Convenience",
+      "code": "SA:61501274",
+      "name": "X Convenience Unley",
+      "address": "21 Edmund Av & Duthy St, SA 5061",
+      "state": "SA",
+      "lat": -34.951365,
+      "lng": 138.614038,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

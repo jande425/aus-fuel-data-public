@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-26T07:44:41Z",
+  "fetched_at": "2026-10-26T08:26:00Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1251,
+  "station_count": 1252,
   "by_state": {
     "ACT": 8,
-    "NSW": 1155,
-    "NT": 7,
+    "NSW": 1157,
+    "NT": 6,
     "QLD": 31,
     "SA": 31,
     "TAS": 1,
@@ -19,7 +19,7 @@
     "Reddy Express": 80,
     "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 65,
+    "7-Eleven": 67,
     "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -45,16 +45,15 @@
     "PK's": 1,
     "Astron": 1,
     "Arko Energy": 1,
-    "Solo": 1,
     "Enhance": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
     "Mogas": 1,
-    "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
     "Riordan Fuels": 1,
-    "Apco": 1
+    "Apco": 1,
+    "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -383,6 +382,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:20654",
+      "name": "7-Eleven Googong",
+      "address": "200 Wellsvale DR, Googong NSW 2620",
+      "state": "NSW",
+      "lat": -35.42681,
+      "lng": 149.227891
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:187",
       "name": "7-Eleven Green Point",
       "address": "390 Avoca Drive (Gosford), Green Point NSW 2251",
@@ -587,6 +595,15 @@
       "state": "NSW",
       "lat": -34.877361,
       "lng": 150.604329
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:1933",
+      "name": "7-Eleven Orange",
+      "address": "90 Bathurst Road, Orange NSW 2800",
+      "state": "NSW",
+      "lat": -33.291793,
+      "lng": 149.110594
     },
     {
       "brand": "7-Eleven",
@@ -10577,15 +10594,6 @@
       "state": "NT",
       "lat": -14.735076,
       "lng": 134.528786
-    },
-    {
-      "brand": "Solo",
-      "code": "NT:08100041",
-      "name": "Solo Casuarina",
-      "address": "247 Trower Road, Cnr Dripstone Casuarina 0810, CASUARINA, 0810, NT",
-      "state": "NT",
-      "lat": -12.376822,
-      "lng": 130.882005
     },
     {
       "brand": "7-Eleven",

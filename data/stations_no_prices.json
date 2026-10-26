@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-26T01:07:03Z",
+  "fetched_at": "2026-10-26T02:52:36Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1252,
+  "station_count": 1251,
   "by_state": {
     "ACT": 8,
-    "NSW": 1158,
+    "NSW": 1157,
     "NT": 6,
     "QLD": 30,
     "SA": 31,
@@ -20,7 +20,7 @@
     "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 64,
-    "BP": 52,
+    "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -34,10 +34,10 @@
     "United": 6,
     "Pearl Energy": 5,
     "Liberty": 5,
-    "Ampol Foodary": 4,
     "Everty": 4,
     "Speedway": 3,
     "Puma Energy": 3,
+    "Ampol Foodary": 2,
     "Budget": 2,
     "U-Go": 1,
     "Westside": 1,
@@ -2219,30 +2219,12 @@
     },
     {
       "brand": "Ampol Foodary",
-      "code": "NSW:2122",
-      "name": "Ampol Foodary Brunswick Heads R/H",
-      "address": "5 Tweed ST, Brunswick Heads NSW 2483",
-      "state": "NSW",
-      "lat": -28.538168,
-      "lng": 153.548694
-    },
-    {
-      "brand": "Ampol Foodary",
       "code": "NSW:20046",
       "name": "Ampol Foodary Halfway Creek",
       "address": "50 Kungala RD, Halfway Creek NSW 2460",
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:16898",
-      "name": "Ampol Foodary Mudgee",
-      "address": "114-118 Church St, MUDGEE NSW 2850",
-      "state": "NSW",
-      "lat": -32.59428,
-      "lng": 149.58762
     },
     {
       "brand": "Ampol Foodary",
@@ -2756,6 +2738,15 @@
       "state": "NSW",
       "lat": -33.289783,
       "lng": 149.108632
+    },
+    {
+      "brand": "BP",
+      "code": "NSW:340",
+      "name": "BP Ozigo",
+      "address": "Corner Ewingsdale Rd and, Bayshore Dr, Byron Bay NSW 2481",
+      "state": "NSW",
+      "lat": -28.63715,
+      "lng": 153.58148
     },
     {
       "brand": "BP",

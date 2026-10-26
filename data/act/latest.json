@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-10-26T01:07:03Z",
+  "fetched_at": "2026-10-26T02:52:36Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -346,13 +346,13 @@
       "address": "2 Ipswich Street, Fyshwick ACT 2609",
       "state": "ACT",
       "prices": {
-        "Diesel": 275.9,
+        "Diesel": 277.9,
         "LPG": 139.9,
-        "U98": 262.9,
-        "Premium Diesel": 277.9,
+        "U98": 258.9,
+        "Premium Diesel": 279.9,
         "U91": 239.9
       },
-      "updated": "2026-10-20T01:08:52Z",
+      "updated": "2026-10-26T01:25:27Z",
       "lat": -35.3298,
       "lng": 149.163
     },
@@ -398,10 +398,10 @@
       "prices": {
         "LPG": 125.9,
         "U98": 270.9,
-        "Premium Diesel": 291.9,
+        "Premium Diesel": 285.9,
         "U91": 244.9
       },
-      "updated": "2026-10-26T00:15:23Z",
+      "updated": "2026-10-26T02:18:15Z",
       "lat": -35.2136,
       "lng": 149.096
     },
@@ -869,11 +869,11 @@
       "state": "ACT",
       "prices": {
         "E10": 235.9,
-        "U98": 259.9,
+        "U98": 255.9,
         "Premium Diesel": 276.9,
         "U91": 237.9
       },
-      "updated": "2026-10-20T22:32:58Z",
+      "updated": "2026-10-26T01:54:48Z",
       "lat": -35.3326,
       "lng": 149.176
     },
@@ -918,10 +918,10 @@
         "E10": 245.9,
         "U95": 264.9,
         "U98": 273.9,
-        "Premium Diesel": 290.9,
+        "Premium Diesel": 289.9,
         "U91": 247.9
       },
-      "updated": "2026-10-23T22:48:12Z",
+      "updated": "2026-10-26T02:18:15Z",
       "lat": -35.355061,
       "lng": 149.091106
     },

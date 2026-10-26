@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-26T15:45:52Z",
+  "fetched_at": "2026-10-26T21:07:27Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1250,
+  "station_count": 1252,
   "by_state": {
     "ACT": 8,
-    "NSW": 1155,
+    "NSW": 1156,
     "NT": 6,
-    "QLD": 31,
+    "QLD": 32,
     "SA": 31,
     "TAS": 1,
     "VIC": 18
@@ -26,12 +26,12 @@
     "JOLT": 20,
     "Ampol": 14,
     "Caltex": 11,
+    "Shell": 10,
     "EVUp": 9,
-    "Shell": 9,
     "Mobil": 8,
     "Metro Fuel": 7,
     "Evie Networks": 7,
-    "United": 6,
+    "United": 7,
     "Pearl Energy": 5,
     "Liberty": 5,
     "Everty": 4,
@@ -50,10 +50,10 @@
     "X Convenience": 1,
     "Perrys": 1,
     "Mogas": 1,
-    "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
     "Riordan Fuels": 1,
-    "Apco": 1
+    "Apco": 1,
+    "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -8103,6 +8103,15 @@
       "lng": 149.75737
     },
     {
+      "brand": "Shell",
+      "code": "NSW:20649",
+      "name": "Shell North Rocks",
+      "address": "264 North Rocks RD, North Rocks NSW 2151",
+      "state": "NSW",
+      "lat": -33.776819,
+      "lng": 151.013689
+    },
+    {
       "brand": "Reddy Express",
       "code": "NSW:126",
       "name": "Shell Reddy  Express Bega",
@@ -10912,6 +10921,15 @@
         "U91",
         "U98"
       ]
+    },
+    {
+      "brand": "United",
+      "code": "QLD:61470653",
+      "name": "United Nobby",
+      "address": "15261 New England Hwy, QLD 4360",
+      "state": "QLD",
+      "lat": -27.84624306016697,
+      "lng": 151.9426588827174
     },
     {
       "brand": "Independent",

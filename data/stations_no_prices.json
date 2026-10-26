@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-26T02:52:36Z",
+  "fetched_at": "2026-10-26T06:42:02Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1251,
+  "station_count": 1250,
   "by_state": {
     "ACT": 8,
-    "NSW": 1157,
+    "NSW": 1155,
     "NT": 6,
-    "QLD": 30,
+    "QLD": 31,
     "SA": 31,
     "TAS": 1,
     "VIC": 18
@@ -19,12 +19,12 @@
     "Reddy Express": 80,
     "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 64,
-    "BP": 53,
+    "7-Eleven": 65,
+    "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 15,
+    "Ampol": 14,
     "Caltex": 11,
     "EVUp": 9,
     "Shell": 9,
@@ -39,22 +39,21 @@
     "Puma Energy": 3,
     "Ampol Foodary": 2,
     "Budget": 2,
-    "U-Go": 1,
+    "Freedom Fuels": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "PK's": 1,
     "Astron": 1,
     "Arko Energy": 1,
     "Enhance": 1,
-    "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
     "Mogas": 1,
-    "Riordan Fuels": 1,
-    "Apco": 1,
     "ETA PETROLEUM": 1,
-    "Metro Petroleum": 1
+    "Metro Petroleum": 1,
+    "Riordan Fuels": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -2738,15 +2737,6 @@
       "state": "NSW",
       "lat": -33.289783,
       "lng": 149.108632
-    },
-    {
-      "brand": "BP",
-      "code": "NSW:340",
-      "name": "BP Ozigo",
-      "address": "Corner Ewingsdale Rd and, Bayshore Dr, Byron Bay NSW 2481",
-      "state": "NSW",
-      "lat": -28.63715,
-      "lng": 153.58148
     },
     {
       "brand": "BP",
@@ -10048,15 +10038,6 @@
       "lng": 151.273708
     },
     {
-      "brand": "U-Go",
-      "code": "NSW:18007",
-      "name": "U-Go Canley Heights (Un-manned)",
-      "address": "280-282 Canley Vale Road, CANLEY HEIGHTS NSW 2166",
-      "state": "NSW",
-      "lat": -33.883924,
-      "lng": 150.924202
-    },
-    {
       "brand": "United",
       "code": "NSW:2004",
       "name": "United Marulan",
@@ -10597,17 +10578,19 @@
       "lng": 134.528786
     },
     {
-      "brand": "Ampol",
-      "code": "QLD:61402175",
-      "name": "Ampol Gladstone Depot Front",
-      "address": "Chapple St, QLD 4680",
+      "brand": "7-Eleven",
+      "code": "QLD:61401014",
+      "name": "7-Eleven Broadbeach",
+      "address": "Hooker Bvd & Sunshine Bvd, QLD 4218",
       "state": "QLD",
-      "lat": -23.842297,
-      "lng": 151.245741,
+      "lat": -28.035658,
+      "lng": 153.425217,
       "unavailable_fuels": [
-        "Diesel",
+        "E10",
+        "LPG",
+        "Premium Diesel",
         "U91",
-        "U95"
+        "U98"
       ]
     },
     {
@@ -10677,6 +10660,22 @@
       "state": "QLD",
       "lat": -26.648189,
       "lng": 145.467961
+    },
+    {
+      "brand": "Freedom Fuels",
+      "code": "QLD:61402415",
+      "name": "Freedom Fuels Allora",
+      "address": "1 New England Hwy, QLD 4362",
+      "state": "QLD",
+      "lat": -28.037568,
+      "lng": 151.989027,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Freedom Fuels",

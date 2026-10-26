@@ -67,7 +67,15 @@ jobs:
           git add data/
           git diff --staged --quiet || git commit -m "Update fuel data $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
           git pull --rebase
-          git push
+          for attempt in 1 2 3; do
+            if git push; then
+              break
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              exit 1
+            fi
+            sleep $((attempt * 10))
+          done
 
       # Publish the serving files to Cloudflare Pages. Pages static requests are
       # free and unlimited, unlike Worker requests (100k/day on the free tier) —

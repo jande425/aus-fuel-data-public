@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-10-26T21:07:27Z",
+  "fetched_at": "2026-10-26T21:37:40Z",
   "station_count": 293,
   "fuel_types": [
     "E10",
@@ -514,10 +514,10 @@
         "E10": 240.8,
         "U95": 276.9,
         "U98": 267.8,
-        "Premium Diesel": 299.9,
+        "Premium Diesel": 301.9,
         "U91": 259.9
       },
-      "updated": "2026-10-25T00:05:38Z",
+      "updated": "2026-10-26T21:32:13Z",
       "lat": -43.03,
       "lng": 147.0486
     },
@@ -790,14 +790,11 @@
       "address": "103 Invermay Road, Launceston TAS 7250",
       "state": "TAS",
       "prices": {
-        "E10": 240.8,
+        "Diesel": 288.9,
         "U95": 267.4,
-        "U98": 267.8,
-        "Premium Diesel": 290.9,
-        "U91": 249.9,
-        "Diesel": 288.9
+        "U91": 249.9
       },
-      "updated": "2026-10-25T00:05:36Z",
+      "updated": "2026-10-22T01:20:25Z",
       "lat": -41.425354,
       "lng": 147.136585
     },
@@ -2586,11 +2583,11 @@
       "address": "4 Golconda Road, Lilydale TAS 7268",
       "state": "TAS",
       "prices": {
-        "Diesel": 284.9,
+        "Diesel": 289.9,
         "U98": 279.9,
-        "U91": 254.9
+        "U91": 249.9
       },
-      "updated": "2026-10-15T04:06:30Z",
+      "updated": "2026-10-26T21:37:40Z",
       "lat": -41.248798,
       "lng": 147.218158
     },
@@ -4601,13 +4598,13 @@
       "address": "Triabunna Roadhouse 34 Tasman HWY, Triabunna TAS 7190",
       "state": "TAS",
       "prices": {
-        "E10": 234.9,
+        "E10": 235.9,
         "U98": 258.9,
         "Premium Diesel": 275.9,
         "U91": 244.9,
         "Diesel": 288.9
       },
-      "updated": "2026-10-26T02:55:08Z",
+      "updated": "2026-10-26T21:07:52Z",
       "lat": -42.50075621,
       "lng": 147.91882271
     },

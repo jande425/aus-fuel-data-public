@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-27T02:01:40Z",
+  "fetched_at": "2026-10-27T03:26:01Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1254,
+  "station_count": 1252,
   "by_state": {
-    "ACT": 9,
-    "NSW": 1157,
+    "ACT": 8,
+    "NSW": 1156,
     "NT": 5,
-    "QLD": 31,
-    "SA": 33,
+    "QLD": 32,
+    "SA": 32,
     "TAS": 1,
     "VIC": 18
   },
@@ -20,7 +20,7 @@
     "Independent": 75,
     "Chargefox": 72,
     "7-Eleven": 65,
-    "BP": 53,
+    "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -35,8 +35,8 @@
     "Liberty": 6,
     "Pearl Energy": 5,
     "Everty": 4,
-    "Ampol Foodary": 3,
     "Speedway": 3,
+    "Ampol Foodary": 2,
     "Budget": 2,
     "Puma Energy": 2,
     "Westside": 1,
@@ -50,10 +50,10 @@
     "X Convenience": 1,
     "Perrys": 1,
     "Mogas": 1,
-    "Riordan Fuels": 1,
-    "Apco": 1,
     "ETA PETROLEUM": 1,
-    "Metro Petroleum": 1
+    "Metro Petroleum": 1,
+    "Riordan Fuels": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -73,15 +73,6 @@
       "state": "ACT",
       "lat": -35.281566,
       "lng": 149.122506
-    },
-    {
-      "brand": "BP",
-      "code": "ACT:18809",
-      "name": "BP Chisholm",
-      "address": "3 Benham St, Chisholm ACT 2905",
-      "state": "ACT",
-      "lat": -35.4129,
-      "lng": 149.128
     },
     {
       "brand": "Chargefox",
@@ -2242,15 +2233,6 @@
       "state": "NSW",
       "lat": -31.868026,
       "lng": 152.371492
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:901",
-      "name": "Ampol Foodary Wyong M1 Southbound Petrol",
-      "address": "M1 Southbound, Wyong NSW 2259",
-      "state": "NSW",
-      "lat": -33.252841,
-      "lng": 151.405549
     },
     {
       "brand": "Ampol",
@@ -10741,6 +10723,15 @@
       "lng": 152.240816
     },
     {
+      "brand": "Liberty",
+      "code": "QLD:61478316",
+      "name": "Liberty Balfes Creek",
+      "address": "16966 Flinders Hwy, QLD 4820",
+      "state": "QLD",
+      "lat": -20.216351994016122,
+      "lng": 145.9088905496994
+    },
+    {
       "brand": "Metro Fuel",
       "code": "QLD:61402410",
       "name": "Metro Toowoomba City",
@@ -11105,20 +11096,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Liberty",
-      "code": "SA:61501405",
-      "name": "Keith OPT",
-      "address": "32 Dukes Highway, SA 5267",
-      "state": "SA",
-      "lat": -36.092683,
-      "lng": 140.349225,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
       ]
     },
     {

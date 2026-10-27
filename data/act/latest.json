@@ -2,8 +2,8 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-10-27T02:01:40Z",
-  "station_count": 61,
+  "fetched_at": "2026-10-27T03:26:01Z",
+  "station_count": 62,
   "fuel_types": [
     "E10",
     "U91",
@@ -259,6 +259,19 @@
       "updated": "2026-10-26T23:04:09Z",
       "lat": -35.275825,
       "lng": 149.132595
+    },
+    {
+      "brand": "BP",
+      "code": "ACT:18809",
+      "name": "BP Chisholm",
+      "address": "3 Benham St, Chisholm ACT 2905",
+      "state": "ACT",
+      "prices": {
+        "E10": 242.9
+      },
+      "updated": "2026-10-27T03:02:11Z",
+      "lat": -35.4129,
+      "lng": 149.128
     },
     {
       "brand": "BP",

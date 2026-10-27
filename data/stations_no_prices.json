@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-27T09:57:18Z",
+  "fetched_at": "2026-10-27T14:24:56Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1262,
+  "station_count": 1256,
   "by_state": {
     "ACT": 8,
-    "NSW": 1159,
+    "NSW": 1156,
     "NT": 5,
-    "QLD": 34,
+    "QLD": 33,
     "SA": 33,
     "TAS": 1,
-    "VIC": 22
+    "VIC": 20
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 80,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 71,
+    "7-Eleven": 65,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -51,9 +51,9 @@
     "X Convenience": 1,
     "Perrys": 1,
     "Mogas": 1,
-    "Apco": 1,
+    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
-    "Metro Petroleum": 1
+    "Apco": 1
   },
   "stations": [
     {
@@ -226,15 +226,6 @@
       "state": "NSW",
       "lat": -33.637167,
       "lng": 150.786046
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:20265",
-      "name": "7-Eleven Bonnyrigg Heights",
-      "address": "620-628 Elizabeth DR, Bonnyrigg Heights NSW 2177",
-      "state": "NSW",
-      "lat": -33.88759,
-      "lng": 150.872897
     },
     {
       "brand": "7-Eleven",
@@ -607,15 +598,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:163",
-      "name": "7-Eleven Penrith",
-      "address": "30 Henry Street, Penrith NSW 2750",
-      "state": "NSW",
-      "lat": -33.754088,
-      "lng": 150.704558
-    },
-    {
-      "brand": "7-Eleven",
       "code": "NSW:148",
       "name": "7-Eleven Penshurst",
       "address": "612 Forest Road, Penshurst NSW 2222",
@@ -667,15 +649,6 @@
       "state": "NSW",
       "lat": -34.580605,
       "lng": 150.861141
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:18307",
-      "name": "7-Eleven Singleton",
-      "address": "1 Maitland RD, Singleton NSW 2330",
-      "state": "NSW",
-      "lat": -32.569388,
-      "lng": 151.179967
     },
     {
       "brand": "7-Eleven",
@@ -10621,23 +10594,6 @@
       ]
     },
     {
-      "brand": "7-Eleven",
-      "code": "QLD:61401188",
-      "name": "7-Eleven Yeronga",
-      "address": "563 Fairfield Rd & Nelson St, QLD 4104",
-      "state": "QLD",
-      "lat": -27.519285,
-      "lng": 153.015135,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
@@ -11403,42 +11359,12 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "VIC:c15to4w5PlocteNP18E0lrsVPB6g6xMJJzTMchW553Q=",
-      "name": "7-Eleven Hampton",
-      "address": "Shop 12 533 Bluff Road, HAMPTON, 3188",
-      "state": "VIC",
-      "lat": -37.93202822,
-      "lng": 145.02460879,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "VIC:VkvBa8whRgy6Z46L367DlDXkAoFePQygEgkFhtVuUPE=",
       "name": "7-Eleven Noble Park",
       "address": "1100-1106 Heatherton Road, Noble Park, 3174",
       "state": "VIC",
       "lat": -37.96512786,
       "lng": 145.17289763,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:9JgUPRc+xojw+agLPvPvMw9ZBQjdbv/dyo6LbqjWk4Y=",
-      "name": "7-Eleven Tullamarine 1",
-      "address": "61-63 Mickleham Road, Tullamarine, 3043",
-      "state": "VIC",
-      "lat": -37.69866783,
-      "lng": 144.88014296,
       "unavailable_fuels": [
         "LPG",
         "Premium Diesel",

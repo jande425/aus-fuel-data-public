@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-27T03:26:01Z",
+  "fetched_at": "2026-10-27T07:46:05Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1252,
+  "station_count": 1256,
   "by_state": {
     "ACT": 8,
-    "NSW": 1156,
+    "NSW": 1157,
     "NT": 5,
     "QLD": 32,
-    "SA": 32,
+    "SA": 33,
     "TAS": 1,
-    "VIC": 18
+    "VIC": 20
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,9 +17,9 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 80,
-    "Independent": 75,
+    "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 65,
+    "7-Eleven": 66,
     "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -28,7 +28,7 @@
     "Caltex": 11,
     "Shell": 10,
     "EVUp": 9,
-    "Mobil": 8,
+    "Mobil": 9,
     "Metro Fuel": 7,
     "Evie Networks": 7,
     "United": 7,
@@ -39,6 +39,7 @@
     "Ampol Foodary": 2,
     "Budget": 2,
     "Puma Energy": 2,
+    "Riordan Fuels": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "PK's": 1,
@@ -52,7 +53,6 @@
     "Mogas": 1,
     "ETA PETROLEUM": 1,
     "Metro Petroleum": 1,
-    "Riordan Fuels": 1,
     "Apco": 1
   },
   "stations": [
@@ -595,6 +595,15 @@
       "state": "NSW",
       "lat": -33.80187,
       "lng": 150.957827
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:163",
+      "name": "7-Eleven Penrith",
+      "address": "30 Henry Street, Penrith NSW 2750",
+      "state": "NSW",
+      "lat": -33.754088,
+      "lng": 150.704558
     },
     {
       "brand": "7-Eleven",
@@ -10973,6 +10982,20 @@
       ]
     },
     {
+      "brand": "Mobil",
+      "code": "SA:61501922",
+      "name": "Cadney Homestead Roadhouse",
+      "address": "69 Stuart Highway, SA 5723",
+      "state": "SA",
+      "lat": -27.905191,
+      "lng": 134.056677,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "SA:61501546",
       "name": "Cape Jervis Tavern And General Store",
@@ -11439,6 +11462,21 @@
       ]
     },
     {
+      "brand": "Independent",
+      "code": "VIC:cpaeNjrUj+sNmDLLeUBBIWO2PQhTfnzbTctRUUw7EVA=",
+      "name": "Food Plus Fuel",
+      "address": "60-64 Holmes Street, BRUNSWICK, 3056",
+      "state": "VIC",
+      "lat": -37.75860284,
+      "lng": 144.97474394,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U98"
+      ]
+    },
+    {
       "brand": "Liberty",
       "code": "VIC:B9Abo+4raxqqCo4w9FjYBkKULRTDuLrShdpOhuPF4Sw=",
       "name": "Liberty Merbein South",
@@ -11516,6 +11554,18 @@
       "state": "VIC",
       "lat": -37.82690678,
       "lng": 144.39474635,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
+    },
+    {
+      "brand": "Riordan Fuels",
+      "code": "VIC:QEbZXowrJyoLaMIauFY/D/h2kfJLkbgzy5OTN+JbEe4=",
+      "name": "Riordan Fuels - Lismore",
+      "address": "109 High Street, Lismore, 3324",
+      "state": "VIC",
+      "lat": -37.95332653,
+      "lng": 143.3339339,
       "unavailable_fuels": [
         "Diesel"
       ]

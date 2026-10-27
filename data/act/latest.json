@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-10-27T03:26:01Z",
+  "fetched_at": "2026-10-27T07:46:05Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -267,9 +267,11 @@
       "address": "3 Benham St, Chisholm ACT 2905",
       "state": "ACT",
       "prices": {
-        "E10": 242.9
+        "E10": 242.9,
+        "U98": 268.9,
+        "Premium Diesel": 284.9
       },
-      "updated": "2026-10-27T03:02:11Z",
+      "updated": "2026-10-27T07:27:02Z",
       "lat": -35.4129,
       "lng": 149.128
     },
@@ -459,12 +461,12 @@
       "address": "94-96 Sheppard St, Hume ACT 2620",
       "state": "ACT",
       "prices": {
-        "U95": 257.9,
-        "U98": 267.9,
+        "U95": 259.9,
+        "U98": 269.9,
         "Premium Diesel": 289.9,
-        "U91": 240.9
+        "U91": 242.9
       },
-      "updated": "2026-10-26T18:32:26Z",
+      "updated": "2026-10-27T05:57:26Z",
       "lat": -35.3923,
       "lng": 149.162
     },

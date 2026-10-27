@@ -2,8 +2,8 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-10-26T22:12:41Z",
-  "station_count": 62,
+  "fetched_at": "2026-10-27T01:34:06Z",
+  "station_count": 61,
   "fuel_types": [
     "E10",
     "U91",
@@ -90,10 +90,10 @@
         "E10": 240.9,
         "U95": 260.4,
         "U98": 267.4,
-        "Premium Diesel": 279.9,
+        "Premium Diesel": 282.4,
         "U91": 244.9
       },
-      "updated": "2026-10-26T21:17:29Z",
+      "updated": "2026-10-27T01:12:27Z",
       "lat": -35.270935,
       "lng": 149.133379
     },
@@ -123,10 +123,10 @@
         "E10": 245.9,
         "U95": 264.9,
         "U98": 274.9,
-        "Premium Diesel": 294.9,
+        "Premium Diesel": 290.9,
         "U91": 247.9
       },
-      "updated": "2026-10-26T18:57:27Z",
+      "updated": "2026-10-27T00:32:29Z",
       "lat": -35.2242,
       "lng": 149.021
     },
@@ -254,26 +254,11 @@
         "E10": 240.9,
         "U95": 258.9,
         "U98": 267.9,
-        "Premium Diesel": 279.9
+        "Premium Diesel": 280.9
       },
-      "updated": "2026-10-26T04:00:15Z",
+      "updated": "2026-10-26T23:04:09Z",
       "lat": -35.275825,
       "lng": 149.132595
-    },
-    {
-      "brand": "BP",
-      "code": "ACT:18809",
-      "name": "BP Chisholm",
-      "address": "3 Benham St, Chisholm ACT 2905",
-      "state": "ACT",
-      "prices": {
-        "U95": 259.9,
-        "U98": 268.9,
-        "Premium Diesel": 284.9
-      },
-      "updated": "2026-10-24T23:08:15Z",
-      "lat": -35.4129,
-      "lng": 149.128
     },
     {
       "brand": "BP",
@@ -333,9 +318,9 @@
         "E10": 239.9,
         "U95": 258.9,
         "U98": 267.9,
-        "Premium Diesel": 289.9
+        "Premium Diesel": 292.9
       },
-      "updated": "2026-10-26T00:45:53Z",
+      "updated": "2026-10-26T23:51:56Z",
       "lat": -35.224985,
       "lng": 149.165864
     },

@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-26T22:12:41Z",
+  "fetched_at": "2026-10-27T01:34:06Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1251,
+  "station_count": 1254,
   "by_state": {
-    "ACT": 8,
-    "NSW": 1156,
-    "NT": 6,
+    "ACT": 9,
+    "NSW": 1157,
+    "NT": 5,
     "QLD": 31,
-    "SA": 31,
+    "SA": 33,
     "TAS": 1,
     "VIC": 18
   },
@@ -17,10 +17,10 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 80,
-    "Independent": 74,
+    "Independent": 75,
     "Chargefox": 72,
     "7-Eleven": 65,
-    "BP": 52,
+    "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -32,13 +32,13 @@
     "Metro Fuel": 7,
     "Evie Networks": 7,
     "United": 7,
+    "Liberty": 6,
     "Pearl Energy": 5,
-    "Liberty": 5,
     "Everty": 4,
+    "Ampol Foodary": 3,
     "Speedway": 3,
-    "Puma Energy": 3,
-    "Ampol Foodary": 2,
     "Budget": 2,
+    "Puma Energy": 2,
     "Westside": 1,
     "Transwest Fuels": 1,
     "PK's": 1,
@@ -50,8 +50,8 @@
     "X Convenience": 1,
     "Perrys": 1,
     "Mogas": 1,
-    "ETA PETROLEUM": 1,
     "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1,
     "Riordan Fuels": 1,
     "Apco": 1
   },
@@ -73,6 +73,15 @@
       "state": "ACT",
       "lat": -35.281566,
       "lng": 149.122506
+    },
+    {
+      "brand": "BP",
+      "code": "ACT:18809",
+      "name": "BP Chisholm",
+      "address": "3 Benham St, Chisholm ACT 2905",
+      "state": "ACT",
+      "lat": -35.4129,
+      "lng": 149.128
     },
     {
       "brand": "Chargefox",
@@ -2233,6 +2242,15 @@
       "state": "NSW",
       "lat": -31.868026,
       "lng": 152.371492
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:901",
+      "name": "Ampol Foodary Wyong M1 Southbound Petrol",
+      "address": "M1 Southbound, Wyong NSW 2259",
+      "state": "NSW",
+      "lat": -33.252841,
+      "lng": 151.405549
     },
     {
       "brand": "Ampol",
@@ -6681,6 +6699,15 @@
       "lng": 150.451961
     },
     {
+      "brand": "Independent",
+      "code": "NSW:20954",
+      "name": "Mobil 1 Carlingford Car Care (Self-Serve)",
+      "address": "486 North Rocks Road Carlingford NSW 2118",
+      "state": "NSW",
+      "lat": -33.765044,
+      "lng": 151.057905
+    },
+    {
       "brand": "Mobil",
       "code": "NSW:20043",
       "name": "Mobil Fuel Bodalla",
@@ -8101,15 +8128,6 @@
       "state": "NSW",
       "lat": -30.348586,
       "lng": 149.75737
-    },
-    {
-      "brand": "Shell",
-      "code": "NSW:20649",
-      "name": "Shell North Rocks",
-      "address": "264 North Rocks RD, North Rocks NSW 2151",
-      "state": "NSW",
-      "lat": -33.776819,
-      "lng": 151.013689
     },
     {
       "brand": "Reddy Express",
@@ -10569,15 +10587,6 @@
       "lng": 134.072466
     },
     {
-      "brand": "Puma Energy",
-      "code": "NT:08520106",
-      "name": "Numbulwar Workshop",
-      "address": "Lot 53 Numbulwar, Numbalwar, 0852, NT",
-      "state": "NT",
-      "lat": -14.283876,
-      "lng": 135.725471
-    },
-    {
       "brand": "Independent",
       "code": "NT:08200181",
       "name": "Roper Bar ",
@@ -11096,6 +11105,33 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "Liberty",
+      "code": "SA:61501405",
+      "name": "Keith OPT",
+      "address": "32 Dukes Highway, SA 5267",
+      "state": "SA",
+      "lat": -36.092683,
+      "lng": 140.349225,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Shell",
+      "code": "SA:61501159",
+      "name": "Largs Bay OPT",
+      "address": "207 Victoria Rd, SA 5016",
+      "state": "SA",
+      "lat": -34.82568369580605,
+      "lng": 138.49966604639758,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel"
       ]
     },
     {

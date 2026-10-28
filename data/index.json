@@ -1,11 +1,13 @@
 {
-  "last_updated": "2026-10-28T20:01:58Z",
-  "total_stations": 5413,
-  "total_states": 5,
+  "last_updated": "2026-10-28T21:38:09Z",
+  "total_stations": 7880,
+  "total_states": 8,
   "fuel_types": [
+    "B20",
     "Diesel",
     "E10",
     "E85",
+    "EV",
     "LAF",
     "LPG",
     "Opal",
@@ -15,39 +17,60 @@
     "U98"
   ],
   "states": {
+    "ACT": {
+      "station_count": 62,
+      "price_count": 264,
+      "file": "act/latest.json",
+      "checksum": "04318aca",
+      "size_bytes": 25293
+    },
+    "NSW": {
+      "station_count": 2110,
+      "price_count": 8452,
+      "file": "nsw/latest.json",
+      "checksum": "7c347004",
+      "size_bytes": 838902
+    },
     "NT": {
       "station_count": 210,
       "price_count": 564,
       "file": "nt/latest.json",
-      "checksum": "a8fd606e",
+      "checksum": "9751c128",
       "size_bytes": 79321
     },
     "QLD": {
-      "station_count": 1772,
-      "price_count": 6875,
+      "station_count": 1773,
+      "price_count": 6879,
       "file": "qld/latest.json",
-      "checksum": "0c15f090",
-      "size_bytes": 699166
+      "checksum": "7e3b73b6",
+      "size_bytes": 699532
     },
     "SA": {
       "station_count": 696,
       "price_count": 2474,
       "file": "sa/latest.json",
-      "checksum": "f76ee3aa",
+      "checksum": "61d1c27d",
       "size_bytes": 269803
     },
+    "TAS": {
+      "station_count": 293,
+      "price_count": 1424,
+      "file": "tas/latest.json",
+      "checksum": "b6dd4b7b",
+      "size_bytes": 123555
+    },
     "VIC": {
-      "station_count": 1738,
-      "price_count": 7116,
+      "station_count": 1739,
+      "price_count": 7120,
       "file": "vic/latest.json",
-      "checksum": "e841cfc3",
-      "size_bytes": 780305
+      "checksum": "59612483",
+      "size_bytes": 780732
     },
     "WA": {
       "station_count": 997,
       "price_count": 3374,
       "file": "wa/latest.json",
-      "checksum": "983c5ac7",
+      "checksum": "2cf240e6",
       "size_bytes": 509875
     }
   },

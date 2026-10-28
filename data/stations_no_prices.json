@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-28T10:43:37Z",
+  "fetched_at": "2026-10-28T13:32:24Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1268,
+  "station_count": 1264,
   "by_state": {
-    "ACT": 9,
+    "ACT": 8,
     "NSW": 1159,
     "NT": 5,
-    "QLD": 37,
+    "QLD": 35,
     "SA": 33,
     "TAS": 1,
-    "VIC": 24
+    "VIC": 23
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 81,
     "Independent": 77,
     "Chargefox": 72,
-    "7-Eleven": 70,
+    "7-Eleven": 66,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -54,8 +54,8 @@
     "X Convenience": 1,
     "On the Run": 1,
     "Apco": 1,
-    "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "ETA PETROLEUM": 1,
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -66,15 +66,6 @@
       "state": "ACT",
       "lat": -35.3251,
       "lng": 149.154
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "ACT:18795",
-      "name": "7-Eleven Phillip",
-      "address": "86 Parramatta ST, Phillip ACT 2606",
-      "state": "ACT",
-      "lat": -35.355061,
-      "lng": 149.091106
     },
     {
       "brand": "Chargefox",
@@ -528,6 +519,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:17120",
+      "name": "7-Eleven McGraths Hill",
+      "address": "142 Windsor RD, Mcgraths Hill NSW 2756",
+      "state": "NSW",
+      "lat": -33.616849,
+      "lng": 150.834184
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:133",
       "name": "7-Eleven Merrylands",
       "address": "295-297 Merrylands Road (Corner Windsor Street), Merrylands NSW 2160",
@@ -561,15 +561,6 @@
       "state": "NSW",
       "lat": -33.764921,
       "lng": 150.82627
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:18660",
-      "name": "7-Eleven Muswellbrook",
-      "address": "31-33 Maitland ST, Muswellbrook NSW 2333",
-      "state": "NSW",
-      "lat": -32.270515,
-      "lng": 150.888256
     },
     {
       "brand": "7-Eleven",
@@ -10617,44 +10608,12 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "QLD:61401380",
-      "name": "7-Eleven Ashgrove",
-      "address": "268 Waterworks Rd & Roy St, QLD 4060",
-      "state": "QLD",
-      "lat": -27.445996,
-      "lng": 152.991244,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "QLD:61401014",
       "name": "7-Eleven Broadbeach",
       "address": "Hooker Bvd & Sunshine Bvd, QLD 4218",
       "state": "QLD",
       "lat": -28.035658,
       "lng": 153.425217,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61401118",
-      "name": "7-Eleven East Brisbane",
-      "address": "508 Vulture Street Cnr Wellington Rd, QLD 4169",
-      "state": "QLD",
-      "lat": -27.48469982543029,
-      "lng": 153.03976776686477,
       "unavailable_fuels": [
         "E10",
         "LPG",
@@ -11450,22 +11409,6 @@
       "lat": -38.1245309,
       "lng": 145.37233236,
       "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:uD16McXkDIVCKkKrArQSkTllQ6igJ5LSfTjCGT3aPQE=",
-      "name": "7-Eleven Keilor East",
-      "address": "Cnr Milleara Road And Amis Crescent, Keilor East, 3033",
-      "state": "VIC",
-      "lat": -37.74839882156205,
-      "lng": 144.8619409257983,
-      "unavailable_fuels": [
-        "LPG",
         "Premium Diesel",
         "U91",
         "U95",

@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-27T21:16:35Z",
+  "fetched_at": "2026-10-28T00:12:59Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1256,
+  "station_count": 1257,
   "by_state": {
     "ACT": 8,
-    "NSW": 1157,
+    "NSW": 1159,
     "NT": 5,
     "QLD": 33,
-    "SA": 32,
+    "SA": 31,
     "TAS": 1,
     "VIC": 20
   },
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 14,
+    "Ampol": 15,
     "Caltex": 11,
     "Shell": 10,
     "EVUp": 9,
@@ -32,15 +32,16 @@
     "Metro Fuel": 7,
     "Evie Networks": 7,
     "United": 7,
-    "Liberty": 6,
     "Pearl Energy": 5,
+    "Liberty": 5,
     "Everty": 4,
+    "Ampol Foodary": 3,
     "Speedway": 3,
-    "Ampol Foodary": 2,
     "Budget": 2,
     "Puma Energy": 2,
     "Riordan Fuels": 2,
     "Westside": 1,
+    "Lowes": 1,
     "Transwest Fuels": 1,
     "PK's": 1,
     "Astron": 1,
@@ -50,7 +51,6 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "Mogas": 1,
     "Metro Petroleum": 1,
     "Apco": 1,
     "ETA PETROLEUM": 1
@@ -2224,6 +2224,15 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:17310",
+      "name": "Ampol Foodary St Ives North",
+      "address": "363 Mona Vale Road, ST IVES NORTH NSW 2075",
+      "state": "NSW",
+      "lat": -33.716381,
+      "lng": 151.173316
     },
     {
       "brand": "Ampol Foodary",
@@ -6274,6 +6283,15 @@
       "state": "NSW",
       "lat": -34.311796,
       "lng": 148.294912
+    },
+    {
+      "brand": "Lowes",
+      "code": "NSW:1947",
+      "name": "Lowes Boggabilla",
+      "address": "Newell Highway, BOGGABILLA NSW 2409",
+      "state": "NSW",
+      "lat": -28.609732,
+      "lng": 150.35286
     },
     {
       "brand": "NRMA",
@@ -10621,6 +10639,18 @@
       "lng": 151.411238
     },
     {
+      "brand": "Ampol",
+      "code": "QLD:61402749",
+      "name": "Ampol Yatala South Diesel Stop",
+      "address": "2 Notar Drive, QLD 4207",
+      "state": "QLD",
+      "lat": -27.759802,
+      "lng": 153.246944,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
+    },
+    {
       "brand": "BP",
       "code": "QLD:61401047",
       "name": "BP Benowa",
@@ -10739,15 +10769,6 @@
       "state": "QLD",
       "lat": -26.086213,
       "lng": 152.240816
-    },
-    {
-      "brand": "Liberty",
-      "code": "QLD:61478316",
-      "name": "Liberty Balfes Creek",
-      "address": "16966 Flinders Hwy, QLD 4820",
-      "state": "QLD",
-      "lat": -20.216351994016122,
-      "lng": 145.9088905496994
     },
     {
       "brand": "Metro Fuel",
@@ -10963,19 +10984,6 @@
       "state": "SA",
       "lat": -35.180316,
       "lng": 138.483943
-    },
-    {
-      "brand": "Mogas",
-      "code": "SA:61577033",
-      "name": "Bascombe Autoag",
-      "address": "2-8 Railway Terrace, SA 5631",
-      "state": "SA",
-      "lat": -34.26126951423701,
-      "lng": 135.72903568589646,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91"
-      ]
     },
     {
       "brand": "Independent",

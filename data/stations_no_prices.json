@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-28T21:38:09Z",
+  "fetched_at": "2026-10-28T23:23:16Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1262,
+  "station_count": 1264,
   "by_state": {
     "ACT": 8,
-    "NSW": 1159,
+    "NSW": 1160,
     "NT": 5,
-    "QLD": 34,
-    "SA": 33,
+    "QLD": 35,
+    "SA": 32,
     "TAS": 1,
-    "VIC": 22
+    "VIC": 23
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,14 +17,14 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "Independent": 77,
+    "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 64,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 14,
+    "Ampol": 17,
     "Caltex": 11,
     "Shell": 10,
     "EVUp": 9,
@@ -35,15 +35,14 @@
     "Pearl Energy": 6,
     "Liberty": 5,
     "Everty": 4,
+    "Transwest Fuels": 3,
     "Speedway": 3,
     "Budget": 2,
     "Puma Energy": 2,
-    "Perrys": 2,
     "Riordan Fuels": 2,
     "Westside": 1,
     "Shell Express": 1,
     "Lowes": 1,
-    "Transwest Fuels": 1,
     "PK's": 1,
     "Astron": 1,
     "Ampol Foodary": 1,
@@ -52,10 +51,12 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
+    "Perrys": 1,
     "On the Run": 1,
-    "ETA PETROLEUM": 1,
     "Apco": 1,
-    "Metro Petroleum": 1
+    "ETA PETROLEUM": 1,
+    "Metro Petroleum": 1,
+    "U-Go": 1
   },
   "stations": [
     {
@@ -516,15 +517,6 @@
       "state": "NSW",
       "lat": -33.951306,
       "lng": 151.24905
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:17120",
-      "name": "7-Eleven McGraths Hill",
-      "address": "142 Windsor RD, Mcgraths Hill NSW 2756",
-      "state": "NSW",
-      "lat": -33.616849,
-      "lng": 150.834184
     },
     {
       "brand": "7-Eleven",
@@ -2244,6 +2236,15 @@
       "state": "NSW",
       "lat": -30.205971,
       "lng": 151.675722
+    },
+    {
+      "brand": "Ampol",
+      "code": "NSW:696",
+      "name": "Ampol Ingleburn Diesel Stop",
+      "address": "6 Lancaster St, Ingleburn NSW 2565 Ingleburn NSW 2565",
+      "state": "NSW",
+      "lat": -33.989784,
+      "lng": 150.866572
     },
     {
       "brand": "Ampol",
@@ -9996,6 +9997,15 @@
     },
     {
       "brand": "Transwest Fuels",
+      "code": "NSW:20956",
+      "name": "Transwest Armidale",
+      "address": "1 Shand DR, Armidale NSW 2350 Armidale NSW 2350",
+      "state": "NSW",
+      "lat": -30.529778,
+      "lng": 51.619133
+    },
+    {
+      "brand": "Transwest Fuels",
       "code": "NSW:2059",
       "name": "Transwest Fuels Nemingha",
       "address": "1019 New England Hwy, Nemingha NSW 2340",
@@ -10004,13 +10014,13 @@
       "lng": 150.987928
     },
     {
-      "brand": "Independent",
+      "brand": "Transwest Fuels",
       "code": "NSW:20955",
       "name": "Transwest Tenterfield",
-      "address": "154-162 High ST, Tenterfield NSW 2372",
+      "address": "154-162 High ST, NSW 2372 Tenterfield NSW 2372",
       "state": "NSW",
-      "lat": -29.053455,
-      "lng": 152.021123
+      "lat": -29.053501,
+      "lng": 152.0211
     },
     {
       "brand": "Chargefox",
@@ -10607,18 +10617,33 @@
       "lng": 134.528786
     },
     {
-      "brand": "7-Eleven",
-      "code": "QLD:61401014",
-      "name": "7-Eleven Broadbeach",
-      "address": "Hooker Bvd & Sunshine Bvd, QLD 4218",
+      "brand": "Ampol",
+      "code": "QLD:61401988",
+      "name": "Ampol Foodary Beaudesert",
+      "address": "3 Telemon Street, QLD 4285",
       "state": "QLD",
-      "lat": -28.035658,
-      "lng": 153.425217,
+      "lat": -27.989082,
+      "lng": 152.994332,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "QLD:61401167",
+      "name": "Ampol Foodary Kenmore",
+      "address": "888 Moggill Rd & Marshall Ln, QLD 4069",
+      "state": "QLD",
+      "lat": -27.507802,
+      "lng": 152.948185,
       "unavailable_fuels": [
         "E10",
-        "LPG",
         "Premium Diesel",
         "U91",
+        "U95",
         "U98"
       ]
     },
@@ -11237,18 +11262,6 @@
     },
     {
       "brand": "Perrys",
-      "code": "SA:61570026",
-      "name": "Perrys Lyndhurst",
-      "address": "Outback Highway, SA 5731",
-      "state": "SA",
-      "lat": -30.287268,
-      "lng": 138.349422,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
-    },
-    {
-      "brand": "Perrys",
       "code": "SA:61501655",
       "name": "Perrys Tarlee",
       "address": "21-33 Main North Road, SA 5411",
@@ -11670,6 +11683,20 @@
       "unavailable_fuels": [
         "Diesel",
         "LPG",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "U-Go",
+      "code": "VIC:/Bde2UAfvG/v4CX6+MYx6EjctUFlSOGBpM6dTbvIFIM=",
+      "name": "U-Go Carrum Downs",
+      "address": "467 Frankston-Dandenong Road, Carrum Downs, 3201",
+      "state": "VIC",
+      "lat": -38.11078385,
+      "lng": 145.16005483,
+      "unavailable_fuels": [
+        "Premium Diesel",
         "U91",
         "U98"
       ]

@@ -2,8 +2,8 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-10-28T06:17:32Z",
-  "station_count": 62,
+  "fetched_at": "2026-10-28T08:25:18Z",
+  "station_count": 61,
   "fuel_types": [
     "E10",
     "U91",
@@ -106,10 +106,10 @@
       "prices": {
         "U95": 264.9,
         "U98": 274.9,
-        "Premium Diesel": 289.9,
+        "Premium Diesel": 292.9,
         "U91": 247.9
       },
-      "updated": "2026-10-28T02:42:27Z",
+      "updated": "2026-10-28T06:42:26Z",
       "lat": -35.4345,
       "lng": 149.112
     },
@@ -461,12 +461,12 @@
       "address": "94-96 Sheppard St, Hume ACT 2620",
       "state": "ACT",
       "prices": {
-        "U95": 261.9,
-        "U98": 271.9,
+        "U95": 258.9,
+        "U98": 268.9,
         "Premium Diesel": 286.9,
-        "U91": 244.9
+        "U91": 241.9
       },
-      "updated": "2026-10-28T03:32:28Z",
+      "updated": "2026-10-28T07:42:26Z",
       "lat": -35.3923,
       "lng": 149.162
     },
@@ -527,10 +527,10 @@
       "prices": {
         "U95": 264.9,
         "U98": 274.9,
-        "Premium Diesel": 292.9,
+        "Premium Diesel": 293.9,
         "U91": 247.9
       },
-      "updated": "2026-10-28T02:32:27Z",
+      "updated": "2026-10-28T07:32:27Z",
       "lat": -35.4043,
       "lng": 149.097
     },
@@ -832,7 +832,7 @@
       "address": "150 O'Halloran Circuit, Kambah ACT 2902",
       "state": "ACT",
       "prices": {
-        "Diesel": 287.9,
+        "Diesel": 291.5,
         "E10": 243.9,
         "E85": 259.9,
         "LPG": 119.9,
@@ -840,7 +840,7 @@
         "U98": 269.9,
         "U91": 245.9
       },
-      "updated": "2026-10-28T02:15:05Z",
+      "updated": "2026-10-28T06:35:04Z",
       "lat": -35.3924,
       "lng": 149.069
     },
@@ -907,23 +907,6 @@
       "updated": "2026-10-19T12:49:13Z",
       "lat": -35.2966,
       "lng": 149.189
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "ACT:18795",
-      "name": "7-Eleven Phillip",
-      "address": "86 Parramatta ST, Phillip ACT 2606",
-      "state": "ACT",
-      "prices": {
-        "E10": 245.9,
-        "U95": 264.9,
-        "U98": 273.9,
-        "Premium Diesel": 292.9,
-        "U91": 247.9
-      },
-      "updated": "2026-10-28T01:48:14Z",
-      "lat": -35.355061,
-      "lng": 149.091106
     },
     {
       "brand": "7-Eleven",
@@ -998,12 +981,12 @@
       "address": "Mobil Outlet 15 Barrier ST, Fyshwick ACT 2609",
       "state": "ACT",
       "prices": {
-        "E10": 229.9,
-        "U98": 252.9,
-        "Premium Diesel": 276.9,
-        "U91": 237.9
+        "E10": 224.9,
+        "U98": 247.9,
+        "Premium Diesel": 271.9,
+        "U91": 232.9
       },
-      "updated": "2026-10-27T18:09:38Z",
+      "updated": "2026-10-28T08:04:17Z",
       "lat": -35.329111,
       "lng": 149.172604
     },

@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-28T06:17:32Z",
+  "fetched_at": "2026-10-28T08:25:18Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1261,
+  "station_count": 1264,
   "by_state": {
-    "ACT": 8,
-    "NSW": 1158,
+    "ACT": 9,
+    "NSW": 1159,
     "NT": 5,
     "QLD": 34,
     "SA": 33,
     "TAS": 1,
-    "VIC": 22
+    "VIC": 23
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 80,
     "Independent": 77,
     "Chargefox": 72,
-    "7-Eleven": 65,
+    "7-Eleven": 67,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -39,6 +39,7 @@
     "Budget": 2,
     "Puma Energy": 2,
     "Perrys": 2,
+    "Riordan Fuels": 2,
     "Westside": 1,
     "Shell Express": 1,
     "Lowes": 1,
@@ -52,10 +53,9 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "On the Run": 1,
-    "Metro Petroleum": 1,
+    "Apco": 1,
     "ETA PETROLEUM": 1,
-    "Riordan Fuels": 1,
-    "Apco": 1
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -66,6 +66,15 @@
       "state": "ACT",
       "lat": -35.3251,
       "lng": 149.154
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "ACT:18795",
+      "name": "7-Eleven Phillip",
+      "address": "86 Parramatta ST, Phillip ACT 2606",
+      "state": "ACT",
+      "lat": -35.355061,
+      "lng": 149.091106
     },
     {
       "brand": "Chargefox",
@@ -552,6 +561,15 @@
       "state": "NSW",
       "lat": -33.764921,
       "lng": 150.82627
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:18660",
+      "name": "7-Eleven Muswellbrook",
+      "address": "31-33 Maitland ST, Muswellbrook NSW 2333",
+      "state": "NSW",
+      "lat": -32.270515,
+      "lng": 150.888256
     },
     {
       "brand": "7-Eleven",
@@ -11604,6 +11622,18 @@
       "state": "VIC",
       "lat": -37.82690678,
       "lng": 144.39474635,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
+    },
+    {
+      "brand": "Riordan Fuels",
+      "code": "VIC:QEbZXowrJyoLaMIauFY/D/h2kfJLkbgzy5OTN+JbEe4=",
+      "name": "Riordan Fuels - Lismore",
+      "address": "109 High Street, Lismore, 3324",
+      "state": "VIC",
+      "lat": -37.95332653,
+      "lng": 143.3339339,
       "unavailable_fuels": [
         "Diesel"
       ]

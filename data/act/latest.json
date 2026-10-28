@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-10-28T02:10:55Z",
+  "fetched_at": "2026-10-28T06:17:32Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -54,12 +54,12 @@
       "address": "20 Mort ST, Braddon ACT 2612",
       "state": "ACT",
       "prices": {
-        "E10": 242.9,
-        "U98": 270.9,
+        "E10": 240.9,
+        "U98": 267.9,
         "Premium Diesel": 280.9,
         "U91": 244.9
       },
-      "updated": "2026-10-25T19:24:13Z",
+      "updated": "2026-10-28T05:57:14Z",
       "lat": -35.275669,
       "lng": 149.131261
     },
@@ -73,10 +73,10 @@
         "E10": 243.9,
         "U95": 262.9,
         "U98": 271.9,
-        "Premium Diesel": 287.9,
+        "Premium Diesel": 290.9,
         "U91": 245.9
       },
-      "updated": "2026-10-28T01:48:14Z",
+      "updated": "2026-10-28T03:48:17Z",
       "lat": -35.1756,
       "lng": 149.096
     },
@@ -106,10 +106,10 @@
       "prices": {
         "U95": 264.9,
         "U98": 274.9,
-        "Premium Diesel": 287.9,
+        "Premium Diesel": 289.9,
         "U91": 247.9
       },
-      "updated": "2026-10-28T01:32:27Z",
+      "updated": "2026-10-28T02:42:27Z",
       "lat": -35.4345,
       "lng": 149.112
     },
@@ -137,10 +137,10 @@
       "address": "96 Sawmill Cct, Hume ACT 2620",
       "state": "ACT",
       "prices": {
-        "Diesel": 287.9,
-        "Premium Diesel": 290.9
+        "Diesel": 274.9,
+        "Premium Diesel": 277.9
       },
-      "updated": "2026-10-25T23:52:26Z",
+      "updated": "2026-10-28T02:47:26Z",
       "lat": -35.3964,
       "lng": 149.158
     },
@@ -269,9 +269,9 @@
       "prices": {
         "U95": 261.9,
         "U98": 270.9,
-        "Premium Diesel": 289.9
+        "Premium Diesel": 286.9
       },
-      "updated": "2026-10-28T01:51:59Z",
+      "updated": "2026-10-28T03:53:57Z",
       "lat": -35.4129,
       "lng": 149.128
     },
@@ -382,10 +382,10 @@
         "E10": 247.9,
         "U95": 267.9,
         "U98": 277.9,
-        "Premium Diesel": 288.9,
+        "Premium Diesel": 293.9,
         "U91": 249.9
       },
-      "updated": "2026-10-27T21:22:27Z",
+      "updated": "2026-10-28T05:02:27Z",
       "lat": -35.4582,
       "lng": 149.092
     },
@@ -398,10 +398,10 @@
       "prices": {
         "LPG": 125.9,
         "U98": 270.9,
-        "Premium Diesel": 287.9,
+        "Premium Diesel": 289.9,
         "U91": 244.9
       },
-      "updated": "2026-10-26T20:24:14Z",
+      "updated": "2026-10-28T04:03:17Z",
       "lat": -35.2136,
       "lng": 149.096
     },
@@ -430,10 +430,10 @@
       "prices": {
         "U95": 262.9,
         "U98": 272.9,
-        "Premium Diesel": 290.9,
+        "Premium Diesel": 292.9,
         "U91": 245.9
       },
-      "updated": "2026-10-28T00:12:27Z",
+      "updated": "2026-10-28T02:12:27Z",
       "lat": -35.183622,
       "lng": 149.125917
     },
@@ -463,10 +463,10 @@
       "prices": {
         "U95": 261.9,
         "U98": 271.9,
-        "Premium Diesel": 289.9,
+        "Premium Diesel": 286.9,
         "U91": 244.9
       },
-      "updated": "2026-10-28T01:32:27Z",
+      "updated": "2026-10-28T03:32:28Z",
       "lat": -35.3923,
       "lng": 149.162
     },
@@ -479,10 +479,10 @@
       "prices": {
         "U95": 256.9,
         "U98": 266.9,
-        "Premium Diesel": 279.9,
+        "Premium Diesel": 277.9,
         "U91": 239.9
       },
-      "updated": "2026-10-26T18:52:25Z",
+      "updated": "2026-10-28T02:12:27Z",
       "lat": -35.294611,
       "lng": 149.189732
     },
@@ -527,10 +527,10 @@
       "prices": {
         "U95": 264.9,
         "U98": 274.9,
-        "Premium Diesel": 290.9,
+        "Premium Diesel": 292.9,
         "U91": 247.9
       },
-      "updated": "2026-10-28T00:32:27Z",
+      "updated": "2026-10-28T02:32:27Z",
       "lat": -35.4043,
       "lng": 149.097
     },
@@ -576,10 +576,10 @@
         "E10": 245.9,
         "LPG": 125.9,
         "U98": 273.9,
-        "Premium Diesel": 290.9,
+        "Premium Diesel": 292.9,
         "U91": 247.9
       },
-      "updated": "2026-10-26T20:21:14Z",
+      "updated": "2026-10-28T03:21:15Z",
       "lat": -35.2207,
       "lng": 149.018
     },
@@ -815,13 +815,13 @@
       "address": "Cnr Katherine and Horse Park Dr, Amaroo ACT 2914",
       "state": "ACT",
       "prices": {
-        "Diesel": 287.9,
+        "Diesel": 290.9,
         "E10": 243.9,
         "LPG": 116.9,
         "U98": 269.9,
         "U91": 245.9
       },
-      "updated": "2026-10-28T02:10:06Z",
+      "updated": "2026-10-28T04:40:04Z",
       "lat": -35.1641,
       "lng": 149.131
     },
@@ -832,7 +832,7 @@
       "address": "150 O'Halloran Circuit, Kambah ACT 2902",
       "state": "ACT",
       "prices": {
-        "Diesel": 284.9,
+        "Diesel": 287.9,
         "E10": 243.9,
         "E85": 259.9,
         "LPG": 119.9,
@@ -840,7 +840,7 @@
         "U98": 269.9,
         "U91": 245.9
       },
-      "updated": "2026-10-27T21:05:03Z",
+      "updated": "2026-10-28T02:15:05Z",
       "lat": -35.3924,
       "lng": 149.069
     },
@@ -884,12 +884,12 @@
       "address": "2 Chinner Cres, Melba ACT 2615",
       "state": "ACT",
       "prices": {
-        "E10": 242.9,
-        "U98": 270.9,
-        "Premium Diesel": 290.9,
-        "U91": 244.9
+        "E10": 243.9,
+        "U98": 271.9,
+        "Premium Diesel": 292.9,
+        "U91": 245.9
       },
-      "updated": "2026-10-25T20:21:14Z",
+      "updated": "2026-10-28T06:12:13Z",
       "lat": -35.2078,
       "lng": 149.048
     },
@@ -952,10 +952,10 @@
         "E10": 245.9,
         "LPG": 121.9,
         "U98": 273.9,
-        "Premium Diesel": 287.9,
+        "Premium Diesel": 292.9,
         "U91": 247.9
       },
-      "updated": "2026-10-28T01:51:14Z",
+      "updated": "2026-10-28T05:57:14Z",
       "lat": -35.4052,
       "lng": 149.101
     },

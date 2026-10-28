@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-28T02:10:55Z",
+  "fetched_at": "2026-10-28T06:17:32Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1258,
+  "station_count": 1261,
   "by_state": {
     "ACT": 8,
-    "NSW": 1157,
+    "NSW": 1158,
     "NT": 5,
     "QLD": 34,
-    "SA": 32,
+    "SA": 33,
     "TAS": 1,
-    "VIC": 21
+    "VIC": 22
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,27 +19,28 @@
     "Reddy Express": 80,
     "Independent": 77,
     "Chargefox": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 65,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 15,
+    "Ampol": 14,
     "Caltex": 11,
-    "Shell": 10,
+    "Shell": 11,
     "EVUp": 9,
+    "United": 8,
     "Mobil": 8,
     "Metro Fuel": 7,
     "Evie Networks": 7,
-    "United": 7,
-    "Pearl Energy": 5,
-    "Liberty": 5,
+    "Pearl Energy": 6,
+    "Liberty": 6,
     "Everty": 4,
     "Speedway": 3,
     "Budget": 2,
     "Puma Energy": 2,
-    "Riordan Fuels": 2,
+    "Perrys": 2,
     "Westside": 1,
+    "Shell Express": 1,
     "Lowes": 1,
     "Transwest Fuels": 1,
     "PK's": 1,
@@ -50,11 +51,11 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
-    "Perrys": 1,
     "On the Run": 1,
+    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
-    "Apco": 1,
-    "Metro Petroleum": 1
+    "Riordan Fuels": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -8104,6 +8105,15 @@
       "lng": 148.602401
     },
     {
+      "brand": "Shell Express",
+      "code": "NSW:202",
+      "name": "Shell Express Campbelltown",
+      "address": "27 Queen Street, Campbelltown NSW 2560",
+      "state": "NSW",
+      "lat": -34.060434,
+      "lng": 150.819361
+    },
+    {
       "brand": "Shell",
       "code": "NSW:20020",
       "name": "Shell Narrabri Truck Stop",
@@ -10622,18 +10632,6 @@
       "lng": 151.411238
     },
     {
-      "brand": "Ampol",
-      "code": "QLD:61402749",
-      "name": "Ampol Yatala South Diesel Stop",
-      "address": "2 Notar Drive, QLD 4207",
-      "state": "QLD",
-      "lat": -27.759802,
-      "lng": 153.246944,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
-    },
-    {
       "brand": "BP",
       "code": "QLD:61401047",
       "name": "BP Benowa",
@@ -10761,6 +10759,20 @@
       "state": "QLD",
       "lat": -26.086213,
       "lng": 152.240816
+    },
+    {
+      "brand": "Liberty",
+      "code": "QLD:61451576",
+      "name": "Liberty Rockhampton",
+      "address": "49 Gladstone Rd, QLD 4700",
+      "state": "QLD",
+      "lat": -23.389561,
+      "lng": 150.506979,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95"
+      ]
     },
     {
       "brand": "Metro Fuel",
@@ -11215,6 +11227,18 @@
     },
     {
       "brand": "Perrys",
+      "code": "SA:61570026",
+      "name": "Perrys Lyndhurst",
+      "address": "Outback Highway, SA 5731",
+      "state": "SA",
+      "lat": -30.287268,
+      "lng": 138.349422,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
+    },
+    {
+      "brand": "Perrys",
       "code": "SA:61501655",
       "name": "Perrys Tarlee",
       "address": "21-33 Main North Road, SA 5411",
@@ -11384,21 +11408,6 @@
       ]
     },
     {
-      "brand": "7-Eleven",
-      "code": "VIC:JGjJD9XQJEMv/LjJN7Tg81rzluV4ayU6rYloDfiSAUU=",
-      "name": "7-Eleven Ringwood North",
-      "address": "181 Warrandyte Road, Ringwood North, 3134",
-      "state": "VIC",
-      "lat": -37.79409086,
-      "lng": 145.23514889,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "Apco",
       "code": "VIC:9qtPVydEOFxcerCfYKlr/EKJJUaP/s+LXDm7L/QUfGM=",
       "name": "APCO Kangaroo Flat - Temporarily Closed",
@@ -11558,6 +11567,22 @@
       ]
     },
     {
+      "brand": "Pearl Energy",
+      "code": "VIC:xwyeEOMH0deoMqgquIXeUruvchPOg8iEASdkUCB9UUI=",
+      "name": "Pearl Energy Dandenong",
+      "address": "230-232 Frankston-Dandenong Road, DANDENONG SOUTH, 3175",
+      "state": "VIC",
+      "lat": -38.02338645,
+      "lng": 145.21318571,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "VIC:ZW9hTQa74HcdbdZOkvXEmvpbrdTIQq0gLftEeoob1mg=",
       "name": "Raywood Motors",
@@ -11579,18 +11604,6 @@
       "state": "VIC",
       "lat": -37.82690678,
       "lng": 144.39474635,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
-    },
-    {
-      "brand": "Riordan Fuels",
-      "code": "VIC:QEbZXowrJyoLaMIauFY/D/h2kfJLkbgzy5OTN+JbEe4=",
-      "name": "Riordan Fuels - Lismore",
-      "address": "109 High Street, Lismore, 3324",
-      "state": "VIC",
-      "lat": -37.95332653,
-      "lng": 143.3339339,
       "unavailable_fuels": [
         "Diesel"
       ]
@@ -11625,6 +11638,21 @@
       ]
     },
     {
+      "brand": "Shell",
+      "code": "VIC:SKUDcEvVHIUU3QCwiae1gy0vvwX1OOZppLteIwIqmEU=",
+      "name": "Shell Fuel Station Drysdale",
+      "address": "110-112 High Street, DRYSDALE, 3222",
+      "state": "VIC",
+      "lat": -38.17847195,
+      "lng": 144.56126717,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Reddy Express",
       "code": "VIC:YUPtcp+uDjuB9Fj+s0izTlTdez/xBPKCJOWSID0Ty6o=",
       "name": "Shell Reddy Express Horsham",
@@ -11636,6 +11664,23 @@
         "Diesel",
         "LPG",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "United",
+      "code": "VIC:CSYA32D7RuRjc894P0hinzZ8eErLCh8Rs084dM9jdOs=",
+      "name": "United Keysborough - (temporarily closed)",
+      "address": "747 Springvale Road, Keysborough, 3173",
+      "state": "VIC",
+      "lat": -37.98641349,
+      "lng": 145.14571137,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "LPG",
+        "U91",
+        "U95",
         "U98"
       ]
     },

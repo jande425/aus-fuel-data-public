@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-10-29T07:28:32Z",
+  "fetched_at": "2026-10-29T11:29:01Z",
   "station_count": 293,
   "fuel_types": [
     "E10",
@@ -1738,14 +1738,14 @@
       "address": "84 Main Road, Exeter TAS 7275",
       "state": "TAS",
       "prices": {
-        "E10": 244.9,
-        "U95": 263.9,
+        "E10": 243.9,
+        "U95": 262.9,
         "U98": 269.9,
         "Premium Diesel": 287.9,
         "U91": 247.9,
         "Diesel": 284.9
       },
-      "updated": "2026-10-29T00:51:42Z",
+      "updated": "2026-10-29T08:15:16Z",
       "lat": -41.302828,
       "lng": 146.9569097
     },
@@ -2389,7 +2389,7 @@
       "address": "Cnr Montagu & Burnett Streets, New Norfolk TAS 7140",
       "state": "TAS",
       "prices": {
-        "E10": 249.9,
+        "E10": 248.9,
         "U98": 271.9,
         "Premium Diesel": 285.9,
         "U91": 247.9,
@@ -2397,7 +2397,7 @@
         "EV": 50,
         "U95": 261.9
       },
-      "updated": "2026-10-28T21:09:13Z",
+      "updated": "2026-10-29T09:39:14Z",
       "lat": -42.779245,
       "lng": 147.06143
     },
@@ -2408,7 +2408,7 @@
       "address": "3001 Midland Hwy, Kempton TAS 7030",
       "state": "TAS",
       "prices": {
-        "E10": 241.9,
+        "E10": 239.9,
         "U98": 279.9,
         "Premium Diesel": 295.9,
         "U91": 255.9,
@@ -2416,7 +2416,7 @@
         "EV": 50,
         "U95": 269.9
       },
-      "updated": "2026-10-28T23:51:11Z",
+      "updated": "2026-10-29T08:21:14Z",
       "lat": -42.512086,
       "lng": 147.1884415
     },
@@ -2552,11 +2552,11 @@
         "E10": 238.9,
         "U95": 269.9,
         "U98": 275.9,
-        "Premium Diesel": 292.9,
+        "Premium Diesel": 291.9,
         "U91": 249.9,
         "Diesel": 279.9
       },
-      "updated": "2026-10-28T21:36:15Z",
+      "updated": "2026-10-29T07:39:13Z",
       "lat": -41.5786152,
       "lng": 148.1878919
     },
@@ -2811,15 +2811,15 @@
       "address": "24 Joyce Street, Burnie TAS 7320",
       "state": "TAS",
       "prices": {
-        "E10": 235.9,
+        "E10": 237.9,
         "LPG": 121.9,
-        "U98": 263.9,
+        "U98": 265.9,
         "Premium Diesel": 291.9,
         "U91": 253.9,
         "Diesel": 284.9,
         "U95": 269.9
       },
-      "updated": "2026-10-26T19:54:15Z",
+      "updated": "2026-10-29T08:24:14Z",
       "lat": -41.0625045,
       "lng": 145.896431
     },
@@ -2932,14 +2932,14 @@
       "address": "73 Reibey Street, Ulverstone TAS 7315",
       "state": "TAS",
       "prices": {
-        "E10": 239.9,
-        "U95": 258.9,
+        "E10": 241.9,
+        "U95": 260.9,
         "U98": 271.9,
         "Premium Diesel": 292.9,
         "U91": 249.9,
         "Diesel": 282.9
       },
-      "updated": "2026-10-29T03:56:48Z",
+      "updated": "2026-10-29T11:24:12Z",
       "lat": -41.1573289,
       "lng": 146.1735688
     },
@@ -4188,11 +4188,11 @@
       "address": "575 Primrose Sands RD, Primrose Sands TAS 7173",
       "state": "TAS",
       "prices": {
-        "Diesel": 279.9,
-        "U95": 275.9,
-        "U91": 242.9
+        "Diesel": 285.9,
+        "U95": 268.9,
+        "U91": 244.9
       },
-      "updated": "2026-10-23T20:07:52Z",
+      "updated": "2026-10-29T08:00:48Z",
       "lat": -42.89331167,
       "lng": 147.67144126
     },
@@ -4335,11 +4335,12 @@
       "state": "TAS",
       "prices": {
         "E10": 230.9,
+        "U98": 256.9,
         "Premium Diesel": 289.9,
         "U91": 232.9,
         "U95": 270.9
       },
-      "updated": "2026-10-27T20:10:47Z",
+      "updated": "2026-10-29T09:26:37Z",
       "lat": -42.7896726,
       "lng": 147.2465915
     },

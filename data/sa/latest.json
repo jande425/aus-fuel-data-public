@@ -2,8 +2,8 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-29T11:29:01Z",
-  "station_count": 697,
+  "fetched_at": "2026-10-29T13:43:30Z",
+  "station_count": 696,
   "fuel_types": [
     "E10",
     "U91",
@@ -2680,22 +2680,6 @@
       "lng": 138.582068
     },
     {
-      "brand": "Ampol",
-      "code": "SA:61501336",
-      "name": "Ampol Foodary Keswick",
-      "address": "409 South Rd & Richmond Rd, SA 5035",
-      "state": "SA",
-      "prices": {
-        "U91": 228.9,
-        "U95": 245.9,
-        "U98": 255.9,
-        "Premium Diesel": 279.9
-      },
-      "updated": "2026-10-29T01:47:09Z",
-      "lat": -34.942383,
-      "lng": 138.571587
-    },
-    {
       "brand": "X Convenience",
       "code": "SA:61501340",
       "name": "X Convenience Croydon Park",
@@ -2926,7 +2910,7 @@
         "U98": 251.9,
         "Premium Diesel": 282.9
       },
-      "updated": "2026-10-29T11:25:19Z",
+      "updated": "2026-10-29T13:40:19Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5429,7 +5413,7 @@
         "U98": 265.9,
         "Premium Diesel": 282.9
       },
-      "updated": "2026-10-29T11:25:19Z",
+      "updated": "2026-10-29T13:40:19Z",
       "lat": -32.508998,
       "lng": 137.796545
     },

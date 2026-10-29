@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-29T11:29:01Z",
+  "fetched_at": "2026-10-29T13:43:30Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1261,
+  "station_count": 1258,
   "by_state": {
     "ACT": 8,
     "NSW": 1159,
     "NT": 5,
-    "QLD": 35,
-    "SA": 32,
+    "QLD": 32,
+    "SA": 33,
     "TAS": 1,
-    "VIC": 21
+    "VIC": 20
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,12 +19,12 @@
     "Reddy Express": 80,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 70,
+    "7-Eleven": 66,
     "BP": 51,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 15,
+    "Ampol": 16,
     "Caltex": 11,
     "EVUp": 9,
     "Shell": 9,
@@ -53,8 +53,8 @@
     "X Convenience": 1,
     "Perrys": 1,
     "On the Run": 1,
-    "ETA PETROLEUM": 1,
     "Riordan Fuels": 1,
+    "ETA PETROLEUM": 1,
     "Metro Petroleum": 1
   },
   "stations": [
@@ -384,6 +384,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:315",
+      "name": "7-Eleven Goulburn",
+      "address": "88 - 92 Clinton Street, Goulburn NSW 2580",
+      "state": "NSW",
+      "lat": -34.756539,
+      "lng": 149.712291
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:187",
       "name": "7-Eleven Green Point",
       "address": "390 Avoca Drive (Gosford), Green Point NSW 2251",
@@ -660,15 +669,6 @@
       "state": "NSW",
       "lat": -33.975997,
       "lng": 151.10364
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:293",
-      "name": "7-Eleven The Entrance",
-      "address": "184-186 The Entrance Rd & Gosford Ave, Long Jetty NSW 2261",
-      "state": "NSW",
-      "lat": -33.350815,
-      "lng": 151.492283
     },
     {
       "brand": "7-Eleven",
@@ -10608,22 +10608,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "QLD:61401357",
-      "name": "7-Eleven Ascot",
-      "address": "94 Kitchener Rd & Oriel Rd, QLD 4007",
-      "state": "QLD",
-      "lat": -27.428241,
-      "lng": 153.062278,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "QLD:61401014",
       "name": "7-Eleven Broadbeach",
       "address": "Hooker Bvd & Sunshine Bvd, QLD 4218",
@@ -10635,39 +10619,6 @@
         "LPG",
         "Premium Diesel",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61402090",
-      "name": "7-Eleven Murarrie",
-      "address": "887 Lytton Rd, QLD 4172",
-      "state": "QLD",
-      "lat": -27.456902,
-      "lng": 153.105682,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61401324",
-      "name": "7-Eleven Newmarket",
-      "address": "85 Enoggera Rd & Edmondstone St, QLD 4051",
-      "state": "QLD",
-      "lat": -27.438767,
-      "lng": 153.007379,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },
@@ -11007,6 +10958,21 @@
       "state": "QLD",
       "lat": -16.916483,
       "lng": 145.871647
+    },
+    {
+      "brand": "Ampol",
+      "code": "SA:61501336",
+      "name": "Ampol Foodary Keswick",
+      "address": "409 South Rd & Richmond Rd, SA 5035",
+      "state": "SA",
+      "lat": -34.942383,
+      "lng": 138.571587,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Ampol",
@@ -11430,23 +11396,6 @@
       "lat": -37.96512786,
       "lng": 145.17289763,
       "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:zQgaH+jcQDJLUiFCvnejSk/ToS9MIA7f/kWxegsSn8s=",
-      "name": "7-Eleven Officer",
-      "address": "397 Princes Highway, Officer, 3809",
-      "state": "VIC",
-      "lat": -38.05909068425042,
-      "lng": 145.4065126789649,
-      "unavailable_fuels": [
-        "E10",
         "LPG",
         "Premium Diesel",
         "U91",

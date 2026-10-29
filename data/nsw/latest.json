@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-10-29T13:43:30Z",
+  "fetched_at": "2026-10-29T14:36:30Z",
   "station_count": 2109,
   "fuel_types": [
     "E10",
@@ -3869,13 +3869,13 @@
       "address": "231-235 Great North Road, Five Dock NSW 2046",
       "state": "NSW",
       "prices": {
-        "E10": 239.9,
-        "U95": 258.9,
-        "U98": 267.9,
+        "E10": 238.9,
+        "U95": 257.9,
+        "U98": 266.9,
         "Premium Diesel": 291.9,
-        "U91": 241.9
+        "U91": 240.9
       },
-      "updated": "2026-10-29T03:12:15Z",
+      "updated": "2026-10-29T14:12:11Z",
       "lat": -33.86491,
       "lng": 151.130081
     },
@@ -3903,13 +3903,13 @@
       "address": "12 Hawkesbury Valley Way, WINDSOR NSW 2756",
       "state": "NSW",
       "prices": {
-        "E10": 236.9,
+        "E10": 238.9,
         "LPG": 117.9,
-        "U98": 264.9,
+        "U98": 266.9,
         "Premium Diesel": 276.9,
-        "U91": 238.9
+        "U91": 240.9
       },
-      "updated": "2026-10-29T05:45:32Z",
+      "updated": "2026-10-29T13:51:11Z",
       "lat": -33.611871,
       "lng": 150.812202
     },
@@ -13532,14 +13532,14 @@
       "address": "24 Barrenjoey Road (Corner Darley Street East), Mona Vale NSW 2103",
       "state": "NSW",
       "prices": {
-        "E10": 238.9,
+        "E10": 237.9,
         "LPG": 111.9,
-        "U95": 257.9,
-        "U98": 266.9,
+        "U95": 256.9,
+        "U98": 265.9,
         "Premium Diesel": 293.9,
-        "U91": 240.9
+        "U91": 239.9
       },
-      "updated": "2026-10-29T01:54:14Z",
+      "updated": "2026-10-29T14:12:11Z",
       "lat": -33.676825,
       "lng": 151.308231
     },
@@ -19406,11 +19406,12 @@
       "address": "96-98 Kennedy Dr Cnr Barrett St, Tweed Heads West NSW 2485",
       "state": "NSW",
       "prices": {
+        "E10": 241.9,
         "U98": 270.9,
         "Premium Diesel": 292.9,
         "U91": 243.9
       },
-      "updated": "2026-10-29T01:37:25Z",
+      "updated": "2026-10-29T13:52:26Z",
       "lat": -28.186754,
       "lng": 153.523142
     },
@@ -32040,13 +32041,13 @@
       "address": "49 Canterbury RD, Bankstown NSW 2200",
       "state": "NSW",
       "prices": {
-        "Diesel": 264.5,
+        "Diesel": 267.5,
         "E10": 229.5,
         "U98": 259.5,
         "Premium Diesel": 274.5,
         "U91": 237.5
       },
-      "updated": "2026-10-27T22:45:05Z",
+      "updated": "2026-10-29T13:49:37Z",
       "lat": -33.932916,
       "lng": 151.039744
     },

@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-29T14:36:30Z",
+  "fetched_at": "2026-10-29T19:35:46Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1258,
+  "station_count": 1257,
   "by_state": {
     "ACT": 8,
     "NSW": 1159,
     "NT": 5,
     "QLD": 32,
-    "SA": 33,
+    "SA": 32,
     "TAS": 1,
     "VIC": 20
   },
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 16,
+    "Ampol": 15,
     "Caltex": 11,
     "EVUp": 9,
     "Shell": 9,
@@ -53,9 +53,9 @@
     "X Convenience": 1,
     "Perrys": 1,
     "On the Run": 1,
-    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
-    "Riordan Fuels": 1
+    "Riordan Fuels": 1,
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -10958,21 +10958,6 @@
       "state": "QLD",
       "lat": -16.916483,
       "lng": 145.871647
-    },
-    {
-      "brand": "Ampol",
-      "code": "SA:61501336",
-      "name": "Ampol Foodary Keswick",
-      "address": "409 South Rd & Richmond Rd, SA 5035",
-      "state": "SA",
-      "lat": -34.942383,
-      "lng": 138.571587,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "Ampol",

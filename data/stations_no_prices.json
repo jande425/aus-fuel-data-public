@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-29T00:33:49Z",
+  "fetched_at": "2026-10-29T02:23:40Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1263,
+  "station_count": 1262,
   "by_state": {
     "ACT": 8,
-    "NSW": 1160,
+    "NSW": 1161,
     "NT": 5,
-    "QLD": 34,
+    "QLD": 33,
     "SA": 32,
     "TAS": 1,
-    "VIC": 23
+    "VIC": 22
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
+    "Reddy Express": 80,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 65,
+    "7-Eleven": 64,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -37,12 +37,13 @@
     "Everty": 4,
     "Transwest Fuels": 3,
     "Speedway": 3,
+    "Lowes": 2,
     "Budget": 2,
     "Puma Energy": 2,
     "Riordan Fuels": 2,
     "Westside": 1,
     "Shell Express": 1,
-    "Lowes": 1,
+    "Roo Petroleum": 1,
     "PK's": 1,
     "Astron": 1,
     "Ampol Foodary": 1,
@@ -54,8 +55,7 @@
     "Perrys": 1,
     "On the Run": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
-    "Apco": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -6287,6 +6287,15 @@
       "lng": 150.35286
     },
     {
+      "brand": "Lowes",
+      "code": "NSW:18094",
+      "name": "Lowes Petroleum Gunnedah OPT",
+      "address": "1 Law Close, GUNNEDAH NSW 2380",
+      "state": "NSW",
+      "lat": -30.964649,
+      "lng": 150.232799
+    },
+    {
       "brand": "NRMA",
       "code": "NSW:19301",
       "name": "Luke Park",
@@ -7844,6 +7853,15 @@
       "lng": 150.83814
     },
     {
+      "brand": "Roo Petroleum",
+      "code": "NSW:20826",
+      "name": "Roo Petroleum Lavington (24Hr Self-Serve)",
+      "address": "370 Griffith RD, Lavington NSW 2641",
+      "state": "NSW",
+      "lat": -36.048249,
+      "lng": 146.937412
+    },
+    {
       "brand": "Chargefox",
       "code": "NSW:19404",
       "name": "Rooty Hill Station Commuter Carpark",
@@ -8679,15 +8697,6 @@
       "state": "NSW",
       "lat": -33.788333,
       "lng": 150.771411
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:158",
-      "name": "Shell Reddy Express St Helens Park",
-      "address": "Lot 201 Appin Road, St Helens Park NSW 2560",
-      "state": "NSW",
-      "lat": -34.111953,
-      "lng": 150.798563
     },
     {
       "brand": "Reddy Express",
@@ -10658,15 +10667,6 @@
       "lng": 153.398326
     },
     {
-      "brand": "BP",
-      "code": "QLD:61401712",
-      "name": "BP Warrego Highway",
-      "address": "1505 Warrego Hwy & Eleazar Dr, QLD 4306",
-      "state": "QLD",
-      "lat": -27.576035,
-      "lng": 152.703922
-    },
-    {
       "brand": "Independent",
       "code": "QLD:61402385",
       "name": "Blue Topaz Caravan Park",
@@ -11414,32 +11414,15 @@
       ]
     },
     {
-      "brand": "7-Eleven",
-      "code": "VIC:JGjJD9XQJEMv/LjJN7Tg81rzluV4ayU6rYloDfiSAUU=",
-      "name": "7-Eleven Ringwood North",
-      "address": "181 Warrandyte Road, Ringwood North, 3134",
+      "brand": "BP",
+      "code": "VIC:1d8lpv9L2dsnlcltKJ/fCd0Sv9VvYw2F20Pm5Sw1Aak=",
+      "name": "Bp Golf Links Road",
+      "address": "Golf Links Road, Frankston Flinders Road, Frankston, 3199",
       "state": "VIC",
-      "lat": -37.79409086,
-      "lng": 145.23514889,
+      "lat": -38.16497414604184,
+      "lng": 145.1377161121883,
       "unavailable_fuels": [
-        "E10",
         "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Apco",
-      "code": "VIC:9qtPVydEOFxcerCfYKlr/EKJJUaP/s+LXDm7L/QUfGM=",
-      "name": "APCO Kangaroo Flat - Temporarily Closed",
-      "address": "35-37 High Street, Kangaroo Flat, 3555",
-      "state": "VIC",
-      "lat": -36.78922238,
-      "lng": 144.2452292,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "LPG",
         "U91",
         "U95",
         "U98"

@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-29T21:17:51Z",
+  "fetched_at": "2026-10-29T23:55:06Z",
   "tile_size_degrees": 2,
-  "tile_count": 187,
-  "total_stations": 7882,
+  "tile_count": 132,
+  "total_stations": 6885,
   "tiles": [
     {
       "tile": "lat_-44_lng_144",
@@ -100,7 +100,7 @@
         "min_lng": 144,
         "max_lng": 146
       },
-      "station_count": 316,
+      "station_count": 317,
       "file": "tiles/lat_-40_lng_144.json"
     },
     {
@@ -155,7 +155,7 @@
         "min_lng": 144,
         "max_lng": 146
       },
-      "station_count": 955,
+      "station_count": 954,
       "file": "tiles/lat_-38_lng_144.json"
     },
     {
@@ -190,39 +190,6 @@
       },
       "station_count": 10,
       "file": "tiles/lat_-38_lng_150.json"
-    },
-    {
-      "tile": "lat_-36_lng_114",
-      "bounds": {
-        "min_lat": -36,
-        "max_lat": -34,
-        "min_lng": 114,
-        "max_lng": 116
-      },
-      "station_count": 3,
-      "file": "tiles/lat_-36_lng_114.json"
-    },
-    {
-      "tile": "lat_-36_lng_116",
-      "bounds": {
-        "min_lat": -36,
-        "max_lat": -34,
-        "min_lng": 116,
-        "max_lng": 118
-      },
-      "station_count": 39,
-      "file": "tiles/lat_-36_lng_116.json"
-    },
-    {
-      "tile": "lat_-36_lng_118",
-      "bounds": {
-        "min_lat": -36,
-        "max_lat": -34,
-        "min_lng": 118,
-        "max_lng": 120
-      },
-      "station_count": 7,
-      "file": "tiles/lat_-36_lng_118.json"
     },
     {
       "tile": "lat_-36_lng_134",
@@ -309,7 +276,7 @@
         "min_lng": 148,
         "max_lng": 150
       },
-      "station_count": 142,
+      "station_count": 143,
       "file": "tiles/lat_-36_lng_148.json"
     },
     {
@@ -322,83 +289,6 @@
       },
       "station_count": 232,
       "file": "tiles/lat_-36_lng_150.json"
-    },
-    {
-      "tile": "lat_-34_lng_114",
-      "bounds": {
-        "min_lat": -34,
-        "max_lat": -32,
-        "min_lng": 114,
-        "max_lng": 116
-      },
-      "station_count": 276,
-      "file": "tiles/lat_-34_lng_114.json"
-    },
-    {
-      "tile": "lat_-34_lng_116",
-      "bounds": {
-        "min_lat": -34,
-        "max_lat": -32,
-        "min_lng": 116,
-        "max_lng": 118
-      },
-      "station_count": 66,
-      "file": "tiles/lat_-34_lng_116.json"
-    },
-    {
-      "tile": "lat_-34_lng_118",
-      "bounds": {
-        "min_lat": -34,
-        "max_lat": -32,
-        "min_lng": 118,
-        "max_lng": 120
-      },
-      "station_count": 21,
-      "file": "tiles/lat_-34_lng_118.json"
-    },
-    {
-      "tile": "lat_-34_lng_120",
-      "bounds": {
-        "min_lat": -34,
-        "max_lat": -32,
-        "min_lng": 120,
-        "max_lng": 122
-      },
-      "station_count": 15,
-      "file": "tiles/lat_-34_lng_120.json"
-    },
-    {
-      "tile": "lat_-34_lng_122",
-      "bounds": {
-        "min_lat": -34,
-        "max_lat": -32,
-        "min_lng": 122,
-        "max_lng": 124
-      },
-      "station_count": 2,
-      "file": "tiles/lat_-34_lng_122.json"
-    },
-    {
-      "tile": "lat_-34_lng_124",
-      "bounds": {
-        "min_lat": -34,
-        "max_lat": -32,
-        "min_lng": 124,
-        "max_lng": 126
-      },
-      "station_count": 1,
-      "file": "tiles/lat_-34_lng_124.json"
-    },
-    {
-      "tile": "lat_-34_lng_126",
-      "bounds": {
-        "min_lat": -34,
-        "max_lat": -32,
-        "min_lng": 126,
-        "max_lng": 128
-      },
-      "station_count": 1,
-      "file": "tiles/lat_-34_lng_126.json"
     },
     {
       "tile": "lat_-34_lng_132",
@@ -485,7 +375,7 @@
         "min_lng": 148,
         "max_lng": 150
       },
-      "station_count": 112,
+      "station_count": 111,
       "file": "tiles/lat_-34_lng_148.json"
     },
     {
@@ -496,7 +386,7 @@
         "min_lng": 150,
         "max_lng": 152
       },
-      "station_count": 969,
+      "station_count": 970,
       "file": "tiles/lat_-34_lng_150.json"
     },
     {
@@ -511,61 +401,6 @@
       "file": "tiles/lat_-34_lng_152.json"
     },
     {
-      "tile": "lat_-32_lng_114",
-      "bounds": {
-        "min_lat": -32,
-        "max_lat": -30,
-        "min_lng": 114,
-        "max_lng": 116
-      },
-      "station_count": 236,
-      "file": "tiles/lat_-32_lng_114.json"
-    },
-    {
-      "tile": "lat_-32_lng_116",
-      "bounds": {
-        "min_lat": -32,
-        "max_lat": -30,
-        "min_lng": 116,
-        "max_lng": 118
-      },
-      "station_count": 83,
-      "file": "tiles/lat_-32_lng_116.json"
-    },
-    {
-      "tile": "lat_-32_lng_118",
-      "bounds": {
-        "min_lat": -32,
-        "max_lat": -30,
-        "min_lng": 118,
-        "max_lng": 120
-      },
-      "station_count": 15,
-      "file": "tiles/lat_-32_lng_118.json"
-    },
-    {
-      "tile": "lat_-32_lng_120",
-      "bounds": {
-        "min_lat": -32,
-        "max_lat": -30,
-        "min_lng": 120,
-        "max_lng": 122
-      },
-      "station_count": 19,
-      "file": "tiles/lat_-32_lng_120.json"
-    },
-    {
-      "tile": "lat_-32_lng_126",
-      "bounds": {
-        "min_lat": -32,
-        "max_lat": -30,
-        "min_lng": 126,
-        "max_lng": 128
-      },
-      "station_count": 1,
-      "file": "tiles/lat_-32_lng_126.json"
-    },
-    {
       "tile": "lat_-32_lng_128",
       "bounds": {
         "min_lat": -32,
@@ -573,7 +408,7 @@
         "min_lng": 128,
         "max_lng": 130
       },
-      "station_count": 3,
+      "station_count": 1,
       "file": "tiles/lat_-32_lng_128.json"
     },
     {
@@ -709,61 +544,6 @@
       "file": "tiles/lat_-32_lng_152.json"
     },
     {
-      "tile": "lat_-30_lng_114",
-      "bounds": {
-        "min_lat": -30,
-        "max_lat": -28,
-        "min_lng": 114,
-        "max_lng": 116
-      },
-      "station_count": 43,
-      "file": "tiles/lat_-30_lng_114.json"
-    },
-    {
-      "tile": "lat_-30_lng_116",
-      "bounds": {
-        "min_lat": -30,
-        "max_lat": -28,
-        "min_lng": 116,
-        "max_lng": 118
-      },
-      "station_count": 8,
-      "file": "tiles/lat_-30_lng_116.json"
-    },
-    {
-      "tile": "lat_-30_lng_120",
-      "bounds": {
-        "min_lat": -30,
-        "max_lat": -28,
-        "min_lng": 120,
-        "max_lng": 122
-      },
-      "station_count": 6,
-      "file": "tiles/lat_-30_lng_120.json"
-    },
-    {
-      "tile": "lat_-30_lng_122",
-      "bounds": {
-        "min_lat": -30,
-        "max_lat": -28,
-        "min_lng": 122,
-        "max_lng": 124
-      },
-      "station_count": 3,
-      "file": "tiles/lat_-30_lng_122.json"
-    },
-    {
-      "tile": "lat_-30_lng_126",
-      "bounds": {
-        "min_lat": -30,
-        "max_lat": -28,
-        "min_lng": 126,
-        "max_lng": 128
-      },
-      "station_count": 2,
-      "file": "tiles/lat_-30_lng_126.json"
-    },
-    {
       "tile": "lat_-30_lng_134",
       "bounds": {
         "min_lat": -30,
@@ -861,94 +641,6 @@
       },
       "station_count": 205,
       "file": "tiles/lat_-30_lng_152.json"
-    },
-    {
-      "tile": "lat_-28_lng_114",
-      "bounds": {
-        "min_lat": -28,
-        "max_lat": -26,
-        "min_lng": 114,
-        "max_lng": 116
-      },
-      "station_count": 7,
-      "file": "tiles/lat_-28_lng_114.json"
-    },
-    {
-      "tile": "lat_-28_lng_116",
-      "bounds": {
-        "min_lat": -28,
-        "max_lat": -26,
-        "min_lng": 116,
-        "max_lng": 118
-      },
-      "station_count": 3,
-      "file": "tiles/lat_-28_lng_116.json"
-    },
-    {
-      "tile": "lat_-28_lng_118",
-      "bounds": {
-        "min_lat": -28,
-        "max_lat": -26,
-        "min_lng": 118,
-        "max_lng": 120
-      },
-      "station_count": 5,
-      "file": "tiles/lat_-28_lng_118.json"
-    },
-    {
-      "tile": "lat_-28_lng_120",
-      "bounds": {
-        "min_lat": -28,
-        "max_lat": -26,
-        "min_lng": 120,
-        "max_lng": 122
-      },
-      "station_count": 3,
-      "file": "tiles/lat_-28_lng_120.json"
-    },
-    {
-      "tile": "lat_-28_lng_122",
-      "bounds": {
-        "min_lat": -28,
-        "max_lat": -26,
-        "min_lng": 122,
-        "max_lng": 124
-      },
-      "station_count": 1,
-      "file": "tiles/lat_-28_lng_122.json"
-    },
-    {
-      "tile": "lat_-28_lng_124",
-      "bounds": {
-        "min_lat": -28,
-        "max_lat": -26,
-        "min_lng": 124,
-        "max_lng": 126
-      },
-      "station_count": 1,
-      "file": "tiles/lat_-28_lng_124.json"
-    },
-    {
-      "tile": "lat_-28_lng_126",
-      "bounds": {
-        "min_lat": -28,
-        "max_lat": -26,
-        "min_lng": 126,
-        "max_lng": 128
-      },
-      "station_count": 1,
-      "file": "tiles/lat_-28_lng_126.json"
-    },
-    {
-      "tile": "lat_-28_lng_128",
-      "bounds": {
-        "min_lat": -28,
-        "max_lat": -26,
-        "min_lng": 128,
-        "max_lng": 130
-      },
-      "station_count": 1,
-      "file": "tiles/lat_-28_lng_128.json"
     },
     {
       "tile": "lat_-28_lng_132",
@@ -1050,61 +742,6 @@
       "file": "tiles/lat_-28_lng_152.json"
     },
     {
-      "tile": "lat_-26_lng_112",
-      "bounds": {
-        "min_lat": -26,
-        "max_lat": -24,
-        "min_lng": 112,
-        "max_lng": 114
-      },
-      "station_count": 10,
-      "file": "tiles/lat_-26_lng_112.json"
-    },
-    {
-      "tile": "lat_-26_lng_114",
-      "bounds": {
-        "min_lat": -26,
-        "max_lat": -24,
-        "min_lng": 114,
-        "max_lng": 116
-      },
-      "station_count": 2,
-      "file": "tiles/lat_-26_lng_114.json"
-    },
-    {
-      "tile": "lat_-26_lng_116",
-      "bounds": {
-        "min_lat": -26,
-        "max_lat": -24,
-        "min_lng": 116,
-        "max_lng": 118
-      },
-      "station_count": 2,
-      "file": "tiles/lat_-26_lng_116.json"
-    },
-    {
-      "tile": "lat_-26_lng_118",
-      "bounds": {
-        "min_lat": -26,
-        "max_lat": -24,
-        "min_lng": 118,
-        "max_lng": 120
-      },
-      "station_count": 1,
-      "file": "tiles/lat_-26_lng_118.json"
-    },
-    {
-      "tile": "lat_-26_lng_126",
-      "bounds": {
-        "min_lat": -26,
-        "max_lat": -24,
-        "min_lng": 126,
-        "max_lng": 128
-      },
-      "station_count": 2,
-      "file": "tiles/lat_-26_lng_126.json"
-    },
-    {
       "tile": "lat_-26_lng_128",
       "bounds": {
         "min_lat": -26,
@@ -1112,7 +749,7 @@
         "min_lng": 128,
         "max_lng": 130
       },
-      "station_count": 4,
+      "station_count": 1,
       "file": "tiles/lat_-26_lng_128.json"
     },
     {
@@ -1224,94 +861,6 @@
       },
       "station_count": 83,
       "file": "tiles/lat_-26_lng_152.json"
-    },
-    {
-      "tile": "lat_-24_lng_112",
-      "bounds": {
-        "min_lat": -24,
-        "max_lat": -22,
-        "min_lng": 112,
-        "max_lng": 114
-      },
-      "station_count": 1,
-      "file": "tiles/lat_-24_lng_112.json"
-    },
-    {
-      "tile": "lat_-24_lng_114",
-      "bounds": {
-        "min_lat": -24,
-        "max_lat": -22,
-        "min_lng": 114,
-        "max_lng": 116
-      },
-      "station_count": 3,
-      "file": "tiles/lat_-24_lng_114.json"
-    },
-    {
-      "tile": "lat_-24_lng_116",
-      "bounds": {
-        "min_lat": -24,
-        "max_lat": -22,
-        "min_lng": 116,
-        "max_lng": 118
-      },
-      "station_count": 3,
-      "file": "tiles/lat_-24_lng_116.json"
-    },
-    {
-      "tile": "lat_-24_lng_118",
-      "bounds": {
-        "min_lat": -24,
-        "max_lat": -22,
-        "min_lng": 118,
-        "max_lng": 120
-      },
-      "station_count": 6,
-      "file": "tiles/lat_-24_lng_118.json"
-    },
-    {
-      "tile": "lat_-24_lng_120",
-      "bounds": {
-        "min_lat": -24,
-        "max_lat": -22,
-        "min_lng": 120,
-        "max_lng": 122
-      },
-      "station_count": 1,
-      "file": "tiles/lat_-24_lng_120.json"
-    },
-    {
-      "tile": "lat_-24_lng_122",
-      "bounds": {
-        "min_lat": -24,
-        "max_lat": -22,
-        "min_lng": 122,
-        "max_lng": 124
-      },
-      "station_count": 1,
-      "file": "tiles/lat_-24_lng_122.json"
-    },
-    {
-      "tile": "lat_-24_lng_124",
-      "bounds": {
-        "min_lat": -24,
-        "max_lat": -22,
-        "min_lng": 124,
-        "max_lng": 126
-      },
-      "station_count": 1,
-      "file": "tiles/lat_-24_lng_124.json"
-    },
-    {
-      "tile": "lat_-24_lng_126",
-      "bounds": {
-        "min_lat": -24,
-        "max_lat": -22,
-        "min_lng": 126,
-        "max_lng": 128
-      },
-      "station_count": 1,
-      "file": "tiles/lat_-24_lng_126.json"
     },
     {
       "tile": "lat_-24_lng_128",
@@ -1435,61 +984,6 @@
       "file": "tiles/lat_-24_lng_150.json"
     },
     {
-      "tile": "lat_-22_lng_114",
-      "bounds": {
-        "min_lat": -22,
-        "max_lat": -20,
-        "min_lng": 114,
-        "max_lng": 116
-      },
-      "station_count": 6,
-      "file": "tiles/lat_-22_lng_114.json"
-    },
-    {
-      "tile": "lat_-22_lng_116",
-      "bounds": {
-        "min_lat": -22,
-        "max_lat": -20,
-        "min_lng": 116,
-        "max_lng": 118
-      },
-      "station_count": 15,
-      "file": "tiles/lat_-22_lng_116.json"
-    },
-    {
-      "tile": "lat_-22_lng_118",
-      "bounds": {
-        "min_lat": -22,
-        "max_lat": -20,
-        "min_lng": 118,
-        "max_lng": 120
-      },
-      "station_count": 14,
-      "file": "tiles/lat_-22_lng_118.json"
-    },
-    {
-      "tile": "lat_-22_lng_120",
-      "bounds": {
-        "min_lat": -22,
-        "max_lat": -20,
-        "min_lng": 120,
-        "max_lng": 122
-      },
-      "station_count": 1,
-      "file": "tiles/lat_-22_lng_120.json"
-    },
-    {
-      "tile": "lat_-22_lng_126",
-      "bounds": {
-        "min_lat": -22,
-        "max_lat": -20,
-        "min_lng": 126,
-        "max_lng": 128
-      },
-      "station_count": 2,
-      "file": "tiles/lat_-22_lng_126.json"
-    },
-    {
       "tile": "lat_-22_lng_132",
       "bounds": {
         "min_lat": -22,
@@ -1589,50 +1083,6 @@
       "file": "tiles/lat_-22_lng_148.json"
     },
     {
-      "tile": "lat_-20_lng_120",
-      "bounds": {
-        "min_lat": -20,
-        "max_lat": -18,
-        "min_lng": 120,
-        "max_lng": 122
-      },
-      "station_count": 3,
-      "file": "tiles/lat_-20_lng_120.json"
-    },
-    {
-      "tile": "lat_-20_lng_124",
-      "bounds": {
-        "min_lat": -20,
-        "max_lat": -18,
-        "min_lng": 124,
-        "max_lng": 126
-      },
-      "station_count": 8,
-      "file": "tiles/lat_-20_lng_124.json"
-    },
-    {
-      "tile": "lat_-20_lng_126",
-      "bounds": {
-        "min_lat": -20,
-        "max_lat": -18,
-        "min_lng": 126,
-        "max_lng": 128
-      },
-      "station_count": 4,
-      "file": "tiles/lat_-20_lng_126.json"
-    },
-    {
-      "tile": "lat_-20_lng_128",
-      "bounds": {
-        "min_lat": -20,
-        "max_lat": -18,
-        "min_lng": 128,
-        "max_lng": 130
-      },
-      "station_count": 1,
-      "file": "tiles/lat_-20_lng_128.json"
-    },
-    {
       "tile": "lat_-20_lng_130",
       "bounds": {
         "min_lat": -20,
@@ -1719,50 +1169,6 @@
       },
       "station_count": 1,
       "file": "tiles/lat_-20_lng_148.json"
-    },
-    {
-      "tile": "lat_-18_lng_122",
-      "bounds": {
-        "min_lat": -18,
-        "max_lat": -16,
-        "min_lng": 122,
-        "max_lng": 124
-      },
-      "station_count": 21,
-      "file": "tiles/lat_-18_lng_122.json"
-    },
-    {
-      "tile": "lat_-18_lng_124",
-      "bounds": {
-        "min_lat": -18,
-        "max_lat": -16,
-        "min_lng": 124,
-        "max_lng": 126
-      },
-      "station_count": 2,
-      "file": "tiles/lat_-18_lng_124.json"
-    },
-    {
-      "tile": "lat_-18_lng_126",
-      "bounds": {
-        "min_lat": -18,
-        "max_lat": -16,
-        "min_lng": 126,
-        "max_lng": 128
-      },
-      "station_count": 1,
-      "file": "tiles/lat_-18_lng_126.json"
-    },
-    {
-      "tile": "lat_-18_lng_128",
-      "bounds": {
-        "min_lat": -18,
-        "max_lat": -16,
-        "min_lng": 128,
-        "max_lng": 130
-      },
-      "station_count": 3,
-      "file": "tiles/lat_-18_lng_128.json"
     },
     {
       "tile": "lat_-18_lng_130",
@@ -1853,17 +1259,6 @@
       "file": "tiles/lat_-18_lng_146.json"
     },
     {
-      "tile": "lat_-16_lng_126",
-      "bounds": {
-        "min_lat": -16,
-        "max_lat": -14,
-        "min_lng": 126,
-        "max_lng": 128
-      },
-      "station_count": 2,
-      "file": "tiles/lat_-16_lng_126.json"
-    },
-    {
       "tile": "lat_-16_lng_128",
       "bounds": {
         "min_lat": -16,
@@ -1871,7 +1266,7 @@
         "min_lng": 128,
         "max_lng": 130
       },
-      "station_count": 9,
+      "station_count": 2,
       "file": "tiles/lat_-16_lng_128.json"
     },
     {

@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-29T21:17:51Z",
-  "total_stations": 7882,
-  "total_states": 8,
+  "last_updated": "2026-10-29T23:55:06Z",
+  "total_stations": 6885,
+  "total_states": 7,
   "fuel_types": [
     "B20",
     "Diesel",
@@ -21,57 +21,50 @@
       "station_count": 62,
       "price_count": 264,
       "file": "act/latest.json",
-      "checksum": "078e35ab",
+      "checksum": "3cfc8806",
       "size_bytes": 25293
     },
     "NSW": {
-      "station_count": 2108,
-      "price_count": 8440,
+      "station_count": 2109,
+      "price_count": 8442,
       "file": "nsw/latest.json",
-      "checksum": "8d1fa714",
-      "size_bytes": 837976
+      "checksum": "558f9e07",
+      "size_bytes": 838316
     },
     "NT": {
       "station_count": 209,
       "price_count": 561,
       "file": "nt/latest.json",
-      "checksum": "8a7af10d",
+      "checksum": "73c12724",
       "size_bytes": 78911
     },
     "QLD": {
       "station_count": 1774,
       "price_count": 6882,
       "file": "qld/latest.json",
-      "checksum": "75919939",
+      "checksum": "485108de",
       "size_bytes": 699910
     },
     "SA": {
       "station_count": 697,
       "price_count": 2477,
       "file": "sa/latest.json",
-      "checksum": "047ebb48",
+      "checksum": "3e161324",
       "size_bytes": 270064
     },
     "TAS": {
       "station_count": 293,
-      "price_count": 1420,
+      "price_count": 1422,
       "file": "tas/latest.json",
-      "checksum": "23e2ac4a",
-      "size_bytes": 123456
+      "checksum": "1409860e",
+      "size_bytes": 123500
     },
     "VIC": {
       "station_count": 1741,
-      "price_count": 7131,
+      "price_count": 7133,
       "file": "vic/latest.json",
-      "checksum": "d41dea13",
-      "size_bytes": 781499
-    },
-    "WA": {
-      "station_count": 998,
-      "price_count": 3379,
-      "file": "wa/latest.json",
-      "checksum": "214f5dec",
-      "size_bytes": 510370
+      "checksum": "d45dbc88",
+      "size_bytes": 781509
     }
   },
   "files": {

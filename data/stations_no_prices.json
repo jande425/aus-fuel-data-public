@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-29T20:01:22Z",
+  "fetched_at": "2026-10-29T21:17:51Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1258,
+  "station_count": 1259,
   "by_state": {
     "ACT": 8,
     "NSW": 1160,
-    "NT": 5,
+    "NT": 6,
     "QLD": 32,
     "SA": 32,
     "TAS": 1,
@@ -26,9 +26,9 @@
     "JOLT": 20,
     "Ampol": 15,
     "Caltex": 11,
+    "United": 9,
     "EVUp": 9,
     "Shell": 9,
-    "United": 8,
     "Mobil": 8,
     "Metro Fuel": 7,
     "Evie Networks": 7,
@@ -55,8 +55,8 @@
     "Perrys": 1,
     "On the Run": 1,
     "ETA PETROLEUM": 1,
-    "Riordan Fuels": 1,
-    "Metro Petroleum": 1
+    "Metro Petroleum": 1,
+    "Riordan Fuels": 1
   },
   "stations": [
     {
@@ -10615,6 +10615,15 @@
       "state": "NT",
       "lat": -14.735076,
       "lng": 134.528786
+    },
+    {
+      "brand": "United",
+      "code": "NT:08520236",
+      "name": "United Timber Creek Supermarket",
+      "address": "58 Victoria Highway, Timber Creek, NT 0852, Timber Creek, 0852, NT",
+      "state": "NT",
+      "lat": -15.66293,
+      "lng": 130.48073
     },
     {
       "brand": "7-Eleven",

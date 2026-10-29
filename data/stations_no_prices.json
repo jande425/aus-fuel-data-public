@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-28T23:23:16Z",
+  "fetched_at": "2026-10-29T00:33:49Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1264,
+  "station_count": 1263,
   "by_state": {
     "ACT": 8,
     "NSW": 1160,
     "NT": 5,
-    "QLD": 35,
+    "QLD": 34,
     "SA": 32,
     "TAS": 1,
     "VIC": 23
@@ -19,12 +19,12 @@
     "Reddy Express": 81,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 64,
+    "7-Eleven": 65,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 17,
+    "Ampol": 16,
     "Caltex": 11,
     "Shell": 10,
     "EVUp": 9,
@@ -53,10 +53,9 @@
     "X Convenience": 1,
     "Perrys": 1,
     "On the Run": 1,
-    "Apco": 1,
-    "ETA PETROLEUM": 1,
     "Metro Petroleum": 1,
-    "U-Go": 1
+    "ETA PETROLEUM": 1,
+    "Apco": 1
   },
   "stations": [
     {
@@ -10633,22 +10632,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61401167",
-      "name": "Ampol Foodary Kenmore",
-      "address": "888 Moggill Rd & Marshall Ln, QLD 4069",
-      "state": "QLD",
-      "lat": -27.507802,
-      "lng": 152.948185,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -11431,6 +11414,21 @@
       ]
     },
     {
+      "brand": "7-Eleven",
+      "code": "VIC:JGjJD9XQJEMv/LjJN7Tg81rzluV4ayU6rYloDfiSAUU=",
+      "name": "7-Eleven Ringwood North",
+      "address": "181 Warrandyte Road, Ringwood North, 3134",
+      "state": "VIC",
+      "lat": -37.79409086,
+      "lng": 145.23514889,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
       "brand": "Apco",
       "code": "VIC:9qtPVydEOFxcerCfYKlr/EKJJUaP/s+LXDm7L/QUfGM=",
       "name": "APCO Kangaroo Flat - Temporarily Closed",
@@ -11683,20 +11681,6 @@
       "unavailable_fuels": [
         "Diesel",
         "LPG",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "U-Go",
-      "code": "VIC:/Bde2UAfvG/v4CX6+MYx6EjctUFlSOGBpM6dTbvIFIM=",
-      "name": "U-Go Carrum Downs",
-      "address": "467 Frankston-Dandenong Road, Carrum Downs, 3201",
-      "state": "VIC",
-      "lat": -38.11078385,
-      "lng": 145.16005483,
-      "unavailable_fuels": [
-        "Premium Diesel",
         "U91",
         "U98"
       ]

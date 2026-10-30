@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-30T10:57:54Z",
+  "fetched_at": "2026-10-30T13:34:30Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1263,
+  "station_count": 1261,
   "by_state": {
     "ACT": 8,
     "NSW": 1160,
@@ -9,7 +9,7 @@
     "QLD": 32,
     "SA": 33,
     "TAS": 1,
-    "VIC": 24
+    "VIC": 22
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 80,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 64,
     "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -54,8 +54,8 @@
     "Perrys": 1,
     "Mogas": 1,
     "On the Run": 1,
-    "Riordan Fuels": 1,
     "ETA PETROLEUM": 1,
+    "Riordan Fuels": 1,
     "MILDURA SERVO": 1,
     "Metro Petroleum": 1
   },
@@ -11384,22 +11384,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "VIC:c8NubTFVI/SfnM15JWJMvfe+jIldMwUK6ytY4oyD/7I=",
-      "name": "7-Eleven Glen Waverley",
-      "address": "726-730 Waverley Road, Glen Waverley, 3150",
-      "state": "VIC",
-      "lat": -37.88913385,
-      "lng": 145.16453989,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "VIC:VkvBa8whRgy6Z46L367DlDXkAoFePQygEgkFhtVuUPE=",
       "name": "7-Eleven Noble Park",
       "address": "1100-1106 Heatherton Road, Noble Park, 3174",
@@ -11407,23 +11391,6 @@
       "lat": -37.96512786,
       "lng": 145.17289763,
       "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:Oq5r/51LQEpNO7LaWBaIajEsZTAL1VE2VGxGWZ/a/qs=",
-      "name": "7-Eleven Wantirna",
-      "address": "619 Boronia Road, Wantirna, 3152",
-      "state": "VIC",
-      "lat": -37.84840564292128,
-      "lng": 145.23182900416177,
-      "unavailable_fuels": [
-        "E10",
         "LPG",
         "Premium Diesel",
         "U91",

@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-10-29T23:55:06Z",
+  "fetched_at": "2026-10-30T00:32:57Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -56,10 +56,10 @@
       "prices": {
         "E10": 242.9,
         "U98": 270.9,
-        "Premium Diesel": 283.9,
+        "Premium Diesel": 282.9,
         "U91": 244.9
       },
-      "updated": "2026-10-29T19:24:13Z",
+      "updated": "2026-10-30T00:09:14Z",
       "lat": -35.275669,
       "lng": 149.131261
     },
@@ -168,13 +168,13 @@
       "address": "3 Marconi Cr, Kambah ACT 2902",
       "state": "ACT",
       "prices": {
-        "E10": 244.9,
+        "E10": 245.9,
         "U95": 266.4,
         "U98": 272.9,
         "Premium Diesel": 287.4,
         "U91": 248.4
       },
-      "updated": "2026-10-29T23:27:26Z",
+      "updated": "2026-10-30T00:27:27Z",
       "lat": -35.378878,
       "lng": 149.057528
     },
@@ -382,10 +382,10 @@
         "E10": 249.9,
         "U95": 269.9,
         "U98": 279.9,
-        "Premium Diesel": 295.9,
+        "Premium Diesel": 293.9,
         "U91": 251.9
       },
-      "updated": "2026-10-29T06:22:26Z",
+      "updated": "2026-10-30T00:32:27Z",
       "lat": -35.4582,
       "lng": 149.092
     },
@@ -396,12 +396,12 @@
       "address": "Cnr Canopus Cres & Atalumba Cl, Giralang ACT 2617",
       "state": "ACT",
       "prices": {
-        "LPG": 125.9,
+        "LPG": 127.9,
         "U98": 270.9,
         "Premium Diesel": 286.9,
         "U91": 244.9
       },
-      "updated": "2026-10-29T19:18:14Z",
+      "updated": "2026-10-30T00:12:13Z",
       "lat": -35.2136,
       "lng": 149.096
     },
@@ -574,12 +574,12 @@
       "state": "ACT",
       "prices": {
         "E10": 247.9,
-        "LPG": 125.9,
+        "LPG": 124.9,
         "U98": 275.9,
         "Premium Diesel": 292.9,
         "U91": 249.9
       },
-      "updated": "2026-10-28T23:24:14Z",
+      "updated": "2026-10-30T00:09:14Z",
       "lat": -35.2207,
       "lng": 149.018
     },

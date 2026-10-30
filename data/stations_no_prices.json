@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T23:55:06Z",
+  "fetched_at": "2026-10-30T00:32:57Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1259,
   "by_state": {
@@ -7,9 +7,9 @@
     "NSW": 1159,
     "NT": 6,
     "QLD": 32,
-    "SA": 32,
+    "SA": 33,
     "TAS": 1,
-    "VIC": 21
+    "VIC": 20
   },
   "by_brand": {
     "Exploren": 236,
@@ -32,7 +32,7 @@
     "Mobil": 8,
     "Metro Fuel": 7,
     "Evie Networks": 7,
-    "Pearl Energy": 7,
+    "Pearl Energy": 6,
     "Liberty": 5,
     "Everty": 4,
     "Transwest Fuels": 3,
@@ -52,11 +52,12 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
+    "Mogas": 1,
     "On the Run": 1,
-    "U-Go": 1,
+    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
     "Riordan Fuels": 1,
-    "Metro Petroleum": 1
+    "U-Go": 1
   },
   "stations": [
     {
@@ -11314,6 +11315,20 @@
       ]
     },
     {
+      "brand": "Mogas",
+      "code": "SA:61501947",
+      "name": "Stirling North Roadhouse",
+      "address": "47 Port Augusta-Quorn Rd, SA 5710",
+      "state": "SA",
+      "lat": -32.517441,
+      "lng": 137.84252358895495,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "SA:61577389",
       "name": "Swan Reach General Store",
@@ -11536,22 +11551,6 @@
       "unavailable_fuels": [
         "Diesel",
         "E10",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Pearl Energy",
-      "code": "VIC:C155wlFjPvDcfkCFBp2pN/mM/SRYXKHhQO+w3qyVEpA=",
-      "name": "Pearl Energy Preston",
-      "address": "1b Bell Street, PRESTON, 3072",
-      "state": "VIC",
-      "lat": -37.74857184,
-      "lng": 145.03106193,
-      "unavailable_fuels": [
-        "Diesel",
-        "LPG",
         "U91",
         "U95",
         "U98"

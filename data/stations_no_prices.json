@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-10-30T21:27:59Z",
+  "fetched_at": "2026-10-30T23:05:44Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1260,
+  "station_count": 1259,
   "by_state": {
     "ACT": 8,
     "NSW": 1160,
     "NT": 5,
-    "QLD": 32,
+    "QLD": 31,
     "SA": 33,
     "TAS": 1,
     "VIC": 21
@@ -19,7 +19,7 @@
     "Reddy Express": 80,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 64,
+    "7-Eleven": 63,
     "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -54,10 +54,10 @@
     "Perrys": 1,
     "Mogas": 1,
     "On the Run": 1,
+    "Riordan Fuels": 1,
     "MILDURA SERVO": 1,
     "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1,
-    "Riordan Fuels": 1
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -10616,22 +10616,6 @@
       "state": "NT",
       "lat": -14.735076,
       "lng": 134.528786
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61401014",
-      "name": "7-Eleven Broadbeach",
-      "address": "Hooker Bvd & Sunshine Bvd, QLD 4218",
-      "state": "QLD",
-      "lat": -28.035658,
-      "lng": 153.425217,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "Ampol",

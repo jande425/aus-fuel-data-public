@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T06:26:59Z",
-  "total_stations": 7881,
+  "last_updated": "2026-10-30T08:33:49Z",
+  "total_stations": 7880,
   "total_states": 8,
   "fuel_types": [
     "B20",
@@ -21,57 +21,57 @@
       "station_count": 62,
       "price_count": 264,
       "file": "act/latest.json",
-      "checksum": "a4ad3e68",
+      "checksum": "bf60131c",
       "size_bytes": 25293
     },
     "NSW": {
       "station_count": 2106,
-      "price_count": 8438,
+      "price_count": 8440,
       "file": "nsw/latest.json",
-      "checksum": "962e2b85",
-      "size_bytes": 837281
+      "checksum": "503407f1",
+      "size_bytes": 837347
     },
     "NT": {
       "station_count": 210,
       "price_count": 564,
       "file": "nt/latest.json",
-      "checksum": "88fb59b3",
+      "checksum": "637fbb92",
       "size_bytes": 79318
     },
     "QLD": {
       "station_count": 1774,
       "price_count": 6884,
       "file": "qld/latest.json",
-      "checksum": "3cb00d2f",
+      "checksum": "d0fe3b6f",
       "size_bytes": 699842
     },
     "SA": {
       "station_count": 696,
       "price_count": 2471,
       "file": "sa/latest.json",
-      "checksum": "10b516e3",
+      "checksum": "25858c4d",
       "size_bytes": 269741
     },
     "TAS": {
       "station_count": 293,
       "price_count": 1421,
       "file": "tas/latest.json",
-      "checksum": "2f347d0e",
+      "checksum": "616c4a39",
       "size_bytes": 123489
     },
     "VIC": {
-      "station_count": 1742,
-      "price_count": 7137,
+      "station_count": 1741,
+      "price_count": 7132,
       "file": "vic/latest.json",
-      "checksum": "8772bc01",
-      "size_bytes": 782072
+      "checksum": "bb4028c2",
+      "size_bytes": 781551
     },
     "WA": {
       "station_count": 998,
-      "price_count": 3379,
+      "price_count": 3378,
       "file": "wa/latest.json",
-      "checksum": "021c58f6",
-      "size_bytes": 510370
+      "checksum": "66bff7fd",
+      "size_bytes": 625560
     }
   },
   "files": {

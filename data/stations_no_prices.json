@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-30T06:26:59Z",
+  "fetched_at": "2026-10-30T08:33:49Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1259,
+  "station_count": 1260,
   "by_state": {
     "ACT": 8,
     "NSW": 1160,
@@ -9,7 +9,7 @@
     "QLD": 32,
     "SA": 33,
     "TAS": 1,
-    "VIC": 20
+    "VIC": 21
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 80,
     "Independent": 77,
     "Chargefox": 72,
-    "7-Eleven": 64,
+    "7-Eleven": 65,
     "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -54,8 +54,8 @@
     "Perrys": 1,
     "Mogas": 1,
     "On the Run": 1,
-    "Metro Petroleum": 1,
     "ETA PETROLEUM": 1,
+    "Metro Petroleum": 1,
     "Riordan Fuels": 1
   },
   "stations": [
@@ -11390,6 +11390,23 @@
       "lat": -37.96512786,
       "lng": 145.17289763,
       "unavailable_fuels": [
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:Oq5r/51LQEpNO7LaWBaIajEsZTAL1VE2VGxGWZ/a/qs=",
+      "name": "7-Eleven Wantirna",
+      "address": "619 Boronia Road, Wantirna, 3152",
+      "state": "VIC",
+      "lat": -37.84840564292128,
+      "lng": 145.23182900416177,
+      "unavailable_fuels": [
+        "E10",
         "LPG",
         "Premium Diesel",
         "U91",

@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-30T08:33:49Z",
+  "fetched_at": "2026-10-30T10:57:54Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1260,
+  "station_count": 1263,
   "by_state": {
     "ACT": 8,
     "NSW": 1160,
@@ -9,7 +9,7 @@
     "QLD": 32,
     "SA": 33,
     "TAS": 1,
-    "VIC": 21
+    "VIC": 24
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,14 +17,14 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 80,
-    "Independent": 77,
+    "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 65,
+    "7-Eleven": 66,
     "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 15,
+    "Ampol": 17,
     "Caltex": 11,
     "EVUp": 9,
     "Shell": 9,
@@ -54,9 +54,10 @@
     "Perrys": 1,
     "Mogas": 1,
     "On the Run": 1,
+    "Riordan Fuels": 1,
     "ETA PETROLEUM": 1,
-    "Metro Petroleum": 1,
-    "Riordan Fuels": 1
+    "MILDURA SERVO": 1,
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -2245,6 +2246,15 @@
       "state": "NSW",
       "lat": -30.205971,
       "lng": 151.675722
+    },
+    {
+      "brand": "Ampol",
+      "code": "NSW:18610",
+      "name": "Ampol Howlong",
+      "address": "150 Hawkins ST, Howlong NSW 2643",
+      "state": "NSW",
+      "lat": -35.981678,
+      "lng": 146.639111
     },
     {
       "brand": "Ampol",
@@ -7368,15 +7378,6 @@
       "lng": 151.275638
     },
     {
-      "brand": "Independent",
-      "code": "NSW:17580",
-      "name": "Pacific Fuel Solutions",
-      "address": "5 Canavan Dr, BERESFIELD NSW 2322",
-      "state": "NSW",
-      "lat": -32.800639,
-      "lng": 151.632925
-    },
-    {
       "brand": "Tesla",
       "code": "NSW:19367",
       "name": "Park Hyatt Sydney",
@@ -11383,6 +11384,22 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:c8NubTFVI/SfnM15JWJMvfe+jIldMwUK6ytY4oyD/7I=",
+      "name": "7-Eleven Glen Waverley",
+      "address": "726-730 Waverley Road, Glen Waverley, 3150",
+      "state": "VIC",
+      "lat": -37.88913385,
+      "lng": 145.16453989,
+      "unavailable_fuels": [
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:VkvBa8whRgy6Z46L367DlDXkAoFePQygEgkFhtVuUPE=",
       "name": "7-Eleven Noble Park",
       "address": "1100-1106 Heatherton Road, Noble Park, 3174",
@@ -11408,6 +11425,21 @@
       "unavailable_fuels": [
         "E10",
         "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "VIC:SzXZYN0hn97X/aLIXWcXLxQtUTuYCebdWstD05rfA90=",
+      "name": "Ampol Foodary Tullamarine",
+      "address": "Sharps Rd, 52 Assembly Dr, TULLAMARINE, 3043",
+      "state": "VIC",
+      "lat": -37.707173,
+      "lng": 144.866406,
+      "unavailable_fuels": [
         "Premium Diesel",
         "U91",
         "U95",
@@ -11527,6 +11559,20 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "MILDURA SERVO",
+      "code": "VIC:Pb7TP79UazYROMgv0aE1yfvRkdU/RxhScX9EqjvUf3o=",
+      "name": "Mobil Brownhill",
+      "address": "350 Humffray Street North, BROWN HILL, 3350",
+      "state": "VIC",
+      "lat": -37.55178187,
+      "lng": 143.90276176,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
       ]
     },
     {

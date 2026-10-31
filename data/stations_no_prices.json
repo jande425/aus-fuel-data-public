@@ -1,22 +1,22 @@
 {
-  "fetched_at": "2026-10-31T02:18:36Z",
+  "fetched_at": "2026-10-31T06:17:32Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1260,
+  "station_count": 1258,
   "by_state": {
     "ACT": 8,
     "NSW": 1160,
     "NT": 5,
-    "QLD": 31,
+    "QLD": 30,
     "SA": 33,
     "TAS": 1,
-    "VIC": 22
+    "VIC": 21
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 80,
+    "Reddy Express": 79,
     "Independent": 76,
     "Chargefox": 72,
     "7-Eleven": 63,
@@ -33,7 +33,7 @@
     "Evie Networks": 7,
     "Mobil": 7,
     "Pearl Energy": 6,
-    "Liberty": 6,
+    "Liberty": 5,
     "Everty": 4,
     "Transwest Fuels": 3,
     "Speedway": 3,
@@ -54,10 +54,10 @@
     "Perrys": 1,
     "Mogas": 1,
     "On the Run": 1,
+    "Riordan Fuels": 1,
     "ETA PETROLEUM": 1,
     "MILDURA SERVO": 1,
-    "Metro Petroleum": 1,
-    "Riordan Fuels": 1
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -10747,20 +10747,6 @@
       "lng": 152.240816
     },
     {
-      "brand": "Liberty",
-      "code": "QLD:61451576",
-      "name": "Liberty Rockhampton",
-      "address": "49 Gladstone Rd, QLD 4700",
-      "state": "QLD",
-      "lat": -23.389561,
-      "lng": 150.506979,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95"
-      ]
-    },
-    {
       "brand": "Metro Fuel",
       "code": "QLD:61402410",
       "name": "Metro Toowoomba City",
@@ -11606,21 +11592,6 @@
       "lng": 142.80341229,
       "unavailable_fuels": [
         "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "VIC:HSyFK3urG9TDsZ9cTDiDM1ZeSdfNhUbZ4emkpwcWY80=",
-      "name": "Shell Express Forest Hill Chase",
-      "address": "260 Canterbury Road, FOREST HILL, 3131",
-      "state": "VIC",
-      "lat": -37.833503349939754,
-      "lng": 145.16385929266798,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
         "U91",
         "U98"
       ]

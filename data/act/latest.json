@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-10-31T20:10:03Z",
+  "fetched_at": "2026-10-31T20:26:41Z",
   "station_count": 62,
   "fuel_types": [
     "E10",
@@ -88,12 +88,12 @@
       "state": "ACT",
       "prices": {
         "E10": 243.9,
-        "U95": 261.4,
-        "U98": 269.9,
+        "U95": 263.9,
+        "U98": 269.4,
         "Premium Diesel": 282.9,
         "U91": 247.9
       },
-      "updated": "2026-10-30T06:27:26Z",
+      "updated": "2026-10-31T20:12:27Z",
       "lat": -35.270935,
       "lng": 149.133379
     },
@@ -461,12 +461,12 @@
       "address": "94-96 Sheppard St, Hume ACT 2620",
       "state": "ACT",
       "prices": {
-        "U95": 261.9,
-        "U98": 271.9,
+        "U95": 260.9,
+        "U98": 270.9,
         "Premium Diesel": 286.9,
-        "U91": 244.9
+        "U91": 243.9
       },
-      "updated": "2026-10-31T18:42:25Z",
+      "updated": "2026-10-31T20:22:27Z",
       "lat": -35.3923,
       "lng": 149.162
     },

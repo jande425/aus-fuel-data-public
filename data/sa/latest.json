@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-10-31T19:01:09Z",
+  "fetched_at": "2026-10-31T20:10:03Z",
   "station_count": 696,
   "fuel_types": [
     "E10",
@@ -411,16 +411,14 @@
       "address": "526 North East Rd & Sudholz Rd, SA 5087",
       "state": "SA",
       "prices": {
+        "U91": 225.9,
+        "U95": 241.9,
         "U98": 252.9,
         "Premium Diesel": 279.9
       },
-      "updated": "2026-10-31T01:24:33Z",
+      "updated": "2026-10-31T19:13:17Z",
       "lat": -34.857743,
-      "lng": 138.655199,
-      "unavailable_fuels": [
-        "U91",
-        "U95"
-      ]
+      "lng": 138.655199
     },
     {
       "brand": "On the Run",
@@ -2840,17 +2838,15 @@
       "address": "12 Murray St, SA 5118",
       "state": "SA",
       "prices": {
+        "U91": 225.9,
         "LPG": 108.9,
+        "U95": 241.9,
         "U98": 252.9,
         "Premium Diesel": 277.9
       },
-      "updated": "2026-10-29T02:06:13Z",
+      "updated": "2026-10-31T19:33:39Z",
       "lat": -34.602959822396265,
-      "lng": 138.74903527116396,
-      "unavailable_fuels": [
-        "U91",
-        "U95"
-      ]
+      "lng": 138.74903527116396
     },
     {
       "brand": "On the Run",
@@ -2932,7 +2928,7 @@
         "U98": 251.9,
         "Premium Diesel": 282.9
       },
-      "updated": "2026-10-31T18:55:18Z",
+      "updated": "2026-10-31T19:55:19Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5431,7 +5427,7 @@
         "U98": 265.9,
         "Premium Diesel": 282.9
       },
-      "updated": "2026-10-31T18:55:18Z",
+      "updated": "2026-10-31T19:55:19Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -9747,15 +9743,15 @@
       "state": "SA",
       "prices": {
         "U91": 218.5,
-        "Diesel": 254.9,
+        "Diesel": 255.9,
         "LPG": 124.9,
         "U95": 232.5,
         "U98": 241.5,
         "E10": 214.5,
-        "Premium Diesel": 256.9,
+        "Premium Diesel": 257.9,
         "E85": 249.9
       },
-      "updated": "2026-10-31T01:00:13Z",
+      "updated": "2026-10-31T19:34:41Z",
       "lat": -37.839311,
       "lng": 140.815285
     },

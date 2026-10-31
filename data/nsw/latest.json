@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-10-31T13:46:41Z",
-  "station_count": 2105,
+  "fetched_at": "2026-10-31T16:03:27Z",
+  "station_count": 2106,
   "fuel_types": [
     "E10",
     "U91",
@@ -1827,6 +1827,23 @@
       "updated": "2026-09-22T05:01:45Z",
       "lat": -30.610225,
       "lng": 141.96671
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:2436",
+      "name": "Ampol Foodary Waitara",
+      "address": "59-61 Pacific Highway, WAITARA NSW 2077",
+      "state": "NSW",
+      "prices": {
+        "E10": 242.9,
+        "U95": 261.9,
+        "U98": 271.9,
+        "Premium Diesel": 294.9,
+        "U91": 244.9
+      },
+      "updated": "2026-10-31T15:57:30Z",
+      "lat": -33.710531,
+      "lng": 151.102447
     },
     {
       "brand": "United",
@@ -4582,10 +4599,10 @@
       "state": "NSW",
       "prices": {
         "U95": 255.9,
-        "Premium Diesel": 276.9,
+        "Premium Diesel": 279.9,
         "U91": 234.9
       },
-      "updated": "2026-10-31T09:12:26Z",
+      "updated": "2026-10-31T15:57:30Z",
       "lat": -33.670381,
       "lng": 151.115192
     },
@@ -7002,11 +7019,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 258.5,
-        "E10": 225.9,
+        "E10": 222.5,
         "U98": 249.9,
-        "U91": 237.9
+        "U91": 224.5
       },
-      "updated": "2026-10-29T01:55:50Z",
+      "updated": "2026-10-31T15:29:18Z",
       "lat": -33.863659,
       "lng": 151.008872
     },
@@ -7417,13 +7434,13 @@
       "address": "2 Bridges Road, MOOREBANK NSW 2170",
       "state": "NSW",
       "prices": {
-        "E10": 213.5,
+        "E10": 213.9,
         "U95": 237.5,
         "U98": 244.9,
         "Premium Diesel": 265.9,
-        "U91": 217.5
+        "U91": 217.9
       },
-      "updated": "2026-10-31T09:12:26Z",
+      "updated": "2026-10-31T15:57:30Z",
       "lat": -33.928372,
       "lng": 150.932684
     },

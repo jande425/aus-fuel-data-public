@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-31T13:46:41Z",
+  "fetched_at": "2026-10-31T16:03:27Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1258,
+  "station_count": 1257,
   "by_state": {
     "ACT": 8,
-    "NSW": 1161,
+    "NSW": 1160,
     "NT": 5,
     "QLD": 30,
     "SA": 33,
@@ -35,9 +35,9 @@
     "Pearl Energy": 6,
     "Liberty": 5,
     "Everty": 4,
-    "Ampol Foodary": 3,
     "Transwest Fuels": 3,
     "Speedway": 3,
+    "Ampol Foodary": 2,
     "Budget": 2,
     "Puma Energy": 2,
     "Westside": 1,
@@ -2236,15 +2236,6 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:2436",
-      "name": "Ampol Foodary Waitara",
-      "address": "59-61 Pacific Highway, WAITARA NSW 2077",
-      "state": "NSW",
-      "lat": -33.710531,
-      "lng": 151.102447
     },
     {
       "brand": "Ampol",

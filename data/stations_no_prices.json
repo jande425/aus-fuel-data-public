@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-01T03:57:01Z",
+  "fetched_at": "2026-11-01T07:51:03Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1259,
+  "station_count": 1261,
   "by_state": {
     "ACT": 9,
-    "NSW": 1161,
+    "NSW": 1162,
     "NT": 5,
     "QLD": 30,
     "SA": 33,
     "TAS": 1,
-    "VIC": 20
+    "VIC": 21
   },
   "by_brand": {
     "Exploren": 236,
@@ -38,11 +38,11 @@
     "Transwest Fuels": 3,
     "Speedway": 3,
     "Ampol Foodary": 2,
+    "Lowes": 2,
     "Budget": 2,
     "Puma Energy": 2,
     "Westside": 1,
     "Shell Express": 1,
-    "Lowes": 1,
     "Roo Petroleum": 1,
     "PK's": 1,
     "Astron": 1,
@@ -54,6 +54,7 @@
     "Perrys": 1,
     "Mogas": 1,
     "On the Run": 1,
+    "U-Go": 1,
     "MILDURA SERVO": 1,
     "Metro Petroleum": 1,
     "ETA PETROLEUM": 1
@@ -6297,6 +6298,15 @@
       "lng": 150.35286
     },
     {
+      "brand": "Lowes",
+      "code": "NSW:18094",
+      "name": "Lowes Petroleum Gunnedah OPT",
+      "address": "1 Law Close, GUNNEDAH NSW 2380",
+      "state": "NSW",
+      "lat": -30.964649,
+      "lng": 150.232799
+    },
+    {
       "brand": "NRMA",
       "code": "NSW:19301",
       "name": "Luke Park",
@@ -11628,6 +11638,21 @@
         "Diesel",
         "E10",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "U-Go",
+      "code": "VIC:BhmWtE8iijPZObEJvFInpxTPxatClU7pHqgwQ7p1VsI=",
+      "name": "U-Go Glen Waverley",
+      "address": "252 Springvale Road, Glen Waverley, 3150",
+      "state": "VIC",
+      "lat": -37.87978467,
+      "lng": 145.1660743,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-01T07:51:03Z",
+  "fetched_at": "2026-11-01T09:10:06Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1261,
+  "station_count": 1267,
   "by_state": {
-    "ACT": 9,
-    "NSW": 1162,
+    "ACT": 10,
+    "NSW": 1164,
     "NT": 5,
-    "QLD": 30,
+    "QLD": 33,
     "SA": 33,
     "TAS": 1,
     "VIC": 21
@@ -19,7 +19,7 @@
     "Reddy Express": 81,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 63,
+    "7-Eleven": 69,
     "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -54,10 +54,10 @@
     "Perrys": 1,
     "Mogas": 1,
     "On the Run": 1,
+    "ETA PETROLEUM": 1,
     "U-Go": 1,
     "MILDURA SERVO": 1,
-    "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -68,6 +68,15 @@
       "state": "ACT",
       "lat": -35.3251,
       "lng": 149.154
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "ACT:18796",
+      "name": "7-Eleven Spence",
+      "address": "Glassey Pl & Cnr Clarey Cres, Spence ACT 2615",
+      "state": "ACT",
+      "lat": -35.19471,
+      "lng": 149.0623
     },
     {
       "brand": "Chargefox",
@@ -386,6 +395,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:17146",
+      "name": "7-Eleven Five Dock",
+      "address": "231-235 Great North Road, Five Dock NSW 2046",
+      "state": "NSW",
+      "lat": -33.86491,
+      "lng": 151.130081
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:186",
       "name": "7-Eleven Georges Hall",
       "address": "48 Surrey Av, Georges Hall NSW 2198",
@@ -509,6 +527,15 @@
       "state": "NSW",
       "lat": -33.385396,
       "lng": 151.365375
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:251",
+      "name": "7-Eleven Liverpool",
+      "address": "95 Elizabeth Drive (Corner Park Road), Liverpool NSW 2170",
+      "state": "NSW",
+      "lat": -33.918366,
+      "lng": 150.916008
     },
     {
       "brand": "7-Eleven",
@@ -10643,6 +10670,54 @@
       "state": "NT",
       "lat": -14.735076,
       "lng": 134.528786
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61401868",
+      "name": "7-Eleven Morayfield",
+      "address": "272 Morayfield Rd, QLD 4506",
+      "state": "QLD",
+      "lat": -27.112363,
+      "lng": 152.950651,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61477144",
+      "name": "7-Eleven Ormeau",
+      "address": "7 Eggersdorf Road, QLD 4208",
+      "state": "QLD",
+      "lat": -27.785916,
+      "lng": 153.258359,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61402239",
+      "name": "7-Eleven Warana",
+      "address": "Nicklin Way, QLD 4575",
+      "state": "QLD",
+      "lat": -26.719265,
+      "lng": 153.129077,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
     },
     {
       "brand": "Ampol",

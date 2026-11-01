@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-01T09:10:06Z",
+  "fetched_at": "2026-11-01T12:33:34Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1267,
+  "station_count": 1266,
   "by_state": {
     "ACT": 10,
-    "NSW": 1164,
+    "NSW": 1163,
     "NT": 5,
-    "QLD": 33,
-    "SA": 33,
+    "QLD": 32,
+    "SA": 34,
     "TAS": 1,
     "VIC": 21
   },
@@ -19,7 +19,7 @@
     "Reddy Express": 81,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 69,
+    "7-Eleven": 67,
     "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -41,6 +41,7 @@
     "Lowes": 2,
     "Budget": 2,
     "Puma Energy": 2,
+    "U-Go": 2,
     "Westside": 1,
     "Shell Express": 1,
     "Roo Petroleum": 1,
@@ -55,7 +56,6 @@
     "Mogas": 1,
     "On the Run": 1,
     "ETA PETROLEUM": 1,
-    "U-Go": 1,
     "MILDURA SERVO": 1,
     "Metro Petroleum": 1
   },
@@ -392,15 +392,6 @@
       "state": "NSW",
       "lat": -33.872141,
       "lng": 150.937268
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:17146",
-      "name": "7-Eleven Five Dock",
-      "address": "231-235 Great North Road, Five Dock NSW 2046",
-      "state": "NSW",
-      "lat": -33.86491,
-      "lng": 151.130081
     },
     {
       "brand": "7-Eleven",
@@ -10689,22 +10680,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "QLD:61477144",
-      "name": "7-Eleven Ormeau",
-      "address": "7 Eggersdorf Road, QLD 4208",
-      "state": "QLD",
-      "lat": -27.785916,
-      "lng": 153.258359,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "QLD:61402239",
       "name": "7-Eleven Warana",
       "address": "Nicklin Way, QLD 4575",
@@ -11420,6 +11395,21 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "U-Go",
+      "code": "SA:61501093",
+      "name": "U-Go West Hindmarsh",
+      "address": "484 Port Rd, SA 5007",
+      "state": "SA",
+      "lat": -34.89795211133264,
+      "lng": 138.56037086011884,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
       ]
     },
     {

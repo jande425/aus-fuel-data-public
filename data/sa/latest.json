@@ -2,8 +2,8 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-11-01T12:33:34Z",
-  "station_count": 695,
+  "fetched_at": "2026-11-01T16:52:49Z",
+  "station_count": 694,
   "fuel_types": [
     "E10",
     "U91",
@@ -250,9 +250,9 @@
       "prices": {
         "U91": 218.5,
         "U98": 240.5,
-        "Premium Diesel": 263.1
+        "Premium Diesel": 262.6
       },
-      "updated": "2026-10-31T02:12:09Z",
+      "updated": "2026-11-01T15:57:10Z",
       "lat": -34.85336430842513,
       "lng": 138.60063590674594
     },
@@ -481,15 +481,13 @@
       "state": "SA",
       "prices": {
         "U91": 225.9,
+        "U95": 242.9,
         "U98": 252.9,
         "Premium Diesel": 279.9
       },
-      "updated": "2026-10-30T01:32:52Z",
+      "updated": "2026-11-01T13:25:38Z",
       "lat": -34.888625,
-      "lng": 138.673655,
-      "unavailable_fuels": [
-        "U95"
-      ]
+      "lng": 138.673655
     },
     {
       "brand": "AM/PM",
@@ -1067,22 +1065,6 @@
       "updated": "2026-10-29T00:07:50Z",
       "lat": -34.779615,
       "lng": 138.722329
-    },
-    {
-      "brand": "U-Go",
-      "code": "SA:61501132",
-      "name": "U-Go Salisbury Downs",
-      "address": "201 Salisbury Hwy, SA 5108",
-      "state": "SA",
-      "prices": {
-        "U91": 222.9,
-        "U95": 238.9,
-        "U98": 246.9,
-        "Premium Diesel": 263.9
-      },
-      "updated": "2026-10-30T22:52:08Z",
-      "lat": -34.77163309445199,
-      "lng": 138.6325431226845
     },
     {
       "brand": "On the Run",
@@ -1857,12 +1839,12 @@
       "address": "1129-1131 South Rd & Southern Av, SA 5042",
       "state": "SA",
       "prices": {
-        "U91": 215.7,
+        "U91": 215.2,
         "U95": 229.9,
         "U98": 232.4,
-        "Premium Diesel": 268.1
+        "Premium Diesel": 267.7
       },
-      "updated": "2026-10-31T15:57:13Z",
+      "updated": "2026-11-01T15:57:10Z",
       "lat": -34.994294,
       "lng": 138.575128
     },
@@ -2912,7 +2894,7 @@
         "U98": 251.9,
         "Premium Diesel": 282.9
       },
-      "updated": "2026-11-01T12:25:18Z",
+      "updated": "2026-11-01T16:40:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5411,7 +5393,7 @@
         "U98": 265.9,
         "Premium Diesel": 282.9
       },
-      "updated": "2026-11-01T12:25:18Z",
+      "updated": "2026-11-01T16:40:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },

@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-11-01T12:33:34Z",
+  "fetched_at": "2026-11-01T16:52:49Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1266,
+  "station_count": 1265,
   "by_state": {
-    "ACT": 10,
-    "NSW": 1163,
+    "ACT": 9,
+    "NSW": 1162,
     "NT": 5,
-    "QLD": 32,
-    "SA": 34,
+    "QLD": 31,
+    "SA": 35,
     "TAS": 1,
-    "VIC": 21
+    "VIC": 22
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
+    "Reddy Express": 82,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 67,
+    "7-Eleven": 64,
     "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -37,11 +37,11 @@
     "Everty": 4,
     "Transwest Fuels": 3,
     "Speedway": 3,
+    "U-Go": 3,
     "Ampol Foodary": 2,
     "Lowes": 2,
     "Budget": 2,
     "Puma Energy": 2,
-    "U-Go": 2,
     "Westside": 1,
     "Shell Express": 1,
     "Roo Petroleum": 1,
@@ -55,9 +55,9 @@
     "Perrys": 1,
     "Mogas": 1,
     "On the Run": 1,
-    "ETA PETROLEUM": 1,
     "MILDURA SERVO": 1,
-    "Metro Petroleum": 1
+    "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -68,15 +68,6 @@
       "state": "ACT",
       "lat": -35.3251,
       "lng": 149.154
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "ACT:18796",
-      "name": "7-Eleven Spence",
-      "address": "Glassey Pl & Cnr Clarey Cres, Spence ACT 2615",
-      "state": "ACT",
-      "lat": -35.19471,
-      "lng": 149.0623
     },
     {
       "brand": "Chargefox",
@@ -518,15 +509,6 @@
       "state": "NSW",
       "lat": -33.385396,
       "lng": 151.365375
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:251",
-      "name": "7-Eleven Liverpool",
-      "address": "95 Elizabeth Drive (Corner Park Road), Liverpool NSW 2170",
-      "state": "NSW",
-      "lat": -33.918366,
-      "lng": 150.916008
     },
     {
       "brand": "7-Eleven",
@@ -10679,22 +10661,6 @@
       ]
     },
     {
-      "brand": "7-Eleven",
-      "code": "QLD:61402239",
-      "name": "7-Eleven Warana",
-      "address": "Nicklin Way, QLD 4575",
-      "state": "QLD",
-      "lat": -26.719265,
-      "lng": 153.129077,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
@@ -11399,6 +11365,21 @@
     },
     {
       "brand": "U-Go",
+      "code": "SA:61501132",
+      "name": "U-Go Salisbury Downs",
+      "address": "201 Salisbury Hwy, SA 5108",
+      "state": "SA",
+      "lat": -34.77163309445199,
+      "lng": 138.6325431226845,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "U-Go",
       "code": "SA:61501093",
       "name": "U-Go West Hindmarsh",
       "address": "484 Port Rd, SA 5007",
@@ -11672,6 +11653,22 @@
       "lng": 142.80341229,
       "unavailable_fuels": [
         "Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "VIC:o0nWgJGsVJd2aH1UoYU2YpYXO8wuEf7wTUPXAzVgWAs=",
+      "name": "Shell Reddy Express Glenvern",
+      "address": "357-359 Glenferrie RD, MALVERN, 3144",
+      "state": "VIC",
+      "lat": -37.85169192797311,
+      "lng": 145.02948964094318,
+      "unavailable_fuels": [
+        "Diesel",
+        "LPG",
+        "Premium Diesel",
         "U91",
         "U98"
       ]

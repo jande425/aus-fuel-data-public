@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-02T22:45:29Z",
+  "fetched_at": "2026-11-02T22:58:07Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1263,
   "by_state": {
-    "ACT": 9,
-    "NSW": 1165,
+    "ACT": 8,
+    "NSW": 1166,
     "NT": 5,
     "QLD": 29,
     "SA": 32,
@@ -66,15 +66,6 @@
       "state": "ACT",
       "lat": -35.3251,
       "lng": 149.154
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "ACT:18793",
-      "name": "7-Eleven Mawson",
-      "address": "1 Mawson Pl, Mawson ACT 2607",
-      "state": "ACT",
-      "lat": -35.365,
-      "lng": 149.094
     },
     {
       "brand": "Chargefox",
@@ -462,6 +453,15 @@
       "state": "NSW",
       "lat": -33.99995,
       "lng": 150.86794
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:309",
+      "name": "7-Eleven Kellyville",
+      "address": "54 - 56 Windsor Road, Kellyville NSW 2155",
+      "state": "NSW",
+      "lat": -33.712414,
+      "lng": 150.956801
     },
     {
       "brand": "7-Eleven",

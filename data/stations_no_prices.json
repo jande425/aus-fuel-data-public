@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-02T20:27:51Z",
+  "fetched_at": "2026-11-02T22:45:29Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1267,
+  "station_count": 1263,
   "by_state": {
-    "ACT": 10,
-    "NSW": 1164,
+    "ACT": 9,
+    "NSW": 1165,
     "NT": 5,
-    "QLD": 32,
-    "SA": 33,
+    "QLD": 29,
+    "SA": 32,
     "TAS": 1,
     "VIC": 22
   },
@@ -16,7 +16,7 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
+    "Reddy Express": 79,
     "Independent": 76,
     "Chargefox": 72,
     "7-Eleven": 66,
@@ -25,10 +25,10 @@
     "ChargePoint": 23,
     "JOLT": 20,
     "Ampol": 18,
-    "Shell": 12,
     "Caltex": 11,
+    "Shell": 10,
+    "Metro Fuel": 9,
     "EVUp": 9,
-    "Metro Fuel": 8,
     "United": 8,
     "Evie Networks": 7,
     "Pearl Energy": 6,
@@ -42,7 +42,6 @@
     "Budget": 2,
     "Puma Energy": 2,
     "Westside": 1,
-    "Shell Express": 1,
     "Roo Petroleum": 1,
     "PK's": 1,
     "Astron": 1,
@@ -53,10 +52,10 @@
     "X Convenience": 1,
     "Perrys": 1,
     "On the Run": 1,
+    "ETA PETROLEUM": 1,
     "U-Go": 1,
     "MILDURA SERVO": 1,
-    "Metro Petroleum": 1,
-    "ETA PETROLEUM": 1
+    "Metro Petroleum": 1
   },
   "stations": [
     {
@@ -139,15 +138,6 @@
       "state": "ACT",
       "lat": -35.318535,
       "lng": 149.092857
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "ACT:18785",
-      "name": "Shell Reddy Express Phillip",
-      "address": "172 Melrose DR, Phillip ACT 2606",
-      "state": "ACT",
-      "lat": -35.349958,
-      "lng": 149.084896
     },
     {
       "brand": "Exploren",
@@ -2275,6 +2265,15 @@
     },
     {
       "brand": "Ampol",
+      "code": "NSW:876",
+      "name": "Ampol Hexham Diesel Stop",
+      "address": "360 Old Maitland Rd Cnr Pacific Hwy, Hexham NSW 2322",
+      "state": "NSW",
+      "lat": -32.827955,
+      "lng": 151.684425
+    },
+    {
+      "brand": "Ampol",
       "code": "NSW:18610",
       "name": "Ampol Howlong",
       "address": "150 Hawkins ST, Howlong NSW 2643",
@@ -3568,6 +3567,15 @@
       "state": "NSW",
       "lat": -33.894648,
       "lng": 151.109676
+    },
+    {
+      "brand": "Ampol",
+      "code": "NSW:20958",
+      "name": "Busy Bee Service Station",
+      "address": "Busy Bee Service Station 50 Sydney RD, Mudgee NSW 2850",
+      "state": "NSW",
+      "lat": -32.610866,
+      "lng": 149.60137
     },
     {
       "brand": "EVUp",
@@ -6604,6 +6612,15 @@
     },
     {
       "brand": "Metro Fuel",
+      "code": "NSW:20959",
+      "name": "Metro Lake Illawarra",
+      "address": "37 Shellharbour RD, Lake Illawarra NSW 2528",
+      "state": "NSW",
+      "lat": -34.545146,
+      "lng": 150.862914
+    },
+    {
+      "brand": "Metro Fuel",
       "code": "NSW:20085",
       "name": "Metro Orange- Self-serve",
       "address": "1686 Forest RD, Orange NSW 2800",
@@ -8169,15 +8186,6 @@
       "lng": 148.602401
     },
     {
-      "brand": "Shell Express",
-      "code": "NSW:202",
-      "name": "Shell Express Campbelltown",
-      "address": "27 Queen Street, Campbelltown NSW 2560",
-      "state": "NSW",
-      "lat": -34.060434,
-      "lng": 150.819361
-    },
-    {
       "brand": "Shell",
       "code": "NSW:20020",
       "name": "Shell Narrabri Truck Stop",
@@ -8662,15 +8670,6 @@
       "state": "NSW",
       "lat": -32.593538,
       "lng": 149.588282
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:335",
-      "name": "Shell Reddy Express Nowra",
-      "address": "55 Kinghorne St (Cnr Worrigee St), Nowra NSW 2541",
-      "state": "NSW",
-      "lat": -34.876305,
-      "lng": 150.602472
     },
     {
       "brand": "Reddy Express",
@@ -10688,42 +10687,12 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61402096",
-      "name": "Ampol Foodary Sunnybank",
-      "address": "81 Mains Rd, QLD 4109",
-      "state": "QLD",
-      "lat": -27.584133,
-      "lng": 153.061878,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
       "state": "QLD",
       "lat": -25.532642,
       "lng": 152.702998
-    },
-    {
-      "brand": "Ampol",
-      "code": "QLD:61402752",
-      "name": "Ampol Kunda Park Diesel Stop",
-      "address": "69 Enterprise St, QLD 4556",
-      "state": "QLD",
-      "lat": -26.670055874201452,
-      "lng": 153.0267062377832,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "U98"
-      ]
     },
     {
       "brand": "Ampol",
@@ -10894,23 +10863,6 @@
         "Diesel",
         "U91",
         "U95"
-      ]
-    },
-    {
-      "brand": "Shell",
-      "code": "QLD:61401863",
-      "name": "NightOwl Shell Caboolture",
-      "address": "686 The Abbey Pl, QLD 4510",
-      "state": "QLD",
-      "lat": -27.072592,
-      "lng": 153.025312,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {
@@ -11200,19 +11152,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Shell",
-      "code": "SA:61501159",
-      "name": "Largs Bay OPT",
-      "address": "207 Victoria Rd, SA 5016",
-      "state": "SA",
-      "lat": -34.82568369580605,
-      "lng": 138.49966604639758,
-      "unavailable_fuels": [
-        "Diesel",
-        "Premium Diesel"
       ]
     },
     {

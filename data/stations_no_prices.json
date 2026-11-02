@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-02T14:36:30Z",
+  "fetched_at": "2026-11-02T20:27:51Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1268,
+  "station_count": 1267,
   "by_state": {
     "ACT": 10,
-    "NSW": 1165,
+    "NSW": 1164,
     "NT": 5,
     "QLD": 32,
     "SA": 33,
@@ -19,7 +19,7 @@
     "Reddy Express": 81,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 67,
+    "7-Eleven": 66,
     "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -54,9 +54,9 @@
     "Perrys": 1,
     "On the Run": 1,
     "U-Go": 1,
-    "ETA PETROLEUM": 1,
     "MILDURA SERVO": 1,
-    "Metro Petroleum": 1
+    "Metro Petroleum": 1,
+    "ETA PETROLEUM": 1
   },
   "stations": [
     {
@@ -652,15 +652,6 @@
       "state": "NSW",
       "lat": -33.77504,
       "lng": 150.666023
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:2402",
-      "name": "7-Eleven Revesby South",
-      "address": "102 Milperra Rd, REVESBY NSW 2212",
-      "state": "NSW",
-      "lat": -33.935593,
-      "lng": 151.009208
     },
     {
       "brand": "7-Eleven",

@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-02T07:56:49Z",
+  "fetched_at": "2026-11-02T13:26:49Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1268,
   "by_state": {
-    "ACT": 9,
+    "ACT": 10,
     "NSW": 1165,
     "NT": 5,
     "QLD": 32,
-    "SA": 34,
+    "SA": 33,
     "TAS": 1,
     "VIC": 22
   },
@@ -16,15 +16,15 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 82,
+    "Reddy Express": 81,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 65,
-    "BP": 53,
+    "7-Eleven": 67,
+    "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 17,
+    "Ampol": 18,
     "Shell": 12,
     "Caltex": 11,
     "EVUp": 9,
@@ -52,7 +52,6 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "Mogas": 1,
     "On the Run": 1,
     "ETA PETROLEUM": 1,
     "MILDURA SERVO": 1,
@@ -68,6 +67,15 @@
       "state": "ACT",
       "lat": -35.3251,
       "lng": 149.154
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "ACT:18793",
+      "name": "7-Eleven Mawson",
+      "address": "1 Mawson Pl, Mawson ACT 2607",
+      "state": "ACT",
+      "lat": -35.365,
+      "lng": 149.094
     },
     {
       "brand": "Chargefox",
@@ -644,6 +652,15 @@
       "state": "NSW",
       "lat": -33.77504,
       "lng": 150.666023
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:2402",
+      "name": "7-Eleven Revesby South",
+      "address": "102 Milperra Rd, REVESBY NSW 2212",
+      "state": "NSW",
+      "lat": -33.935593,
+      "lng": 151.009208
     },
     {
       "brand": "7-Eleven",
@@ -8378,15 +8395,6 @@
     },
     {
       "brand": "Reddy Express",
-      "code": "NSW:446",
-      "name": "Shell Reddy Express Albion Park",
-      "address": "252 Princes Highway, Albion Park NSW 2527",
-      "state": "NSW",
-      "lat": -34.567663,
-      "lng": 150.802234
-    },
-    {
-      "brand": "Reddy Express",
       "code": "NSW:91",
       "name": "Shell Reddy Express Bathurst",
       "address": "59 Durham Street, Bathurst NSW 2795",
@@ -10714,21 +10722,26 @@
     },
     {
       "brand": "Ampol",
+      "code": "QLD:61402752",
+      "name": "Ampol Kunda Park Diesel Stop",
+      "address": "69 Enterprise St, QLD 4556",
+      "state": "QLD",
+      "lat": -26.670055874201452,
+      "lng": 153.0267062377832,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
       "code": "QLD:61402482",
       "name": "Ampol Pampas",
       "address": "6164 Gore Highway, QLD 4352",
       "state": "QLD",
       "lat": -27.790458,
       "lng": 151.411238
-    },
-    {
-      "brand": "BP",
-      "code": "QLD:61401872",
-      "name": "BP Forest Glen",
-      "address": "384 Mons Rd, Forest Glen QLD 4556, Australia, QLD 4556",
-      "state": "QLD",
-      "lat": -26.684579447374023,
-      "lng": 153.0042008822784
     },
     {
       "brand": "Independent",
@@ -11378,20 +11391,6 @@
         "Diesel",
         "U91",
         "U98"
-      ]
-    },
-    {
-      "brand": "Mogas",
-      "code": "SA:61501947",
-      "name": "Stirling North Roadhouse",
-      "address": "47 Port Augusta-Quorn Rd, SA 5710",
-      "state": "SA",
-      "lat": -32.517441,
-      "lng": 137.84252358895495,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95"
       ]
     },
     {

@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-11-02T22:58:07Z",
+  "fetched_at": "2026-11-03T03:35:05Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1263,
+  "station_count": 1260,
   "by_state": {
     "ACT": 8,
-    "NSW": 1166,
+    "NSW": 1163,
     "NT": 5,
-    "QLD": 29,
+    "QLD": 30,
     "SA": 32,
     "TAS": 1,
-    "VIC": 22
+    "VIC": 21
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 79,
+    "Reddy Express": 78,
     "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 64,
     "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 18,
+    "Ampol": 17,
     "Caltex": 11,
-    "Shell": 10,
+    "Shell": 11,
     "Metro Fuel": 9,
     "EVUp": 9,
     "United": 8,
@@ -47,12 +47,12 @@
     "Astron": 1,
     "Arko Energy": 1,
     "Enhance": 1,
+    "Shell Express": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
     "On the Run": 1,
-    "ETA PETROLEUM": 1,
     "U-Go": 1,
     "MILDURA SERVO": 1,
     "Metro Petroleum": 1
@@ -453,15 +453,6 @@
       "state": "NSW",
       "lat": -33.99995,
       "lng": 150.86794
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:309",
-      "name": "7-Eleven Kellyville",
-      "address": "54 - 56 Windsor Road, Kellyville NSW 2155",
-      "state": "NSW",
-      "lat": -33.712414,
-      "lng": 150.956801
     },
     {
       "brand": "7-Eleven",
@@ -3567,15 +3558,6 @@
       "state": "NSW",
       "lat": -33.894648,
       "lng": 151.109676
-    },
-    {
-      "brand": "Ampol",
-      "code": "NSW:20958",
-      "name": "Busy Bee Service Station",
-      "address": "Busy Bee Service Station 50 Sydney RD, Mudgee NSW 2850",
-      "state": "NSW",
-      "lat": -32.610866,
-      "lng": 149.60137
     },
     {
       "brand": "EVUp",
@@ -8268,15 +8250,6 @@
     },
     {
       "brand": "Reddy Express",
-      "code": "NSW:56",
-      "name": "Shell Reddy  Express Inverell",
-      "address": "176 Otho St, Inverell NSW 2360",
-      "state": "NSW",
-      "lat": -29.778219,
-      "lng": 151.115549
-    },
-    {
-      "brand": "Reddy Express",
       "code": "NSW:41",
       "name": "Shell Reddy  Express Kincumber",
       "address": "Avoca Dr & Bungoona St, Kincumber NSW 2251",
@@ -10670,22 +10643,6 @@
       "lng": 134.528786
     },
     {
-      "brand": "7-Eleven",
-      "code": "QLD:61401868",
-      "name": "7-Eleven Morayfield",
-      "address": "272 Morayfield Rd, QLD 4506",
-      "state": "QLD",
-      "lat": -27.112363,
-      "lng": 152.950651,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
@@ -10923,6 +10880,35 @@
       "state": "QLD",
       "lat": -25.634965,
       "lng": 149.797847
+    },
+    {
+      "brand": "Shell",
+      "code": "QLD:61401607",
+      "name": "Shell Currumbin",
+      "address": "59 Currumbin Creek Rd, QLD 4223",
+      "state": "QLD",
+      "lat": -28.14482582221764,
+      "lng": 153.47158649570085,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Shell Express",
+      "code": "QLD:61401761",
+      "name": "Shell Express Birkdale",
+      "address": "143-153 Birkdale Rd (Cnr Napier St), QLD 4159",
+      "state": "QLD",
+      "lat": -27.493236,
+      "lng": 153.216112,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U98"
+      ]
     },
     {
       "brand": "Independent",
@@ -11420,22 +11406,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "ETA PETROLEUM",
-      "code": "VIC:A3p+CK2mLWBYVgUPBX5XALRvf4AkDSgRB20PSic6SgU=",
-      "name": "Caltex Dandenong South",
-      "address": "230-232 Frankston-Dandenong Road, DANDENONG SOUTH, 3175",
-      "state": "VIC",
-      "lat": -38.02338645,
-      "lng": 145.21318571,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "U91",
-        "U95",
         "U98"
       ]
     },

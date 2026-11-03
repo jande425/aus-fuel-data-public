@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-11-03T20:12:48Z",
+  "fetched_at": "2026-11-03T20:29:40Z",
   "station_count": 61,
   "fuel_types": [
     "E10",
@@ -88,12 +88,12 @@
       "state": "ACT",
       "prices": {
         "E10": 243.9,
-        "U95": 263.9,
+        "U95": 263.4,
         "U98": 271.9,
-        "Premium Diesel": 281.9,
-        "U91": 247.9
+        "Premium Diesel": 282.9,
+        "U91": 247.4
       },
-      "updated": "2026-11-02T20:12:26Z",
+      "updated": "2026-11-03T20:27:25Z",
       "lat": -35.270935,
       "lng": 149.133379
     },
@@ -168,13 +168,13 @@
       "address": "3 Marconi Cr, Kambah ACT 2902",
       "state": "ACT",
       "prices": {
-        "E10": 245.9,
+        "E10": 245.4,
         "U95": 265.9,
         "U98": 271.4,
         "Premium Diesel": 294.3,
-        "U91": 248.9
+        "U91": 247.4
       },
-      "updated": "2026-11-03T07:12:27Z",
+      "updated": "2026-11-03T20:27:25Z",
       "lat": -35.378878,
       "lng": 149.057528
     },
@@ -365,10 +365,10 @@
       "prices": {
         "U95": 264.9,
         "U98": 274.9,
-        "Premium Diesel": 292.9,
+        "Premium Diesel": 291.9,
         "U91": 247.9
       },
-      "updated": "2026-11-01T03:07:26Z",
+      "updated": "2026-11-03T20:22:26Z",
       "lat": -35.236307,
       "lng": 149.059066
     },

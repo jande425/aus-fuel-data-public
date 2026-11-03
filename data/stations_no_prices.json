@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-03T13:29:39Z",
+  "fetched_at": "2026-11-03T20:12:48Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1266,
+  "station_count": 1265,
   "by_state": {
     "ACT": 8,
     "NSW": 1164,
     "NT": 5,
-    "QLD": 30,
+    "QLD": 29,
     "SA": 33,
     "TAS": 1,
     "VIC": 25
@@ -20,13 +20,13 @@
     "Independent": 77,
     "Chargefox": 72,
     "7-Eleven": 68,
-    "BP": 52,
+    "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
     "Ampol": 16,
     "Caltex": 11,
-    "Shell": 11,
+    "Shell": 10,
     "Metro Fuel": 9,
     "EVUp": 9,
     "United": 8,
@@ -37,7 +37,6 @@
     "Everty": 4,
     "Transwest Fuels": 3,
     "Speedway": 3,
-    "U-Go": 2,
     "Ampol Foodary": 2,
     "Lowes": 2,
     "Budget": 2,
@@ -55,6 +54,7 @@
     "X Convenience": 1,
     "Perrys": 1,
     "On the Run": 1,
+    "U-Go": 1,
     "MILDURA SERVO": 1
   },
   "stations": [
@@ -2820,6 +2820,15 @@
       "state": "NSW",
       "lat": -32.710116,
       "lng": 151.516728
+    },
+    {
+      "brand": "BP",
+      "code": "NSW:1794",
+      "name": "BP Seven Hills",
+      "address": "154-156 Prospect Hwy, Seven Hills NSW 2147",
+      "state": "NSW",
+      "lat": -33.769073,
+      "lng": 150.941486
     },
     {
       "brand": "BP",
@@ -10112,15 +10121,6 @@
       "lng": 151.273708
     },
     {
-      "brand": "U-Go",
-      "code": "NSW:17147",
-      "name": "U-Go Baulkham Hills (Unmanned)",
-      "address": "117 Seven Hills Rd, BAULKHAM HILLS NSW 2153",
-      "state": "NSW",
-      "lat": -33.761395,
-      "lng": 150.975073
-    },
-    {
       "brand": "United",
       "code": "NSW:2004",
       "name": "United Marulan",
@@ -10889,20 +10889,6 @@
       "state": "QLD",
       "lat": -25.634965,
       "lng": 149.797847
-    },
-    {
-      "brand": "Shell",
-      "code": "QLD:61401607",
-      "name": "Shell Currumbin",
-      "address": "59 Currumbin Creek Rd, QLD 4223",
-      "state": "QLD",
-      "lat": -28.14482582221764,
-      "lng": 153.47158649570085,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "Shell Express",

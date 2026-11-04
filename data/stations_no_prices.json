@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-11-04T02:59:19Z",
+  "fetched_at": "2026-11-04T10:20:32Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1270,
+  "station_count": 1272,
   "by_state": {
     "ACT": 8,
-    "NSW": 1163,
-    "NT": 6,
-    "QLD": 31,
-    "SA": 35,
+    "NSW": 1169,
+    "NT": 5,
+    "QLD": 32,
+    "SA": 32,
     "TAS": 1,
-    "VIC": 26
+    "VIC": 25
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Independent": 78,
     "Reddy Express": 78,
+    "Independent": 76,
+    "7-Eleven": 75,
     "Chargefox": 72,
-    "7-Eleven": 67,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 19,
+    "Ampol": 17,
+    "Shell": 12,
     "Caltex": 11,
-    "Shell": 11,
     "EVUp": 9,
     "Metro Fuel": 8,
     "United": 8,
@@ -37,9 +37,9 @@
     "Everty": 4,
     "Transwest Fuels": 3,
     "Speedway": 3,
-    "Puma Energy": 3,
     "Lowes": 2,
     "Budget": 2,
+    "Puma Energy": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "Roo Petroleum": 1,
@@ -53,9 +53,7 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "On the Run": 1,
-    "MILDURA SERVO": 1,
-    "U-Go": 1
+    "MILDURA SERVO": 1
   },
   "stations": [
     {
@@ -330,6 +328,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:17133",
+      "name": "7-Eleven Edmondson Park",
+      "address": "1962 Camden Valley Way, EDMONDSON PARK NSW 2174",
+      "state": "NSW",
+      "lat": -33.95354,
+      "lng": 150.85638
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:182",
       "name": "7-Eleven Emu Plains",
       "address": "49-51 Great Western Highway, Emu Plains NSW 2750",
@@ -456,6 +463,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:18251",
+      "name": "7-Eleven Jerrabomberra",
+      "address": "2 Ferdinand Lane, JERRABOMBERRA NSW 2619",
+      "state": "NSW",
+      "lat": -35.380474,
+      "lng": 149.196177
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:239",
       "name": "7-Eleven Kensington",
       "address": "131 Anzac Parade & Todman Avenue, Kensington NSW 2033",
@@ -465,12 +481,30 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:75",
+      "name": "7-Eleven Kincumber",
+      "address": "28 - 30 Avoca Drive, Kincumber NSW 2251",
+      "state": "NSW",
+      "lat": -33.467858,
+      "lng": 151.38063
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:144",
       "name": "7-Eleven Kingswood",
       "address": "127 Great Western HWY, Kingswood NSW 2747",
       "state": "NSW",
       "lat": -33.759875,
       "lng": 150.726503
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:277",
+      "name": "7-Eleven Lakemba",
+      "address": "222 King Georges Rd (Cnr Canarys Rd) (Opn 30/6/16), Lakemba NSW 2195",
+      "state": "NSW",
+      "lat": -33.933571,
+      "lng": 151.073569
     },
     {
       "brand": "7-Eleven",
@@ -525,6 +559,15 @@
       "state": "NSW",
       "lat": -33.951306,
       "lng": 151.24905
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:17120",
+      "name": "7-Eleven McGraths Hill",
+      "address": "142 Windsor RD, Mcgraths Hill NSW 2756",
+      "state": "NSW",
+      "lat": -33.616849,
+      "lng": 150.834184
     },
     {
       "brand": "7-Eleven",
@@ -669,6 +712,15 @@
       "state": "NSW",
       "lat": -33.975997,
       "lng": 151.10364
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:290",
+      "name": "7-Eleven St Marys",
+      "address": "Corner Mamre Road & Wilson Street, St Marys NSW 2760",
+      "state": "NSW",
+      "lat": -33.778006,
+      "lng": 150.771942
     },
     {
       "brand": "7-Eleven",
@@ -2235,15 +2287,6 @@
       "state": "NSW",
       "lat": -32.719967,
       "lng": 152.135661
-    },
-    {
-      "brand": "Ampol",
-      "code": "NSW:2225",
-      "name": "Ampol Bombala Depot",
-      "address": "1 High Street, BOMBALA NSW 2632",
-      "state": "NSW",
-      "lat": -36.903943,
-      "lng": 149.240822
     },
     {
       "brand": "Ampol Foodary",
@@ -7278,6 +7321,15 @@
     },
     {
       "brand": "Shell",
+      "code": "NSW:20258",
+      "name": "OTR Greystanes",
+      "address": "661 Merrylands RD, Greystanes NSW 2145",
+      "state": "NSW",
+      "lat": -33.829367,
+      "lng": 150.952665
+    },
+    {
+      "brand": "Shell",
       "code": "NSW:20074",
       "name": "OTR Hamilton Tudor Street",
       "address": "56 Tudor ST, Hamilton NSW 2303",
@@ -10599,15 +10651,6 @@
     },
     {
       "brand": "Puma Energy",
-      "code": "NT:08700204",
-      "name": "Alice Springs Depot",
-      "address": "12 Dalgety Road, Braitling, 0870, NT",
-      "state": "NT",
-      "lat": -23.669213,
-      "lng": 133.864862
-    },
-    {
-      "brand": "Puma Energy",
       "code": "NT:08220174",
       "name": "Daly River Inn",
       "address": "Daly River Road, Daly River, 0822, NT",
@@ -10652,15 +10695,32 @@
       "lng": 134.528786
     },
     {
-      "brand": "Ampol",
-      "code": "QLD:61402323",
-      "name": "Ampol Foodary Warwick Truck N Travel",
-      "address": "13015 Cunningham Highway, QLD 4370",
+      "brand": "7-Eleven",
+      "code": "QLD:61402868",
+      "name": "7-Eleven Pacific Pines",
+      "address": "Pitcairn Way & Archipelago Street, QLD 4211",
       "state": "QLD",
-      "lat": -28.184339,
-      "lng": 152.053619,
+      "lat": -27.945982,
+      "lng": 153.320677,
       "unavailable_fuels": [
-        "Diesel",
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61401064",
+      "name": "7-Eleven Palm Beach",
+      "address": "1186 Gold Coast Hwy & Eighth Av, QLD 4221",
+      "state": "QLD",
+      "lat": -28.118093,
+      "lng": 153.470696,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
         "Premium Diesel",
         "U91",
         "U95",
@@ -10921,8 +10981,8 @@
       "name": "Shell Express Birkdale",
       "address": "143-153 Birkdale Rd (Cnr Napier St), QLD 4159",
       "state": "QLD",
-      "lat": -27.493236,
-      "lng": 153.216112,
+      "lat": -27.493116,
+      "lng": 153.216342,
       "unavailable_fuels": [
         "Diesel",
         "E10",
@@ -11032,22 +11092,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Independent",
-      "code": "SA:61501707",
-      "name": "Bridgewater Service Station",
-      "address": "466 Mt Barker Road, SA 5155",
-      "state": "SA",
-      "lat": -35.010231,
-      "lng": 138.767893,
-      "unavailable_fuels": [
-        "Diesel",
-        "LPG",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {
@@ -11224,21 +11268,6 @@
       ]
     },
     {
-      "brand": "On the Run",
-      "code": "SA:61577436",
-      "name": "OTR Mount Barker Wellington Road",
-      "address": "350 Heysen Blvd, SA 5251",
-      "state": "SA",
-      "lat": -35.09025891000649,
-      "lng": 138.87523001787002,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "SA:61577334",
       "name": "One Tree Hill General Store and Dinner",
@@ -11378,19 +11407,6 @@
       "state": "SA",
       "lat": -34.568126,
       "lng": 139.597512
-    },
-    {
-      "brand": "Independent",
-      "code": "SA:61577362",
-      "name": "The Pines Roadhouse",
-      "address": "54 Ti-Tree Road, SA 5577",
-      "state": "SA",
-      "lat": -34.913326,
-      "lng": 137.168397,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91"
-      ]
     },
     {
       "brand": "X Convenience",
@@ -11760,21 +11776,6 @@
         "Diesel",
         "E10",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "U-Go",
-      "code": "VIC:BhmWtE8iijPZObEJvFInpxTPxatClU7pHqgwQ7p1VsI=",
-      "name": "U-Go Glen Waverley",
-      "address": "252 Springvale Road, Glen Waverley, 3150",
-      "state": "VIC",
-      "lat": -37.87978467,
-      "lng": 145.1660743,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

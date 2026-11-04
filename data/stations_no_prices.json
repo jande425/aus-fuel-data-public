@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-03T20:44:52Z",
+  "fetched_at": "2026-11-04T00:59:57Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1265,
+  "station_count": 1268,
   "by_state": {
     "ACT": 8,
-    "NSW": 1164,
-    "NT": 5,
-    "QLD": 29,
+    "NSW": 1163,
+    "NT": 6,
+    "QLD": 31,
     "SA": 33,
     "TAS": 1,
-    "VIC": 25
+    "VIC": 26
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,33 +19,33 @@
     "Reddy Express": 78,
     "Independent": 77,
     "Chargefox": 72,
-    "7-Eleven": 68,
-    "BP": 53,
+    "7-Eleven": 67,
+    "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 16,
+    "Ampol": 19,
     "Caltex": 11,
     "Shell": 10,
-    "Metro Fuel": 9,
     "EVUp": 9,
+    "Metro Fuel": 8,
     "United": 8,
     "Evie Networks": 7,
     "Pearl Energy": 6,
+    "Liberty": 6,
     "Mobil": 6,
-    "Liberty": 5,
     "Everty": 4,
     "Transwest Fuels": 3,
     "Speedway": 3,
-    "Ampol Foodary": 2,
+    "Puma Energy": 3,
     "Lowes": 2,
     "Budget": 2,
-    "Puma Energy": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "Roo Petroleum": 1,
     "PK's": 1,
     "Astron": 1,
+    "Ampol Foodary": 1,
     "Arko Energy": 1,
     "Enhance": 1,
     "Shell Express": 1,
@@ -53,7 +53,6 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "On the Run": 1,
     "U-Go": 1,
     "MILDURA SERVO": 1
   },
@@ -408,15 +407,6 @@
       "state": "NSW",
       "lat": -33.907829,
       "lng": 150.865922
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:18201",
-      "name": "7-Eleven Greystanes",
-      "address": "601-605 Great Western Highway, GREYSTANES NSW 2145",
-      "state": "NSW",
-      "lat": -33.808609,
-      "lng": 150.935941
     },
     {
       "brand": "7-Eleven",
@@ -2174,6 +2164,15 @@
       "lng": 146.916238
     },
     {
+      "brand": "Ampol",
+      "code": "NSW:18013",
+      "name": "Albury North Diesel Stop",
+      "address": "79 Union Road, NORTH ALBURY NSW 2640",
+      "state": "NSW",
+      "lat": -36.054966,
+      "lng": 146.94876
+    },
+    {
       "brand": "Exploren",
       "code": "NSW:20280",
       "name": "Albury Showground",
@@ -2237,13 +2236,13 @@
       "lng": 152.135661
     },
     {
-      "brand": "Ampol Foodary",
-      "code": "NSW:18013",
-      "name": "Ampol Foodary Albury North",
-      "address": "79 Union Road, NORTH ALBURY NSW 2640",
+      "brand": "Ampol",
+      "code": "NSW:2225",
+      "name": "Ampol Bombala Depot",
+      "address": "1 High Street, BOMBALA NSW 2632",
       "state": "NSW",
-      "lat": -36.054966,
-      "lng": 146.94876
+      "lat": -36.903943,
+      "lng": 149.240822
     },
     {
       "brand": "Ampol Foodary",
@@ -6603,15 +6602,6 @@
     },
     {
       "brand": "Metro Fuel",
-      "code": "NSW:20959",
-      "name": "Metro Lake Illawarra",
-      "address": "37 Shellharbour RD, Lake Illawarra NSW 2528",
-      "state": "NSW",
-      "lat": -34.545146,
-      "lng": 150.862914
-    },
-    {
-      "brand": "Metro Fuel",
       "code": "NSW:20085",
       "name": "Metro Orange- Self-serve",
       "address": "1686 Forest RD, Orange NSW 2800",
@@ -10608,6 +10598,15 @@
     },
     {
       "brand": "Puma Energy",
+      "code": "NT:08700204",
+      "name": "Alice Springs Depot",
+      "address": "12 Dalgety Road, Braitling, 0870, NT",
+      "state": "NT",
+      "lat": -23.669213,
+      "lng": 133.864862
+    },
+    {
+      "brand": "Puma Energy",
       "code": "NT:08220174",
       "name": "Daly River Inn",
       "address": "Daly River Road, Daly River, 0822, NT",
@@ -10653,6 +10652,22 @@
     },
     {
       "brand": "Ampol",
+      "code": "QLD:61402323",
+      "name": "Ampol Foodary Warwick Truck N Travel",
+      "address": "13015 Cunningham Highway, QLD 4370",
+      "state": "QLD",
+      "lat": -28.184339,
+      "lng": 152.053619,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -10668,6 +10683,15 @@
       "state": "QLD",
       "lat": -27.790458,
       "lng": 151.411238
+    },
+    {
+      "brand": "BP",
+      "code": "QLD:61402249",
+      "name": "BP Connect Stapylton",
+      "address": "Cnr Pacific Hwy &, Stapylton Jacobs Well Rd, QLD 4207",
+      "state": "QLD",
+      "lat": -27.73285375544784,
+      "lng": 153.2279112883606
     },
     {
       "brand": "Independent",
@@ -10997,6 +11021,22 @@
       ]
     },
     {
+      "brand": "BP",
+      "code": "SA:61577435",
+      "name": "BP OPT Tailem Bend",
+      "address": "Cnr Tuscany Road & Dukes Highway, SA 5260",
+      "state": "SA",
+      "lat": -35.27647807471725,
+      "lng": 139.46740368154525,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "SA:61577294",
       "name": "Booborowie General Store",
@@ -11180,21 +11220,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "On the Run",
-      "code": "SA:61577436",
-      "name": "OTR Mount Barker Wellington Road",
-      "address": "350 Heysen Blvd, SA 5251",
-      "state": "SA",
-      "lat": -35.09025891000649,
-      "lng": 138.87523001787002,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {
@@ -11520,6 +11545,20 @@
         "E10",
         "U91",
         "U98"
+      ]
+    },
+    {
+      "brand": "Liberty",
+      "code": "VIC:q0ZDVB2DzQfwVyp7ktR+dDrSAKuqCQtqwmcwqq5OheQ=",
+      "name": "LIberty Stanhope",
+      "address": "86 Midland Highway, STANHOPE, 3623",
+      "state": "VIC",
+      "lat": -36.44672091,
+      "lng": 144.99345538,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91"
       ]
     },
     {

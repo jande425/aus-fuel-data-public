@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-04T20:29:24Z",
+  "fetched_at": "2026-11-04T20:48:16Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1266,
+  "station_count": 1267,
   "by_state": {
     "ACT": 8,
     "NSW": 1165,
-    "NT": 5,
+    "NT": 6,
     "QLD": 30,
     "SA": 32,
     "TAS": 1,
@@ -27,9 +27,9 @@
     "Ampol": 18,
     "Shell": 12,
     "Caltex": 11,
+    "United": 9,
     "EVUp": 9,
     "Metro Fuel": 8,
-    "United": 8,
     "Evie Networks": 7,
     "Pearl Energy": 6,
     "Liberty": 6,
@@ -10657,6 +10657,15 @@
       "state": "NT",
       "lat": -14.735076,
       "lng": 134.528786
+    },
+    {
+      "brand": "United",
+      "code": "NT:08500067",
+      "name": "United Katherine Depot",
+      "address": "4A Emungalan Road, KATHERINE, 0850, NT",
+      "state": "NT",
+      "lat": -14.450602,
+      "lng": 132.248104
     },
     {
       "brand": "Ampol",

@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-11-04T20:29:24Z",
+  "fetched_at": "2026-11-04T20:48:16Z",
   "station_count": 696,
   "fuel_types": [
     "E10",
@@ -2015,15 +2015,13 @@
       "state": "SA",
       "prices": {
         "U91": 225.9,
+        "LPG": 108.9,
         "U98": 252.9,
         "Premium Diesel": 283.9
       },
-      "updated": "2026-11-04T09:07:44Z",
+      "updated": "2026-11-04T20:35:25Z",
       "lat": -35.138301,
-      "lng": 138.497507,
-      "unavailable_fuels": [
-        "LPG"
-      ]
+      "lng": 138.497507
     },
     {
       "brand": "On the Run",
@@ -2930,7 +2928,7 @@
         "U98": 251.9,
         "Premium Diesel": 278.9
       },
-      "updated": "2026-11-04T20:25:18Z",
+      "updated": "2026-11-04T20:40:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -3491,15 +3489,13 @@
       "state": "SA",
       "prices": {
         "U91": 229.9,
+        "U95": 245.9,
         "U98": 256.9,
         "Premium Diesel": 281.9
       },
-      "updated": "2026-11-02T23:44:09Z",
+      "updated": "2026-11-04T20:42:33Z",
       "lat": -34.789245,
-      "lng": 138.697576,
-      "unavailable_fuels": [
-        "U95"
-      ]
+      "lng": 138.697576
     },
     {
       "brand": "Independent",
@@ -5406,7 +5402,7 @@
         "U98": 265.9,
         "Premium Diesel": 281.9
       },
-      "updated": "2026-11-04T20:25:18Z",
+      "updated": "2026-11-04T20:40:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -8109,15 +8105,13 @@
       "state": "SA",
       "prices": {
         "U91": 219.9,
+        "U95": 236.9,
         "U98": 246.9,
         "Premium Diesel": 273.9
       },
-      "updated": "2026-11-03T20:01:29Z",
+      "updated": "2026-11-04T20:32:47Z",
       "lat": -34.983748,
-      "lng": 138.555895,
-      "unavailable_fuels": [
-        "U95"
-      ]
+      "lng": 138.555895
     },
     {
       "brand": "EG Ampol",
@@ -8290,12 +8284,12 @@
       "state": "SA",
       "prices": {
         "U91": 228.4,
-        "Diesel": 276.9,
+        "Diesel": 275.4,
         "U95": 244.9,
         "U98": 248.4,
-        "Premium Diesel": 281.4
+        "Premium Diesel": 275.9
       },
-      "updated": "2026-11-04T16:32:11Z",
+      "updated": "2026-11-04T20:37:08Z",
       "lat": -34.457321,
       "lng": 139.003159
     },
@@ -9655,11 +9649,11 @@
       "address": "66 Main Street, SA 5241",
       "state": "SA",
       "prices": {
-        "U91": 234.9,
+        "U91": 233.9,
         "Diesel": 283.9,
-        "U98": 257.9
+        "U98": 256.9
       },
-      "updated": "2026-11-02T02:26:40Z",
+      "updated": "2026-11-04T20:45:52Z",
       "lat": -34.903037,
       "lng": 138.875082
     },

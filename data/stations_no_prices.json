@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-04T00:59:57Z",
+  "fetched_at": "2026-11-04T02:32:52Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1268,
+  "station_count": 1270,
   "by_state": {
     "ACT": 8,
     "NSW": 1163,
     "NT": 6,
     "QLD": 31,
-    "SA": 33,
+    "SA": 35,
     "TAS": 1,
     "VIC": 26
   },
@@ -16,17 +16,17 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
+    "Independent": 78,
     "Reddy Express": 78,
-    "Independent": 77,
     "Chargefox": 72,
     "7-Eleven": 67,
-    "BP": 55,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
     "Ampol": 19,
     "Caltex": 11,
-    "Shell": 10,
+    "Shell": 11,
     "EVUp": 9,
     "Metro Fuel": 8,
     "United": 8,
@@ -53,8 +53,9 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "U-Go": 1,
-    "MILDURA SERVO": 1
+    "On the Run": 1,
+    "MILDURA SERVO": 1,
+    "U-Go": 1
   },
   "stations": [
     {
@@ -11021,22 +11022,6 @@
       ]
     },
     {
-      "brand": "BP",
-      "code": "SA:61577435",
-      "name": "BP OPT Tailem Bend",
-      "address": "Cnr Tuscany Road & Dukes Highway, SA 5260",
-      "state": "SA",
-      "lat": -35.27647807471725,
-      "lng": 139.46740368154525,
-      "unavailable_fuels": [
-        "Diesel",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "SA:61577294",
       "name": "Booborowie General Store",
@@ -11047,6 +11032,22 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "Independent",
+      "code": "SA:61501707",
+      "name": "Bridgewater Service Station",
+      "address": "466 Mt Barker Road, SA 5155",
+      "state": "SA",
+      "lat": -35.010231,
+      "lng": 138.767893,
+      "unavailable_fuels": [
+        "Diesel",
+        "LPG",
+        "U91",
+        "U95",
+        "U98"
       ]
     },
     {
@@ -11223,6 +11224,21 @@
       ]
     },
     {
+      "brand": "On the Run",
+      "code": "SA:61577436",
+      "name": "OTR Mount Barker Wellington Road",
+      "address": "350 Heysen Blvd, SA 5251",
+      "state": "SA",
+      "lat": -35.09025891000649,
+      "lng": 138.87523001787002,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "SA:61577334",
       "name": "One Tree Hill General Store and Dinner",
@@ -11252,6 +11268,18 @@
       "state": "SA",
       "lat": -34.274743,
       "lng": 138.771228
+    },
+    {
+      "brand": "Shell",
+      "code": "SA:61501532",
+      "name": "Port Augusta OPT",
+      "address": "99 Old Tarcoola Rd, SA 5700",
+      "state": "SA",
+      "lat": -32.47069784548801,
+      "lng": 137.73773572988125,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
     },
     {
       "brand": "Independent",

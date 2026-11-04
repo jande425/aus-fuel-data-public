@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-04T19:15:18Z",
+  "fetched_at": "2026-11-04T20:29:24Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1266,
   "by_state": {
     "ACT": 8,
-    "NSW": 1164,
+    "NSW": 1165,
     "NT": 5,
     "QLD": 30,
     "SA": 32,
     "TAS": 1,
-    "VIC": 26
+    "VIC": 25
   },
   "by_brand": {
     "Exploren": 236,
@@ -2296,6 +2296,15 @@
       "state": "NSW",
       "lat": -33.663734,
       "lng": 150.919128
+    },
+    {
+      "brand": "Ampol",
+      "code": "NSW:2471",
+      "name": "Ampol Rutherford Diesel Stop",
+      "address": "83 Mustang Dr, RUTHERFORD NSW 2320",
+      "state": "NSW",
+      "lat": -32.704828,
+      "lng": 151.498701
     },
     {
       "brand": "Ampol",
@@ -11421,21 +11430,6 @@
       "lng": 144.94331495,
       "unavailable_fuels": [
         "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "VIC:/82CaXNs5fBh0wso64rd23rJsL7WLQbqTvH05D0rz9Y=",
-      "name": "Ampol Foodary Cheltenham",
-      "address": "299 Charman Road, Cheltenham, 3192",
-      "state": "VIC",
-      "lat": -37.96504060768817,
-      "lng": 145.05542819681995,
-      "unavailable_fuels": [
         "Premium Diesel",
         "U91",
         "U95",

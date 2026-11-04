@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-04T10:20:32Z",
+  "fetched_at": "2026-11-04T12:23:11Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1270,
   "by_state": {
     "ACT": 8,
-    "NSW": 1169,
+    "NSW": 1167,
     "NT": 5,
     "QLD": 32,
     "SA": 32,
@@ -18,9 +18,9 @@
     "Independent EV": 99,
     "Reddy Express": 78,
     "Independent": 76,
-    "7-Eleven": 75,
+    "7-Eleven": 74,
     "Chargefox": 72,
-    "BP": 54,
+    "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -460,15 +460,6 @@
       "state": "NSW",
       "lat": -33.99995,
       "lng": 150.86794
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:18251",
-      "name": "7-Eleven Jerrabomberra",
-      "address": "2 Ferdinand Lane, JERRABOMBERRA NSW 2619",
-      "state": "NSW",
-      "lat": -35.380474,
-      "lng": 149.196177
     },
     {
       "brand": "7-Eleven",
@@ -2863,15 +2854,6 @@
       "state": "NSW",
       "lat": -32.710116,
       "lng": 151.516728
-    },
-    {
-      "brand": "BP",
-      "code": "NSW:1794",
-      "name": "BP Seven Hills",
-      "address": "154-156 Prospect Hwy, Seven Hills NSW 2147",
-      "state": "NSW",
-      "lat": -33.769073,
-      "lng": 150.941486
     },
     {
       "brand": "BP",

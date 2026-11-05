@@ -2,8 +2,8 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-11-05T03:28:11Z",
-  "station_count": 61,
+  "fetched_at": "2026-11-05T10:14:35Z",
+  "station_count": 60,
   "fuel_types": [
     "E10",
     "U91",
@@ -267,7 +267,6 @@
       "address": "3 Benham St, Chisholm ACT 2905",
       "state": "ACT",
       "prices": {
-        "U95": 259.9,
         "U98": 268.9,
         "Premium Diesel": 284.9
       },
@@ -315,7 +314,6 @@
       "state": "ACT",
       "prices": {
         "E10": 244.9,
-        "U95": 263.9,
         "U98": 272.9,
         "Premium Diesel": 289.9
       },
@@ -573,12 +571,12 @@
       "state": "ACT",
       "prices": {
         "E10": 247.9,
-        "LPG": 124.9,
+        "LPG": 126.9,
         "U98": 275.9,
         "Premium Diesel": 292.9,
         "U91": 249.9
       },
-      "updated": "2026-11-02T23:51:13Z",
+      "updated": "2026-11-05T05:54:14Z",
       "lat": -35.2207,
       "lng": 149.018
     },
@@ -836,12 +834,12 @@
       "state": "ACT",
       "prices": {
         "Diesel": 286.9,
-        "LPG": 124.9,
+        "LPG": 126.9,
         "U98": 271.9,
         "Premium Diesel": 288.9,
         "U91": 245.9
       },
-      "updated": "2026-10-22T21:24:42Z",
+      "updated": "2026-11-05T04:39:05Z",
       "lat": -35.215024,
       "lng": 149.139903
     },
@@ -860,22 +858,6 @@
       "updated": "2026-11-04T22:05:47Z",
       "lat": -35.3326,
       "lng": 149.176
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "ACT:18794",
-      "name": "7-Eleven Melba",
-      "address": "2 Chinner Cres, Melba ACT 2615",
-      "state": "ACT",
-      "prices": {
-        "E10": 245.9,
-        "U98": 273.9,
-        "Premium Diesel": 292.9,
-        "U91": 247.9
-      },
-      "updated": "2026-11-01T04:21:13Z",
-      "lat": -35.2078,
-      "lng": 149.048
     },
     {
       "brand": "Costco",
@@ -982,12 +964,12 @@
       "address": "Mobil Outlet 15 Barrier ST, Fyshwick ACT 2609",
       "state": "ACT",
       "prices": {
-        "E10": 227.9,
-        "U98": 249.9,
-        "Premium Diesel": 272.9,
-        "U91": 231.9
+        "E10": 222.9,
+        "U98": 244.9,
+        "Premium Diesel": 267.9,
+        "U91": 226.9
       },
-      "updated": "2026-11-04T19:34:52Z",
+      "updated": "2026-11-05T08:03:48Z",
       "lat": -35.329111,
       "lng": 149.172604
     },

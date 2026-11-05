@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-05T19:24:35Z",
+  "fetched_at": "2026-11-05T20:45:30Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1262,
+  "station_count": 1261,
   "by_state": {
     "ACT": 8,
-    "NSW": 1161,
+    "NSW": 1162,
     "NT": 6,
-    "QLD": 31,
+    "QLD": 30,
     "SA": 32,
     "TAS": 1,
-    "VIC": 23
+    "VIC": 22
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,19 +17,19 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 78,
-    "Independent": 76,
+    "Independent": 77,
     "Chargefox": 72,
     "7-Eleven": 66,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 19,
+    "Ampol": 18,
     "Caltex": 12,
     "Shell": 12,
     "Metro Fuel": 9,
-    "United": 9,
     "EVUp": 9,
+    "United": 8,
     "Evie Networks": 7,
     "Mobil": 6,
     "Pearl Energy": 5,
@@ -5139,6 +5139,15 @@
       "state": "NSW",
       "lat": -33.875181,
       "lng": 151.199863
+    },
+    {
+      "brand": "Independent",
+      "code": "NSW:1729",
+      "name": "Independent Carroll",
+      "address": "70 76 Breeza Street, Carroll NSW 2340",
+      "state": "NSW",
+      "lat": -30.985902,
+      "lng": 150.446131
     },
     {
       "brand": "Independent",
@@ -10951,15 +10960,6 @@
       ]
     },
     {
-      "brand": "United",
-      "code": "QLD:61470653",
-      "name": "United Nobby",
-      "address": "15261 New England Hwy, QLD 4360",
-      "state": "QLD",
-      "lat": -27.84624306016697,
-      "lng": 151.9426588827174
-    },
-    {
       "brand": "Independent",
       "code": "QLD:61477869",
       "name": "Yarrabah Service Station",
@@ -11390,21 +11390,6 @@
       "lng": 145.17289763,
       "unavailable_fuels": [
         "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "VIC:bRsF2wtFkaVbbiKlPMy44zVNU9JKe/giboDEbPNbDEY=",
-      "name": "Ampol Foodary Mornington",
-      "address": "841 Nepean Highway, Mornington, 3931",
-      "state": "VIC",
-      "lat": -38.23351016,
-      "lng": 145.039258,
-      "unavailable_fuels": [
         "Premium Diesel",
         "U91",
         "U95",

@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-11-05T10:14:35Z",
+  "fetched_at": "2026-11-05T12:38:34Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1271,
+  "station_count": 1266,
   "by_state": {
-    "ACT": 9,
-    "NSW": 1164,
+    "ACT": 8,
+    "NSW": 1162,
     "NT": 6,
-    "QLD": 35,
+    "QLD": 34,
     "SA": 32,
     "TAS": 1,
-    "VIC": 24
+    "VIC": 23
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 79,
+    "Reddy Express": 78,
     "Independent": 76,
-    "7-Eleven": 74,
     "Chargefox": 72,
+    "7-Eleven": 70,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -63,15 +63,6 @@
       "state": "ACT",
       "lat": -35.3251,
       "lng": 149.154
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "ACT:18794",
-      "name": "7-Eleven Melba",
-      "address": "2 Chinner Cres, Melba ACT 2615",
-      "state": "ACT",
-      "lat": -35.2078,
-      "lng": 149.048
     },
     {
       "brand": "Chargefox",
@@ -597,15 +588,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:17137",
-      "name": "7-Eleven Newport",
-      "address": "307-311 Barrenjoey Rd, NEWPORT NSW 2106",
-      "state": "NSW",
-      "lat": -33.65634,
-      "lng": 151.31825
-    },
-    {
-      "brand": "7-Eleven",
       "code": "NSW:137",
       "name": "7-Eleven North Rocks",
       "address": "340 North Rocks Road, North Rocks NSW 2151",
@@ -693,15 +675,6 @@
       "state": "NSW",
       "lat": -33.975997,
       "lng": 151.10364
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:17136",
-      "name": "7-Eleven St Helens Park",
-      "address": "Corner Appin Road & Kellerman Drive St Helens Park, St Helens Park NSW 2560",
-      "state": "NSW",
-      "lat": -34.102063,
-      "lng": 150.802239
     },
     {
       "brand": "7-Eleven",
@@ -10984,22 +10957,6 @@
       "lng": 149.797847
     },
     {
-      "brand": "Reddy Express",
-      "code": "QLD:61401945",
-      "name": "Shell Reddy Express Breakfast Creek",
-      "address": "94 Breakfast Creek Rd, QLD 4006",
-      "state": "QLD",
-      "lat": -27.446338,
-      "lng": 153.042061,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Solo",
       "code": "QLD:61401568",
       "name": "Solo Acacia Ridge",
@@ -11474,22 +11431,6 @@
       "lng": 145.31865686999495,
       "unavailable_fuels": [
         "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:aXBdr36UFfKaOx6BhKsM9Gbf1hFld3PDgkCbrK/eRCU=",
-      "name": "7-Eleven Mill Park",
-      "address": "Corner Childs Road, Morang Drive, Mill Park, 3082",
-      "state": "VIC",
-      "lat": -37.66187550861754,
-      "lng": 145.0534588614868,
-      "unavailable_fuels": [
         "LPG",
         "Premium Diesel",
         "U91",

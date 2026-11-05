@@ -2,8 +2,8 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-11-05T10:14:35Z",
-  "station_count": 60,
+  "fetched_at": "2026-11-05T12:38:34Z",
+  "station_count": 61,
   "fuel_types": [
     "E10",
     "U91",
@@ -860,6 +860,22 @@
       "lng": 149.176
     },
     {
+      "brand": "7-Eleven",
+      "code": "ACT:18794",
+      "name": "7-Eleven Melba",
+      "address": "2 Chinner Cres, Melba ACT 2615",
+      "state": "ACT",
+      "prices": {
+        "E10": 245.9,
+        "U98": 273.9,
+        "Premium Diesel": 292.9,
+        "U91": 247.9
+      },
+      "updated": "2026-11-05T11:41:16Z",
+      "lat": -35.2078,
+      "lng": 149.048
+    },
+    {
       "brand": "Costco",
       "code": "ACT:18815",
       "name": "Costco Canberra Airport (Members Only)",
@@ -932,12 +948,12 @@
       "address": "103 Hindmarsh DR, Phillip ACT 2606",
       "state": "ACT",
       "prices": {
-        "E10": 243.9,
-        "U98": 269.9,
-        "Premium Diesel": 285.9,
-        "U91": 245.9
+        "E10": 233.9,
+        "U98": 259.9,
+        "Premium Diesel": 275.9,
+        "U91": 235.9
       },
-      "updated": "2026-11-05T02:20:36Z",
+      "updated": "2026-11-05T11:59:08Z",
       "lat": -35.349177,
       "lng": 149.085739
     },

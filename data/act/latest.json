@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-11-05T02:39:42Z",
+  "fetched_at": "2026-11-05T03:28:11Z",
   "station_count": 61,
   "fuel_types": [
     "E10",
@@ -54,12 +54,12 @@
       "address": "20 Mort ST, Braddon ACT 2612",
       "state": "ACT",
       "prices": {
-        "E10": 242.9,
-        "U98": 270.9,
-        "Premium Diesel": 280.9,
-        "U91": 244.9
+        "E10": 244.4,
+        "U98": 272.4,
+        "Premium Diesel": 279.9,
+        "U91": 246.4
       },
-      "updated": "2026-11-04T22:51:14Z",
+      "updated": "2026-11-05T02:45:21Z",
       "lat": -35.275669,
       "lng": 149.131261
     },
@@ -816,7 +816,7 @@
       "address": "150 O'Halloran Circuit, Kambah ACT 2902",
       "state": "ACT",
       "prices": {
-        "Diesel": 286.9,
+        "Diesel": 284.9,
         "E10": 246.9,
         "E85": 259.9,
         "LPG": 119.9,
@@ -824,7 +824,7 @@
         "U98": 272.9,
         "U91": 248.9
       },
-      "updated": "2026-11-04T21:00:06Z",
+      "updated": "2026-11-05T02:45:14Z",
       "lat": -35.3924,
       "lng": 149.069
     },

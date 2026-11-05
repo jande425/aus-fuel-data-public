@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-11-04T20:48:16Z",
+  "fetched_at": "2026-11-05T01:14:51Z",
   "tile_size_degrees": 2,
-  "tile_count": 187,
-  "total_stations": 7868,
+  "tile_count": 188,
+  "total_stations": 7872,
   "tiles": [
     {
       "tile": "lat_-44_lng_144",
@@ -155,7 +155,7 @@
         "min_lng": 144,
         "max_lng": 146
       },
-      "station_count": 952,
+      "station_count": 953,
       "file": "tiles/lat_-38_lng_144.json"
     },
     {
@@ -320,7 +320,7 @@
         "min_lng": 150,
         "max_lng": 152
       },
-      "station_count": 232,
+      "station_count": 233,
       "file": "tiles/lat_-36_lng_150.json"
     },
     {
@@ -496,7 +496,7 @@
         "min_lng": 150,
         "max_lng": 152
       },
-      "station_count": 963,
+      "station_count": 964,
       "file": "tiles/lat_-34_lng_150.json"
     },
     {
@@ -509,6 +509,17 @@
       },
       "station_count": 31,
       "file": "tiles/lat_-34_lng_152.json"
+    },
+    {
+      "tile": "lat_-32_lng_50",
+      "bounds": {
+        "min_lat": -32,
+        "max_lat": -30,
+        "min_lng": 50,
+        "max_lng": 52
+      },
+      "station_count": 1,
+      "file": "tiles/lat_-32_lng_50.json"
     },
     {
       "tile": "lat_-32_lng_114",
@@ -705,7 +716,7 @@
         "min_lng": 152,
         "max_lng": 154
       },
-      "station_count": 106,
+      "station_count": 105,
       "file": "tiles/lat_-32_lng_152.json"
     },
     {
@@ -848,7 +859,7 @@
         "min_lng": 150,
         "max_lng": 152
       },
-      "station_count": 55,
+      "station_count": 56,
       "file": "tiles/lat_-30_lng_150.json"
     },
     {
@@ -859,7 +870,7 @@
         "min_lng": 152,
         "max_lng": 154
       },
-      "station_count": 206,
+      "station_count": 205,
       "file": "tiles/lat_-30_lng_152.json"
     },
     {
@@ -1046,7 +1057,7 @@
         "min_lng": 152,
         "max_lng": 154
       },
-      "station_count": 856,
+      "station_count": 858,
       "file": "tiles/lat_-28_lng_152.json"
     },
     {
@@ -1343,7 +1354,7 @@
         "min_lng": 132,
         "max_lng": 134
       },
-      "station_count": 25,
+      "station_count": 24,
       "file": "tiles/lat_-24_lng_132.json"
     },
     {

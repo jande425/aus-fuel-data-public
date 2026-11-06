@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-06T20:01:21Z",
+  "fetched_at": "2026-11-06T20:25:44Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1255,
+  "station_count": 1256,
   "by_state": {
     "ACT": 8,
     "NSW": 1159,
     "NT": 5,
     "QLD": 28,
-    "SA": 32,
+    "SA": 33,
     "TAS": 1,
     "VIC": 22
   },
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 78,
-    "Independent": 75,
+    "Independent": 76,
     "Chargefox": 72,
     "7-Eleven": 64,
     "BP": 53,
@@ -11033,6 +11033,19 @@
       "lng": 137.264041,
       "unavailable_fuels": [
         "Diesel"
+      ]
+    },
+    {
+      "brand": "Independent",
+      "code": "SA:61577045",
+      "name": "Fishbowl General Store and Fuel Stop",
+      "address": "15 Main Street, SA 5454",
+      "state": "SA",
+      "lat": -33.49860091316172,
+      "lng": 138.60743622147848,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91"
       ]
     },
     {

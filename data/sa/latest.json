@@ -2,8 +2,8 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-11-06T20:01:21Z",
-  "station_count": 696,
+  "fetched_at": "2026-11-06T20:25:44Z",
+  "station_count": 695,
   "fuel_types": [
     "E10",
     "U91",
@@ -2916,7 +2916,7 @@
         "U98": 247.9,
         "Premium Diesel": 272.9
       },
-      "updated": "2026-11-06T19:55:18Z",
+      "updated": "2026-11-06T20:10:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -4822,12 +4822,12 @@
       "address": "108 Commercial St E, SA 5290",
       "state": "SA",
       "prices": {
-        "U91": 217.5,
-        "Diesel": 255.5,
-        "U98": 237.5,
-        "E10": 213.5
+        "U91": 215.5,
+        "Diesel": 253.5,
+        "U98": 235.5,
+        "E10": 211.5
       },
-      "updated": "2026-11-05T19:37:10Z",
+      "updated": "2026-11-06T20:03:16Z",
       "lat": -37.83044522273114,
       "lng": 140.78635706134224
     },
@@ -5399,7 +5399,7 @@
         "U98": 263.9,
         "Premium Diesel": 279.9
       },
-      "updated": "2026-11-06T19:55:18Z",
+      "updated": "2026-11-06T20:10:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -6915,11 +6915,11 @@
       "address": "82 Jubilee Hwy West, SA 5290",
       "state": "SA",
       "prices": {
-        "U91": 217.5,
-        "U98": 237.5,
-        "Premium Diesel": 255.5
+        "U91": 215.5,
+        "U98": 235.5,
+        "Premium Diesel": 253.5
       },
-      "updated": "2026-11-05T19:37:10Z",
+      "updated": "2026-11-06T20:03:16Z",
       "lat": -37.819558,
       "lng": 140.772084
     },
@@ -7876,20 +7876,6 @@
       "updated": "2026-11-04T21:26:45Z",
       "lat": -36.952567,
       "lng": 140.755656
-    },
-    {
-      "brand": "Independent",
-      "code": "SA:61577045",
-      "name": "Fishbowl General Store and Fuel Stop",
-      "address": "15 Main Street, SA 5454",
-      "state": "SA",
-      "prices": {
-        "U91": 248.5,
-        "Diesel": 288.5
-      },
-      "updated": "2026-10-15T03:03:40Z",
-      "lat": -33.49860091316172,
-      "lng": 138.60743622147848
     },
     {
       "brand": "BP",

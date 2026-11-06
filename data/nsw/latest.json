@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-11-06T12:20:49Z",
+  "fetched_at": "2026-11-06T12:54:22Z",
   "station_count": 2106,
   "fuel_types": [
     "E10",
@@ -8128,14 +8128,14 @@
       "address": "194 Campbelltown RD, Denham Court NSW 2565",
       "state": "NSW",
       "prices": {
-        "Diesel": 272.5,
-        "E10": 234.5,
-        "U95": 250.5,
-        "U98": 259.5,
-        "Premium Diesel": 274.5,
-        "U91": 236.5
+        "Diesel": 269.5,
+        "E10": 232.5,
+        "U95": 247.5,
+        "U98": 256.5,
+        "Premium Diesel": 271.5,
+        "U91": 234.5
       },
-      "updated": "2026-11-04T12:03:33Z",
+      "updated": "2026-11-06T12:33:36Z",
       "lat": -33.999459,
       "lng": 150.84185
     },
@@ -9179,13 +9179,13 @@
       "address": "21 Bengal ST, Coolongolook NSW 2423",
       "state": "NSW",
       "prices": {
-        "E10": 231.5,
-        "U95": 246.5,
-        "U98": 255.5,
-        "Premium Diesel": 274.5,
-        "U91": 233.5
+        "E10": 229.5,
+        "U95": 244.5,
+        "U98": 253.5,
+        "Premium Diesel": 272.5,
+        "U91": 231.5
       },
-      "updated": "2026-11-05T12:58:06Z",
+      "updated": "2026-11-06T12:47:53Z",
       "lat": -32.21825,
       "lng": 152.321572
     },
@@ -12339,12 +12339,12 @@
       "address": "12 Pacific HWY, Ourimbah NSW 2258",
       "state": "NSW",
       "prices": {
-        "LPG": 94.9,
-        "U98": 254.9,
-        "Premium Diesel": 274.7,
-        "U91": 234.9
+        "LPG": 99.9,
+        "U98": 259.9,
+        "Premium Diesel": 279.7,
+        "U91": 239.9
       },
-      "updated": "2026-11-06T04:35:33Z",
+      "updated": "2026-11-06T12:32:14Z",
       "lat": -33.36297,
       "lng": 151.371353
     },
@@ -32050,12 +32050,12 @@
       "address": "535 ARGENT ST Broken Hill NSW 2880",
       "state": "NSW",
       "prices": {
-        "Diesel": 279.5,
+        "Diesel": 276.5,
         "U95": 245.5,
         "U98": 255.5,
         "U91": 231.5
       },
-      "updated": "2026-10-29T22:32:06Z",
+      "updated": "2026-11-06T12:31:46Z",
       "lat": -31.953118,
       "lng": 141.474528
     },

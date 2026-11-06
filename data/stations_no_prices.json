@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-05T21:03:40Z",
+  "fetched_at": "2026-11-06T01:20:19Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1261,
+  "station_count": 1260,
   "by_state": {
     "ACT": 8,
-    "NSW": 1162,
+    "NSW": 1161,
     "NT": 6,
     "QLD": 30,
     "SA": 32,
@@ -16,17 +16,17 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
+    "Independent": 78,
     "Reddy Express": 78,
-    "Independent": 77,
     "Chargefox": 72,
-    "7-Eleven": 66,
-    "BP": 53,
+    "7-Eleven": 64,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 18,
+    "Ampol": 19,
     "Caltex": 12,
-    "Shell": 12,
+    "Shell": 11,
     "Metro Fuel": 9,
     "EVUp": 9,
     "United": 8,
@@ -41,7 +41,6 @@
     "Puma Energy": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
-    "Roo Petroleum": 1,
     "PK's": 1,
     "Astron": 1,
     "Ampol Foodary": 1,
@@ -7886,15 +7885,6 @@
       "lng": 150.83814
     },
     {
-      "brand": "Roo Petroleum",
-      "code": "NSW:20826",
-      "name": "Roo Petroleum Lavington (24Hr Self-Serve)",
-      "address": "370 Griffith RD, Lavington NSW 2641",
-      "state": "NSW",
-      "lat": -36.048249,
-      "lng": 146.937412
-    },
-    {
       "brand": "Chargefox",
       "code": "NSW:19404",
       "name": "Rooty Hill Station Commuter Carpark",
@@ -10640,22 +10630,6 @@
       "lng": 132.248104
     },
     {
-      "brand": "7-Eleven",
-      "code": "QLD:61401024",
-      "name": "7-Eleven Runaway Bay",
-      "address": "20 Bayview St & Broadwater St, QLD 4216",
-      "state": "QLD",
-      "lat": -27.923524,
-      "lng": 153.403639,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "Ampol",
       "code": "QLD:61402893",
       "name": "Ampol Blackwater Diesel Stop",
@@ -10685,6 +10659,15 @@
       "state": "QLD",
       "lat": -27.790458,
       "lng": 151.411238
+    },
+    {
+      "brand": "BP",
+      "code": "QLD:61478109",
+      "name": "BP Augustine Heights",
+      "address": "4 Success Circuit, QLD 4300",
+      "state": "QLD",
+      "lat": -27.672469328079746,
+      "lng": 152.89536351955016
     },
     {
       "brand": "Independent",
@@ -10970,6 +10953,20 @@
     },
     {
       "brand": "Ampol",
+      "code": "SA:61577046",
+      "name": "Ampol Berri",
+      "address": "2 Wilson St, SA 5343",
+      "state": "SA",
+      "lat": -34.28635986450745,
+      "lng": 140.59938162698364,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
       "code": "SA:61577210",
       "name": "Ampol Mount Gambier East Diesel Stop",
       "address": "Rear 190 Jubilee Highway East, SA 5290",
@@ -11222,18 +11219,6 @@
       "lng": 138.771228
     },
     {
-      "brand": "Shell",
-      "code": "SA:61501532",
-      "name": "Port Augusta OPT",
-      "address": "99 Old Tarcoola Rd, SA 5700",
-      "state": "SA",
-      "lat": -32.47069784548801,
-      "lng": 137.73773572988125,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "SA:61577269",
       "name": "Port Clinton General Store",
@@ -11365,23 +11350,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "VIC:OU8UoaGFHqbCdQl5KCignNgDXwyN5NLsEfJ+T8k5ums=",
-      "name": "7-Eleven Five Ways",
-      "address": "2025 South Gippsland Highway, Five Ways, 3977",
-      "state": "VIC",
-      "lat": -38.15884971742255,
-      "lng": 145.31865686999495,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "VIC:VkvBa8whRgy6Z46L367DlDXkAoFePQygEgkFhtVuUPE=",
       "name": "7-Eleven Noble Park",
       "address": "1100-1106 Heatherton Road, Noble Park, 3174",
@@ -11393,6 +11361,20 @@
         "Premium Diesel",
         "U91",
         "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Independent",
+      "code": "VIC:mCLy5LVa9a0SixEFe/OR+X+ByeAARLmlUYE3eNnzwMs=",
+      "name": "Birchip Motel & Caravan Park",
+      "address": "44-48 Campbell Street, BIRCHIP, 3483",
+      "state": "VIC",
+      "lat": -35.9831608,
+      "lng": 142.91046439,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
         "U98"
       ]
     },

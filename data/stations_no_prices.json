@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-06T12:54:22Z",
+  "fetched_at": "2026-11-06T18:47:29Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1257,
   "by_state": {
     "ACT": 8,
-    "NSW": 1161,
+    "NSW": 1160,
     "NT": 5,
-    "QLD": 28,
+    "QLD": 29,
     "SA": 32,
     "TAS": 1,
     "VIC": 22
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 78,
-    "Independent": 77,
+    "Independent": 76,
     "Chargefox": 72,
     "7-Eleven": 64,
     "BP": 53,
@@ -39,6 +39,7 @@
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
+    "U-Go": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "PK's": 1,
@@ -46,7 +47,6 @@
     "Ampol Foodary": 1,
     "Arko Energy": 1,
     "Solo": 1,
-    "U-Go": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
@@ -9478,15 +9478,6 @@
       "lng": 150.916899
     },
     {
-      "brand": "Independent",
-      "code": "NSW:20620",
-      "name": "Tanilba Bay Servo",
-      "address": "1063 Lemon Tree Passage RD, Tanilba Bay NSW 2319",
-      "state": "NSW",
-      "lat": -32.736205,
-      "lng": 152.001298
-    },
-    {
       "brand": "Evie Networks",
       "code": "NSW:19476",
       "name": "Taree South Service Centre",
@@ -10898,6 +10889,21 @@
         "Premium Diesel",
         "U91",
         "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "U-Go",
+      "code": "QLD:61401696",
+      "name": "U-Go Mt Warren Park",
+      "address": "40-42 Rochester Drive, QLD 4207",
+      "state": "QLD",
+      "lat": -27.728179,
+      "lng": 153.208767,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
         "U98"
       ]
     },

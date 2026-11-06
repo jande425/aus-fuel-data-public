@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-11-06T10:17:28Z",
+  "fetched_at": "2026-11-06T12:20:49Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1260,
+  "station_count": 1257,
   "by_state": {
     "ACT": 8,
-    "NSW": 1162,
+    "NSW": 1161,
     "NT": 5,
-    "QLD": 27,
+    "QLD": 28,
     "SA": 32,
     "TAS": 1,
-    "VIC": 25
+    "VIC": 22
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Independent": 78,
     "Reddy Express": 78,
+    "Independent": 77,
     "Chargefox": 72,
-    "7-Eleven": 67,
+    "7-Eleven": 64,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -46,6 +46,7 @@
     "Ampol Foodary": 1,
     "Arko Energy": 1,
     "Solo": 1,
+    "U-Go": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
@@ -10530,15 +10531,6 @@
       "lng": 150.892358
     },
     {
-      "brand": "Independent",
-      "code": "NSW:20863",
-      "name": "Woodham Petroleum Hexham",
-      "address": "239a Old Maitland RD, Hexham NSW 2322",
-      "state": "NSW",
-      "lat": -32.829298,
-      "lng": 151.686585
-    },
-    {
       "brand": "Chargefox",
       "code": "NSW:19557",
       "name": "Woolworths Shell Cove",
@@ -10892,6 +10884,22 @@
       "state": "QLD",
       "lat": -18.290183,
       "lng": 143.549026
+    },
+    {
+      "brand": "U-Go",
+      "code": "QLD:61401613",
+      "name": "U-Go Cleveland",
+      "address": "209 Bloomfield St, QLD 4163",
+      "state": "QLD",
+      "lat": -27.53260236370942,
+      "lng": 153.26623918650816,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "United",
@@ -11317,61 +11325,12 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "VIC:N6ptiy8MYWQZXpew5xnSHwlBRH+98kvw4EaW1aJSvcg=",
-      "name": "7-Eleven Carrum Downs",
-      "address": "10 Amayla Crescent, Carrum Downs, 3201",
-      "state": "VIC",
-      "lat": -38.10499685,
-      "lng": 145.16765687,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "VIC:VkvBa8whRgy6Z46L367DlDXkAoFePQygEgkFhtVuUPE=",
       "name": "7-Eleven Noble Park",
       "address": "1100-1106 Heatherton Road, Noble Park, 3174",
       "state": "VIC",
       "lat": -37.96512786,
       "lng": 145.17289763,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:htqTZiXnmyecOlgB7rPfoFDYX2vPDLm4MIedbBUo0HA=",
-      "name": "7-Eleven Oakleigh South",
-      "address": "699-701 Warrigal Road, Oakleigh South, 3167",
-      "state": "VIC",
-      "lat": -37.91761846579471,
-      "lng": 145.08342879681777,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:SYjc9tAb/jZ8xcFPLWns4UYKADpUlCM1yJnHOsAC96M=",
-      "name": "7-Eleven Rosebud",
-      "address": "1149 Nepean Highway, Rosebud, 3939",
-      "state": "VIC",
-      "lat": -38.35690163081723,
-      "lng": 144.9013387545088,
       "unavailable_fuels": [
         "LPG",
         "Premium Diesel",

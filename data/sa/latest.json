@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-11-06T10:17:28Z",
+  "fetched_at": "2026-11-06T12:20:49Z",
   "station_count": 696,
   "fuel_types": [
     "E10",
@@ -2916,7 +2916,7 @@
         "U98": 247.9,
         "Premium Diesel": 272.9
       },
-      "updated": "2026-11-06T10:10:19Z",
+      "updated": "2026-11-06T12:10:21Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5399,7 +5399,7 @@
         "U98": 263.9,
         "Premium Diesel": 279.9
       },
-      "updated": "2026-11-06T10:10:19Z",
+      "updated": "2026-11-06T12:10:21Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -7387,14 +7387,12 @@
       "prices": {
         "U91": 234.9,
         "Diesel": 272.9,
+        "LPG": 119.9,
         "U98": 257.9
       },
-      "updated": "2026-11-06T04:35:14Z",
+      "updated": "2026-11-06T11:20:11Z",
       "lat": -35.879426,
-      "lng": 140.050918,
-      "unavailable_fuels": [
-        "LPG"
-      ]
+      "lng": 140.050918
     },
     {
       "brand": "On the Run",
@@ -10281,16 +10279,14 @@
       "address": "91/101 Victoria St, SA 5211",
       "state": "SA",
       "prices": {
+        "U91": 219.5,
         "U95": 235.5,
         "U98": 243.5,
         "Premium Diesel": 266.9
       },
-      "updated": "2026-11-06T02:50:59Z",
+      "updated": "2026-11-06T10:19:19Z",
       "lat": -35.557565105642986,
-      "lng": 138.61444160845946,
-      "unavailable_fuels": [
-        "U91"
-      ]
+      "lng": 138.61444160845946
     },
     {
       "brand": "On the Run",
@@ -10498,13 +10494,13 @@
       "address": "Lot 100 Dukes Hwy, Cnr Creecoona Terrace, SA 5268",
       "state": "SA",
       "prices": {
-        "U91": 241.9,
-        "Diesel": 274.9,
-        "U98": 266.9,
-        "E10": 239.9,
-        "Premium Diesel": 276.9
+        "U91": 239.7,
+        "Diesel": 272.5,
+        "U98": 264.7,
+        "E10": 235.7,
+        "Premium Diesel": 274.5
       },
-      "updated": "2026-10-25T21:31:10Z",
+      "updated": "2026-11-06T10:21:13Z",
       "lat": -36.30958569113464,
       "lng": 140.78702229234312
     },

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-06T01:20:19Z",
+  "fetched_at": "2026-11-06T02:42:49Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1260,
   "by_state": {
@@ -24,9 +24,9 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 19,
+    "Ampol": 18,
     "Caltex": 12,
-    "Shell": 11,
+    "Shell": 12,
     "Metro Fuel": 9,
     "EVUp": 9,
     "United": 8,
@@ -2159,15 +2159,6 @@
       "state": "NSW",
       "lat": -36.082311,
       "lng": 146.916238
-    },
-    {
-      "brand": "Ampol",
-      "code": "NSW:18013",
-      "name": "Albury North Diesel Stop",
-      "address": "79 Union Road, NORTH ALBURY NSW 2640",
-      "state": "NSW",
-      "lat": -36.054966,
-      "lng": 146.94876
     },
     {
       "brand": "Exploren",
@@ -8162,6 +8153,15 @@
       "state": "NSW",
       "lat": -30.348586,
       "lng": 149.75737
+    },
+    {
+      "brand": "Shell",
+      "code": "NSW:18347",
+      "name": "Shell Port Kembla Truckstop (Unmanned)",
+      "address": "87-89, Flinders Street, Port Kembla NSW 2505",
+      "state": "NSW",
+      "lat": -34.469597,
+      "lng": 150.894989
     },
     {
       "brand": "Reddy Express",

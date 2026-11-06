@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-06T02:42:49Z",
+  "fetched_at": "2026-11-06T03:23:57Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1260,
+  "station_count": 1259,
   "by_state": {
     "ACT": 8,
     "NSW": 1161,
     "NT": 6,
-    "QLD": 30,
+    "QLD": 29,
     "SA": 32,
     "TAS": 1,
     "VIC": 22
@@ -20,7 +20,7 @@
     "Reddy Express": 78,
     "Chargefox": 72,
     "7-Eleven": 64,
-    "BP": 54,
+    "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -10659,15 +10659,6 @@
       "state": "QLD",
       "lat": -27.790458,
       "lng": 151.411238
-    },
-    {
-      "brand": "BP",
-      "code": "QLD:61478109",
-      "name": "BP Augustine Heights",
-      "address": "4 Success Circuit, QLD 4300",
-      "state": "QLD",
-      "lat": -27.672469328079746,
-      "lng": 152.89536351955016
     },
     {
       "brand": "Independent",

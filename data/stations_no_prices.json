@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-06T18:47:29Z",
+  "fetched_at": "2026-11-06T20:01:21Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1257,
+  "station_count": 1255,
   "by_state": {
     "ACT": 8,
-    "NSW": 1160,
+    "NSW": 1159,
     "NT": 5,
-    "QLD": 29,
+    "QLD": 28,
     "SA": 32,
     "TAS": 1,
     "VIC": 22
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 78,
-    "Independent": 76,
+    "Independent": 75,
     "Chargefox": 72,
     "7-Eleven": 64,
     "BP": 53,
@@ -39,7 +39,6 @@
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
-    "U-Go": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "PK's": 1,
@@ -47,6 +46,7 @@
     "Ampol Foodary": 1,
     "Arko Energy": 1,
     "Solo": 1,
+    "U-Go": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
@@ -5129,15 +5129,6 @@
       "state": "NSW",
       "lat": -33.875181,
       "lng": 151.199863
-    },
-    {
-      "brand": "Independent",
-      "code": "NSW:1729",
-      "name": "Independent Carroll",
-      "address": "70 76 Breeza Street, Carroll NSW 2340",
-      "state": "NSW",
-      "lat": -30.985902,
-      "lng": 150.446131
     },
     {
       "brand": "Independent",
@@ -10889,21 +10880,6 @@
         "Premium Diesel",
         "U91",
         "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "U-Go",
-      "code": "QLD:61401696",
-      "name": "U-Go Mt Warren Park",
-      "address": "40-42 Rochester Drive, QLD 4207",
-      "state": "QLD",
-      "lat": -27.728179,
-      "lng": 153.208767,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
         "U98"
       ]
     },

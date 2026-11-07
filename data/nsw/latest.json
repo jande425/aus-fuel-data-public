@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-11-07T18:09:12Z",
+  "fetched_at": "2026-11-07T18:44:01Z",
   "station_count": 2110,
   "fuel_types": [
     "E10",
@@ -5522,12 +5522,12 @@
       "address": "459 Pacific Hwy, WYOMING NSW 2250",
       "state": "NSW",
       "prices": {
-        "Diesel": 275.7,
+        "Diesel": 270.7,
         "E10": 227.7,
         "U98": 252.7,
         "U91": 229.7
       },
-      "updated": "2026-11-07T02:00:11Z",
+      "updated": "2026-11-07T18:35:57Z",
       "lat": -33.410397,
       "lng": 151.34779
     },
@@ -13088,7 +13088,6 @@
       "state": "NSW",
       "prices": {
         "E10": 236.9,
-        "U95": 255.9,
         "U98": 264.9,
         "Premium Diesel": 284.9,
         "U91": 238.9
@@ -23469,12 +23468,12 @@
       "address": "12B Oatley Parade, Oatley NSW 2223",
       "state": "NSW",
       "prices": {
-        "Diesel": 273.9,
-        "E10": 219.9,
-        "U95": 242.9,
-        "U91": 227.9
+        "Diesel": 272.9,
+        "E10": 218.9,
+        "U95": 241.9,
+        "U91": 226.9
       },
-      "updated": "2026-11-07T04:14:13Z",
+      "updated": "2026-11-07T18:30:45Z",
       "lat": -33.982328,
       "lng": 151.079144
     },

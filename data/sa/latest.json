@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-11-07T13:32:59Z",
+  "fetched_at": "2026-11-07T18:09:12Z",
   "station_count": 694,
   "fuel_types": [
     "E10",
@@ -2922,7 +2922,7 @@
         "U98": 245.9,
         "Premium Diesel": 272.9
       },
-      "updated": "2026-11-07T13:25:18Z",
+      "updated": "2026-11-07T17:55:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -3449,16 +3449,14 @@
       "address": "Shop 111/600 Main N Rd, SA 5115",
       "state": "SA",
       "prices": {
+        "U91": 217.5,
         "Diesel": 267.5,
-        "U95": 240.9,
-        "U98": 248.9
+        "U95": 232.5,
+        "U98": 240.5
       },
-      "updated": "2026-11-07T07:03:05Z",
+      "updated": "2026-11-07T15:12:41Z",
       "lat": -34.69139920686908,
-      "lng": 138.6875776351656,
-      "unavailable_fuels": [
-        "U91"
-      ]
+      "lng": 138.6875776351656
     },
     {
       "brand": "Reddy Express",
@@ -5407,7 +5405,7 @@
         "U98": 263.9,
         "Premium Diesel": 279.9
       },
-      "updated": "2026-11-07T13:25:18Z",
+      "updated": "2026-11-07T17:55:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },

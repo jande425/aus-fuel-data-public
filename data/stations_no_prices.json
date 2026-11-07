@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-07T02:45:38Z",
+  "fetched_at": "2026-11-07T06:35:58Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1255,
+  "station_count": 1253,
   "by_state": {
     "ACT": 8,
-    "NSW": 1158,
+    "NSW": 1157,
     "NT": 5,
-    "QLD": 27,
+    "QLD": 28,
     "SA": 34,
     "TAS": 1,
-    "VIC": 22
+    "VIC": 20
   },
   "by_brand": {
     "Exploren": 236,
@@ -20,21 +20,21 @@
     "Reddy Express": 78,
     "Chargefox": 72,
     "7-Eleven": 64,
-    "BP": 53,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 18,
+    "Ampol": 17,
     "Caltex": 11,
     "Shell": 11,
     "Metro Fuel": 9,
     "EVUp": 9,
     "Evie Networks": 7,
-    "United": 7,
+    "United": 6,
     "Mobil": 6,
     "Pearl Energy": 5,
-    "Liberty": 5,
     "Everty": 4,
+    "Liberty": 4,
     "Speedway": 3,
     "Budget": 2,
     "Transwest Fuels": 2,
@@ -2239,15 +2239,6 @@
       "state": "NSW",
       "lat": -30.205971,
       "lng": 151.675722
-    },
-    {
-      "brand": "Ampol",
-      "code": "NSW:18610",
-      "name": "Ampol Howlong",
-      "address": "150 Hawkins ST, Howlong NSW 2643",
-      "state": "NSW",
-      "lat": -35.981678,
-      "lng": 146.639111
     },
     {
       "brand": "Ampol",
@@ -10624,6 +10615,15 @@
       "lng": 151.411238
     },
     {
+      "brand": "BP",
+      "code": "QLD:61478037",
+      "name": "BP Molendinar",
+      "address": "383 Southport Nerang Road, QLD 4214",
+      "state": "QLD",
+      "lat": -27.980771,
+      "lng": 153.375481
+    },
+    {
       "brand": "Independent",
       "code": "QLD:61402385",
       "name": "Blue Topaz Caravan Park",
@@ -11423,19 +11423,6 @@
       ]
     },
     {
-      "brand": "Liberty",
-      "code": "VIC:B9Abo+4raxqqCo4w9FjYBkKULRTDuLrShdpOhuPF4Sw=",
-      "name": "Liberty Merbein South",
-      "address": "1202 Sturt HWY, Merbein South, 3505",
-      "state": "VIC",
-      "lat": -34.21542783,
-      "lng": 142.02606235,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91"
-      ]
-    },
-    {
       "brand": "Metro Petroleum",
       "code": "VIC:DvE5Oe+jXXe7tgfQvCaMagoXzjXMmfCgQd3XTF5Zcxk=",
       "name": "Metro Petroleum Narbethong",
@@ -11589,23 +11576,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "United",
-      "code": "VIC:CSYA32D7RuRjc894P0hinzZ8eErLCh8Rs084dM9jdOs=",
-      "name": "United Keysborough - (temporarily closed)",
-      "address": "747 Springvale Road, Keysborough, 3173",
-      "state": "VIC",
-      "lat": -37.98641349,
-      "lng": 145.14571137,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "LPG",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {

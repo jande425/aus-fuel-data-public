@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-11-07T11:14:47Z",
+  "fetched_at": "2026-11-07T11:41:22Z",
   "station_count": 2110,
   "fuel_types": [
     "E10",
@@ -4109,12 +4109,12 @@
       "address": "36-38 Lane Cove Rd, RYDE NSW 2112",
       "state": "NSW",
       "prices": {
-        "E10": 206.7,
+        "E10": 211.7,
         "U98": 239.7,
-        "Premium Diesel": 258.9,
+        "Premium Diesel": 263.9,
         "U91": 216.7
       },
-      "updated": "2026-11-07T08:41:25Z",
+      "updated": "2026-11-07T11:30:43Z",
       "lat": -33.807511,
       "lng": 151.108604
     },
@@ -7147,13 +7147,13 @@
       "address": "4 Duke Street, QUIRINDI NSW 2343",
       "state": "NSW",
       "prices": {
-        "Diesel": 275.5,
-        "E10": 235.5,
-        "U95": 251.5,
-        "Premium Diesel": 277.5,
-        "U91": 237.5
+        "Diesel": 273.5,
+        "E10": 233.5,
+        "U95": 249.5,
+        "Premium Diesel": 275.5,
+        "U91": 235.5
       },
-      "updated": "2026-11-02T11:31:21Z",
+      "updated": "2026-11-07T11:14:54Z",
       "lat": -31.5244,
       "lng": 150.678262
     },
@@ -23325,12 +23325,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 269.9,
-        "U95": 249.9,
-        "U98": 259.9,
+        "U95": 247.9,
+        "U98": 257.9,
         "Premium Diesel": 272.9,
-        "U91": 231.9
+        "U91": 229.9
       },
-      "updated": "2026-11-07T00:02:44Z",
+      "updated": "2026-11-07T11:22:52Z",
       "lat": -33.894163,
       "lng": 150.857838
     },

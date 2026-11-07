@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-06T20:25:44Z",
+  "fetched_at": "2026-11-07T00:34:34Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1256,
+  "station_count": 1255,
   "by_state": {
     "ACT": 8,
-    "NSW": 1159,
+    "NSW": 1158,
     "NT": 5,
-    "QLD": 28,
-    "SA": 33,
+    "QLD": 27,
+    "SA": 34,
     "TAS": 1,
     "VIC": 22
   },
@@ -16,8 +16,8 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
+    "Independent": 78,
     "Reddy Express": 78,
-    "Independent": 76,
     "Chargefox": 72,
     "7-Eleven": 64,
     "BP": 53,
@@ -25,8 +25,8 @@
     "ChargePoint": 23,
     "JOLT": 20,
     "Ampol": 18,
-    "Caltex": 12,
-    "Shell": 12,
+    "Caltex": 11,
+    "Shell": 11,
     "Metro Fuel": 9,
     "EVUp": 9,
     "Evie Networks": 7,
@@ -46,7 +46,6 @@
     "Ampol Foodary": 1,
     "Arko Energy": 1,
     "Solo": 1,
-    "U-Go": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
@@ -8146,15 +8145,6 @@
       "lng": 149.75737
     },
     {
-      "brand": "Shell",
-      "code": "NSW:18347",
-      "name": "Shell Port Kembla Truckstop (Unmanned)",
-      "address": "87-89, Flinders Street, Port Kembla NSW 2505",
-      "state": "NSW",
-      "lat": -34.469597,
-      "lng": 150.894989
-    },
-    {
       "brand": "Reddy Express",
       "code": "NSW:126",
       "name": "Shell Reddy  Express Bega",
@@ -10868,22 +10858,6 @@
       "lng": 143.549026
     },
     {
-      "brand": "U-Go",
-      "code": "QLD:61401613",
-      "name": "U-Go Cleveland",
-      "address": "209 Bloomfield St, QLD 4163",
-      "state": "QLD",
-      "lat": -27.53260236370942,
-      "lng": 153.26623918650816,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "United",
       "code": "QLD:61470127",
       "name": "United Esplanade",
@@ -11056,6 +11030,20 @@
       "state": "SA",
       "lat": -36.712676,
       "lng": 140.955234
+    },
+    {
+      "brand": "Independent",
+      "code": "SA:61570239",
+      "name": "Greenock General Store",
+      "address": "37-39 Adelaide Road, SA 5360",
+      "state": "SA",
+      "lat": -34.459099,
+      "lng": 138.925032,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
+      ]
     },
     {
       "brand": "Independent",
@@ -11408,20 +11396,6 @@
     },
     {
       "brand": "Caltex",
-      "code": "VIC:mjOyFeok8f+8bxjdE8fJwmArIT9QA/GKHhqdi0CgDWw=",
-      "name": "Caltex Roadhouse, Cohuna",
-      "address": "6323 Murray Valley Highway, Cohuna, 3568",
-      "state": "VIC",
-      "lat": -35.87472063,
-      "lng": 144.31101505,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Caltex",
       "code": "VIC:W5IVJ9MKnzoV724qmlRrKonlxzo26ctDm2JV5dooXB8=",
       "name": "Croad Motors",
       "address": "131 Hotham Road, Sorrento, 3943",
@@ -11602,6 +11576,19 @@
         "E10",
         "U91",
         "U98"
+      ]
+    },
+    {
+      "brand": "Independent",
+      "code": "VIC:Q6dqmBtrzT351ZklVMaIycS9hck028DfrR5H4850vuM=",
+      "name": "Stephens Motors",
+      "address": "13-17 Conness Street, CHILTERN, 3683",
+      "state": "VIC",
+      "lat": -36.15109177,
+      "lng": 146.60752944,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91"
       ]
     },
     {

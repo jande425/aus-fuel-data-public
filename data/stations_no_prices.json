@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-07T06:35:58Z",
+  "fetched_at": "2026-11-07T11:14:47Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1253,
+  "station_count": 1254,
   "by_state": {
     "ACT": 8,
     "NSW": 1157,
     "NT": 5,
-    "QLD": 28,
+    "QLD": 29,
     "SA": 34,
     "TAS": 1,
     "VIC": 20
@@ -33,8 +33,8 @@
     "United": 6,
     "Mobil": 6,
     "Pearl Energy": 5,
+    "Liberty": 5,
     "Everty": 4,
-    "Liberty": 4,
     "Speedway": 3,
     "Budget": 2,
     "Transwest Fuels": 2,
@@ -10710,6 +10710,20 @@
       "state": "QLD",
       "lat": -26.086213,
       "lng": 152.240816
+    },
+    {
+      "brand": "Liberty",
+      "code": "QLD:61451576",
+      "name": "Liberty Rockhampton",
+      "address": "49 Gladstone Rd, QLD 4700",
+      "state": "QLD",
+      "lat": -23.389561,
+      "lng": 150.506979,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95"
+      ]
     },
     {
       "brand": "Metro Fuel",

@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-11-07T11:41:22Z",
+  "fetched_at": "2026-11-07T13:32:59Z",
   "station_count": 2110,
   "fuel_types": [
     "E10",
@@ -2161,12 +2161,12 @@
       "address": "49-51 Maitland St, MUSWELLBROOK NSW 2333",
       "state": "NSW",
       "prices": {
-        "E10": 228.5,
-        "U98": 252.5,
-        "Premium Diesel": 278.5,
-        "U91": 230.5
+        "E10": 227.5,
+        "U98": 251.5,
+        "Premium Diesel": 277.5,
+        "U91": 229.5
       },
-      "updated": "2026-11-05T19:57:39Z",
+      "updated": "2026-11-07T13:16:05Z",
       "lat": -32.272189,
       "lng": 150.890012
     },
@@ -6938,9 +6938,9 @@
         "E85": 475,
         "U98": 245.5,
         "Premium Diesel": 266.5,
-        "U91": 216.5
+        "U91": 221.5
       },
-      "updated": "2026-11-07T07:01:16Z",
+      "updated": "2026-11-07T11:50:19Z",
       "lat": -33.915998,
       "lng": 151.1336
     },
@@ -13678,13 +13678,13 @@
       "address": "Corner Richmond Road & Dublin Street, Plumpton NSW 2761",
       "state": "NSW",
       "prices": {
-        "E10": 231.9,
-        "U95": 250.9,
-        "U98": 259.9,
+        "E10": 230.9,
+        "U95": 249.9,
+        "U98": 258.9,
         "Premium Diesel": 287.9,
-        "U91": 233.9
+        "U91": 232.9
       },
-      "updated": "2026-11-07T00:48:16Z",
+      "updated": "2026-11-07T11:42:13Z",
       "lat": -33.73984,
       "lng": 150.860297
     },
@@ -15317,14 +15317,14 @@
       "address": "Corner of New England Highway & Grafton Street, Glen Innes NSW 2370",
       "state": "NSW",
       "prices": {
-        "Diesel": 277.3,
-        "E10": 234.3,
+        "Diesel": 276.9,
+        "E10": 233.9,
         "LPG": 135.9,
-        "U95": 250.3,
-        "U98": 259.3,
-        "U91": 236.3
+        "U95": 249.9,
+        "U98": 258.9,
+        "U91": 235.9
       },
-      "updated": "2026-11-04T00:00:13Z",
+      "updated": "2026-11-07T13:15:05Z",
       "lat": -29.727143,
       "lng": 151.740543
     },
@@ -21213,14 +21213,14 @@
       "address": "403 Canterbury Road, Campsie NSW 2194",
       "state": "NSW",
       "prices": {
-        "E10": 219.7,
+        "E10": 217.7,
         "E85": 475,
         "U95": 237.7,
         "U98": 244.7,
         "Premium Diesel": 266.7,
-        "U91": 222.7
+        "U91": 219.7
       },
-      "updated": "2026-11-06T06:27:23Z",
+      "updated": "2026-11-07T12:04:19Z",
       "lat": -33.916148,
       "lng": 151.108753
     },
@@ -24933,13 +24933,13 @@
       "address": "2021 New England Hwy, Greta NSW 2334",
       "state": "NSW",
       "prices": {
-        "Diesel": 275.5,
-        "E10": 235.5,
-        "U98": 260.5,
-        "Premium Diesel": 277.5,
-        "U91": 237.5
+        "Diesel": 271.5,
+        "E10": 231.5,
+        "U98": 255.5,
+        "Premium Diesel": 273.5,
+        "U91": 233.5
       },
-      "updated": "2026-11-07T06:45:24Z",
+      "updated": "2026-11-07T13:03:08Z",
       "lat": -32.667237,
       "lng": 151.374678
     },
@@ -26045,11 +26045,11 @@
       "address": "758-760 Gymea Bay Rd, GYMEA NSW 2227",
       "state": "NSW",
       "prices": {
-        "E10": 234.9,
-        "U98": 262.9,
-        "Premium Diesel": 282.9
+        "E10": 229.9,
+        "U98": 252.9,
+        "Premium Diesel": 275.9
       },
-      "updated": "2026-10-25T09:30:19Z",
+      "updated": "2026-11-07T12:18:58Z",
       "lat": -34.032787,
       "lng": 151.085138
     },
@@ -26519,12 +26519,12 @@
       "address": "610 Forest Road, Bexley NSW 2207",
       "state": "NSW",
       "prices": {
-        "E10": 234.9,
-        "U95": 252.9,
-        "U98": 262.9,
-        "Premium Diesel": 282.9
+        "E10": 229.9,
+        "U95": 242.9,
+        "U98": 252.9,
+        "Premium Diesel": 275.9
       },
-      "updated": "2026-10-25T09:29:45Z",
+      "updated": "2026-11-07T12:17:46Z",
       "lat": -33.957412,
       "lng": 151.118092
     },
@@ -32414,11 +32414,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 269.9,
-        "E10": 217.5,
+        "E10": 221.9,
         "U98": 249.9,
-        "U91": 220.5
+        "U91": 224.9
       },
-      "updated": "2026-11-07T06:58:17Z",
+      "updated": "2026-11-07T13:31:42Z",
       "lat": -33.888684,
       "lng": 151.158573
     },

@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-07T22:53:17Z",
+  "fetched_at": "2026-11-07T23:37:06Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1254,
+  "station_count": 1256,
   "by_state": {
     "ACT": 8,
     "NSW": 1157,
@@ -9,7 +9,7 @@
     "QLD": 29,
     "SA": 34,
     "TAS": 1,
-    "VIC": 20
+    "VIC": 22
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Independent": 78,
     "Reddy Express": 78,
     "Chargefox": 72,
-    "7-Eleven": 64,
+    "7-Eleven": 66,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -11322,6 +11322,22 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:rO3dAcHa6U8iXiXUzQNH2wvN55+9q2WtQ7HKBb/TeEU=",
+      "name": "7-Eleven Harpley",
+      "address": "218 Ison Road, Werribee, 3030",
+      "state": "VIC",
+      "lat": -37.91274272,
+      "lng": 144.61421929,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:VkvBa8whRgy6Z46L367DlDXkAoFePQygEgkFhtVuUPE=",
       "name": "7-Eleven Noble Park",
       "address": "1100-1106 Heatherton Road, Noble Park, 3174",
@@ -11330,6 +11346,22 @@
       "lng": 145.17289763,
       "unavailable_fuels": [
         "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:siysgQGRsap8Gtct4nW6EOGd5muy6jqk+lu4UyghByI=",
+      "name": "7-Eleven St Kilda",
+      "address": "154-158 St Kilda Road, St Kilda, 3182",
+      "state": "VIC",
+      "lat": -37.86089803,
+      "lng": 144.98486796,
+      "unavailable_fuels": [
+        "E10",
         "Premium Diesel",
         "U91",
         "U95",

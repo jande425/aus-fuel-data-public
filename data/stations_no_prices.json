@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-08T07:43:07Z",
+  "fetched_at": "2026-11-08T08:56:01Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1256,
+  "station_count": 1259,
   "by_state": {
     "ACT": 8,
-    "NSW": 1157,
+    "NSW": 1159,
     "NT": 5,
     "QLD": 29,
-    "SA": 34,
+    "SA": 35,
     "TAS": 1,
     "VIC": 22
   },
@@ -19,12 +19,12 @@
     "Independent": 78,
     "Reddy Express": 78,
     "Chargefox": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 68,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 17,
+    "Ampol": 18,
     "Caltex": 11,
     "Shell": 11,
     "Metro Fuel": 9,
@@ -451,6 +451,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:237",
+      "name": "7-Eleven Jamisontown",
+      "address": "92 Mulgoa Road & Batt Street, Jamisontown NSW 2750",
+      "state": "NSW",
+      "lat": -33.766148,
+      "lng": 150.679467
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:239",
       "name": "7-Eleven Kensington",
       "address": "131 Anzac Parade & Todman Avenue, Kensington NSW 2033",
@@ -538,6 +547,15 @@
       "state": "NSW",
       "lat": -33.778099,
       "lng": 150.809194
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:17327",
+      "name": "7-Eleven Morisset",
+      "address": "133 Dora ST, Morisset NSW 2264",
+      "state": "NSW",
+      "lat": -33.111796,
+      "lng": 151.480839
     },
     {
       "brand": "7-Eleven",
@@ -10907,6 +10925,21 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "SA:61501394",
+      "name": "Ampol Foodary Noarlunga Downs",
+      "address": "Dyson Rd & Goldsmith Dr, SA 5168",
+      "state": "SA",
+      "lat": -35.143302,
+      "lng": 138.487296,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

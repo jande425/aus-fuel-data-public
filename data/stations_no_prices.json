@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-08T21:06:43Z",
+  "fetched_at": "2026-11-08T22:59:36Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1254,
+  "station_count": 1256,
   "by_state": {
     "ACT": 8,
-    "NSW": 1155,
+    "NSW": 1157,
     "NT": 5,
     "QLD": 29,
     "SA": 34,
@@ -16,10 +16,10 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Independent": 78,
+    "Independent": 79,
     "Reddy Express": 78,
     "Chargefox": 72,
-    "7-Eleven": 66,
+    "7-Eleven": 67,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -33,12 +33,13 @@
     "United": 6,
     "Mobil": 6,
     "Pearl Energy": 5,
-    "Liberty": 5,
     "Everty": 4,
+    "Liberty": 4,
     "Speedway": 3,
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
+    "Pacific Fuel Solutions": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "PK's": 1,
@@ -47,7 +48,6 @@
     "Arko Energy": 1,
     "Solo": 1,
     "Freedom Fuels": 1,
-    "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
     "MILDURA SERVO": 1
@@ -538,6 +538,15 @@
       "state": "NSW",
       "lat": -33.778099,
       "lng": 150.809194
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:222",
+      "name": "7-Eleven Minchinbury",
+      "address": "1042 Great Western Highway, Minchinbury NSW 2770",
+      "state": "NSW",
+      "lat": -33.782515,
+      "lng": 150.82857
     },
     {
       "brand": "7-Eleven",
@@ -5155,6 +5164,15 @@
       "state": "NSW",
       "lat": -33.932282,
       "lng": 150.948837
+    },
+    {
+      "brand": "Independent",
+      "code": "NSW:18163",
+      "name": "Independent Peakhurst",
+      "address": "114 Boundary Road, PEAKHURST NSW 2210",
+      "state": "NSW",
+      "lat": -33.963319,
+      "lng": 151.068049
     },
     {
       "brand": "Independent",
@@ -10602,8 +10620,8 @@
       "name": "BP Molendinar",
       "address": "383 Southport Nerang Road, QLD 4214",
       "state": "QLD",
-      "lat": -27.980771,
-      "lng": 153.375481
+      "lat": -27.980671,
+      "lng": 153.375691
     },
     {
       "brand": "Independent",
@@ -10694,20 +10712,6 @@
       "lng": 152.240816
     },
     {
-      "brand": "Liberty",
-      "code": "QLD:61451576",
-      "name": "Liberty Rockhampton",
-      "address": "49 Gladstone Rd, QLD 4700",
-      "state": "QLD",
-      "lat": -23.389561,
-      "lng": 150.506979,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95"
-      ]
-    },
-    {
       "brand": "Metro Fuel",
       "code": "QLD:61402410",
       "name": "Metro Toowoomba City",
@@ -10756,6 +10760,18 @@
         "Diesel",
         "U91",
         "U95"
+      ]
+    },
+    {
+      "brand": "Pacific Fuel Solutions",
+      "code": "QLD:61477748",
+      "name": "Pacific Fuel Solutions Cloncurry Unmanned",
+      "address": "Ernest Henry Road, QLD 4824",
+      "state": "QLD",
+      "lat": -20.680909,
+      "lng": 140.511912,
+      "unavailable_fuels": [
+        "Diesel"
       ]
     },
     {

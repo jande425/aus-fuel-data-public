@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-09T19:26:00Z",
+  "fetched_at": "2026-11-09T20:55:54Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1261,
+  "station_count": 1260,
   "by_state": {
     "ACT": 9,
     "NSW": 1159,
@@ -9,7 +9,7 @@
     "QLD": 28,
     "SA": 33,
     "TAS": 1,
-    "VIC": 26
+    "VIC": 25
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,10 +17,10 @@
     "AGL": 153,
     "Independent EV": 99,
     "Independent": 79,
-    "Reddy Express": 79,
+    "Reddy Express": 78,
     "Chargefox": 72,
     "7-Eleven": 71,
-    "BP": 53,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -28,7 +28,7 @@
     "Caltex": 11,
     "Shell": 11,
     "EVUp": 9,
-    "Metro Fuel": 8,
+    "Metro Fuel": 7,
     "Evie Networks": 7,
     "United": 6,
     "Mobil": 6,
@@ -50,8 +50,8 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
-    "MILDURA SERVO": 1,
-    "U-Go": 1
+    "U-Go": 1,
+    "MILDURA SERVO": 1
   },
   "stations": [
     {
@@ -2681,6 +2681,15 @@
       "state": "NSW",
       "lat": -28.18605,
       "lng": 153.526203
+    },
+    {
+      "brand": "BP",
+      "code": "NSW:20182",
+      "name": "BP Kingsford",
+      "address": "368 Anzac PDE, Kingsford NSW 2032",
+      "state": "NSW",
+      "lat": -33.91964,
+      "lng": 151.22681
     },
     {
       "brand": "BP",
@@ -6596,15 +6605,6 @@
       "state": "NSW",
       "lat": -33.303577,
       "lng": 149.100149
-    },
-    {
-      "brand": "Metro Fuel",
-      "code": "NSW:20957",
-      "name": "Metro Petroleum Lansvale",
-      "address": "115-119 Hume Hwy, Lansvale NSW 2166",
-      "state": "NSW",
-      "lat": -33.893347,
-      "lng": 150.958812
     },
     {
       "brand": "Metro Fuel",
@@ -11595,21 +11595,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "VIC:jpcoVswMWPCqV5biLidMvb/UX39N/kZ42OVe/W55gmg=",
-      "name": "Shell Reddy Express East Melbourne",
-      "address": "1181 Hoddle ST, East Melbourne, 3002",
-      "state": "VIC",
-      "lat": -37.81290880482323,
-      "lng": 144.9903050390937,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

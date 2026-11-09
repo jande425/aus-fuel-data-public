@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-09T20:55:54Z",
+  "fetched_at": "2026-11-09T23:25:06Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1260,
+  "station_count": 1259,
   "by_state": {
     "ACT": 9,
-    "NSW": 1159,
+    "NSW": 1160,
     "NT": 5,
-    "QLD": 28,
-    "SA": 33,
+    "QLD": 29,
+    "SA": 30,
     "TAS": 1,
     "VIC": 25
   },
@@ -16,11 +16,11 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Independent": 79,
     "Reddy Express": 78,
+    "Independent": 77,
     "Chargefox": 72,
     "7-Eleven": 71,
-    "BP": 54,
+    "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -39,7 +39,7 @@
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
-    "Perrys": 2,
+    "U-Go": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "PK's": 1,
@@ -50,7 +50,7 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
-    "U-Go": 1,
+    "Perrys": 1,
     "MILDURA SERVO": 1
   },
   "stations": [
@@ -2888,6 +2888,15 @@
       "state": "NSW",
       "lat": -33.806799,
       "lng": 151.071056
+    },
+    {
+      "brand": "BP",
+      "code": "NSW:1699",
+      "name": "BP Wilberforce",
+      "address": "362 Putty Road, Wilberforce NSW 2756",
+      "state": "NSW",
+      "lat": -33.529775,
+      "lng": 150.831034
     },
     {
       "brand": "BP",
@@ -10886,6 +10895,22 @@
       "lng": 143.549026
     },
     {
+      "brand": "U-Go",
+      "code": "QLD:61401206",
+      "name": "U-Go Park Ridge",
+      "address": "3726-3730 Mt Lindesay Hwy, QLD 4125",
+      "state": "QLD",
+      "lat": -27.696645,
+      "lng": 153.038101,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "United",
       "code": "QLD:61470127",
       "name": "United Esplanade",
@@ -11022,19 +11047,6 @@
       "lng": 137.264041,
       "unavailable_fuels": [
         "Diesel"
-      ]
-    },
-    {
-      "brand": "Independent",
-      "code": "SA:61577045",
-      "name": "Fishbowl General Store and Fuel Stop",
-      "address": "15 Main Street, SA 5454",
-      "state": "SA",
-      "lat": -33.49860091316172,
-      "lng": 138.60743622147848,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91"
       ]
     },
     {
@@ -11184,37 +11196,12 @@
     },
     {
       "brand": "Perrys",
-      "code": "SA:61570026",
-      "name": "Perrys Lyndhurst",
-      "address": "Outback Highway, SA 5731",
-      "state": "SA",
-      "lat": -30.287268,
-      "lng": 138.349422,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
-    },
-    {
-      "brand": "Perrys",
       "code": "SA:61501655",
       "name": "Perrys Tarlee",
       "address": "21-33 Main North Road, SA 5411",
       "state": "SA",
       "lat": -34.274743,
       "lng": 138.771228
-    },
-    {
-      "brand": "Independent",
-      "code": "SA:61577269",
-      "name": "Port Clinton General Store",
-      "address": "21-23 Cumberland Road, SA 5570",
-      "state": "SA",
-      "lat": -34.224108,
-      "lng": 138.017951,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91"
-      ]
     },
     {
       "brand": "Independent",

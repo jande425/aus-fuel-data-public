@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-09T08:25:08Z",
+  "fetched_at": "2026-11-09T13:50:27Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1263,
+  "station_count": 1260,
   "by_state": {
     "ACT": 9,
-    "NSW": 1160,
-    "NT": 6,
-    "QLD": 28,
+    "NSW": 1159,
+    "NT": 5,
+    "QLD": 29,
     "SA": 33,
-    "TAS": 2,
-    "VIC": 25
+    "TAS": 1,
+    "VIC": 24
   },
   "by_brand": {
     "Exploren": 236,
@@ -18,13 +18,13 @@
     "Independent EV": 99,
     "Independent": 78,
     "Reddy Express": 78,
-    "7-Eleven": 74,
+    "7-Eleven": 73,
     "Chargefox": 72,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 17,
+    "Ampol": 16,
     "Caltex": 11,
     "Shell": 11,
     "EVUp": 9,
@@ -46,7 +46,6 @@
     "Astron": 1,
     "Ampol Foodary": 1,
     "Arko Energy": 1,
-    "EG Ampol": 1,
     "Solo": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
@@ -407,15 +406,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:229",
-      "name": "7-Eleven Gosford West",
-      "address": "55 Central Coast Highway, Gosford West NSW 2250",
-      "state": "NSW",
-      "lat": -33.427077,
-      "lng": 151.33001
-    },
-    {
-      "brand": "7-Eleven",
       "code": "NSW:187",
       "name": "7-Eleven Green Point",
       "address": "390 Avoca Drive (Gosford), Green Point NSW 2251",
@@ -704,12 +694,12 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:296",
-      "name": "7-Eleven Wahroonga",
-      "address": "1579 Pacific Highway (Corner Redleaf Avenue), Wahroonga NSW 2076",
+      "code": "NSW:292",
+      "name": "7-Eleven Strathfield South",
+      "address": "575-585 Liverpool Road, Strathfield South NSW 2136",
       "state": "NSW",
-      "lat": -33.719857,
-      "lng": 151.116805
+      "lat": -33.887371,
+      "lng": 151.074269
     },
     {
       "brand": "7-Eleven",
@@ -10603,15 +10593,6 @@
       "lng": 131.370842
     },
     {
-      "brand": "EG Ampol",
-      "code": "NT:08350055",
-      "name": "EG Ampol Holtze",
-      "address": "883 Stuart Highway, Holtze, 0835, NT",
-      "state": "NT",
-      "lat": -12.454353,
-      "lng": 130.965929
-    },
-    {
       "brand": "Puma Energy",
       "code": "NT:08720211",
       "name": "Maryvale Store",
@@ -10628,6 +10609,22 @@
       "state": "NT",
       "lat": -14.735076,
       "lng": 134.528786
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61477088",
+      "name": "7-Eleven Maudsland",
+      "address": "141 Maudsland Road, QLD 4210",
+      "state": "QLD",
+      "lat": -27.913139,
+      "lng": 153.283232,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Ampol",
@@ -11330,15 +11327,6 @@
       "lng": 138.774531
     },
     {
-      "brand": "Ampol",
-      "code": "TAS:189",
-      "name": "Ampol Montrose",
-      "address": "494 Main Road, Montrose TAS 7010",
-      "state": "TAS",
-      "lat": -42.8258365,
-      "lng": 147.2657479
-    },
-    {
       "brand": "Independent",
       "code": "TAS:20076",
       "name": "Tas Petroleum Poatina (24Hr Self-serve)",
@@ -11407,22 +11395,6 @@
         "Premium Diesel",
         "U91",
         "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:NGlTNd4Zaya2tsrZKmv0wrUiT48xeY1DLr0HdidGFRI=",
-      "name": "7-Eleven St Kilda Junction",
-      "address": "19-37 Punt Road, Windsor, 3181",
-      "state": "VIC",
-      "lat": -37.85457784,
-      "lng": 144.98312193,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
         "U98"
       ]
     },

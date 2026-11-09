@@ -2,8 +2,8 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-11-09T08:25:08Z",
-  "station_count": 293,
+  "fetched_at": "2026-11-09T13:50:27Z",
+  "station_count": 294,
   "fuel_types": [
     "E10",
     "U91",
@@ -122,13 +122,14 @@
       "address": "Cnr Channel Highway & John Street, Kingston TAS 7050",
       "state": "TAS",
       "prices": {
+        "Diesel": 277.9,
         "E10": 229.8,
         "U95": 256.9,
         "U98": 264.9,
         "U91": 239.9,
         "Premium Diesel": 278.9
       },
-      "updated": "2026-11-08T19:15:27Z",
+      "updated": "2026-11-09T12:30:24Z",
       "lat": -42.9754,
       "lng": 147.3096
     },
@@ -1907,13 +1908,13 @@
       "prices": {
         "E10": 225.9,
         "LPG": 145.7,
-        "U95": 277.7,
-        "U98": 287.7,
-        "Premium Diesel": 285.7,
-        "U91": 233.9,
-        "Diesel": 282.7
+        "U95": 275.7,
+        "U98": 285.7,
+        "Premium Diesel": 282.7,
+        "U91": 231.9,
+        "Diesel": 279.7
       },
-      "updated": "2026-11-09T03:57:17Z",
+      "updated": "2026-11-09T10:49:02Z",
       "lat": -42.8710984,
       "lng": 147.3224479
     },
@@ -2472,6 +2473,21 @@
     },
     {
       "brand": "Ampol",
+      "code": "TAS:189",
+      "name": "Ampol Montrose",
+      "address": "494 Main Road, Montrose TAS 7010",
+      "state": "TAS",
+      "prices": {
+        "U98": 254.9,
+        "Premium Diesel": 275.9,
+        "U91": 229.9
+      },
+      "updated": "2026-11-09T11:39:14Z",
+      "lat": -42.8258365,
+      "lng": 147.2657479
+    },
+    {
+      "brand": "Ampol",
       "code": "TAS:191",
       "name": "Ampol Highclere Roadhouse",
       "address": "1576 Ridgley Highway, Highclere TAS 7321",
@@ -2635,14 +2651,14 @@
       "address": "625 Main Road, Berriedale TAS 7011",
       "state": "TAS",
       "prices": {
-        "E10": 229.9,
-        "U95": 242.9,
-        "U98": 253.7,
+        "E10": 231.9,
+        "U95": 244.9,
+        "U98": 254.7,
         "Premium Diesel": 288.9,
         "U91": 237.9,
         "Diesel": 281.9
       },
-      "updated": "2026-11-07T20:51:13Z",
+      "updated": "2026-11-09T12:45:21Z",
       "lat": -42.8155514,
       "lng": 147.2561693
     },
@@ -2672,14 +2688,14 @@
       "address": "70 Goldie Street, Smithton TAS 7330",
       "state": "TAS",
       "prices": {
-        "E10": 226.9,
-        "U95": 245.9,
+        "E10": 225.9,
+        "U95": 244.9,
         "U98": 267.9,
         "Premium Diesel": 279.9,
         "U91": 247.9,
         "Diesel": 277.9
       },
-      "updated": "2026-11-09T07:12:16Z",
+      "updated": "2026-11-09T09:39:13Z",
       "lat": -40.8425152,
       "lng": 145.1258652
     },
@@ -3276,10 +3292,10 @@
       "address": "25 Wharf RD, Stanley TAS 7331",
       "state": "TAS",
       "prices": {
-        "Diesel": 287,
-        "U91": 249
+        "Diesel": 277,
+        "U91": 236
       },
-      "updated": "2026-11-03T20:47:41Z",
+      "updated": "2026-11-09T10:24:29Z",
       "lat": -40.7625421,
       "lng": 145.2948895
     },
@@ -4033,11 +4049,11 @@
       "state": "TAS",
       "prices": {
         "Diesel": 289.9,
-        "E10": 227.5,
+        "E10": 223.5,
         "U98": 272.9,
         "U91": 249.9
       },
-      "updated": "2026-11-07T11:05:25Z",
+      "updated": "2026-11-09T12:00:16Z",
       "lat": -41.38909205,
       "lng": 147.302247
     },
@@ -4804,11 +4820,11 @@
       "prices": {
         "Diesel": 275.9,
         "E10": 219.5,
-        "U98": 262.9,
-        "U91": 238.9,
-        "U95": 252.9
+        "U98": 261.9,
+        "U91": 237.9,
+        "U95": 251.9
       },
-      "updated": "2026-11-09T04:27:26Z",
+      "updated": "2026-11-09T13:12:42Z",
       "lat": -42.78041,
       "lng": 147.0621907
     },
@@ -4822,12 +4838,12 @@
         "E10": 223.5,
         "LPG": 114.5,
         "U98": 245.5,
-        "Premium Diesel": 269.5,
+        "Premium Diesel": 267.5,
         "U91": 246.9,
         "Diesel": 287.9,
         "U95": 260.9
       },
-      "updated": "2026-11-09T07:46:11Z",
+      "updated": "2026-11-09T08:38:45Z",
       "lat": -41.78115735,
       "lng": 147.72109419
     },

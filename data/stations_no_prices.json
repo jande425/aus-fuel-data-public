@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-11-09T00:26:23Z",
+  "fetched_at": "2026-11-09T02:38:32Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1255,
+  "station_count": 1256,
   "by_state": {
     "ACT": 8,
     "NSW": 1157,
     "NT": 5,
     "QLD": 28,
-    "SA": 34,
+    "SA": 33,
     "TAS": 1,
-    "VIC": 22
+    "VIC": 24
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Independent": 79,
+    "Independent": 78,
     "Reddy Express": 78,
     "Chargefox": 72,
-    "7-Eleven": 67,
+    "7-Eleven": 69,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -11254,19 +11254,6 @@
     },
     {
       "brand": "Independent",
-      "code": "SA:61501813",
-      "name": "Sutton Ford",
-      "address": "14 Ian Oliver Drive, SA 5330",
-      "state": "SA",
-      "lat": -34.183221,
-      "lng": 139.991695,
-      "unavailable_fuels": [
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Independent",
       "code": "SA:61577389",
       "name": "Swan Reach General Store",
       "address": "47-49 Anzac Avenue, SA 5354",
@@ -11308,6 +11295,21 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:yUFdL6IYQGTYxzY5AOpfvOqSstCX188FM5VzbRpPNeI=",
+      "name": "7-Eleven Fitzroy",
+      "address": "244 Nicholson & Johnston Streets, Fitzroy, 3065",
+      "state": "VIC",
+      "lat": -37.79775360708218,
+      "lng": 144.97527210322957,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:rO3dAcHa6U8iXiXUzQNH2wvN55+9q2WtQ7HKBb/TeEU=",
       "name": "7-Eleven Harpley",
       "address": "218 Ison Road, Werribee, 3030",
@@ -11346,6 +11348,22 @@
       "state": "VIC",
       "lat": -37.86089803,
       "lng": 144.98486796,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:yvM/z54fP2Pb8nDB4ZJnvvrd9QMrStrLo7PSjGFBdD4=",
+      "name": "7-Eleven Wallan",
+      "address": "149 High Street, Wallan, 3756",
+      "state": "VIC",
+      "lat": -37.40691919,
+      "lng": 144.97945689,
       "unavailable_fuels": [
         "E10",
         "Premium Diesel",

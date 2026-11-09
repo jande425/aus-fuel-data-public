@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-11-09T02:38:32Z",
+  "fetched_at": "2026-11-09T07:11:45Z",
   "station_count": 61,
   "fuel_types": [
     "E10",
@@ -38,12 +38,12 @@
       "address": "2 Callan ST, Mitchell ACT 2911",
       "state": "ACT",
       "prices": {
-        "E10": 242.9,
-        "U98": 270.9,
-        "Premium Diesel": 285.9,
-        "U91": 244.9
+        "E10": 239.9,
+        "U98": 269.9,
+        "Premium Diesel": 284.9,
+        "U91": 242.9
       },
-      "updated": "2026-10-22T22:46:03Z",
+      "updated": "2026-11-09T05:38:11Z",
       "lat": -35.214511,
       "lng": 149.143317
     },
@@ -73,10 +73,10 @@
         "E10": 241.9,
         "U95": 260.9,
         "U98": 269.9,
-        "Premium Diesel": 291.9,
+        "Premium Diesel": 289.9,
         "U91": 243.9
       },
-      "updated": "2026-11-09T00:48:14Z",
+      "updated": "2026-11-09T02:51:14Z",
       "lat": -35.1756,
       "lng": 149.096
     },
@@ -87,13 +87,13 @@
       "address": "36 Lonsdale ST, Braddon ACT 2612",
       "state": "ACT",
       "prices": {
-        "E10": 236.4,
-        "U95": 255.6,
+        "E10": 235.9,
+        "U95": 256.6,
         "U98": 266.4,
         "Premium Diesel": 278.9,
-        "U91": 240.4
+        "U91": 239.9
       },
-      "updated": "2026-11-09T02:17:26Z",
+      "updated": "2026-11-09T03:17:25Z",
       "lat": -35.270935,
       "lng": 149.133379
     },
@@ -154,10 +154,10 @@
         "E10": 242.9,
         "U95": 261.9,
         "U98": 271.9,
-        "Premium Diesel": 291.9,
+        "Premium Diesel": 289.9,
         "U91": 244.9
       },
-      "updated": "2026-11-09T01:47:24Z",
+      "updated": "2026-11-09T06:17:23Z",
       "lat": -35.233718,
       "lng": 149.103666
     },
@@ -170,11 +170,11 @@
       "prices": {
         "E10": 238.4,
         "U95": 263.3,
-        "U98": 270.9,
+        "U98": 269.9,
         "Premium Diesel": 290.9,
         "U91": 240.8
       },
-      "updated": "2026-11-09T01:17:24Z",
+      "updated": "2026-11-09T04:17:26Z",
       "lat": -35.378878,
       "lng": 149.057528
     },
@@ -220,10 +220,10 @@
       "prices": {
         "U95": 260.9,
         "U98": 270.9,
-        "Premium Diesel": 290.9,
+        "Premium Diesel": 288.9,
         "U91": 243.9
       },
-      "updated": "2026-11-08T22:37:25Z",
+      "updated": "2026-11-09T05:47:25Z",
       "lat": -35.340197,
       "lng": 149.052112
     },
@@ -237,10 +237,10 @@
         "E10": 241.9,
         "U95": 260.9,
         "U98": 270.9,
-        "Premium Diesel": 290.9,
+        "Premium Diesel": 288.9,
         "U91": 243.9
       },
-      "updated": "2026-11-08T22:27:24Z",
+      "updated": "2026-11-09T05:52:26Z",
       "lat": -35.3219,
       "lng": 149.057
     },
@@ -267,11 +267,11 @@
       "address": "3 Benham St, Chisholm ACT 2905",
       "state": "ACT",
       "prices": {
-        "U95": 258.9,
-        "U98": 267.9,
-        "Premium Diesel": 284.9
+        "U95": 254.9,
+        "U98": 263.9,
+        "Premium Diesel": 277.9
       },
-      "updated": "2026-11-08T21:51:47Z",
+      "updated": "2026-11-09T06:22:21Z",
       "lat": -35.4129,
       "lng": 149.128
     },
@@ -379,13 +379,13 @@
       "address": "Cnr Tharwa Drive & Norman Lindsay Street, Conder ACT 2906",
       "state": "ACT",
       "prices": {
-        "E10": 243.9,
-        "U95": 263.9,
-        "U98": 273.9,
+        "E10": 242.9,
+        "U95": 262.9,
+        "U98": 272.9,
         "Premium Diesel": 287.9,
-        "U91": 245.9
+        "U91": 244.9
       },
-      "updated": "2026-11-09T00:07:25Z",
+      "updated": "2026-11-09T04:12:26Z",
       "lat": -35.4582,
       "lng": 149.092
     },
@@ -396,11 +396,11 @@
       "address": "Cnr Canopus Cres & Atalumba Cl, Giralang ACT 2617",
       "state": "ACT",
       "prices": {
-        "U98": 270.9,
-        "Premium Diesel": 291.9,
-        "U91": 244.9
+        "U98": 269.9,
+        "Premium Diesel": 290.9,
+        "U91": 243.9
       },
-      "updated": "2026-11-09T00:48:14Z",
+      "updated": "2026-11-09T05:54:23Z",
       "lat": -35.2136,
       "lng": 149.096
     },
@@ -460,12 +460,12 @@
       "address": "94-96 Sheppard St, Hume ACT 2620",
       "state": "ACT",
       "prices": {
-        "U95": 260.9,
-        "U98": 270.9,
-        "Premium Diesel": 284.9,
-        "U91": 243.9
+        "U95": 251.9,
+        "U98": 261.9,
+        "Premium Diesel": 277.9,
+        "U91": 234.9
       },
-      "updated": "2026-11-05T00:02:24Z",
+      "updated": "2026-11-09T06:02:24Z",
       "lat": -35.3923,
       "lng": 149.162
     },
@@ -492,12 +492,12 @@
       "address": "15 Mawson Place, Mawson ACT 2607",
       "state": "ACT",
       "prices": {
-        "U95": 261.9,
-        "U98": 271.9,
+        "U95": 260.9,
+        "U98": 270.9,
         "Premium Diesel": 289.9,
-        "U91": 244.9
+        "U91": 243.9
       },
-      "updated": "2026-11-08T22:42:23Z",
+      "updated": "2026-11-09T03:22:27Z",
       "lat": -35.3665,
       "lng": 149.094
     },
@@ -835,13 +835,13 @@
       "address": "Garage 116 Lysaght ST, Mitchell ACT 2911",
       "state": "ACT",
       "prices": {
-        "Diesel": 286.9,
+        "Diesel": 285.9,
         "LPG": 126.9,
-        "U98": 271.9,
-        "Premium Diesel": 288.9,
-        "U91": 245.9
+        "U98": 270.9,
+        "Premium Diesel": 287.9,
+        "U91": 243.9
       },
-      "updated": "2026-11-05T04:39:05Z",
+      "updated": "2026-11-09T04:24:58Z",
       "lat": -35.215024,
       "lng": 149.139903
     },
@@ -919,10 +919,10 @@
         "E10": 241.9,
         "U95": 260.9,
         "U98": 269.9,
-        "Premium Diesel": 291.9,
+        "Premium Diesel": 289.9,
         "U91": 243.9
       },
-      "updated": "2026-11-09T00:48:14Z",
+      "updated": "2026-11-09T02:45:21Z",
       "lat": -35.19471,
       "lng": 149.0623
     },

@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-09T02:38:32Z",
+  "fetched_at": "2026-11-09T07:11:45Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1256,
+  "station_count": 1257,
   "by_state": {
     "ACT": 8,
-    "NSW": 1157,
-    "NT": 5,
-    "QLD": 28,
+    "NSW": 1158,
+    "NT": 6,
+    "QLD": 27,
     "SA": 33,
     "TAS": 1,
     "VIC": 24
@@ -19,16 +19,16 @@
     "Independent": 78,
     "Reddy Express": 78,
     "Chargefox": 72,
-    "7-Eleven": 69,
+    "7-Eleven": 70,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 17,
+    "Ampol": 16,
     "Caltex": 11,
     "Shell": 11,
     "EVUp": 9,
-    "Metro Fuel": 8,
+    "Metro Fuel": 7,
     "Evie Networks": 7,
     "United": 6,
     "Mobil": 6,
@@ -39,17 +39,18 @@
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
+    "Perrys": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "PK's": 1,
     "Astron": 1,
     "Ampol Foodary": 1,
     "Arko Energy": 1,
+    "EG Ampol": 1,
     "Solo": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
-    "Perrys": 1,
     "MILDURA SERVO": 1
   },
   "stations": [
@@ -322,6 +323,15 @@
       "state": "NSW",
       "lat": -33.897617,
       "lng": 151.099796
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:145",
+      "name": "7-Eleven Drummoyne",
+      "address": "271A Victoria Road, Drummoyne NSW 2047",
+      "state": "NSW",
+      "lat": -33.84723,
+      "lng": 151.151612
     },
     {
       "brand": "7-Eleven",
@@ -6698,7 +6708,7 @@
     {
       "brand": "Independent",
       "code": "NSW:20954",
-      "name": "Mobil 1 Carlingford Car Care (Self-Serve)",
+      "name": "Mobil 1 Carlingford Car Care (Unmanned)",
       "address": "486 North Rocks Road Carlingford NSW 2118",
       "state": "NSW",
       "lat": -33.765044,
@@ -10566,6 +10576,15 @@
       "lng": 131.370842
     },
     {
+      "brand": "EG Ampol",
+      "code": "NT:08350055",
+      "name": "EG Ampol Holtze",
+      "address": "883 Stuart Highway, Holtze, 0835, NT",
+      "state": "NT",
+      "lat": -12.454353,
+      "lng": 130.965929
+    },
+    {
       "brand": "Puma Energy",
       "code": "NT:08720211",
       "name": "Maryvale Store",
@@ -10710,21 +10729,6 @@
       "state": "QLD",
       "lat": -26.086213,
       "lng": 152.240816
-    },
-    {
-      "brand": "Metro Fuel",
-      "code": "QLD:61402410",
-      "name": "Metro Toowoomba City",
-      "address": "282 Ruthven St, QLD 4350",
-      "state": "QLD",
-      "lat": -27.554601450694772,
-      "lng": 151.95483798954922,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "Mobil",
@@ -10894,19 +10898,6 @@
         "Diesel",
         "U91",
         "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "SA:61577210",
-      "name": "Ampol Mount Gambier East Diesel Stop",
-      "address": "Rear 190 Jubilee Highway East, SA 5290",
-      "state": "SA",
-      "lat": -37.840097,
-      "lng": 140.814058,
-      "unavailable_fuels": [
-        "Diesel",
-        "Premium Diesel"
       ]
     },
     {
@@ -11166,6 +11157,18 @@
       "state": "SA",
       "lat": -34.852694,
       "lng": 139.160905
+    },
+    {
+      "brand": "Perrys",
+      "code": "SA:61570026",
+      "name": "Perrys Lyndhurst",
+      "address": "Outback Highway, SA 5731",
+      "state": "SA",
+      "lat": -30.287268,
+      "lng": 138.349422,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
     },
     {
       "brand": "Perrys",

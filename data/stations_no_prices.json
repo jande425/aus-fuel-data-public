@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-08T22:59:36Z",
+  "fetched_at": "2026-11-09T00:26:23Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1256,
+  "station_count": 1255,
   "by_state": {
     "ACT": 8,
     "NSW": 1157,
     "NT": 5,
-    "QLD": 29,
+    "QLD": 28,
     "SA": 34,
     "TAS": 1,
     "VIC": 22
@@ -39,7 +39,6 @@
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
-    "Pacific Fuel Solutions": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "PK's": 1,
@@ -48,6 +47,7 @@
     "Arko Energy": 1,
     "Solo": 1,
     "Freedom Fuels": 1,
+    "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
     "MILDURA SERVO": 1
@@ -10760,18 +10760,6 @@
         "Diesel",
         "U91",
         "U95"
-      ]
-    },
-    {
-      "brand": "Pacific Fuel Solutions",
-      "code": "QLD:61477748",
-      "name": "Pacific Fuel Solutions Cloncurry Unmanned",
-      "address": "Ernest Henry Road, QLD 4824",
-      "state": "QLD",
-      "lat": -20.680909,
-      "lng": 140.511912,
-      "unavailable_fuels": [
-        "Diesel"
       ]
     },
     {

@@ -2,8 +2,8 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-11-09T07:11:45Z",
-  "station_count": 61,
+  "fetched_at": "2026-11-09T08:25:08Z",
+  "station_count": 60,
   "fuel_types": [
     "E10",
     "U91",
@@ -46,22 +46,6 @@
       "updated": "2026-11-09T05:38:11Z",
       "lat": -35.214511,
       "lng": 149.143317
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "ACT:18788",
-      "name": "7-Eleven Braddon",
-      "address": "20 Mort ST, Braddon ACT 2612",
-      "state": "ACT",
-      "prices": {
-        "E10": 235.9,
-        "U98": 265.9,
-        "Premium Diesel": 278.9,
-        "U91": 239.9
-      },
-      "updated": "2026-11-09T00:15:39Z",
-      "lat": -35.275669,
-      "lng": 149.131261
     },
     {
       "brand": "7-Eleven",
@@ -397,10 +381,10 @@
       "state": "ACT",
       "prices": {
         "U98": 269.9,
-        "Premium Diesel": 290.9,
+        "Premium Diesel": 289.9,
         "U91": 243.9
       },
-      "updated": "2026-11-09T05:54:23Z",
+      "updated": "2026-11-09T07:45:22Z",
       "lat": -35.2136,
       "lng": 149.096
     },
@@ -936,10 +920,10 @@
         "E10": 241.9,
         "LPG": 122.9,
         "U98": 269.9,
-        "Premium Diesel": 284.9,
+        "Premium Diesel": 287.9,
         "U91": 243.9
       },
-      "updated": "2026-11-08T20:21:15Z",
+      "updated": "2026-11-09T07:48:15Z",
       "lat": -35.4052,
       "lng": 149.101
     },
@@ -982,12 +966,12 @@
       "address": "Mobil Outlet 15 Barrier ST, Fyshwick ACT 2609",
       "state": "ACT",
       "prices": {
-        "E10": 223.9,
-        "U98": 247.9,
-        "Premium Diesel": 266.7,
-        "U91": 227.9
+        "E10": 218.9,
+        "U98": 242.9,
+        "Premium Diesel": 261.7,
+        "U91": 222.9
       },
-      "updated": "2026-11-08T18:01:18Z",
+      "updated": "2026-11-09T08:02:02Z",
       "lat": -35.329111,
       "lng": 149.172604
     },

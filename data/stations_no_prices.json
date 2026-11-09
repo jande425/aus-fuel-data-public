@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-09T07:11:45Z",
+  "fetched_at": "2026-11-09T08:25:08Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1257,
+  "station_count": 1263,
   "by_state": {
-    "ACT": 8,
-    "NSW": 1158,
+    "ACT": 9,
+    "NSW": 1160,
     "NT": 6,
-    "QLD": 27,
+    "QLD": 28,
     "SA": 33,
-    "TAS": 1,
-    "VIC": 24
+    "TAS": 2,
+    "VIC": 25
   },
   "by_brand": {
     "Exploren": 236,
@@ -18,17 +18,17 @@
     "Independent EV": 99,
     "Independent": 78,
     "Reddy Express": 78,
+    "7-Eleven": 74,
     "Chargefox": 72,
-    "7-Eleven": 70,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 16,
+    "Ampol": 17,
     "Caltex": 11,
     "Shell": 11,
     "EVUp": 9,
-    "Metro Fuel": 7,
+    "Metro Fuel": 8,
     "Evie Networks": 7,
     "United": 6,
     "Mobil": 6,
@@ -54,6 +54,15 @@
     "MILDURA SERVO": 1
   },
   "stations": [
+    {
+      "brand": "7-Eleven",
+      "code": "ACT:18788",
+      "name": "7-Eleven Braddon",
+      "address": "20 Mort ST, Braddon ACT 2612",
+      "state": "ACT",
+      "lat": -35.275669,
+      "lng": 149.131261
+    },
     {
       "brand": "7-Eleven",
       "code": "ACT:18790",
@@ -398,6 +407,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:229",
+      "name": "7-Eleven Gosford West",
+      "address": "55 Central Coast Highway, Gosford West NSW 2250",
+      "state": "NSW",
+      "lat": -33.427077,
+      "lng": 151.33001
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:187",
       "name": "7-Eleven Green Point",
       "address": "390 Avoca Drive (Gosford), Green Point NSW 2251",
@@ -683,6 +701,15 @@
       "state": "NSW",
       "lat": -33.975997,
       "lng": 151.10364
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:296",
+      "name": "7-Eleven Wahroonga",
+      "address": "1579 Pacific Highway (Corner Redleaf Avenue), Wahroonga NSW 2076",
+      "state": "NSW",
+      "lat": -33.719857,
+      "lng": 151.116805
     },
     {
       "brand": "7-Eleven",
@@ -10731,6 +10758,21 @@
       "lng": 152.240816
     },
     {
+      "brand": "Metro Fuel",
+      "code": "QLD:61402410",
+      "name": "Metro Toowoomba City",
+      "address": "282 Ruthven St, QLD 4350",
+      "state": "QLD",
+      "lat": -27.554601450694772,
+      "lng": 151.95483798954922,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
       "brand": "Mobil",
       "code": "QLD:61402654",
       "name": "Mobil Barcaldine",
@@ -11288,6 +11330,15 @@
       "lng": 138.774531
     },
     {
+      "brand": "Ampol",
+      "code": "TAS:189",
+      "name": "Ampol Montrose",
+      "address": "494 Main Road, Montrose TAS 7010",
+      "state": "TAS",
+      "lat": -42.8258365,
+      "lng": 147.2657479
+    },
+    {
       "brand": "Independent",
       "code": "TAS:20076",
       "name": "Tas Petroleum Poatina (24Hr Self-serve)",
@@ -11356,6 +11407,22 @@
         "Premium Diesel",
         "U91",
         "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:NGlTNd4Zaya2tsrZKmv0wrUiT48xeY1DLr0HdidGFRI=",
+      "name": "7-Eleven St Kilda Junction",
+      "address": "19-37 Punt Road, Windsor, 3181",
+      "state": "VIC",
+      "lat": -37.85457784,
+      "lng": 144.98312193,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
         "U98"
       ]
     },

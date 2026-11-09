@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-11-09T13:50:27Z",
+  "fetched_at": "2026-11-09T19:26:00Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1260,
+  "station_count": 1261,
   "by_state": {
     "ACT": 9,
     "NSW": 1159,
     "NT": 5,
-    "QLD": 29,
+    "QLD": 28,
     "SA": 33,
     "TAS": 1,
-    "VIC": 24
+    "VIC": 26
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Independent": 78,
-    "Reddy Express": 78,
-    "7-Eleven": 73,
+    "Independent": 79,
+    "Reddy Express": 79,
     "Chargefox": 72,
+    "7-Eleven": 71,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -50,7 +50,8 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
-    "MILDURA SERVO": 1
+    "MILDURA SERVO": 1,
+    "U-Go": 1
   },
   "stations": [
     {
@@ -691,15 +692,6 @@
       "state": "NSW",
       "lat": -33.975997,
       "lng": 151.10364
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:292",
-      "name": "7-Eleven Strathfield South",
-      "address": "575-585 Liverpool Road, Strathfield South NSW 2136",
-      "state": "NSW",
-      "lat": -33.887371,
-      "lng": 151.074269
     },
     {
       "brand": "7-Eleven",
@@ -5146,6 +5138,15 @@
       "state": "NSW",
       "lat": -33.875181,
       "lng": 151.199863
+    },
+    {
+      "brand": "Independent",
+      "code": "NSW:1729",
+      "name": "Independent Carroll",
+      "address": "70 76 Breeza Street, Carroll NSW 2340",
+      "state": "NSW",
+      "lat": -30.985902,
+      "lng": 150.446131
     },
     {
       "brand": "Independent",
@@ -10611,22 +10612,6 @@
       "lng": 134.528786
     },
     {
-      "brand": "7-Eleven",
-      "code": "QLD:61477088",
-      "name": "7-Eleven Maudsland",
-      "address": "141 Maudsland Road, QLD 4210",
-      "state": "QLD",
-      "lat": -27.913139,
-      "lng": 153.283232,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Ampol",
       "code": "QLD:61402893",
       "name": "Ampol Blackwater Diesel Stop",
@@ -11615,6 +11600,21 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "VIC:jpcoVswMWPCqV5biLidMvb/UX39N/kZ42OVe/W55gmg=",
+      "name": "Shell Reddy Express East Melbourne",
+      "address": "1181 Hoddle ST, East Melbourne, 3002",
+      "state": "VIC",
+      "lat": -37.81290880482323,
+      "lng": 144.9903050390937,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Reddy Express",
       "code": "VIC:YUPtcp+uDjuB9Fj+s0izTlTdez/xBPKCJOWSID0Ty6o=",
       "name": "Shell Reddy Express Horsham",
       "address": "170-172 Baillie ST, HORSHAM, 3400",
@@ -11668,6 +11668,20 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "U-Go",
+      "code": "VIC:1BunhMmV5hX07nGYdd2zpfsjhyguWFsoGzv5wNybGo4=",
+      "name": "U-Go Echuca",
+      "address": "200 Ogilvie Avenue, Echuca, 3564",
+      "state": "VIC",
+      "lat": -36.14029532,
+      "lng": 144.75306563,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U98"
       ]
     },
     {

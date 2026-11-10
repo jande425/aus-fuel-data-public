@@ -2,8 +2,8 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-11-09T23:25:06Z",
-  "station_count": 60,
+  "fetched_at": "2026-11-10T03:07:07Z",
+  "station_count": 61,
   "fuel_types": [
     "E10",
     "U91",
@@ -46,6 +46,22 @@
       "updated": "2026-11-09T05:38:11Z",
       "lat": -35.214511,
       "lng": 149.143317
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "ACT:18788",
+      "name": "7-Eleven Braddon",
+      "address": "20 Mort ST, Braddon ACT 2612",
+      "state": "ACT",
+      "prices": {
+        "E10": 235.9,
+        "U98": 265.9,
+        "Premium Diesel": 278.9,
+        "U91": 239.9
+      },
+      "updated": "2026-11-10T00:16:20Z",
+      "lat": -35.275669,
+      "lng": 149.131261
     },
     {
       "brand": "7-Eleven",
@@ -135,13 +151,13 @@
       "address": "275 Maribyrnong Av, Kaleen ACT 2617",
       "state": "ACT",
       "prices": {
-        "E10": 242.9,
-        "U95": 261.9,
-        "U98": 271.9,
+        "E10": 240.9,
+        "U95": 259.9,
+        "U98": 269.9,
         "Premium Diesel": 289.9,
-        "U91": 244.9
+        "U91": 242.9
       },
-      "updated": "2026-11-09T06:17:23Z",
+      "updated": "2026-11-10T02:02:24Z",
       "lat": -35.233718,
       "lng": 149.103666
     },
@@ -282,12 +298,12 @@
       "address": "CNR BowCNR Bowen St and Redfern Sten St and Redfern St Macquarie ACT 2614",
       "state": "ACT",
       "prices": {
-        "E10": 241.9,
-        "U95": 260.9,
-        "U98": 269.9,
+        "E10": 239.9,
+        "U95": 258.9,
+        "U98": 267.9,
         "Premium Diesel": 286.9
       },
-      "updated": "2026-11-09T20:22:31Z",
+      "updated": "2026-11-10T01:06:18Z",
       "lat": -35.252979,
       "lng": 149.073175
     },
@@ -298,12 +314,12 @@
       "address": "166 Melrose DR, Phillip ACT 2606",
       "state": "ACT",
       "prices": {
-        "E10": 242.9,
-        "U95": 261.9,
-        "U98": 270.9,
+        "E10": 239.9,
+        "U95": 258.9,
+        "U98": 267.9,
         "Premium Diesel": 289.9
       },
-      "updated": "2026-11-06T03:53:55Z",
+      "updated": "2026-11-10T00:04:16Z",
       "lat": -35.351002,
       "lng": 149.085289
     },
@@ -332,11 +348,11 @@
       "prices": {
         "Diesel": 267.9,
         "LPG": 139.9,
-        "U98": 249.9,
+        "U98": 239.9,
         "Premium Diesel": 269.9,
-        "U91": 229.9
+        "U91": 217.9
       },
-      "updated": "2026-11-06T01:14:47Z",
+      "updated": "2026-11-10T03:04:16Z",
       "lat": -35.3298,
       "lng": 149.163
     },
@@ -349,10 +365,10 @@
       "prices": {
         "U95": 258.9,
         "U98": 268.9,
-        "Premium Diesel": 287.9,
+        "Premium Diesel": 286.9,
         "U91": 241.9
       },
-      "updated": "2026-11-09T20:07:25Z",
+      "updated": "2026-11-09T23:52:27Z",
       "lat": -35.236307,
       "lng": 149.059066
     },
@@ -363,13 +379,13 @@
       "address": "Cnr Tharwa Drive & Norman Lindsay Street, Conder ACT 2906",
       "state": "ACT",
       "prices": {
-        "E10": 242.9,
-        "U95": 262.9,
-        "U98": 272.9,
+        "E10": 239.9,
+        "U95": 259.9,
+        "U98": 269.9,
         "Premium Diesel": 287.9,
-        "U91": 244.9
+        "U91": 241.9
       },
-      "updated": "2026-11-09T04:12:26Z",
+      "updated": "2026-11-09T23:32:30Z",
       "lat": -35.4582,
       "lng": 149.092
     },
@@ -380,11 +396,11 @@
       "address": "Cnr Canopus Cres & Atalumba Cl, Giralang ACT 2617",
       "state": "ACT",
       "prices": {
-        "U98": 270.9,
+        "U98": 268.9,
         "Premium Diesel": 289.9,
-        "U91": 244.9
+        "U91": 242.9
       },
-      "updated": "2026-11-09T19:24:14Z",
+      "updated": "2026-11-10T00:09:14Z",
       "lat": -35.2136,
       "lng": 149.096
     },
@@ -395,12 +411,12 @@
       "address": "1 Cape Street, Dickson ACT 2602",
       "state": "ACT",
       "prices": {
-        "U95": 260.9,
-        "U98": 270.9,
-        "Premium Diesel": 287.9,
-        "U91": 243.9
+        "U95": 258.9,
+        "U98": 268.9,
+        "Premium Diesel": 285.9,
+        "U91": 241.9
       },
-      "updated": "2026-11-09T00:12:25Z",
+      "updated": "2026-11-09T23:32:30Z",
       "lat": -35.2511,
       "lng": 149.137
     },
@@ -492,12 +508,12 @@
       "address": "Cnr Scollay St & Soward Way, Greenway ACT 2900",
       "state": "ACT",
       "prices": {
-        "U95": 260.9,
-        "U98": 270.9,
-        "Premium Diesel": 287.9,
-        "U91": 243.9
+        "U95": 258.9,
+        "U98": 268.9,
+        "Premium Diesel": 285.9,
+        "U91": 241.9
       },
-      "updated": "2026-11-09T00:07:25Z",
+      "updated": "2026-11-09T23:32:30Z",
       "lat": -35.4188,
       "lng": 149.067
     },
@@ -800,7 +816,7 @@
       "address": "150 O'Halloran Circuit, Kambah ACT 2902",
       "state": "ACT",
       "prices": {
-        "Diesel": 286.9,
+        "Diesel": 285.9,
         "E10": 238.7,
         "E85": 259.9,
         "LPG": 119.9,
@@ -808,7 +824,7 @@
         "U98": 264.7,
         "U91": 240.7
       },
-      "updated": "2026-11-09T20:15:06Z",
+      "updated": "2026-11-09T23:55:03Z",
       "lat": -35.3924,
       "lng": 149.069
     },
@@ -900,13 +916,13 @@
       "address": "Glassey Pl & Cnr Clarey Cres, Spence ACT 2615",
       "state": "ACT",
       "prices": {
-        "E10": 241.9,
-        "U95": 260.9,
-        "U98": 269.9,
+        "E10": 239.9,
+        "U95": 258.9,
+        "U98": 267.9,
         "Premium Diesel": 286.9,
-        "U91": 243.9
+        "U91": 241.9
       },
-      "updated": "2026-11-09T20:24:14Z",
+      "updated": "2026-11-10T00:12:17Z",
       "lat": -35.19471,
       "lng": 149.0623
     },

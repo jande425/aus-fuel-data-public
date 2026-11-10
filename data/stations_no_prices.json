@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-11-09T23:25:06Z",
+  "fetched_at": "2026-11-10T03:07:07Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1259,
+  "station_count": 1262,
   "by_state": {
-    "ACT": 9,
+    "ACT": 8,
     "NSW": 1160,
     "NT": 5,
-    "QLD": 29,
-    "SA": 30,
+    "QLD": 28,
+    "SA": 32,
     "TAS": 1,
-    "VIC": 25
+    "VIC": 28
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 78,
+    "Reddy Express": 80,
     "Independent": 77,
     "Chargefox": 72,
     "7-Eleven": 71,
-    "BP": 55,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -30,11 +30,11 @@
     "EVUp": 9,
     "Metro Fuel": 7,
     "Evie Networks": 7,
+    "Mobil": 7,
     "United": 6,
-    "Mobil": 6,
     "Pearl Energy": 5,
+    "Liberty": 5,
     "Everty": 4,
-    "Liberty": 4,
     "Speedway": 3,
     "Budget": 2,
     "Transwest Fuels": 2,
@@ -54,15 +54,6 @@
     "MILDURA SERVO": 1
   },
   "stations": [
-    {
-      "brand": "7-Eleven",
-      "code": "ACT:18788",
-      "name": "7-Eleven Braddon",
-      "address": "20 Mort ST, Braddon ACT 2612",
-      "state": "ACT",
-      "lat": -35.275669,
-      "lng": 149.131261
-    },
     {
       "brand": "7-Eleven",
       "code": "ACT:18790",
@@ -2684,15 +2675,6 @@
     },
     {
       "brand": "BP",
-      "code": "NSW:20182",
-      "name": "BP Kingsford",
-      "address": "368 Anzac PDE, Kingsford NSW 2032",
-      "state": "NSW",
-      "lat": -33.91964,
-      "lng": 151.22681
-    },
-    {
-      "brand": "BP",
       "code": "NSW:199",
       "name": "BP Macarthur",
       "address": "Cnr Campbelltown & Blaxland Roads, Campbelltown NSW 2560",
@@ -2888,15 +2870,6 @@
       "state": "NSW",
       "lat": -33.806799,
       "lng": 151.071056
-    },
-    {
-      "brand": "BP",
-      "code": "NSW:1699",
-      "name": "BP Wilberforce",
-      "address": "362 Putty Road, Wilberforce NSW 2756",
-      "state": "NSW",
-      "lat": -33.529775,
-      "lng": 150.831034
     },
     {
       "brand": "BP",
@@ -3392,6 +3365,15 @@
       "state": "NSW",
       "lat": -33.419261,
       "lng": 149.60764
+    },
+    {
+      "brand": "BP",
+      "code": "NSW:20964",
+      "name": "Bp Kingsford",
+      "address": "368 Anzac PDE, Kingsford NSW 2032",
+      "state": "NSW",
+      "lat": -33.927012,
+      "lng": 151.232132
     },
     {
       "brand": "BP",
@@ -6608,6 +6590,15 @@
     },
     {
       "brand": "Metro Fuel",
+      "code": "NSW:1746",
+      "name": "Metro Fuel Ruse",
+      "address": "2 Acacia Av, Ruse NSW 2560",
+      "state": "NSW",
+      "lat": -34.07299,
+      "lng": 150.841894
+    },
+    {
+      "brand": "Metro Fuel",
       "code": "NSW:20085",
       "name": "Metro Orange- Self-serve",
       "address": "1686 Forest RD, Orange NSW 2800",
@@ -6851,12 +6842,12 @@
     },
     {
       "brand": "Independent",
-      "code": "NSW:20024",
+      "code": "NSW:20963",
       "name": "Mullaley Roadhouse",
-      "address": "Caravan Park 11530 Black Stump WAY, Mullaley NSW 2379",
+      "address": "11530 Black Stump WAY, Mullaley NSW 2379",
       "state": "NSW",
       "lat": -31.100689,
-      "lng": 149.900723
+      "lng": 149.900724
     },
     {
       "brand": "Caltex",
@@ -10749,21 +10740,6 @@
       "lng": 152.240816
     },
     {
-      "brand": "Metro Fuel",
-      "code": "QLD:61402410",
-      "name": "Metro Toowoomba City",
-      "address": "282 Ruthven St, QLD 4350",
-      "state": "QLD",
-      "lat": -27.554601450694772,
-      "lng": 151.95483798954922,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "Mobil",
       "code": "QLD:61402654",
       "name": "Mobil Barcaldine",
@@ -10986,6 +10962,20 @@
       ]
     },
     {
+      "brand": "Mobil",
+      "code": "SA:61501922",
+      "name": "Cadney Homestead Roadhouse",
+      "address": "69 Stuart Highway, SA 5723",
+      "state": "SA",
+      "lat": -27.905191,
+      "lng": 134.056677,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "SA:61501546",
       "name": "Cape Jervis Tavern And General Store",
@@ -11123,6 +11113,20 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "Liberty",
+      "code": "SA:61501405",
+      "name": "Keith OPT",
+      "address": "32 Dukes Highway, SA 5267",
+      "state": "SA",
+      "lat": -36.092683,
+      "lng": 140.349225,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
       ]
     },
     {
@@ -11324,6 +11328,40 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:BoPpDKqhPsqR96ZR1gd1Eym5n51TCsuiY1pfCrSQRBk=",
+      "name": "7-Eleven Flemington",
+      "address": "415-429 Flemington Road, North Melbourne, 3051",
+      "state": "VIC",
+      "lat": -37.78894011188548,
+      "lng": 144.94091813804334,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:Q8M9z9z9m+UPovYhiBYXojA/tBrQDq6+K/kjNxjM57U=",
+      "name": "7-Eleven Hallam",
+      "address": "25-29 Belgrave-Hallam Road, Hallam, 3803",
+      "state": "VIC",
+      "lat": -38.00223039,
+      "lng": 145.27385874,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:rO3dAcHa6U8iXiXUzQNH2wvN55+9q2WtQ7HKBb/TeEU=",
       "name": "7-Eleven Harpley",
       "address": "218 Ison Road, Werribee, 3030",
@@ -11362,22 +11400,6 @@
       "state": "VIC",
       "lat": -37.86089803,
       "lng": 144.98486796,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:yvM/z54fP2Pb8nDB4ZJnvvrd9QMrStrLo7PSjGFBdD4=",
-      "name": "7-Eleven Wallan",
-      "address": "149 High Street, Wallan, 3756",
-      "state": "VIC",
-      "lat": -37.40691919,
-      "lng": 144.97945689,
       "unavailable_fuels": [
         "E10",
         "Premium Diesel",
@@ -11579,6 +11601,36 @@
       "state": "VIC",
       "lat": -38.0809067,
       "lng": 142.80341229,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "VIC:Nn5sOsuCrlbPxBYtpDMErvtevci0IpgnNBOvTWbLVZw=",
+      "name": "Shell Reddy Express Belmont (vic)",
+      "address": "3 Settlement Road, BELMONT, 3216",
+      "state": "VIC",
+      "lat": -38.17677974,
+      "lng": 144.35218573,
+      "unavailable_fuels": [
+        "Diesel",
+        "LPG",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "VIC:HSfeC3jheYxx+iSezK7TxN+MX6fmvK0g79x4SCSKpsM=",
+      "name": "Shell Reddy Express Geelong West",
+      "address": "21-25 Church Street, GEELONG WEST, 3218",
+      "state": "VIC",
+      "lat": -38.13214939,
+      "lng": 144.34893385,
       "unavailable_fuels": [
         "Diesel",
         "U91",

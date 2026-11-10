@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T03:07:07Z",
+  "fetched_at": "2026-11-10T04:13:48Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1262,
   "by_state": {
@@ -39,7 +39,6 @@
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
-    "U-Go": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "PK's": 1,
@@ -48,9 +47,11 @@
     "Arko Energy": 1,
     "Solo": 1,
     "Freedom Fuels": 1,
+    "EG Ampol": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
+    "U-Go": 1,
     "MILDURA SERVO": 1
   },
   "stations": [
@@ -10679,6 +10680,21 @@
       "lng": 151.1198653325062
     },
     {
+      "brand": "EG Ampol",
+      "code": "QLD:61402887",
+      "name": "EG Ampol Ooralea",
+      "address": "Canecutters Rd & Boundary Rd, QLD 4740",
+      "state": "QLD",
+      "lat": -21.175076,
+      "lng": 149.150126,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
       "brand": "Freedom Fuels",
       "code": "QLD:61401837",
       "name": "Freedom Fuels Nambour",
@@ -10869,22 +10885,6 @@
       "state": "QLD",
       "lat": -18.290183,
       "lng": 143.549026
-    },
-    {
-      "brand": "U-Go",
-      "code": "QLD:61401206",
-      "name": "U-Go Park Ridge",
-      "address": "3726-3730 Mt Lindesay Hwy, QLD 4125",
-      "state": "QLD",
-      "lat": -27.696645,
-      "lng": 153.038101,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "United",

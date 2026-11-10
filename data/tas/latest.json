@@ -2,8 +2,8 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-11-10T09:42:52Z",
-  "station_count": 293,
+  "fetched_at": "2026-11-10T11:46:56Z",
+  "station_count": 294,
   "fuel_types": [
     "E10",
     "U91",
@@ -2108,11 +2108,11 @@
         "E10": 221.9,
         "U98": 249.9,
         "Premium Diesel": 289.9,
-        "U91": 239.9,
-        "Diesel": 277.9,
-        "U95": 252.9
+        "U91": 219.9,
+        "Diesel": 268.9,
+        "U95": 232.9
       },
-      "updated": "2026-11-09T19:42:15Z",
+      "updated": "2026-11-10T10:40:34Z",
       "lat": -42.8872929,
       "lng": 147.8119103
     },
@@ -2814,6 +2814,21 @@
       "updated": "2026-11-10T05:27:14Z",
       "lat": -41.0625045,
       "lng": 145.896431
+    },
+    {
+      "brand": "Independent",
+      "code": "TAS:222",
+      "name": "Independent Port Cygnet Fuel",
+      "address": "2 Charlton Street, Cygnet TAS 7112",
+      "state": "TAS",
+      "prices": {
+        "Diesel": 284.9,
+        "U98": 249.9,
+        "U91": 237.9
+      },
+      "updated": "2026-11-10T10:04:19Z",
+      "lat": -43.1635085,
+      "lng": 147.0799709
     },
     {
       "brand": "Independent",
@@ -3712,11 +3727,11 @@
       "address": "46 Queen ST, West Ulverstone TAS 7315",
       "state": "TAS",
       "prices": {
-        "Diesel": 279.9,
-        "U98": 263.9,
-        "U91": 242.9
+        "Diesel": 277.9,
+        "U98": 261.9,
+        "U91": 239.9
       },
-      "updated": "2026-11-09T21:26:13Z",
+      "updated": "2026-11-10T10:39:16Z",
       "lat": -41.15153796,
       "lng": 146.16376523
     },
@@ -3728,12 +3743,12 @@
       "state": "TAS",
       "prices": {
         "Diesel": 299.9,
-        "E10": 216.5,
+        "E10": 215.5,
         "U98": 241.5,
         "U91": 264.9,
         "U95": 279.9
       },
-      "updated": "2026-11-10T02:14:26Z",
+      "updated": "2026-11-10T10:57:39Z",
       "lat": -43.36110655,
       "lng": 147.32818609
     },

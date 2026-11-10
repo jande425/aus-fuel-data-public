@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-11-10T09:42:52Z",
+  "fetched_at": "2026-11-10T11:46:56Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1269,
+  "station_count": 1267,
   "by_state": {
     "ACT": 9,
     "NSW": 1161,
     "NT": 5,
     "QLD": 29,
-    "SA": 33,
-    "TAS": 2,
+    "SA": 32,
+    "TAS": 1,
     "VIC": 30
   },
   "by_brand": {
@@ -18,7 +18,7 @@
     "Independent EV": 99,
     "Reddy Express": 80,
     "7-Eleven": 79,
-    "Independent": 77,
+    "Independent": 76,
     "Chargefox": 72,
     "BP": 52,
     "NRMA": 45,
@@ -40,7 +40,6 @@
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
-    "U-Go": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "PK's": 1,
@@ -51,7 +50,8 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "MILDURA SERVO": 1
+    "MILDURA SERVO": 1,
+    "U-Go": 1
   },
   "stations": [
     {
@@ -10631,23 +10631,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "QLD:61402091",
-      "name": "7-Eleven Bray Park",
-      "address": "339-341 Samsonvale Road, QLD 4500",
-      "state": "QLD",
-      "lat": -27.292016,
-      "lng": 152.954828,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "QLD:61401457",
       "name": "7-Eleven North Ipswich",
       "address": "36 Downs St & Lawrence, QLD 4305",
@@ -10656,6 +10639,23 @@
       "lng": 152.761629,
       "unavailable_fuels": [
         "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61402130",
+      "name": "7-Eleven Robina",
+      "address": "Robina Town Centre Dr, QLD 4226",
+      "state": "QLD",
+      "lat": -28.080405,
+      "lng": 153.383952,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
         "Premium Diesel",
         "U91",
         "U95",
@@ -11315,21 +11315,6 @@
       "lng": 139.597512
     },
     {
-      "brand": "U-Go",
-      "code": "SA:61501093",
-      "name": "U-Go West Hindmarsh",
-      "address": "484 Port Rd, SA 5007",
-      "state": "SA",
-      "lat": -34.89795211133264,
-      "lng": 138.56037086011884,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "X Convenience",
       "code": "SA:61501450",
       "name": "X Convenience Port Adelaide",
@@ -11351,15 +11336,6 @@
       "state": "SA",
       "lat": -34.824078,
       "lng": 138.774531
-    },
-    {
-      "brand": "Independent",
-      "code": "TAS:222",
-      "name": "Independent Port Cygnet Fuel",
-      "address": "2 Charlton Street, Cygnet TAS 7112",
-      "state": "TAS",
-      "lat": -43.1635085,
-      "lng": 147.0799709
     },
     {
       "brand": "Independent",

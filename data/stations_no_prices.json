@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-10T11:46:56Z",
+  "fetched_at": "2026-11-10T12:52:20Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1267,
+  "station_count": 1266,
   "by_state": {
-    "ACT": 9,
+    "ACT": 8,
     "NSW": 1161,
     "NT": 5,
     "QLD": 29,
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 80,
-    "7-Eleven": 79,
+    "7-Eleven": 78,
     "Independent": 76,
     "Chargefox": 72,
     "BP": 52,
@@ -50,8 +50,8 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "MILDURA SERVO": 1,
-    "U-Go": 1
+    "U-Go": 1,
+    "MILDURA SERVO": 1
   },
   "stations": [
     {
@@ -62,15 +62,6 @@
       "state": "ACT",
       "lat": -35.3251,
       "lng": 149.154
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "ACT:18792",
-      "name": "7-Eleven Holt",
-      "address": "88 Hardwick Cres, Holt ACT 2615",
-      "state": "ACT",
-      "lat": -35.2207,
-      "lng": 149.018
     },
     {
       "brand": "Chargefox",

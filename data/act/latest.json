@@ -2,8 +2,8 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-11-10T11:46:56Z",
-  "station_count": 60,
+  "fetched_at": "2026-11-10T12:52:20Z",
+  "station_count": 61,
   "fuel_types": [
     "E10",
     "U91",
@@ -566,6 +566,23 @@
       "lng": 149.06156
     },
     {
+      "brand": "7-Eleven",
+      "code": "ACT:18792",
+      "name": "7-Eleven Holt",
+      "address": "88 Hardwick Cres, Holt ACT 2615",
+      "state": "ACT",
+      "prices": {
+        "E10": 239.9,
+        "LPG": 126.9,
+        "U98": 267.9,
+        "Premium Diesel": 291.9,
+        "U91": 241.9
+      },
+      "updated": "2026-11-10T11:54:13Z",
+      "lat": -35.2207,
+      "lng": 149.018
+    },
+    {
       "brand": "Reddy Express",
       "code": "ACT:18774",
       "name": "Shell Reddy Express Braddon",
@@ -933,12 +950,12 @@
       "address": "103 Hindmarsh DR, Phillip ACT 2606",
       "state": "ACT",
       "prices": {
-        "E10": 235.9,
-        "U98": 265.9,
-        "Premium Diesel": 283.9,
-        "U91": 237.9
+        "E10": 225.9,
+        "U98": 255.9,
+        "Premium Diesel": 273.9,
+        "U91": 227.9
       },
-      "updated": "2026-11-10T03:45:20Z",
+      "updated": "2026-11-10T11:59:02Z",
       "lat": -35.349177,
       "lng": 149.085739
     },

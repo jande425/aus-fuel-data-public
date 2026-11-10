@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-10T19:13:41Z",
+  "fetched_at": "2026-11-10T20:32:03Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1264,
+  "station_count": 1265,
   "by_state": {
     "ACT": 8,
-    "NSW": 1160,
+    "NSW": 1161,
     "NT": 5,
     "QLD": 28,
     "SA": 32,
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 80,
-    "7-Eleven": 77,
+    "7-Eleven": 78,
     "Independent": 75,
     "Chargefox": 72,
     "BP": 52,
@@ -530,6 +530,15 @@
       "state": "NSW",
       "lat": -33.951306,
       "lng": 151.24905
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:18675",
+      "name": "7-Eleven Medowie",
+      "address": "787 Medowie RD, Medowie NSW 2318",
+      "state": "NSW",
+      "lat": -32.739886,
+      "lng": 151.867393
     },
     {
       "brand": "7-Eleven",

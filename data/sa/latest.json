@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-11-10T12:52:20Z",
+  "fetched_at": "2026-11-10T18:39:21Z",
   "station_count": 696,
   "fuel_types": [
     "E10",
@@ -481,13 +481,13 @@
       "state": "SA",
       "prices": {
         "U91": 215.9,
-        "U98": 242.9
+        "U98": 242.9,
+        "Premium Diesel": 259.9
       },
-      "updated": "2026-11-09T22:10:55Z",
+      "updated": "2026-11-10T15:31:59Z",
       "lat": -34.888625,
       "lng": 138.673655,
       "unavailable_fuels": [
-        "Premium Diesel",
         "U95"
       ]
     },
@@ -2922,7 +2922,7 @@
         "U98": 242.9,
         "Premium Diesel": 262.9
       },
-      "updated": "2026-11-10T12:40:18Z",
+      "updated": "2026-11-10T18:25:17Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -4408,12 +4408,12 @@
       "address": "101 Adelaide Rd, SA 5253",
       "state": "SA",
       "prices": {
-        "U91": 233.9,
-        "U95": 247.9,
-        "U98": 255.9,
-        "Premium Diesel": 281.9
+        "U91": 229.9,
+        "U95": 243.9,
+        "U98": 251.9,
+        "Premium Diesel": 279.9
       },
-      "updated": "2026-11-10T01:50:36Z",
+      "updated": "2026-11-10T18:19:40Z",
       "lat": -35.123687,
       "lng": 139.264115
     },
@@ -5410,7 +5410,7 @@
         "U98": 259.9,
         "Premium Diesel": 276.9
       },
-      "updated": "2026-11-10T12:40:18Z",
+      "updated": "2026-11-10T18:25:17Z",
       "lat": -32.508998,
       "lng": 137.796545
     },

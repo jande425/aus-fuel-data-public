@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-10T12:52:20Z",
+  "fetched_at": "2026-11-10T18:39:21Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1266,
+  "station_count": 1264,
   "by_state": {
     "ACT": 8,
-    "NSW": 1161,
+    "NSW": 1160,
     "NT": 5,
-    "QLD": 29,
+    "QLD": 28,
     "SA": 32,
     "TAS": 1,
     "VIC": 30
@@ -17,8 +17,8 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 80,
-    "7-Eleven": 78,
-    "Independent": 76,
+    "7-Eleven": 77,
+    "Independent": 75,
     "Chargefox": 72,
     "BP": 52,
     "NRMA": 45,
@@ -50,8 +50,8 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "U-Go": 1,
-    "MILDURA SERVO": 1
+    "MILDURA SERVO": 1,
+    "U-Go": 1
   },
   "stations": [
     {
@@ -5156,15 +5156,6 @@
       "state": "NSW",
       "lat": -33.875181,
       "lng": 151.199863
-    },
-    {
-      "brand": "Independent",
-      "code": "NSW:1729",
-      "name": "Independent Carroll",
-      "address": "70 76 Breeza Street, Carroll NSW 2340",
-      "state": "NSW",
-      "lat": -30.985902,
-      "lng": 150.446131
     },
     {
       "brand": "Independent",
@@ -10619,22 +10610,6 @@
       "state": "NT",
       "lat": -14.735076,
       "lng": 134.528786
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61401457",
-      "name": "7-Eleven North Ipswich",
-      "address": "36 Downs St & Lawrence, QLD 4305",
-      "state": "QLD",
-      "lat": -27.603119,
-      "lng": 152.761629,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "7-Eleven",

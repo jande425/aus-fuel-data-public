@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-10T04:13:48Z",
+  "fetched_at": "2026-11-10T09:42:52Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1262,
+  "station_count": 1269,
   "by_state": {
-    "ACT": 8,
-    "NSW": 1160,
+    "ACT": 9,
+    "NSW": 1161,
     "NT": 5,
-    "QLD": 28,
-    "SA": 32,
-    "TAS": 1,
-    "VIC": 28
+    "QLD": 29,
+    "SA": 33,
+    "TAS": 2,
+    "VIC": 30
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,10 +17,10 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 80,
+    "7-Eleven": 79,
     "Independent": 77,
     "Chargefox": 72,
-    "7-Eleven": 71,
-    "BP": 54,
+    "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -36,22 +36,21 @@
     "Liberty": 5,
     "Everty": 4,
     "Speedway": 3,
+    "Ampol Foodary": 2,
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
+    "U-Go": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "PK's": 1,
     "Astron": 1,
-    "Ampol Foodary": 1,
     "Arko Energy": 1,
-    "Solo": 1,
     "Freedom Fuels": 1,
     "EG Ampol": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "U-Go": 1,
     "MILDURA SERVO": 1
   },
   "stations": [
@@ -63,6 +62,15 @@
       "state": "ACT",
       "lat": -35.3251,
       "lng": 149.154
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "ACT:18792",
+      "name": "7-Eleven Holt",
+      "address": "88 Hardwick Cres, Holt ACT 2615",
+      "state": "ACT",
+      "lat": -35.2207,
+      "lng": 149.018
     },
     {
       "brand": "Chargefox",
@@ -669,6 +677,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:278",
+      "name": "7-Eleven Roseville",
+      "address": "Corner Pacific Highway and Boundary Street, Roseville NSW 2069",
+      "state": "NSW",
+      "lat": -33.78742,
+      "lng": 151.17982
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:160",
       "name": "7-Eleven Shellharbour",
       "address": "Corner Shellharbour & Wattle Roads, Shellharbour NSW 2529",
@@ -711,6 +728,24 @@
       "state": "NSW",
       "lat": -33.74687,
       "lng": 151.050803
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:17148",
+      "name": "7-Eleven Windsor",
+      "address": "12 Hawkesbury Valley Way, WINDSOR NSW 2756",
+      "state": "NSW",
+      "lat": -33.611871,
+      "lng": 150.812202
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:18527",
+      "name": "7-Eleven Woy Woy",
+      "address": "83 Rawson RD, Woy Woy NSW 2256",
+      "state": "NSW",
+      "lat": -33.493793,
+      "lng": 151.320161
     },
     {
       "brand": "Exploren",
@@ -2252,6 +2287,15 @@
       "lng": 153.06953
     },
     {
+      "brand": "Ampol Foodary",
+      "code": "NSW:787",
+      "name": "Ampol Foodary Neutral Bay",
+      "address": "16-38 Military Rd, Neutral Bay NSW 2089",
+      "state": "NSW",
+      "lat": -33.82908,
+      "lng": 151.2163
+    },
+    {
       "brand": "Ampol",
       "code": "NSW:20051",
       "name": "Ampol Guyra",
@@ -2574,15 +2618,6 @@
       "state": "NSW",
       "lat": -33.760003,
       "lng": 151.214383
-    },
-    {
-      "brand": "BP",
-      "code": "NSW:20961",
-      "name": "BP Gateway",
-      "address": "Cnr Pacific &, Oxley Hwy Port Macquarie NSW 2444",
-      "state": "NSW",
-      "lat": -31.463348,
-      "lng": 152.821536
     },
     {
       "brand": "BP",
@@ -3366,15 +3401,6 @@
       "state": "NSW",
       "lat": -33.419261,
       "lng": 149.60764
-    },
-    {
-      "brand": "BP",
-      "code": "NSW:20964",
-      "name": "Bp Kingsford",
-      "address": "368 Anzac PDE, Kingsford NSW 2032",
-      "state": "NSW",
-      "lat": -33.927012,
-      "lng": 151.232132
     },
     {
       "brand": "BP",
@@ -6840,15 +6866,6 @@
       "state": "NSW",
       "lat": -32.738983,
       "lng": 151.867242
-    },
-    {
-      "brand": "Independent",
-      "code": "NSW:20963",
-      "name": "Mullaley Roadhouse",
-      "address": "11530 Black Stump WAY, Mullaley NSW 2379",
-      "state": "NSW",
-      "lat": -31.100689,
-      "lng": 149.900724
     },
     {
       "brand": "Caltex",
@@ -10613,6 +10630,39 @@
       "lng": 134.528786
     },
     {
+      "brand": "7-Eleven",
+      "code": "QLD:61402091",
+      "name": "7-Eleven Bray Park",
+      "address": "339-341 Samsonvale Road, QLD 4500",
+      "state": "QLD",
+      "lat": -27.292016,
+      "lng": 152.954828,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61401457",
+      "name": "7-Eleven North Ipswich",
+      "address": "36 Downs St & Lawrence, QLD 4305",
+      "state": "QLD",
+      "lat": -27.603119,
+      "lng": 152.761629,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Ampol",
       "code": "QLD:61402893",
       "name": "Ampol Blackwater Diesel Stop",
@@ -10849,21 +10899,6 @@
       "state": "QLD",
       "lat": -25.634965,
       "lng": 149.797847
-    },
-    {
-      "brand": "Solo",
-      "code": "QLD:61401568",
-      "name": "Solo Acacia Ridge",
-      "address": "281 Learoyd Rd & Watson Rd, QLD 4110",
-      "state": "QLD",
-      "lat": -27.595644,
-      "lng": 153.018594,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "Independent",
@@ -11280,6 +11315,21 @@
       "lng": 139.597512
     },
     {
+      "brand": "U-Go",
+      "code": "SA:61501093",
+      "name": "U-Go West Hindmarsh",
+      "address": "484 Port Rd, SA 5007",
+      "state": "SA",
+      "lat": -34.89795211133264,
+      "lng": 138.56037086011884,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "X Convenience",
       "code": "SA:61501450",
       "name": "X Convenience Port Adelaide",
@@ -11301,6 +11351,15 @@
       "state": "SA",
       "lat": -34.824078,
       "lng": 138.774531
+    },
+    {
+      "brand": "Independent",
+      "code": "TAS:222",
+      "name": "Independent Port Cygnet Fuel",
+      "address": "2 Charlton Street, Cygnet TAS 7112",
+      "state": "TAS",
+      "lat": -43.1635085,
+      "lng": 147.0799709
     },
     {
       "brand": "Independent",
@@ -11370,6 +11429,37 @@
       "lng": 144.61421929,
       "unavailable_fuels": [
         "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:katry2+2mRzAXPWHIBgSwZYZN1BnyLvlGmN6uB+lz0U=",
+      "name": "7-Eleven Hawthorn Church",
+      "address": "24-30 Church Street, Hawthorn, 3122",
+      "state": "VIC",
+      "lat": -37.81416584,
+      "lng": 145.02218593,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:aIpf5c+FbIFIqjsnktLA+kzJT6XxVXCNbtB6Xfo1iqE=",
+      "name": "7-Eleven Hoppers Crossing Central",
+      "address": "289-293 Derrimut Road, Hoppers Crossing, 3029",
+      "state": "VIC",
+      "lat": -37.86298282,
+      "lng": 144.68437998,
+      "unavailable_fuels": [
         "Premium Diesel",
         "U91",
         "U95",

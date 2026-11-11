@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-11T12:00:48Z",
+  "fetched_at": "2026-11-11T18:39:17Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1278,
+  "station_count": 1273,
   "by_state": {
     "ACT": 8,
-    "NSW": 1165,
+    "NSW": 1163,
     "NT": 5,
-    "QLD": 42,
+    "QLD": 40,
     "SA": 31,
     "TAS": 1,
-    "VIC": 26
+    "VIC": 25
   },
   "by_brand": {
     "Exploren": 236,
@@ -18,8 +18,8 @@
     "Independent EV": 99,
     "Reddy Express": 81,
     "Independent": 77,
-    "7-Eleven": 75,
     "Chargefox": 72,
+    "7-Eleven": 71,
     "BP": 56,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -28,10 +28,10 @@
     "Caltex": 11,
     "Shell": 10,
     "EVUp": 9,
-    "United": 8,
     "Mobil": 8,
     "Metro Fuel": 7,
     "Evie Networks": 7,
+    "United": 7,
     "Pearl Energy": 6,
     "Liberty": 5,
     "Everty": 4,
@@ -525,15 +525,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:17319",
-      "name": "7-Eleven Long Jetty",
-      "address": "475 The Entrance Rd, LONG JETTY NSW 2261",
-      "state": "NSW",
-      "lat": -33.363259,
-      "lng": 151.478911
-    },
-    {
-      "brand": "7-Eleven",
       "code": "NSW:252",
       "name": "7-Eleven Marks Point",
       "address": "770 Pacific Highway & Marks Point  Road, Marks Point NSW 2280",
@@ -648,15 +639,6 @@
       "state": "NSW",
       "lat": -33.961504,
       "lng": 151.079228
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:272",
-      "name": "7-Eleven Quakers Hill",
-      "address": "83 Lalor Road & Quakers Hill Parkway, Quakers Hill NSW 2763",
-      "state": "NSW",
-      "lat": -33.727446,
-      "lng": 150.89666
     },
     {
       "brand": "7-Eleven",
@@ -10703,22 +10685,6 @@
       ]
     },
     {
-      "brand": "7-Eleven",
-      "code": "QLD:61401228",
-      "name": "7-Eleven Redcliffe",
-      "address": "77 Anzac Av & Oxley Av, QLD 4020",
-      "state": "QLD",
-      "lat": -27.230354,
-      "lng": 153.109317,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Ampol",
       "code": "QLD:61402893",
       "name": "Ampol Blackwater Diesel Stop",
@@ -11106,22 +11072,6 @@
         "Premium Diesel",
         "U91",
         "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "United",
-      "code": "QLD:61477083",
-      "name": "United Crestmead",
-      "address": "169-175 Bumstead Road, QLD 4132",
-      "state": "QLD",
-      "lat": -27.697253410613996,
-      "lng": 153.08220271135957,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "E85",
-        "U91",
         "U98"
       ]
     },
@@ -11535,22 +11485,6 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:M2Vqnav6i20TqhO/nOPjIbO1Qq4X7GpHqTTKqeUX4Qg=",
-      "name": "7-Eleven Bayswater East",
-      "address": "936 Mountain Highway, Bayswater, 3153",
-      "state": "VIC",
-      "lat": -37.83777465,
-      "lng": 145.28657379,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "7-Eleven",

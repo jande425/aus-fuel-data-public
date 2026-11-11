@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-11T02:03:55Z",
+  "fetched_at": "2026-11-11T09:04:36Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1259,
+  "station_count": 1275,
   "by_state": {
     "ACT": 8,
-    "NSW": 1161,
+    "NSW": 1165,
     "NT": 5,
-    "QLD": 29,
-    "SA": 32,
+    "QLD": 39,
+    "SA": 31,
     "TAS": 1,
-    "VIC": 23
+    "VIC": 26
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,35 +17,37 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "Independent": 76,
+    "7-Eleven": 77,
+    "Independent": 77,
     "Chargefox": 72,
-    "7-Eleven": 68,
-    "BP": 53,
+    "BP": 56,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 17,
+    "Ampol": 18,
     "Caltex": 11,
-    "Shell": 11,
+    "Shell": 10,
     "EVUp": 9,
+    "United": 8,
     "Mobil": 8,
     "Metro Fuel": 7,
     "Evie Networks": 7,
-    "United": 6,
     "Pearl Energy": 6,
     "Liberty": 5,
     "Everty": 4,
     "Speedway": 3,
-    "Ampol Foodary": 2,
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
+    "EG Ampol": 1,
     "PK's": 1,
     "Astron": 1,
+    "Ampol Foodary": 1,
     "Arko Energy": 1,
     "Freedom Fuels": 1,
+    "24Xpress": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
@@ -522,6 +524,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:17319",
+      "name": "7-Eleven Long Jetty",
+      "address": "475 The Entrance Rd, LONG JETTY NSW 2261",
+      "state": "NSW",
+      "lat": -33.363259,
+      "lng": 151.478911
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:252",
       "name": "7-Eleven Marks Point",
       "address": "770 Pacific Highway & Marks Point  Road, Marks Point NSW 2280",
@@ -639,6 +650,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:272",
+      "name": "7-Eleven Quakers Hill",
+      "address": "83 Lalor Road & Quakers Hill Parkway, Quakers Hill NSW 2763",
+      "state": "NSW",
+      "lat": -33.727446,
+      "lng": 150.89666
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:149",
       "name": "7-Eleven Randwick",
       "address": "128 Barker Street, Randwick NSW 2031",
@@ -672,6 +692,15 @@
       "state": "NSW",
       "lat": -33.952566,
       "lng": 151.135774
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:283",
+      "name": "7-Eleven Rozelle",
+      "address": "178-184 Victoria Road (Corner Moodie Street), Rozelle NSW 2039",
+      "state": "NSW",
+      "lat": -33.862904,
+      "lng": 151.168131
     },
     {
       "brand": "7-Eleven",
@@ -2186,6 +2215,15 @@
       "lng": 146.916238
     },
     {
+      "brand": "Ampol",
+      "code": "NSW:18013",
+      "name": "Albury North Diesel Stop",
+      "address": "79 Union Road, NORTH ALBURY NSW 2640",
+      "state": "NSW",
+      "lat": -36.054966,
+      "lng": 146.94876
+    },
+    {
       "brand": "Exploren",
       "code": "NSW:20280",
       "name": "Albury Showground",
@@ -2256,15 +2294,6 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:2364",
-      "name": "Ampol Foodary Kellyville",
-      "address": "3-5 Windsor Rd, KELLYVILLE NSW 2155",
-      "state": "NSW",
-      "lat": -33.714327,
-      "lng": 150.960633
     },
     {
       "brand": "Ampol",
@@ -2592,6 +2621,15 @@
     },
     {
       "brand": "BP",
+      "code": "NSW:20961",
+      "name": "BP Gateway",
+      "address": "Cnr Pacific &, Oxley Hwy Port Macquarie NSW 2444",
+      "state": "NSW",
+      "lat": -31.463348,
+      "lng": 152.821536
+    },
+    {
+      "brand": "BP",
       "code": "NSW:20053",
       "name": "BP Glen Innes",
       "address": "205 Ferguson ST, Glen Innes NSW 2370",
@@ -2760,15 +2798,6 @@
       "state": "NSW",
       "lat": -28.852633,
       "lng": 153.556322
-    },
-    {
-      "brand": "BP",
-      "code": "NSW:1152",
-      "name": "BP North Willoughby",
-      "address": "157 Penshurst street, Willoughby NSW 2068",
-      "state": "NSW",
-      "lat": -33.797944,
-      "lng": 151.198197
     },
     {
       "brand": "BP",
@@ -4326,6 +4355,15 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "NSW:627",
+      "name": "EG Ampol Bowral",
+      "address": "2-4 Banyette Street (Cnr Station St), Bowral NSW 2576",
+      "state": "NSW",
+      "lat": -34.481158,
+      "lng": 150.415338
     },
     {
       "brand": "EVUp",
@@ -7263,15 +7301,6 @@
     },
     {
       "brand": "Shell",
-      "code": "NSW:20258",
-      "name": "OTR Greystanes",
-      "address": "661 Merrylands RD, Greystanes NSW 2145",
-      "state": "NSW",
-      "lat": -33.829367,
-      "lng": 150.952665
-    },
-    {
-      "brand": "Shell",
       "code": "NSW:20074",
       "name": "OTR Hamilton Tudor Street",
       "address": "56 Tudor ST, Hamilton NSW 2303",
@@ -7854,6 +7883,15 @@
       "state": "NSW",
       "lat": -30.642358,
       "lng": 153.003812
+    },
+    {
+      "brand": "Independent",
+      "code": "NSW:20857",
+      "name": "Riordan Fuels",
+      "address": "6030 Newell HWY, Jerilderie NSW 2716",
+      "state": "NSW",
+      "lat": -35.345613,
+      "lng": 145.759086
     },
     {
       "brand": "Exploren",
@@ -10619,6 +10657,67 @@
       "lng": 134.528786
     },
     {
+      "brand": "24Xpress",
+      "code": "QLD:61401946",
+      "name": "24Xpress Marsden Park",
+      "address": "36-42 Chambers Flat Road, QLD 4133",
+      "state": "QLD",
+      "lat": -27.679432,
+      "lng": 153.118257,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61401923",
+      "name": "7-Eleven Manly West",
+      "address": "459 Manly Rd, QLD 4179",
+      "state": "QLD",
+      "lat": -27.475413,
+      "lng": 153.165772,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61477960",
+      "name": "7-Eleven Park Ridge",
+      "address": "17 Park Ridge Road, QLD 4125",
+      "state": "QLD",
+      "lat": -27.698996,
+      "lng": 153.040984,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61401228",
+      "name": "7-Eleven Redcliffe",
+      "address": "77 Anzac Av & Oxley Av, QLD 4020",
+      "state": "QLD",
+      "lat": -27.230354,
+      "lng": 153.109317,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Ampol",
       "code": "QLD:61402893",
       "name": "Ampol Blackwater Diesel Stop",
@@ -10633,14 +10732,13 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61401782",
-      "name": "Ampol Foodary Caboolture Travel Centre",
-      "address": "Bruce Hwy & Pumicestone Rd, QLD 4510",
+      "code": "QLD:61401738",
+      "name": "Ampol Foodary Marsden",
+      "address": "10 Third Av & Browns Plains Rd, QLD 4132",
       "state": "QLD",
-      "lat": -27.042111,
-      "lng": 152.975171,
+      "lat": -27.679856,
+      "lng": 153.087847,
       "unavailable_fuels": [
-        "Diesel",
         "E10",
         "Premium Diesel",
         "U91",
@@ -10665,6 +10763,33 @@
       "state": "QLD",
       "lat": -27.790458,
       "lng": 151.411238
+    },
+    {
+      "brand": "BP",
+      "code": "QLD:61401940",
+      "name": "BP Connect Loganholme",
+      "address": "4080 Pacific Hwy, QLD 4129",
+      "state": "QLD",
+      "lat": -27.684376,
+      "lng": 153.189341
+    },
+    {
+      "brand": "BP",
+      "code": "QLD:61401546",
+      "name": "BP Connect Springwood",
+      "address": "3388 Pacific Hwy, QLD 4127",
+      "state": "QLD",
+      "lat": -27.622437,
+      "lng": 153.127984
+    },
+    {
+      "brand": "BP",
+      "code": "QLD:61477078",
+      "name": "BP Jimboomba",
+      "address": "73-77 Cerina Court, QLD 4280",
+      "state": "QLD",
+      "lat": -27.836647,
+      "lng": 153.025602
     },
     {
       "brand": "BP",
@@ -10762,6 +10887,20 @@
       "state": "QLD",
       "lat": -26.086213,
       "lng": 152.240816
+    },
+    {
+      "brand": "Liberty",
+      "code": "QLD:61451576",
+      "name": "Liberty Rockhampton",
+      "address": "49 Gladstone Rd, QLD 4700",
+      "state": "QLD",
+      "lat": -23.389561,
+      "lng": 150.506979,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95"
+      ]
     },
     {
       "brand": "Mobil",
@@ -10896,6 +11035,39 @@
       "state": "QLD",
       "lat": -18.290183,
       "lng": 143.549026
+    },
+    {
+      "brand": "United",
+      "code": "QLD:61478218",
+      "name": "United Beaudesert",
+      "address": "305-309 Brisbane St, QLD 4285",
+      "state": "QLD",
+      "lat": -27.96955629384051,
+      "lng": 152.99697076350046,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "United",
+      "code": "QLD:61477083",
+      "name": "United Crestmead",
+      "address": "169-175 Bumstead Road, QLD 4132",
+      "state": "QLD",
+      "lat": -27.697253410613996,
+      "lng": 153.08220271135957,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "E85",
+        "U91",
+        "U98"
+      ]
     },
     {
       "brand": "United",
@@ -11127,20 +11299,6 @@
       ]
     },
     {
-      "brand": "Liberty",
-      "code": "SA:61501405",
-      "name": "Keith OPT",
-      "address": "32 Dukes Highway, SA 5267",
-      "state": "SA",
-      "lat": -36.092683,
-      "lng": 140.349225,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "SA:61577270",
       "name": "Mansers Motors",
@@ -11324,6 +11482,39 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:M2Vqnav6i20TqhO/nOPjIbO1Qq4X7GpHqTTKqeUX4Qg=",
+      "name": "7-Eleven Bayswater East",
+      "address": "936 Mountain Highway, Bayswater, 3153",
+      "state": "VIC",
+      "lat": -37.83777465,
+      "lng": 145.28657379,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:EIk75LZm+WdRTFtByQgFDSibPUOX4KDubZsBd2BqaqU=",
+      "name": "7-Eleven Endeavour Hills",
+      "address": "Corner Power and Heatherton Roads, Endeavour Hills, 3802",
+      "state": "VIC",
+      "lat": -37.9732283766503,
+      "lng": 145.24269622580857,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:aIpf5c+FbIFIqjsnktLA+kzJT6XxVXCNbtB6Xfo1iqE=",
       "name": "7-Eleven Hoppers Crossing Central",
       "address": "289-293 Derrimut Road, Hoppers Crossing, 3029",
@@ -11347,6 +11538,21 @@
       "lng": 145.17289763,
       "unavailable_fuels": [
         "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:qdYS2O/Yo0pqGiELs2gDaGoPKgmciHw3VYczJCSDG3k=",
+      "name": "7-Eleven Wyndham Vale",
+      "address": "1389 Ison Road, Wyndham Vale, 3024",
+      "state": "VIC",
+      "lat": -37.87619815,
+      "lng": 144.59009246,
+      "unavailable_fuels": [
         "Premium Diesel",
         "U91",
         "U95",

@@ -1,0 +1,66 @@
+name: Retry failed scheduled fuel refresh
+
+on:
+  workflow_run:
+    workflows: [Fetch All Australian Fuel Data]
+    types: [completed]
+    branches: [main]
+
+permissions:
+  actions: write
+
+concurrency:
+  group: retry-scheduled-fuel-refresh
+  cancel-in-progress: false
+
+jobs:
+  retry:
+    if: >-
+      github.event.workflow_run.head_repository.full_name == github.repository &&
+      github.event.workflow_run.event == 'schedule' &&
+      github.event.workflow_run.run_attempt == 1 &&
+      github.run_attempt == 1 &&
+      contains(fromJSON('["failure","timed_out","startup_failure"]'), github.event.workflow_run.conclusion)
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Retry once if a refresh is still needed
+        env:
+          GH_TOKEN: ${{ github.token }}
+          FAILED_RUN_ID: ${{ github.event.workflow_run.id }}
+          FAILED_RUN_NUMBER: ${{ github.event.workflow_run.run_number }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import subprocess
+          import time
+
+          time.sleep(90)
+          repo = os.environ["GITHUB_REPOSITORY"]
+          failed_id = int(os.environ["FAILED_RUN_ID"])
+          failed_number = int(os.environ["FAILED_RUN_NUMBER"])
+          workflow = "fetch-all-fuel-data.yml"
+          retry_title = f"Retry fuel refresh after run {failed_id}"
+          response = subprocess.check_output([
+              "gh", "api", "--method", "GET",
+              f"repos/{repo}/actions/workflows/{workflow}/runs",
+              "-f", "branch=main", "-F", "per_page=100",
+          ])
+          runs = json.loads(response)["workflow_runs"]
+
+          if any(
+              run["id"] != failed_id and (
+                  run["status"] != "completed"
+                  or (run["run_number"] > failed_number and run["conclusion"] == "success")
+                  or (run["event"] == "workflow_dispatch" and run["display_title"] == retry_title)
+              )
+              for run in runs
+          ):
+              print("A fuel refresh is active, a newer run succeeded, or this failure was already retried.")
+          else:
+              subprocess.run([
+                  "gh", "workflow", "run", workflow, "--repo", repo,
+                  "--ref", "main", "-f", f"retry_of={failed_id}",
+              ], check=True)
+          PY

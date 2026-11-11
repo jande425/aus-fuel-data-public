@@ -1,4 +1,5 @@
 name: Fetch All Australian Fuel Data
+run-name: ${{ inputs.retry_of && format('Retry fuel refresh after run {0}', inputs.retry_of) || 'Fetch All Australian Fuel Data' }}
 
 # Runs every 45 minutes.
 #
@@ -17,6 +18,11 @@ on:
     - cron: '30 1-23/3 * * *'     # :30 on hours 1, 4, 7, 10, 13, 16, 19, 22
     - cron: '15 2-23/3 * * *'     # :15 on hours 2, 5, 8, 11, 14, 17, 20, 23
   workflow_dispatch:
+    inputs:
+      retry_of:
+        description: Original scheduled run ID for an automatic retry
+        type: string
+        required: false
 
 permissions:
   contents: write
@@ -25,7 +31,7 @@ permissions:
 # push. Queue them instead of cancelling -- a skipped run means a gap in data.
 concurrency:
   group: fetch-fuel-data
-  cancel-in-progress: false
+  queue: max
 
 jobs:
   fetch-all-fuel-data:
@@ -34,6 +40,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4.2.2
+        with:
+          ref: ${{ github.ref }}
 
       - name: Set up Python
         uses: actions/setup-python@v5.6.0
@@ -95,7 +103,6 @@ jobs:
           printf '/*\n  Access-Control-Allow-Origin: *\n  Cache-Control: public, max-age=300\n' > pages_deploy/_headers
 
       - name: Deploy static data to Cloudflare Pages
-        continue-on-error: true
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

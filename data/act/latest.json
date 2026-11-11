@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-11-11T00:37:51Z",
+  "fetched_at": "2026-11-11T00:58:36Z",
   "station_count": 61,
   "fuel_types": [
     "E10",
@@ -314,12 +314,12 @@
       "address": "166 Melrose DR, Phillip ACT 2606",
       "state": "ACT",
       "prices": {
-        "E10": 235.9,
-        "U95": 254.9,
-        "U98": 263.9,
+        "E10": 234.9,
+        "U95": 253.9,
+        "U98": 262.9,
         "Premium Diesel": 286.9
       },
-      "updated": "2026-11-10T23:25:30Z",
+      "updated": "2026-11-11T00:58:01Z",
       "lat": -35.351002,
       "lng": 149.085289
     },
@@ -750,12 +750,12 @@
       "state": "ACT",
       "prices": {
         "E10": 239.9,
-        "LPG": 120.9,
+        "LPG": 119.9,
         "U98": 267.9,
         "Premium Diesel": 286.9,
         "U91": 241.9
       },
-      "updated": "2026-11-10T23:18:15Z",
+      "updated": "2026-11-11T00:57:18Z",
       "lat": -35.365,
       "lng": 149.094
     },
@@ -901,10 +901,10 @@
         "E10": 239.9,
         "U95": 258.9,
         "U98": 267.9,
-        "Premium Diesel": 289.9,
+        "Premium Diesel": 287.9,
         "U91": 241.9
       },
-      "updated": "2026-11-10T23:24:15Z",
+      "updated": "2026-11-11T00:42:15Z",
       "lat": -35.355061,
       "lng": 149.091106
     },
@@ -949,12 +949,12 @@
       "address": "103 Hindmarsh DR, Phillip ACT 2606",
       "state": "ACT",
       "prices": {
-        "E10": 235.9,
-        "U98": 265.9,
+        "E10": 231.9,
+        "U98": 261.9,
         "Premium Diesel": 283.9,
-        "U91": 237.9
+        "U91": 233.9
       },
-      "updated": "2026-11-10T17:00:34Z",
+      "updated": "2026-11-11T00:40:19Z",
       "lat": -35.349177,
       "lng": 149.085739
     },
@@ -997,12 +997,12 @@
       "address": "Service Station 53 Lambrigg ST, Farrer ACT 2607",
       "state": "ACT",
       "prices": {
-        "E10": 229.9,
-        "U98": 263.9,
+        "E10": 229.7,
+        "U98": 261.7,
         "Premium Diesel": 279.9,
-        "U91": 235.9
+        "U91": 231.7
       },
-      "updated": "2026-11-10T20:26:30Z",
+      "updated": "2026-11-11T00:42:10Z",
       "lat": -35.375911,
       "lng": 149.101739
     }

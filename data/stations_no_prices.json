@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-11T19:10:19Z",
+  "fetched_at": "2026-11-11T21:46:30Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1273,
+  "station_count": 1272,
   "by_state": {
     "ACT": 8,
-    "NSW": 1163,
-    "NT": 5,
+    "NSW": 1160,
+    "NT": 6,
     "QLD": 40,
     "SA": 31,
     "TAS": 1,
-    "VIC": 25
+    "VIC": 26
   },
   "by_brand": {
     "Exploren": 236,
@@ -20,7 +20,7 @@
     "Independent": 77,
     "Chargefox": 72,
     "7-Eleven": 71,
-    "BP": 56,
+    "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "Ampol": 21,
@@ -28,12 +28,12 @@
     "Caltex": 11,
     "Shell": 10,
     "EVUp": 9,
+    "United": 8,
     "Mobil": 8,
     "Metro Fuel": 7,
     "Evie Networks": 7,
-    "United": 7,
     "Pearl Energy": 6,
-    "Liberty": 5,
+    "Liberty": 6,
     "Everty": 4,
     "Speedway": 3,
     "EG Ampol": 2,
@@ -42,13 +42,11 @@
     "Puma Energy": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
-    "U-Go": 1,
     "PK's": 1,
     "Astron": 1,
     "Ampol Foodary": 1,
     "Arko Energy": 1,
     "Freedom Fuels": 1,
-    "24Xpress": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
@@ -2592,15 +2590,6 @@
       "state": "NSW",
       "lat": -33.760003,
       "lng": 151.214383
-    },
-    {
-      "brand": "BP",
-      "code": "NSW:20961",
-      "name": "BP Gateway",
-      "address": "Cnr Pacific &, Oxley Hwy Port Macquarie NSW 2444",
-      "state": "NSW",
-      "lat": -31.463348,
-      "lng": 152.821536
     },
     {
       "brand": "BP",
@@ -5166,15 +5155,6 @@
       "state": "NSW",
       "lat": -33.875181,
       "lng": 151.199863
-    },
-    {
-      "brand": "Independent",
-      "code": "NSW:1759",
-      "name": "Independent Casino",
-      "address": "169 Canterbury St, CASINO NSW 2470",
-      "state": "NSW",
-      "lat": -28.862723,
-      "lng": 153.046427
     },
     {
       "brand": "Independent",
@@ -10109,15 +10089,6 @@
       "lng": 151.273708
     },
     {
-      "brand": "U-Go",
-      "code": "NSW:18311",
-      "name": "U-Go Yamba (Self- serve)",
-      "address": "22 Treelands DR, Yamba NSW 2464",
-      "state": "NSW",
-      "lat": -29.427004,
-      "lng": 153.327922
-    },
-    {
       "brand": "United",
       "code": "NSW:2004",
       "name": "United Marulan",
@@ -10622,6 +10593,15 @@
       "lng": 131.370842
     },
     {
+      "brand": "Independent",
+      "code": "NT:08720112",
+      "name": "Laramba Community Store",
+      "address": "Lot 82 - Store Street, Laramba, 0872, NT",
+      "state": "NT",
+      "lat": -22.534303,
+      "lng": 132.754003
+    },
+    {
       "brand": "Puma Energy",
       "code": "NT:08720211",
       "name": "Maryvale Store",
@@ -10638,20 +10618,6 @@
       "state": "NT",
       "lat": -14.735076,
       "lng": 134.528786
-    },
-    {
-      "brand": "24Xpress",
-      "code": "QLD:61401946",
-      "name": "24Xpress Marsden Park",
-      "address": "36-42 Chambers Flat Road, QLD 4133",
-      "state": "QLD",
-      "lat": -27.679432,
-      "lng": 153.118257,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "U91"
-      ]
     },
     {
       "brand": "7-Eleven",
@@ -11060,18 +11026,17 @@
     },
     {
       "brand": "United",
-      "code": "QLD:61478218",
-      "name": "United Beaudesert",
-      "address": "305-309 Brisbane St, QLD 4285",
+      "code": "QLD:61477083",
+      "name": "United Crestmead",
+      "address": "169-175 Bumstead Road, QLD 4132",
       "state": "QLD",
-      "lat": -27.96955629384051,
-      "lng": 152.99697076350046,
+      "lat": -27.697253410613996,
+      "lng": 153.08220271135957,
       "unavailable_fuels": [
         "Diesel",
         "E10",
-        "Premium Diesel",
+        "E85",
         "U91",
-        "U95",
         "U98"
       ]
     },
@@ -11088,6 +11053,24 @@
         "E10",
         "LPG",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "United",
+      "code": "QLD:61402383",
+      "name": "United Gunalda",
+      "address": "2618 Bruce Highway, QLD 4570",
+      "state": "QLD",
+      "lat": -26.006201,
+      "lng": 152.566397,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "E85",
+        "LPG",
+        "U91",
+        "U95",
         "U98"
       ]
     },
@@ -11643,6 +11626,22 @@
       "unavailable_fuels": [
         "Diesel",
         "E10",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Liberty",
+      "code": "VIC:TLtPi2eAReZ08cgSkspq1ztS+Q5iojZiLK3jS4x9RpU=",
+      "name": "Liberty Benalla",
+      "address": "5941 Midland Highway, Benalla, 3672",
+      "state": "VIC",
+      "lat": -36.53770963,
+      "lng": 145.9815757,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "Premium Diesel",
         "U91",
         "U98"
       ]

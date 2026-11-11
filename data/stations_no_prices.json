@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-11T00:58:36Z",
+  "fetched_at": "2026-11-11T02:03:55Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1257,
+  "station_count": 1259,
   "by_state": {
     "ACT": 8,
-    "NSW": 1160,
+    "NSW": 1161,
     "NT": 5,
-    "QLD": 28,
+    "QLD": 29,
     "SA": 32,
     "TAS": 1,
     "VIC": 23
@@ -16,7 +16,7 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 80,
+    "Reddy Express": 81,
     "Independent": 76,
     "Chargefox": 72,
     "7-Eleven": 68,
@@ -32,7 +32,7 @@
     "Metro Fuel": 7,
     "Evie Networks": 7,
     "United": 6,
-    "Pearl Energy": 5,
+    "Pearl Energy": 6,
     "Liberty": 5,
     "Everty": 4,
     "Speedway": 3,
@@ -8433,6 +8433,15 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "NSW:69",
+      "name": "Shell Reddy Express Drummoyne",
+      "address": "38-46 Victoria Rd, Drummoyne NSW 2047",
+      "state": "NSW",
+      "lat": -33.855759,
+      "lng": 151.159307
+    },
+    {
+      "brand": "Reddy Express",
       "code": "NSW:413",
       "name": "Shell Reddy Express Dundas",
       "address": "199-203 Kissing Point Rd (Cnr Kirby St), Dundas NSW 2117",
@@ -10765,15 +10774,6 @@
     },
     {
       "brand": "Mobil",
-      "code": "QLD:61451588",
-      "name": "Mobil Childers",
-      "address": "154 Churchill St, QLD 4660",
-      "state": "QLD",
-      "lat": -25.235319885245104,
-      "lng": 152.27436050429918
-    },
-    {
-      "brand": "Mobil",
       "code": "QLD:61402648",
       "name": "Mobil Texas",
       "address": "11 Greenup St, QLD 4385",
@@ -10784,6 +10784,15 @@
         "Diesel",
         "U91"
       ]
+    },
+    {
+      "brand": "Mobil",
+      "code": "QLD:61478318",
+      "name": "Mobil Yandina",
+      "address": "8 Stevens St, QLD 4561",
+      "state": "QLD",
+      "lat": -26.560848695787005,
+      "lng": 152.95584709812874
     },
     {
       "brand": "Independent",
@@ -10816,6 +10825,15 @@
       "state": "QLD",
       "lat": -26.845778412519017,
       "lng": 152.88439310750323
+    },
+    {
+      "brand": "Pearl Energy",
+      "code": "QLD:61478317",
+      "name": "Pearl Energy Virginia",
+      "address": "2071 Sandgate Road, QLD 4014",
+      "state": "QLD",
+      "lat": -27.366857935692128,
+      "lng": 153.06217969044073
     },
     {
       "brand": "Independent",

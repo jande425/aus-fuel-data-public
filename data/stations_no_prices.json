@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-11T10:12:17Z",
+  "fetched_at": "2026-11-11T12:00:48Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1278,
   "by_state": {
@@ -17,8 +17,8 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "7-Eleven": 77,
     "Independent": 77,
+    "7-Eleven": 75,
     "Chargefox": 72,
     "BP": 56,
     "NRMA": 45,
@@ -36,12 +36,13 @@
     "Liberty": 5,
     "Everty": 4,
     "Speedway": 3,
+    "EG Ampol": 2,
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
-    "EG Ampol": 1,
+    "U-Go": 1,
     "PK's": 1,
     "Astron": 1,
     "Ampol Foodary": 1,
@@ -692,15 +693,6 @@
       "state": "NSW",
       "lat": -33.952566,
       "lng": 151.135774
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:283",
-      "name": "7-Eleven Rozelle",
-      "address": "178-184 Victoria Road (Corner Moodie Street), Rozelle NSW 2039",
-      "state": "NSW",
-      "lat": -33.862904,
-      "lng": 151.168131
     },
     {
       "brand": "7-Eleven",
@@ -10135,6 +10127,15 @@
       "lng": 151.273708
     },
     {
+      "brand": "U-Go",
+      "code": "NSW:18311",
+      "name": "U-Go Yamba (Self- serve)",
+      "address": "22 Treelands DR, Yamba NSW 2464",
+      "state": "NSW",
+      "lat": -29.427004,
+      "lng": 153.327922
+    },
+    {
       "brand": "United",
       "code": "NSW:2004",
       "name": "United Marulan",
@@ -11020,7 +11021,14 @@
       "address": "2071 Sandgate Road, QLD 4014",
       "state": "QLD",
       "lat": -27.366857935692128,
-      "lng": 153.06217969044073
+      "lng": 153.06217969044073,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Independent",
@@ -11546,23 +11554,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "VIC:EIk75LZm+WdRTFtByQgFDSibPUOX4KDubZsBd2BqaqU=",
-      "name": "7-Eleven Endeavour Hills",
-      "address": "Corner Power and Heatherton Roads, Endeavour Hills, 3802",
-      "state": "VIC",
-      "lat": -37.9732283766503,
-      "lng": 145.24269622580857,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "VIC:aIpf5c+FbIFIqjsnktLA+kzJT6XxVXCNbtB6Xfo1iqE=",
       "name": "7-Eleven Hoppers Crossing Central",
       "address": "289-293 Derrimut Road, Hoppers Crossing, 3029",
@@ -11689,6 +11680,21 @@
       "lng": 144.72831692,
       "unavailable_fuels": [
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "VIC:9Gg5KwafB8U1ZS6Prk1Rlzbe01Rgz4iN+JERj6cFrgY=",
+      "name": "EG Ampol Balwyn",
+      "address": "192 Whitehorse Road, Balwyn, 3103",
+      "state": "VIC",
+      "lat": -37.81237751,
+      "lng": 145.0763508,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

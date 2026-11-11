@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-11-11T10:12:17Z",
+  "fetched_at": "2026-11-11T12:00:48Z",
   "station_count": 294,
   "fuel_types": [
     "E10",
@@ -40,13 +40,14 @@
       "address": "200 Brooker Highway, North Hobart TAS 7000",
       "state": "TAS",
       "prices": {
+        "Diesel": 267.8,
         "E10": 215.8,
         "U95": 248.9,
         "U98": 256.9,
         "Premium Diesel": 277.9,
         "U91": 231.9
       },
-      "updated": "2026-11-11T08:32:17Z",
+      "updated": "2026-11-11T11:35:17Z",
       "lat": -42.8700379,
       "lng": 147.3214497
     },
@@ -1106,11 +1107,11 @@
         "E10": 221.9,
         "U95": 243.9,
         "U98": 252.9,
-        "Premium Diesel": 273.9,
+        "Premium Diesel": 272.9,
         "U91": 229.9,
         "Diesel": 269.9
       },
-      "updated": "2026-11-11T05:25:07Z",
+      "updated": "2026-11-11T11:45:16Z",
       "lat": -41.8717712,
       "lng": 148.2950255
     },
@@ -3850,12 +3851,12 @@
       "address": "Inglis Filling Station 31 Inglis ST, Wynyard TAS 7325",
       "state": "TAS",
       "prices": {
-        "Diesel": 277.9,
+        "Diesel": 267.9,
         "E10": 225.5,
-        "U98": 269.9,
-        "U91": 246.9
+        "U98": 256.9,
+        "U91": 235.9
       },
-      "updated": "2026-11-10T22:03:53Z",
+      "updated": "2026-11-11T10:57:40Z",
       "lat": -40.98942064,
       "lng": 145.72046885
     },
@@ -4158,12 +4159,12 @@
       "address": "34 William ST, Devonport TAS 7310",
       "state": "TAS",
       "prices": {
-        "Diesel": 273.9,
+        "Diesel": 263.9,
         "U95": 239.5,
-        "U98": 256.9,
-        "U91": 233.9
+        "U98": 249.9,
+        "U91": 219.9
       },
-      "updated": "2026-11-11T05:38:20Z",
+      "updated": "2026-11-11T10:53:18Z",
       "lat": -41.18681363,
       "lng": 146.34910597
     },
@@ -4779,11 +4780,11 @@
       "address": "84 Meander Valley RD, Hagley TAS 7292",
       "state": "TAS",
       "prices": {
-        "Diesel": 271.9,
-        "U98": 261.9,
-        "U91": 236.9
+        "Diesel": 265.9,
+        "U98": 253.9,
+        "U91": 225.9
       },
-      "updated": "2026-11-10T22:05:06Z",
+      "updated": "2026-11-11T10:56:31Z",
       "lat": -41.5264323,
       "lng": 146.88334421
     },

@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-12T19:27:13Z",
+  "fetched_at": "2026-11-12T20:59:21Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1267,
+  "station_count": 1263,
   "by_state": {
     "ACT": 8,
-    "NSW": 1157,
+    "NSW": 1156,
     "NT": 6,
-    "QLD": 38,
-    "SA": 30,
+    "QLD": 37,
+    "SA": 29,
     "TAS": 1,
-    "VIC": 27
+    "VIC": 26
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,14 +17,14 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 84,
-    "Independent": 75,
+    "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 68,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 20,
     "JOLT": 20,
+    "Ampol": 18,
     "Caltex": 11,
     "Shell": 10,
     "EVUp": 9,
@@ -33,7 +33,7 @@
     "Evie Networks": 7,
     "Mobil": 7,
     "Pearl Energy": 6,
-    "Liberty": 6,
+    "Liberty": 5,
     "Everty": 4,
     "Speedway": 3,
     "EG Ampol": 2,
@@ -7813,15 +7813,6 @@
       "lng": 153.003812
     },
     {
-      "brand": "Independent",
-      "code": "NSW:20857",
-      "name": "Riordan Fuels",
-      "address": "6030 Newell HWY, Jerilderie NSW 2716",
-      "state": "NSW",
-      "lat": -35.345613,
-      "lng": 145.759086
-    },
-    {
       "brand": "Exploren",
       "code": "NSW:20458",
       "name": "Ripples On The Creek",
@@ -10608,22 +10599,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61401738",
-      "name": "Ampol Foodary Marsden",
-      "address": "10 Third Av & Browns Plains Rd, QLD 4132",
-      "state": "QLD",
-      "lat": -27.679856,
-      "lng": 153.087847,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "QLD:61477660",
       "name": "Ampol Foodary Yarrabilba",
       "address": "28 Yarrabilba Drive, QLD 4207",
@@ -11040,20 +11015,6 @@
       "state": "QLD",
       "lat": -16.916483,
       "lng": 145.871647
-    },
-    {
-      "brand": "Ampol",
-      "code": "SA:61577046",
-      "name": "Ampol Berri",
-      "address": "2 Wilson St, SA 5343",
-      "state": "SA",
-      "lat": -34.28635986450745,
-      "lng": 140.59938162698364,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "Ampol",
@@ -11570,22 +11531,6 @@
       "unavailable_fuels": [
         "Diesel",
         "E10",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Liberty",
-      "code": "VIC:TLtPi2eAReZ08cgSkspq1ztS+Q5iojZiLK3jS4x9RpU=",
-      "name": "Liberty Benalla",
-      "address": "5941 Midland Highway, Benalla, 3672",
-      "state": "VIC",
-      "lat": -36.53770963,
-      "lng": 145.9815757,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "Premium Diesel",
         "U91",
         "U98"
       ]

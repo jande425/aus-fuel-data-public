@@ -1,29 +1,29 @@
 {
-  "fetched_at": "2026-11-12T03:14:02Z",
+  "fetched_at": "2026-11-12T09:44:30Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1269,
+  "station_count": 1279,
   "by_state": {
     "ACT": 8,
-    "NSW": 1158,
+    "NSW": 1164,
     "NT": 6,
-    "QLD": 39,
+    "QLD": 40,
     "SA": 30,
     "TAS": 1,
-    "VIC": 27
+    "VIC": 30
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 82,
-    "Independent": 76,
+    "Reddy Express": 84,
+    "7-Eleven": 78,
+    "Independent": 75,
     "Chargefox": 72,
-    "7-Eleven": 70,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 20,
+    "Ampol": 21,
     "JOLT": 20,
     "Caltex": 11,
     "Shell": 10,
@@ -461,12 +461,30 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:2500",
+      "name": "7-Eleven Kanwal",
+      "address": "207-209 Wallarah Rd, KANWAL NSW 2259",
+      "state": "NSW",
+      "lat": -33.252865,
+      "lng": 151.493174
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:239",
       "name": "7-Eleven Kensington",
       "address": "131 Anzac Parade & Todman Avenue, Kensington NSW 2033",
       "state": "NSW",
       "lat": -33.910008,
       "lng": 151.223177
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:151",
+      "name": "7-Eleven Kings Park",
+      "address": "363 Vardys Road, Kings Park NSW 2148",
+      "state": "NSW",
+      "lat": -33.7466,
+      "lng": 150.90688
     },
     {
       "brand": "7-Eleven",
@@ -512,6 +530,15 @@
       "state": "NSW",
       "lat": -33.385396,
       "lng": 151.365375
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:20149",
+      "name": "7-Eleven Lismore",
+      "address": "135 Union ST, South Lismore NSW 2480",
+      "state": "NSW",
+      "lat": -28.812769,
+      "lng": 153.266609
     },
     {
       "brand": "7-Eleven",
@@ -605,6 +632,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:264",
+      "name": "7-Eleven Northmead",
+      "address": "56 Windsor Road & Northmead Avenue, Northmead NSW 2152",
+      "state": "NSW",
+      "lat": -33.790961,
+      "lng": 150.997173
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:20057",
       "name": "7-Eleven Nowra",
       "address": "104 Worrigee ST, Nowra NSW 2541",
@@ -668,6 +704,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:262",
+      "name": "7-Eleven Ryde",
+      "address": "326-328 Blaxland Road, Ryde NSW 2112",
+      "state": "NSW",
+      "lat": -33.802513,
+      "lng": 151.100336
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:160",
       "name": "7-Eleven Shellharbour",
       "address": "Corner Shellharbour & Wattle Roads, Shellharbour NSW 2529",
@@ -683,6 +728,15 @@
       "state": "NSW",
       "lat": -33.975997,
       "lng": 151.10364
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:1934",
+      "name": "7-Eleven Toukley",
+      "address": "287 Main Street, Toukley NSW 2263",
+      "state": "NSW",
+      "lat": -33.264926,
+      "lng": 151.54631
     },
     {
       "brand": "7-Eleven",
@@ -710,6 +764,15 @@
       "state": "NSW",
       "lat": -33.74687,
       "lng": 151.050803
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:17122",
+      "name": "7-Eleven Woolooware",
+      "address": "192-198 The Kingsway, WOOLOOWARE NSW 2230",
+      "state": "NSW",
+      "lat": -34.046318,
+      "lng": 151.133545
     },
     {
       "brand": "Exploren",
@@ -2141,15 +2204,6 @@
       "state": "NSW",
       "lat": -32.252203,
       "lng": 148.589897
-    },
-    {
-      "brand": "Independent",
-      "code": "NSW:1757",
-      "name": "Al Mustafa Petrol",
-      "address": "1/3 Haldon St, Lakemba NSW 2195",
-      "state": "NSW",
-      "lat": -33.917964,
-      "lng": 151.07633
     },
     {
       "brand": "Tesla",
@@ -10604,27 +10658,12 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "QLD:61401923",
-      "name": "7-Eleven Manly West",
-      "address": "459 Manly Rd, QLD 4179",
+      "code": "QLD:61402880",
+      "name": "7-Eleven Raceview",
+      "address": "59-63 Raceview St, QLD 4305",
       "state": "QLD",
-      "lat": -27.475413,
-      "lng": 153.165772,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61477960",
-      "name": "7-Eleven Park Ridge",
-      "address": "17 Park Ridge Road, QLD 4125",
-      "state": "QLD",
-      "lat": -27.698996,
-      "lng": 153.040984,
+      "lat": -27.634495,
+      "lng": 152.774455,
       "unavailable_fuels": [
         "E10",
         "Premium Diesel",
@@ -10962,6 +11001,39 @@
       "lng": 149.797847
     },
     {
+      "brand": "Reddy Express",
+      "code": "QLD:61401569",
+      "name": "Shell Reddy Express Marsden",
+      "address": "604-614 Browns Plains Rd (Cnr Second Ave), QLD 4132",
+      "state": "QLD",
+      "lat": -27.680743,
+      "lng": 153.092073,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "QLD:61478007",
+      "name": "Shell Reddy Express Yarrabilba",
+      "address": "1322-1346 Waterford-Tamborine Road, QLD 4207",
+      "state": "QLD",
+      "lat": -27.779501,
+      "lng": 153.101087,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "QLD:61402672",
       "name": "The Post Office Roadhouse",
@@ -10988,8 +11060,8 @@
       "name": "U-GO Sunnybank",
       "address": "81 Mains Rd, QLD 4109",
       "state": "QLD",
-      "lat": -27.584333,
-      "lng": 153.061998,
+      "lat": -27.5842627927182,
+      "lng": 153.0620726938658,
       "unavailable_fuels": [
         "E10",
         "Premium Diesel",
@@ -11446,6 +11518,22 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:zEMR6DE8DiG+hXZkaUFKgbOaFU1NnquUmdZC9QEGOjw=",
+      "name": "7-Eleven Hoppers Crossing Heaths",
+      "address": "1-15 Heaths Road, Hoppers Crossing, 3029",
+      "state": "VIC",
+      "lat": -37.87990705,
+      "lng": 144.70412566,
+      "unavailable_fuels": [
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:VkvBa8whRgy6Z46L367DlDXkAoFePQygEgkFhtVuUPE=",
       "name": "7-Eleven Noble Park",
       "address": "1100-1106 Heatherton Road, Noble Park, 3174",
@@ -11462,12 +11550,44 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:QTRqZO2P7gosnGMn/67h4DOSa+1+J48i8vYKVB2dILY=",
+      "name": "7-Eleven Tarneit",
+      "address": "618 Tarneit Road, Tarneit, 3029",
+      "state": "VIC",
+      "lat": -37.85343974,
+      "lng": 144.6679081,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:qdYS2O/Yo0pqGiELs2gDaGoPKgmciHw3VYczJCSDG3k=",
       "name": "7-Eleven Wyndham Vale",
       "address": "1389 Ison Road, Wyndham Vale, 3024",
       "state": "VIC",
       "lat": -37.87619815,
       "lng": 144.59009246,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "VIC:4iTRq2Gfmk+W5lRJNXuluoo05pTK45xT/z0WM17CsNE=",
+      "name": "Ampol Foodary South Yarra",
+      "address": "262-268 Punt Road, South Yarra, 3141",
+      "state": "VIC",
+      "lat": -37.84540972573225,
+      "lng": 144.98541725404544,
       "unavailable_fuels": [
         "Premium Diesel",
         "U91",

@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-11-12T13:03:57Z",
+  "fetched_at": "2026-11-12T18:52:26Z",
   "station_count": 698,
   "fuel_types": [
     "E10",
@@ -2920,7 +2920,7 @@
         "U98": 232.9,
         "Premium Diesel": 259.9
       },
-      "updated": "2026-11-12T12:55:18Z",
+      "updated": "2026-11-12T18:40:17Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5423,7 +5423,7 @@
         "U98": 253.9,
         "Premium Diesel": 272.9
       },
-      "updated": "2026-11-12T12:55:18Z",
+      "updated": "2026-11-12T18:40:17Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -6797,16 +6797,13 @@
       "address": "49 Norrie Ave, SA 5608",
       "state": "SA",
       "prices": {
-        "U91": 237.1,
-        "Diesel": 279.5,
+        "U91": 236.5,
+        "Diesel": 279.2,
         "U98": 259.9
       },
-      "updated": "2026-11-12T05:47:45Z",
+      "updated": "2026-11-12T14:46:01Z",
       "lat": -33.0247883916236,
-      "lng": 137.5506509386578,
-      "unavailable_fuels": [
-        "LPG"
-      ]
+      "lng": 137.5506509386578
     },
     {
       "brand": "On the Run",

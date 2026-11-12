@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-11T21:46:30Z",
+  "fetched_at": "2026-11-12T01:53:28Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1272,
+  "station_count": 1268,
   "by_state": {
     "ACT": 8,
-    "NSW": 1160,
+    "NSW": 1158,
     "NT": 6,
-    "QLD": 40,
-    "SA": 31,
+    "QLD": 39,
+    "SA": 30,
     "TAS": 1,
     "VIC": 26
   },
@@ -17,21 +17,21 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "Independent": 77,
+    "Independent": 76,
     "Chargefox": 72,
-    "7-Eleven": 71,
-    "BP": 55,
+    "7-Eleven": 70,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 21,
+    "Ampol": 20,
     "JOLT": 20,
     "Caltex": 11,
     "Shell": 10,
     "EVUp": 9,
     "United": 8,
-    "Mobil": 8,
     "Metro Fuel": 7,
     "Evie Networks": 7,
+    "Mobil": 7,
     "Pearl Energy": 6,
     "Liberty": 6,
     "Everty": 4,
@@ -47,6 +47,7 @@
     "Ampol Foodary": 1,
     "Arko Energy": 1,
     "Freedom Fuels": 1,
+    "U-Go": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
@@ -322,15 +323,6 @@
       "state": "NSW",
       "lat": -33.897617,
       "lng": 151.099796
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:217",
-      "name": "7-Eleven Dee Why",
-      "address": "940 Pittwater Road & Hawkesbury Avenue, Dee Why NSW 2099",
-      "state": "NSW",
-      "lat": -33.749095,
-      "lng": 151.290234
     },
     {
       "brand": "7-Eleven",
@@ -2187,15 +2179,6 @@
       "lng": 146.916238
     },
     {
-      "brand": "Ampol",
-      "code": "NSW:18013",
-      "name": "Albury North Diesel Stop",
-      "address": "79 Union Road, NORTH ALBURY NSW 2640",
-      "state": "NSW",
-      "lat": -36.054966,
-      "lng": 146.94876
-    },
-    {
       "brand": "Exploren",
       "code": "NSW:20280",
       "name": "Albury Showground",
@@ -2257,6 +2240,15 @@
       "state": "NSW",
       "lat": -32.719967,
       "lng": 152.135661
+    },
+    {
+      "brand": "Ampol",
+      "code": "NSW:655",
+      "name": "Ampol Eastern Creek Diesel Stop",
+      "address": "Lot 1548 Roberts Rd, Eastern Creek NSW 2766",
+      "state": "NSW",
+      "lat": -33.815141,
+      "lng": 150.837384
     },
     {
       "brand": "Ampol Foodary",
@@ -4588,15 +4580,6 @@
       "state": "NSW",
       "lat": -33.38415,
       "lng": 148.009986
-    },
-    {
-      "brand": "Independent",
-      "code": "NSW:18325",
-      "name": "Fuelx Lurnea",
-      "address": "96 Hoxton Park RD, Lurnea NSW 2170",
-      "state": "NSW",
-      "lat": -33.927636,
-      "lng": 150.906039
     },
     {
       "brand": "Exploren",
@@ -10681,22 +10664,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61477713",
-      "name": "Ampol Foodary Oaklands Beaudesert",
-      "address": "1 Oakland Wy, QLD 4285",
-      "state": "QLD",
-      "lat": -27.993322055171024,
-      "lng": 153.0115307901783,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "QLD:61477660",
       "name": "Ampol Foodary Yarrabilba",
       "address": "28 Yarrabilba Drive, QLD 4207",
@@ -10753,15 +10720,6 @@
       "state": "QLD",
       "lat": -27.684376,
       "lng": 153.189341
-    },
-    {
-      "brand": "BP",
-      "code": "QLD:61401546",
-      "name": "BP Connect Springwood",
-      "address": "3388 Pacific Hwy, QLD 4127",
-      "state": "QLD",
-      "lat": -27.622437,
-      "lng": 153.127984
     },
     {
       "brand": "BP",
@@ -11025,6 +10983,22 @@
       "lng": 143.549026
     },
     {
+      "brand": "U-Go",
+      "code": "QLD:61402096",
+      "name": "U-GO Sunnybank",
+      "address": "81 Mains Rd, QLD 4109",
+      "state": "QLD",
+      "lat": -27.584333,
+      "lng": 153.061998,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "United",
       "code": "QLD:61477083",
       "name": "United Crestmead",
@@ -11131,20 +11105,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Mobil",
-      "code": "SA:61501922",
-      "name": "Cadney Homestead Roadhouse",
-      "address": "69 Stuart Highway, SA 5723",
-      "state": "SA",
-      "lat": -27.905191,
-      "lng": 134.056677,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95"
       ]
     },
     {

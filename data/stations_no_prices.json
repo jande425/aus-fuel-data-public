@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-12T10:34:30Z",
+  "fetched_at": "2026-11-12T13:03:57Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1277,
+  "station_count": 1269,
   "by_state": {
     "ACT": 8,
-    "NSW": 1163,
+    "NSW": 1158,
     "NT": 6,
     "QLD": 39,
     "SA": 30,
     "TAS": 1,
-    "VIC": 30
+    "VIC": 27
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,13 +17,13 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 84,
-    "7-Eleven": 77,
     "Independent": 75,
     "Chargefox": 72,
+    "7-Eleven": 70,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
-    "Ampol": 21,
+    "Ampol": 20,
     "JOLT": 20,
     "Caltex": 11,
     "Shell": 10,
@@ -470,15 +470,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:151",
-      "name": "7-Eleven Kings Park",
-      "address": "363 Vardys Road, Kings Park NSW 2148",
-      "state": "NSW",
-      "lat": -33.7466,
-      "lng": 150.90688
-    },
-    {
-      "brand": "7-Eleven",
       "code": "NSW:144",
       "name": "7-Eleven Kingswood",
       "address": "127 Great Western HWY, Kingswood NSW 2747",
@@ -521,15 +512,6 @@
       "state": "NSW",
       "lat": -33.385396,
       "lng": 151.365375
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:20149",
-      "name": "7-Eleven Lismore",
-      "address": "135 Union ST, South Lismore NSW 2480",
-      "state": "NSW",
-      "lat": -28.812769,
-      "lng": 153.266609
     },
     {
       "brand": "7-Eleven",
@@ -623,15 +605,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:264",
-      "name": "7-Eleven Northmead",
-      "address": "56 Windsor Road & Northmead Avenue, Northmead NSW 2152",
-      "state": "NSW",
-      "lat": -33.790961,
-      "lng": 150.997173
-    },
-    {
-      "brand": "7-Eleven",
       "code": "NSW:20057",
       "name": "7-Eleven Nowra",
       "address": "104 Worrigee ST, Nowra NSW 2541",
@@ -722,15 +695,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:1934",
-      "name": "7-Eleven Toukley",
-      "address": "287 Main Street, Toukley NSW 2263",
-      "state": "NSW",
-      "lat": -33.264926,
-      "lng": 151.54631
-    },
-    {
-      "brand": "7-Eleven",
       "code": "NSW:178",
       "name": "7-Eleven Watanobbi",
       "address": "156 Pacific Highway, Watanobbi NSW 2259",
@@ -755,15 +719,6 @@
       "state": "NSW",
       "lat": -33.74687,
       "lng": 151.050803
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:17122",
-      "name": "7-Eleven Woolooware",
-      "address": "192-198 The Kingsway, WOOLOOWARE NSW 2230",
-      "state": "NSW",
-      "lat": -34.046318,
-      "lng": 151.133545
     },
     {
       "brand": "Exploren",
@@ -11500,22 +11455,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "VIC:zEMR6DE8DiG+hXZkaUFKgbOaFU1NnquUmdZC9QEGOjw=",
-      "name": "7-Eleven Hoppers Crossing Heaths",
-      "address": "1-15 Heaths Road, Hoppers Crossing, 3029",
-      "state": "VIC",
-      "lat": -37.87990705,
-      "lng": 144.70412566,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "VIC:VkvBa8whRgy6Z46L367DlDXkAoFePQygEgkFhtVuUPE=",
       "name": "7-Eleven Noble Park",
       "address": "1100-1106 Heatherton Road, Noble Park, 3174",
@@ -11532,44 +11471,12 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "VIC:QTRqZO2P7gosnGMn/67h4DOSa+1+J48i8vYKVB2dILY=",
-      "name": "7-Eleven Tarneit",
-      "address": "618 Tarneit Road, Tarneit, 3029",
-      "state": "VIC",
-      "lat": -37.85343974,
-      "lng": 144.6679081,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "VIC:qdYS2O/Yo0pqGiELs2gDaGoPKgmciHw3VYczJCSDG3k=",
       "name": "7-Eleven Wyndham Vale",
       "address": "1389 Ison Road, Wyndham Vale, 3024",
       "state": "VIC",
       "lat": -37.87619815,
       "lng": 144.59009246,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "VIC:4iTRq2Gfmk+W5lRJNXuluoo05pTK45xT/z0WM17CsNE=",
-      "name": "Ampol Foodary South Yarra",
-      "address": "262-268 Punt Road, South Yarra, 3141",
-      "state": "VIC",
-      "lat": -37.84540972573225,
-      "lng": 144.98541725404544,
       "unavailable_fuels": [
         "Premium Diesel",
         "U91",

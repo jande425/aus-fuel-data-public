@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-13T01:02:17Z",
+  "fetched_at": "2026-11-13T01:37:46Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1262,
+  "station_count": 1261,
   "by_state": {
     "ACT": 8,
-    "NSW": 1156,
+    "NSW": 1157,
     "NT": 6,
-    "QLD": 36,
+    "QLD": 34,
     "SA": 30,
     "TAS": 1,
     "VIC": 25
@@ -24,9 +24,9 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 18,
+    "Ampol": 17,
     "Caltex": 11,
-    "Shell": 11,
+    "Shell": 10,
     "EVUp": 9,
     "Metro Fuel": 7,
     "Evie Networks": 7,
@@ -36,6 +36,7 @@
     "Liberty": 5,
     "Everty": 4,
     "Speedway": 3,
+    "U-Go": 2,
     "EG Ampol": 2,
     "Budget": 2,
     "Transwest Fuels": 2,
@@ -47,7 +48,6 @@
     "Ampol Foodary": 1,
     "Arko Energy": 1,
     "Freedom Fuels": 1,
-    "U-Go": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
@@ -10054,6 +10054,15 @@
       "lng": 151.273708
     },
     {
+      "brand": "U-Go",
+      "code": "NSW:17322",
+      "name": "U-Go Raymond Terrace (Unmanned)",
+      "address": "136-138 Adelaide ST, Raymond Terrace NSW 2324",
+      "state": "NSW",
+      "lat": -32.765038,
+      "lng": 151.742527
+    },
+    {
       "brand": "United",
       "code": "NSW:2004",
       "name": "United Marulan",
@@ -10599,22 +10608,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61477660",
-      "name": "Ampol Foodary Yarrabilba",
-      "address": "28 Yarrabilba Drive, QLD 4207",
-      "state": "QLD",
-      "lat": -27.801346,
-      "lng": 153.102262,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "QLD:61478053",
       "name": "Ampol Foodary Yarrabilba South",
       "address": "19 Mill St, QLD 4207",
@@ -10801,23 +10794,6 @@
         "Diesel",
         "U91",
         "U95"
-      ]
-    },
-    {
-      "brand": "Shell",
-      "code": "QLD:61478246",
-      "name": "NightOwl Shell Dakabin",
-      "address": "26/289 Old Gympie Rd, QLD 4503",
-      "state": "QLD",
-      "lat": -27.2254255222293,
-      "lng": 152.9905663453772,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {

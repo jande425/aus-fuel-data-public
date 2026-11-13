@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-13T01:37:46Z",
+  "fetched_at": "2026-11-13T02:46:36Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1261,
   "by_state": {
     "ACT": 8,
     "NSW": 1157,
     "NT": 6,
-    "QLD": 34,
+    "QLD": 33,
     "SA": 30,
     "TAS": 1,
-    "VIC": 25
+    "VIC": 26
   },
   "by_brand": {
     "Exploren": 236,
@@ -33,15 +33,15 @@
     "United": 7,
     "Mobil": 7,
     "Pearl Energy": 6,
-    "Liberty": 5,
+    "Liberty": 6,
     "Everty": 4,
     "Speedway": 3,
-    "U-Go": 2,
     "EG Ampol": 2,
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
     "Metro Petroleum": 2,
+    "U-Go": 1,
     "Westside": 1,
     "PK's": 1,
     "Astron": 1,
@@ -10926,22 +10926,6 @@
       "lng": 143.549026
     },
     {
-      "brand": "U-Go",
-      "code": "QLD:61402096",
-      "name": "U-GO Sunnybank",
-      "address": "81 Mains Rd, QLD 4109",
-      "state": "QLD",
-      "lat": -27.5842627927182,
-      "lng": 153.0620726938658,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "United",
       "code": "QLD:61477083",
       "name": "United Crestmead",
@@ -11513,6 +11497,22 @@
       "unavailable_fuels": [
         "Diesel",
         "E10",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Liberty",
+      "code": "VIC:TLtPi2eAReZ08cgSkspq1ztS+Q5iojZiLK3jS4x9RpU=",
+      "name": "Liberty Benalla",
+      "address": "5941 Midland Highway, Benalla, 3672",
+      "state": "VIC",
+      "lat": -36.53770963,
+      "lng": 145.9815757,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "Premium Diesel",
         "U91",
         "U98"
       ]

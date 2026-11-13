@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T01:37:46Z",
+  "last_updated": "2026-11-13T02:46:36Z",
   "total_stations": 7884,
   "total_states": 8,
   "fuel_types": [
@@ -19,58 +19,58 @@
   "states": {
     "ACT": {
       "station_count": 61,
-      "price_count": 260,
+      "price_count": 261,
       "file": "act/latest.json",
-      "checksum": "d658a16f",
-      "size_bytes": 24894
+      "checksum": "c74a6944",
+      "size_bytes": 24916
     },
     "NSW": {
       "station_count": 2111,
-      "price_count": 8430,
+      "price_count": 8435,
       "file": "nsw/latest.json",
-      "checksum": "3a0f0d37",
-      "size_bytes": 838503
+      "checksum": "ec8f8e26",
+      "size_bytes": 838634
     },
     "NT": {
       "station_count": 208,
-      "price_count": 562,
+      "price_count": 563,
       "file": "nt/latest.json",
-      "checksum": "7ff70fce",
-      "size_bytes": 78640
+      "checksum": "3da86ed5",
+      "size_bytes": 78665
     },
     "QLD": {
-      "station_count": 1775,
-      "price_count": 6869,
+      "station_count": 1776,
+      "price_count": 6879,
       "file": "qld/latest.json",
-      "checksum": "58f012d3",
-      "size_bytes": 700445
+      "checksum": "6657a467",
+      "size_bytes": 700745
     },
     "SA": {
       "station_count": 698,
-      "price_count": 2479,
+      "price_count": 2478,
       "file": "sa/latest.json",
-      "checksum": "56d91db0",
-      "size_bytes": 270239
+      "checksum": "fcff2245",
+      "size_bytes": 270269
     },
     "TAS": {
       "station_count": 294,
-      "price_count": 1425,
+      "price_count": 1424,
       "file": "tas/latest.json",
-      "checksum": "cd667664",
-      "size_bytes": 123893
+      "checksum": "d427a0d0",
+      "size_bytes": 123871
     },
     "VIC": {
-      "station_count": 1736,
-      "price_count": 7121,
+      "station_count": 1735,
+      "price_count": 7116,
       "file": "vic/latest.json",
-      "checksum": "553d4135",
-      "size_bytes": 779215
+      "checksum": "ef513b7d",
+      "size_bytes": 778756
     },
     "WA": {
       "station_count": 1001,
       "price_count": 3394,
       "file": "wa/latest.json",
-      "checksum": "ac8bda66",
+      "checksum": "22330e86",
       "size_bytes": 512587
     }
   },

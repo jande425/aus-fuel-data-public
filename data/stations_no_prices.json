@@ -1,30 +1,30 @@
 {
-  "fetched_at": "2026-11-13T02:46:36Z",
+  "fetched_at": "2026-11-13T09:27:39Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1261,
+  "station_count": 1260,
   "by_state": {
     "ACT": 8,
     "NSW": 1157,
     "NT": 6,
-    "QLD": 33,
-    "SA": 30,
+    "QLD": 31,
+    "SA": 29,
     "TAS": 1,
-    "VIC": 26
+    "VIC": 28
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 84,
+    "Reddy Express": 83,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 68,
-    "BP": 53,
+    "7-Eleven": 69,
+    "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 17,
+    "Ampol": 16,
     "Caltex": 11,
     "Shell": 10,
     "EVUp": 9,
@@ -33,24 +33,24 @@
     "United": 7,
     "Mobil": 7,
     "Pearl Energy": 6,
-    "Liberty": 6,
+    "Liberty": 5,
     "Everty": 4,
     "Speedway": 3,
+    "Ampol Foodary": 2,
     "EG Ampol": 2,
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
+    "Pacific Fuel Solutions": 2,
     "Metro Petroleum": 2,
-    "U-Go": 1,
     "Westside": 1,
     "PK's": 1,
     "Astron": 1,
-    "Ampol Foodary": 1,
     "Arko Energy": 1,
     "Freedom Fuels": 1,
-    "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
+    "Howqua Valley Holiday Park": 1,
     "MILDURA SERVO": 1
   },
   "stations": [
@@ -2249,6 +2249,15 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:2697",
+      "name": "Ampol Foodary Swansea",
+      "address": "126 Pacific Hwy, SWANSEA NSW 2281",
+      "state": "NSW",
+      "lat": -33.088127,
+      "lng": 151.638255
     },
     {
       "brand": "Ampol",
@@ -10054,15 +10063,6 @@
       "lng": 151.273708
     },
     {
-      "brand": "U-Go",
-      "code": "NSW:17322",
-      "name": "U-Go Raymond Terrace (Unmanned)",
-      "address": "136-138 Adelaide ST, Raymond Terrace NSW 2324",
-      "state": "NSW",
-      "lat": -32.765038,
-      "lng": 151.742527
-    },
-    {
       "brand": "United",
       "code": "NSW:2004",
       "name": "United Marulan",
@@ -10608,22 +10608,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61478053",
-      "name": "Ampol Foodary Yarrabilba South",
-      "address": "19 Mill St, QLD 4207",
-      "state": "QLD",
-      "lat": -27.81564360059762,
-      "lng": 153.12279568619155,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -10873,22 +10857,6 @@
     },
     {
       "brand": "Reddy Express",
-      "code": "QLD:61401569",
-      "name": "Shell Reddy Express Marsden",
-      "address": "604-614 Browns Plains Rd (Cnr Second Ave), QLD 4132",
-      "state": "QLD",
-      "lat": -27.680743,
-      "lng": 153.092073,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Reddy Express",
       "code": "QLD:61478007",
       "name": "Shell Reddy Express Yarrabilba",
       "address": "1322-1346 Waterford-Tamborine Road, QLD 4207",
@@ -10986,22 +10954,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "BP",
-      "code": "SA:61577435",
-      "name": "BP OPT Tailem Bend",
-      "address": "Cnr Tuscany Road & Dukes Highway, SA 5260",
-      "state": "SA",
-      "lat": -35.27647807471725,
-      "lng": 139.46740368154525,
-      "unavailable_fuels": [
-        "Diesel",
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },
@@ -11373,6 +11325,22 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:SmZCp5OHbvdZVkaDU+Xj09UR0Hm4iEYeZv2GByaU6Qs=",
+      "name": "7-Eleven Pascoe Vale South",
+      "address": "475-477 Bell Street, Pascoe Vale South, 3044",
+      "state": "VIC",
+      "lat": -37.73875484,
+      "lng": 144.94071995,
+      "unavailable_fuels": [
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:qdYS2O/Yo0pqGiELs2gDaGoPKgmciHw3VYczJCSDG3k=",
       "name": "7-Eleven Wyndham Vale",
       "address": "1389 Ison Road, Wyndham Vale, 3024",
@@ -11502,19 +11470,15 @@
       ]
     },
     {
-      "brand": "Liberty",
-      "code": "VIC:TLtPi2eAReZ08cgSkspq1ztS+Q5iojZiLK3jS4x9RpU=",
-      "name": "Liberty Benalla",
-      "address": "5941 Midland Highway, Benalla, 3672",
+      "brand": "Howqua Valley Holiday Park",
+      "code": "VIC:cOFIdXsDvthCthyJAsbbThQEkxV0RU4+cc3NgZJmHdQ=",
+      "name": "Howqua Valley Holiday Park",
+      "address": "2740 Mansfield-Woods Point Rd, HOWQUA INLET, 3723",
       "state": "VIC",
-      "lat": -36.53770963,
-      "lng": 145.9815757,
+      "lat": -37.23197107,
+      "lng": 146.11921955,
       "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
+        "U91"
       ]
     },
     {
@@ -11570,6 +11534,20 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "Pacific Fuel Solutions",
+      "code": "VIC:1looc6JPz9TOgxlykj3+EVLnlUyaAi5gBeS/7+4Y1VE=",
+      "name": "Pacific Fuel Solutions Horsham",
+      "address": "52 Golf Course Road, Horsham, 3400",
+      "state": "VIC",
+      "lat": -36.73599904,
+      "lng": 142.19871222,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
       ]
     },
     {

@@ -2,7 +2,7 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-11-13T02:46:36Z",
+  "fetched_at": "2026-11-13T09:27:39Z",
   "station_count": 2111,
   "fuel_types": [
     "E10",
@@ -170,11 +170,11 @@
       "address": "286 Manilla St, MANILLA NSW 2346",
       "state": "NSW",
       "prices": {
-        "Diesel": 271.9,
-        "U95": 242.9,
-        "U91": 231.9
+        "Diesel": 267.9,
+        "U95": 239.9,
+        "U91": 226.9
       },
-      "updated": "2026-11-11T10:24:42Z",
+      "updated": "2026-11-13T07:33:11Z",
       "lat": -30.739713,
       "lng": 150.716288
     },
@@ -201,11 +201,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 250.5,
-        "E10": 210.5,
-        "U95": 224.5,
-        "U91": 212.5
+        "E10": 207.5,
+        "U95": 221.5,
+        "U91": 209.5
       },
-      "updated": "2026-11-11T18:39:16Z",
+      "updated": "2026-11-13T03:37:04Z",
       "lat": -33.842551,
       "lng": 151.010602
     },
@@ -249,13 +249,13 @@
       "address": "1 Weakleys Dr, THORNTON NSW 2322",
       "state": "NSW",
       "prices": {
-        "E10": 228.9,
-        "U95": 247.9,
-        "U98": 256.9,
-        "Premium Diesel": 269.9,
-        "U91": 230.9
+        "E10": 224.9,
+        "U95": 243.9,
+        "U98": 252.9,
+        "Premium Diesel": 265.5,
+        "U91": 226.9
       },
-      "updated": "2026-11-11T04:51:14Z",
+      "updated": "2026-11-13T04:42:14Z",
       "lat": -32.792986,
       "lng": 151.637461
     },
@@ -503,10 +503,10 @@
         "E10": 225.9,
         "U95": 244.9,
         "U98": 253.9,
-        "Premium Diesel": 272.9,
+        "Premium Diesel": 271.9,
         "U91": 227.9
       },
-      "updated": "2026-11-12T21:51:14Z",
+      "updated": "2026-11-13T03:39:14Z",
       "lat": -34.552962,
       "lng": 150.788927
     },
@@ -552,12 +552,12 @@
       "address": "95-97 Ramsay ST, Haberfield NSW 2045",
       "state": "NSW",
       "prices": {
-        "E10": 215.9,
-        "U98": 244.9,
-        "Premium Diesel": 276.9,
-        "U91": 217.9
+        "E10": 211.9,
+        "U98": 240.9,
+        "Premium Diesel": 272.9,
+        "U91": 213.9
       },
-      "updated": "2026-11-11T23:14:55Z",
+      "updated": "2026-11-13T05:16:55Z",
       "lat": -33.881623,
       "lng": 151.140229
     },
@@ -616,12 +616,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 270.9,
-        "E10": 216.9,
-        "U95": 233.9,
-        "U98": 242.9,
+        "E10": 215.9,
+        "U95": 232.9,
+        "U98": 241.9,
         "Premium Diesel": 273.9
       },
-      "updated": "2026-11-12T01:52:02Z",
+      "updated": "2026-11-13T03:35:37Z",
       "lat": -33.837648,
       "lng": 151.046763
     },
@@ -662,11 +662,11 @@
       "address": "777 New South Head Rd, ROSE BAY NSW 2029",
       "state": "NSW",
       "prices": {
-        "E10": 215.9,
-        "U98": 243.9,
+        "E10": 214.9,
+        "U98": 242.9,
         "Premium Diesel": 271.9
       },
-      "updated": "2026-11-12T21:00:15Z",
+      "updated": "2026-11-13T05:22:26Z",
       "lat": -33.870581,
       "lng": 151.268579
     },
@@ -725,12 +725,12 @@
       "address": "186 The Lakes Way, TUNCURRY NSW 2428",
       "state": "NSW",
       "prices": {
-        "Diesel": 279.9,
-        "E10": 231.9,
-        "U98": 259.9,
-        "U91": 235.9
+        "Diesel": 275.9,
+        "E10": 224.9,
+        "U98": 250.9,
+        "U91": 226.9
       },
-      "updated": "2026-11-07T01:11:22Z",
+      "updated": "2026-11-13T05:02:11Z",
       "lat": -32.165452,
       "lng": 152.493274
     },
@@ -894,10 +894,10 @@
       "address": "1-3 Penrhyn Rd, BANKSMEADOW NSW 2019",
       "state": "NSW",
       "prices": {
-        "Diesel": 269.9,
-        "Premium Diesel": 272.9
+        "Diesel": 268.9,
+        "Premium Diesel": 271.9
       },
-      "updated": "2026-11-12T01:57:25Z",
+      "updated": "2026-11-13T03:37:24Z",
       "lat": -33.963415,
       "lng": 151.215444
     },
@@ -908,10 +908,10 @@
       "address": "Lot 51 Bourke St (newell Hwy) Cnr River St, DUBBO NORTH NSW 2830",
       "state": "NSW",
       "prices": {
-        "Diesel": 261.9,
-        "Premium Diesel": 264.9
+        "Diesel": 259.9,
+        "Premium Diesel": 262.9
       },
-      "updated": "2026-11-12T22:32:26Z",
+      "updated": "2026-11-13T03:27:25Z",
       "lat": -32.233601,
       "lng": 148.611759
     },
@@ -957,10 +957,10 @@
         "E10": 217.9,
         "U95": 239.9,
         "U98": 245.9,
-        "Premium Diesel": 272.9,
+        "Premium Diesel": 269.9,
         "U91": 219.9
       },
-      "updated": "2026-11-12T03:45:23Z",
+      "updated": "2026-11-13T03:11:25Z",
       "lat": -34.041804,
       "lng": 150.730913
     },
@@ -1440,11 +1440,11 @@
       "prices": {
         "E10": 221.2,
         "U95": 243.3,
-        "U98": 252.2,
-        "Premium Diesel": 284.5,
+        "U98": 250.2,
+        "Premium Diesel": 283,
         "U91": 223.2
       },
-      "updated": "2026-11-13T02:12:26Z",
+      "updated": "2026-11-13T03:37:24Z",
       "lat": -32.277957,
       "lng": 150.897954
     },
@@ -1717,10 +1717,10 @@
       "address": "Cnr Onyx ST, Lightning Ridge NSW 2834",
       "state": "NSW",
       "prices": {
-        "Premium Diesel": 291.9,
+        "Premium Diesel": 290.9,
         "U91": 241.9
       },
-      "updated": "2026-11-13T02:07:25Z",
+      "updated": "2026-11-13T02:47:24Z",
       "lat": -29.429312,
       "lng": 147.974698
     },
@@ -1951,12 +1951,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 279.9,
-        "E10": 235.9,
-        "U95": 251.9,
-        "U98": 260.9,
+        "E10": 232.9,
+        "U95": 248.9,
+        "U98": 257.9,
         "Premium Diesel": 282.9
       },
-      "updated": "2026-11-12T23:16:21Z",
+      "updated": "2026-11-13T04:35:39Z",
       "lat": -30.627211,
       "lng": 152.972277
     },
@@ -1967,13 +1967,13 @@
       "address": "585 Hume HWY, Yagoona NSW 2199",
       "state": "NSW",
       "prices": {
-        "E10": 210.9,
-        "U95": 230.9,
-        "U98": 237.9,
-        "Premium Diesel": 255.9,
-        "U91": 212.9
+        "E10": 209.9,
+        "U95": 228.9,
+        "U98": 236.9,
+        "Premium Diesel": 252.9,
+        "U91": 211.9
       },
-      "updated": "2026-11-12T19:30:24Z",
+      "updated": "2026-11-13T07:12:56Z",
       "lat": -33.906106,
       "lng": 151.014058
     },
@@ -2050,12 +2050,12 @@
       "address": "206 Adelaide Street, HEATHERBRAE NSW 2324",
       "state": "NSW",
       "prices": {
-        "E10": 219.5,
-        "U98": 242.5,
-        "Premium Diesel": 258.9,
-        "U91": 221.5
+        "E10": 214.5,
+        "U98": 237.5,
+        "Premium Diesel": 253.5,
+        "U91": 216.5
       },
-      "updated": "2026-11-13T02:19:10Z",
+      "updated": "2026-11-13T07:20:32Z",
       "lat": -32.780587,
       "lng": 151.737605
     },
@@ -2178,12 +2178,12 @@
       "address": "380 Wollombi Rd, BELLBIRD NSW 2325",
       "state": "NSW",
       "prices": {
-        "E10": 225.5,
-        "U98": 249.5,
-        "Premium Diesel": 269.5,
-        "U91": 227.5
+        "E10": 219.5,
+        "U98": 242.5,
+        "Premium Diesel": 264.5,
+        "U91": 221.5
       },
-      "updated": "2026-11-11T05:52:00Z",
+      "updated": "2026-11-13T08:21:57Z",
       "lat": -32.854173,
       "lng": 151.32464
     },
@@ -2327,12 +2327,12 @@
       "address": "24 Murray Road, WINGHAM NSW 2429",
       "state": "NSW",
       "prices": {
-        "E10": 237.9,
+        "E10": 234.9,
         "U98": 260.9,
-        "Premium Diesel": 279.9,
-        "U91": 239.9
+        "Premium Diesel": 276.9,
+        "U91": 236.9
       },
-      "updated": "2026-11-12T07:53:40Z",
+      "updated": "2026-11-13T08:01:38Z",
       "lat": -31.868687,
       "lng": 152.362018
     },
@@ -2343,13 +2343,13 @@
       "address": "207-209 Wallarah Rd, KANWAL NSW 2259",
       "state": "NSW",
       "prices": {
-        "E10": 223.9,
-        "U95": 242.9,
-        "U98": 251.9,
+        "E10": 221.9,
+        "U95": 240.9,
+        "U98": 249.9,
         "Premium Diesel": 285.1,
-        "U91": 225.9
+        "U91": 223.9
       },
-      "updated": "2026-11-12T20:45:20Z",
+      "updated": "2026-11-13T04:39:13Z",
       "lat": -33.252865,
       "lng": 151.493174
     },
@@ -2360,11 +2360,11 @@
       "address": "46-48 Kyogle Rd, BRAY PARK NSW 2484",
       "state": "NSW",
       "prices": {
-        "Diesel": 272,
-        "U95": 241,
-        "U91": 229
+        "Diesel": 271,
+        "U95": 240,
+        "U91": 228
       },
-      "updated": "2026-11-12T08:08:17Z",
+      "updated": "2026-11-13T08:40:37Z",
       "lat": -28.340999,
       "lng": 153.374884
     },
@@ -2375,12 +2375,12 @@
       "address": "153 Princess Highway, ULLADULLA NSW 2539",
       "state": "NSW",
       "prices": {
-        "E10": 250.9,
-        "U98": 279.9,
+        "E10": 247.9,
+        "U98": 277.9,
         "Premium Diesel": 292.9,
-        "U91": 252.9
+        "U91": 250.9
       },
-      "updated": "2026-10-15T23:05:13Z",
+      "updated": "2026-11-13T03:15:44Z",
       "lat": -35.362843,
       "lng": 150.47273
     },
@@ -2474,9 +2474,9 @@
       "address": "55-67 Armstrong St, WESTDALE NSW 2340",
       "state": "NSW",
       "prices": {
-        "Premium Diesel": 278.8
+        "Premium Diesel": 263.8
       },
-      "updated": "2026-11-01T22:25:07Z",
+      "updated": "2026-11-13T07:49:29Z",
       "lat": -31.075069,
       "lng": 150.853261
     },
@@ -2519,10 +2519,10 @@
       "state": "NSW",
       "prices": {
         "U98": 247.9,
-        "Premium Diesel": 259.9,
-        "U91": 226.9
+        "Premium Diesel": 262.9,
+        "U91": 229.9
       },
-      "updated": "2026-11-12T19:09:50Z",
+      "updated": "2026-11-13T06:13:11Z",
       "lat": -31.642115,
       "lng": 152.810203
     },
@@ -2550,10 +2550,12 @@
       "address": "12-14 Berowra Waters Rd, BEROWRA NSW 2081",
       "state": "NSW",
       "prices": {
+        "U95": 246.9,
+        "U98": 256.9,
         "Premium Diesel": 271.9,
         "U91": 229.9
       },
-      "updated": "2026-11-12T22:47:23Z",
+      "updated": "2026-11-13T03:57:24Z",
       "lat": -33.623381,
       "lng": 151.150554
     },
@@ -2653,23 +2655,6 @@
       "lng": 150.604307
     },
     {
-      "brand": "Ampol Foodary",
-      "code": "NSW:2697",
-      "name": "Ampol Foodary Swansea",
-      "address": "126 Pacific Hwy, SWANSEA NSW 2281",
-      "state": "NSW",
-      "prices": {
-        "E10": 228.9,
-        "U95": 243.3,
-        "U98": 250.4,
-        "Premium Diesel": 278.4,
-        "U91": 224.9
-      },
-      "updated": "2026-11-12T22:22:25Z",
-      "lat": -33.088127,
-      "lng": 151.638255
-    },
-    {
       "brand": "Reddy Express",
       "code": "NSW:2707",
       "name": "Shell Reddy  Express Queanbeyan",
@@ -2726,13 +2711,13 @@
       "address": "51 Egerton St, SILVERWATER NSW 2128",
       "state": "NSW",
       "prices": {
-        "E10": 219.9,
+        "E10": 214.9,
         "LPG": 112.9,
-        "U98": 248.9,
+        "U98": 243.9,
         "Premium Diesel": 273.9,
-        "U91": 221.9
+        "U91": 216.9
       },
-      "updated": "2026-11-11T21:32:10Z",
+      "updated": "2026-11-13T03:24:09Z",
       "lat": -33.836306,
       "lng": 151.04789
     },
@@ -2826,11 +2811,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 250.5,
-        "E10": 210.5,
+        "E10": 207.5,
         "U98": 233.5,
-        "U91": 212.5
+        "U91": 209.5
       },
-      "updated": "2026-11-11T22:42:51Z",
+      "updated": "2026-11-13T04:55:18Z",
       "lat": -33.847465,
       "lng": 151.01292
     },
@@ -2904,9 +2889,10 @@
       "prices": {
         "Diesel": 275.9,
         "U95": 237.9,
-        "U98": 247.9
+        "U98": 247.9,
+        "U91": 223.9
       },
-      "updated": "2026-11-11T04:13:01Z",
+      "updated": "2026-11-13T03:03:55Z",
       "lat": -33.664844,
       "lng": 150.855124
     },
@@ -2992,12 +2978,13 @@
       "address": "6425 Newell Hwy, GILGANDRA NSW 2827",
       "state": "NSW",
       "prices": {
-        "Diesel": 261.9,
+        "Diesel": 258.9,
         "E10": 228.9,
+        "U95": 247.9,
         "U98": 257.9,
-        "Premium Diesel": 264.9
+        "Premium Diesel": 261.9
       },
-      "updated": "2026-11-12T23:07:26Z",
+      "updated": "2026-11-13T04:07:26Z",
       "lat": -31.725444,
       "lng": 148.652797
     },
@@ -3332,13 +3319,13 @@
       "address": "133 Cessnock RD, Neath NSW 2326",
       "state": "NSW",
       "prices": {
-        "E10": 231.9,
+        "E10": 221.9,
         "U95": 243.9,
         "U98": 255.9,
-        "Premium Diesel": 272.9,
+        "Premium Diesel": 262.9,
         "U91": 233.9
       },
-      "updated": "2026-11-12T18:17:43Z",
+      "updated": "2026-11-13T09:05:10Z",
       "lat": -32.827006,
       "lng": 151.40701
     },
@@ -3352,10 +3339,10 @@
         "E10": 217.9,
         "U95": 236.9,
         "U98": 245.9,
-        "Premium Diesel": 272.9,
+        "Premium Diesel": 271.9,
         "U91": 219.9
       },
-      "updated": "2026-11-12T22:21:16Z",
+      "updated": "2026-11-13T04:12:14Z",
       "lat": -35.371414,
       "lng": 149.232741
     },
@@ -3430,10 +3417,10 @@
       "state": "NSW",
       "prices": {
         "Diesel": 265.9,
-        "U98": 251.9,
-        "U91": 232.9
+        "U98": 249.9,
+        "U91": 229.9
       },
-      "updated": "2026-11-09T20:24:17Z",
+      "updated": "2026-11-13T04:14:39Z",
       "lat": -34.741349,
       "lng": 146.555783
     },
@@ -3508,12 +3495,12 @@
       "address": "192-198 The Kingsway, WOOLOOWARE NSW 2230",
       "state": "NSW",
       "prices": {
-        "E10": 215.9,
-        "U98": 243.9,
+        "E10": 214.9,
+        "U98": 242.9,
         "Premium Diesel": 274.9,
-        "U91": 217.9
+        "U91": 216.9
       },
-      "updated": "2026-11-12T21:36:15Z",
+      "updated": "2026-11-13T04:39:13Z",
       "lat": -34.046318,
       "lng": 151.133545
     },
@@ -3542,13 +3529,13 @@
       "address": "474-478 Rocky Point Rd, SANS SOUCI NSW 2219",
       "state": "NSW",
       "prices": {
-        "E10": 214.9,
-        "U95": 233.9,
-        "U98": 242.9,
+        "E10": 213.9,
+        "U95": 232.9,
+        "U98": 241.9,
         "Premium Diesel": 269.9,
-        "U91": 216.9
+        "U91": 215.9
       },
-      "updated": "2026-11-12T05:00:44Z",
+      "updated": "2026-11-13T04:45:21Z",
       "lat": -33.990878,
       "lng": 151.133385
     },
@@ -3727,13 +3714,13 @@
       "address": "745 Main RD, Edgeworth NSW 2285",
       "state": "NSW",
       "prices": {
-        "E10": 230.9,
-        "U95": 249.9,
-        "U98": 258.9,
+        "E10": 229.9,
+        "U95": 248.9,
+        "U98": 257.9,
         "Premium Diesel": 272.9,
-        "U91": 232.9
+        "U91": 231.9
       },
-      "updated": "2026-11-12T23:09:13Z",
+      "updated": "2026-11-13T03:39:14Z",
       "lat": -32.92358,
       "lng": 151.621225
     },
@@ -3778,14 +3765,14 @@
       "address": "151 Prospect Hwy, SEVEN HILLS NSW 2147",
       "state": "NSW",
       "prices": {
-        "E10": 218.5,
+        "E10": 216.9,
         "LPG": 117.9,
-        "U95": 237.5,
-        "U98": 246.5,
-        "Premium Diesel": 275.9,
-        "U91": 220.5
+        "U95": 235.9,
+        "U98": 244.9,
+        "Premium Diesel": 276.9,
+        "U91": 218.9
       },
-      "updated": "2026-11-13T01:21:14Z",
+      "updated": "2026-11-13T04:42:14Z",
       "lat": -33.768936,
       "lng": 150.94268
     },
@@ -3796,13 +3783,13 @@
       "address": "397 Main RD, Cardiff NSW 2285",
       "state": "NSW",
       "prices": {
-        "E10": 241.9,
-        "U95": 260.9,
-        "U98": 269.9,
+        "E10": 239.9,
+        "U95": 258.9,
+        "U98": 267.9,
         "Premium Diesel": 280.9,
-        "U91": 243.9
+        "U91": 241.9
       },
-      "updated": "2026-11-12T19:27:15Z",
+      "updated": "2026-11-13T03:39:14Z",
       "lat": -32.933927,
       "lng": 151.656206
     },
@@ -3828,12 +3815,12 @@
       "address": "112 Minjungbal Dr, TWEED HEADS SOUTH NSW 2486",
       "state": "NSW",
       "prices": {
-        "E10": 224.9,
-        "U98": 252.9,
+        "E10": 223.9,
+        "U98": 251.9,
         "Premium Diesel": 272.9,
-        "U91": 226.9
+        "U91": 225.9
       },
-      "updated": "2026-11-12T23:42:15Z",
+      "updated": "2026-11-13T03:45:23Z",
       "lat": -28.207216,
       "lng": 153.54543
     },
@@ -3844,13 +3831,13 @@
       "address": "515 Bunnerong Rd, MATRAVILLE NSW 2036",
       "state": "NSW",
       "prices": {
-        "E10": 213.8,
-        "U95": 232.8,
-        "U98": 241.8,
+        "E10": 211.8,
+        "U95": 230.8,
+        "U98": 239.8,
         "Premium Diesel": 271.9,
-        "U91": 215.8
+        "U91": 213.8
       },
-      "updated": "2026-11-12T20:45:20Z",
+      "updated": "2026-11-13T04:36:16Z",
       "lat": -33.959435,
       "lng": 151.231759
     },
@@ -3861,13 +3848,13 @@
       "address": "231-235 Great North Road, Five Dock NSW 2046",
       "state": "NSW",
       "prices": {
-        "E10": 213.9,
-        "U95": 232.9,
-        "U98": 241.9,
+        "E10": 211.9,
+        "U95": 230.9,
+        "U98": 239.9,
         "Premium Diesel": 272.9,
-        "U91": 215.9
+        "U91": 213.9
       },
-      "updated": "2026-11-12T22:48:14Z",
+      "updated": "2026-11-13T04:36:16Z",
       "lat": -33.86491,
       "lng": 151.130081
     },
@@ -3965,11 +3952,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 248.9,
-        "E10": 215.9,
+        "E10": 210.9,
         "LPG": 129.9,
-        "U98": 239.9
+        "U98": 234.9
       },
-      "updated": "2026-11-12T11:39:44Z",
+      "updated": "2026-11-13T06:12:11Z",
       "lat": -33.852266,
       "lng": 150.935734
     },
@@ -4097,9 +4084,9 @@
       "prices": {
         "Diesel": 277.9,
         "U95": 255.9,
-        "U91": 240.9
+        "U91": 236.9
       },
-      "updated": "2026-11-12T22:16:15Z",
+      "updated": "2026-11-13T04:32:05Z",
       "lat": -30.953211,
       "lng": 148.382616
     },
@@ -4110,12 +4097,12 @@
       "address": "36-38 Lane Cove Rd, RYDE NSW 2112",
       "state": "NSW",
       "prices": {
-        "E10": 204.9,
+        "E10": 199.9,
         "U98": 229.9,
-        "Premium Diesel": 253.9,
+        "Premium Diesel": 248.9,
         "U91": 207.9
       },
-      "updated": "2026-11-12T18:34:14Z",
+      "updated": "2026-11-13T09:16:56Z",
       "lat": -33.807511,
       "lng": 151.108604
     },
@@ -4209,12 +4196,12 @@
       "address": "73 Meninya St, MOAMA NSW 2731",
       "state": "NSW",
       "prices": {
-        "Diesel": 284.9,
+        "Diesel": 276.9,
         "U98": 276.9,
-        "Premium Diesel": 287.9,
+        "Premium Diesel": 279.9,
         "U91": 249.9
       },
-      "updated": "2026-11-10T01:07:26Z",
+      "updated": "2026-11-13T06:42:24Z",
       "lat": -36.108156,
       "lng": 144.752866
     },
@@ -4514,12 +4501,12 @@
       "address": "60-64 Schwinghammer St, SOUTH GRAFTON NSW 2460",
       "state": "NSW",
       "prices": {
-        "Diesel": 272.9,
-        "E10": 223.9,
-        "U98": 254.9,
-        "U91": 226.9
+        "Diesel": 270.9,
+        "E10": 219.9,
+        "U98": 249.9,
+        "U91": 222.9
       },
-      "updated": "2026-11-11T03:14:09Z",
+      "updated": "2026-11-13T06:05:11Z",
       "lat": -29.711901,
       "lng": 152.946428
     },
@@ -4615,10 +4602,10 @@
         "E10": 220.9,
         "U95": 239.9,
         "U98": 249.9,
-        "Premium Diesel": 267.9,
+        "Premium Diesel": 259.9,
         "U91": 222.9
       },
-      "updated": "2026-11-12T22:07:23Z",
+      "updated": "2026-11-13T02:52:25Z",
       "lat": -32.734283,
       "lng": 152.109418
     },
@@ -4764,11 +4751,11 @@
       "address": "22 Stanmore Street, Enmore NSW 2042",
       "state": "NSW",
       "prices": {
-        "E10": 221.9,
-        "U98": 249.9,
-        "U91": 223.9
+        "E10": 220.9,
+        "U98": 248.9,
+        "U91": 222.9
       },
-      "updated": "2026-11-12T23:09:13Z",
+      "updated": "2026-11-13T04:36:16Z",
       "lat": -33.898417,
       "lng": 151.169933
     },
@@ -4802,7 +4789,7 @@
         "Premium Diesel": 265.5,
         "U91": 222.9
       },
-      "updated": "2026-11-12T22:48:14Z",
+      "updated": "2026-11-13T04:18:18Z",
       "lat": -32.744809,
       "lng": 151.583857
     },
@@ -4813,13 +4800,13 @@
       "address": "475 The Entrance Rd, LONG JETTY NSW 2261",
       "state": "NSW",
       "prices": {
-        "E10": 222.9,
-        "U95": 241.9,
-        "U98": 250.9,
-        "Premium Diesel": 275.9,
-        "U91": 224.9
+        "E10": 221.9,
+        "U95": 240.9,
+        "U98": 249.9,
+        "Premium Diesel": 270.9,
+        "U91": 223.9
       },
-      "updated": "2026-11-12T21:48:16Z",
+      "updated": "2026-11-13T04:36:16Z",
       "lat": -33.363259,
       "lng": 151.478911
     },
@@ -4854,6 +4841,22 @@
       "updated": "2026-11-12T23:42:51Z",
       "lat": -34.107783,
       "lng": 141.917818
+    },
+    {
+      "brand": "U-Go",
+      "code": "NSW:17322",
+      "name": "U-Go Raymond Terrace (Unmanned)",
+      "address": "136-138 Adelaide ST, Raymond Terrace NSW 2324",
+      "state": "NSW",
+      "prices": {
+        "E10": 219.5,
+        "U95": 235.5,
+        "U98": 240.5,
+        "Premium Diesel": 260.9
+      },
+      "updated": "2026-11-13T04:17:25Z",
+      "lat": -32.765038,
+      "lng": 151.742527
     },
     {
       "brand": "Ampol Foodary",
@@ -4893,13 +4896,13 @@
       "address": "133 Dora ST, Morisset NSW 2264",
       "state": "NSW",
       "prices": {
-        "E10": 230.9,
-        "U95": 249.9,
-        "U98": 258.9,
+        "E10": 228.9,
+        "U95": 247.9,
+        "U98": 256.9,
         "Premium Diesel": 277.9,
-        "U91": 232.9
+        "U91": 230.9
       },
-      "updated": "2026-11-10T22:48:14Z",
+      "updated": "2026-11-13T04:36:16Z",
       "lat": -33.111796,
       "lng": 151.480839
     },
@@ -5070,13 +5073,13 @@
       "state": "NSW",
       "prices": {
         "Diesel": 269.9,
-        "E10": 219.9,
-        "U95": 243.9,
-        "U98": 253.9,
+        "E10": 214.9,
+        "U95": 238.9,
+        "U98": 248.9,
         "Premium Diesel": 275.9,
-        "U91": 223.9
+        "U91": 218.9
       },
-      "updated": "2026-11-12T00:12:50Z",
+      "updated": "2026-11-13T04:17:10Z",
       "lat": -33.918371,
       "lng": 150.854054
     },
@@ -5087,12 +5090,12 @@
       "address": "33-35 Princes Highway, MOGO NSW 2536",
       "state": "NSW",
       "prices": {
-        "Diesel": 269.9,
-        "E10": 219.9,
-        "U98": 246.9,
-        "U91": 223.9
+        "Diesel": 267.9,
+        "E10": 217.9,
+        "U98": 244.9,
+        "U91": 221.9
       },
-      "updated": "2026-11-12T22:40:00Z",
+      "updated": "2026-11-13T03:32:15Z",
       "lat": -35.782159,
       "lng": 150.142056
     },
@@ -5306,12 +5309,12 @@
       "address": "3 Railway Pde, KOGARAH NSW 2217",
       "state": "NSW",
       "prices": {
-        "E10": 212.9,
-        "U98": 240.9,
+        "E10": 210.9,
+        "U98": 239.9,
         "Premium Diesel": 268.9,
         "U91": 214.9
       },
-      "updated": "2026-11-12T23:12:54Z",
+      "updated": "2026-11-13T04:21:15Z",
       "lat": -33.961714,
       "lng": 151.133181
     },
@@ -5524,9 +5527,9 @@
       "address": "44 Railway St, BOMADERRY NSW 2541",
       "state": "NSW",
       "prices": {
-        "Premium Diesel": 263.7
+        "Premium Diesel": 258.5
       },
-      "updated": "2026-11-10T04:39:59Z",
+      "updated": "2026-11-13T08:22:42Z",
       "lat": -34.851937,
       "lng": 150.611704
     },
@@ -5539,13 +5542,13 @@
       "prices": {
         "E10": 209.7,
         "E85": 475,
-        "LPG": 111.7,
+        "LPG": 113.7,
         "U95": 224.7,
         "U98": 231.7,
         "Premium Diesel": 259.7,
         "U91": 212.7
       },
-      "updated": "2026-11-12T20:57:31Z",
+      "updated": "2026-11-13T07:01:39Z",
       "lat": -33.897098,
       "lng": 151.149028
     },
@@ -5557,11 +5560,11 @@
       "state": "NSW",
       "prices": {
         "E10": 218.7,
-        "U98": 247.5,
+        "U98": 242.5,
         "Premium Diesel": 265.5,
         "U91": 220.7
       },
-      "updated": "2026-11-12T21:31:02Z",
+      "updated": "2026-11-13T06:46:44Z",
       "lat": -32.924181,
       "lng": 151.614763
     },
@@ -5572,11 +5575,11 @@
       "address": "32 Bryant St, NARWEE NSW 2209",
       "state": "NSW",
       "prices": {
-        "E10": 212.9,
-        "Premium Diesel": 261.7,
+        "E10": 207.9,
+        "Premium Diesel": 256.7,
         "U91": 215.9
       },
-      "updated": "2026-11-12T18:34:48Z",
+      "updated": "2026-11-13T07:58:53Z",
       "lat": -33.948554,
       "lng": 151.071512
     },
@@ -5763,9 +5766,11 @@
       "address": "42 Ambrose Street, CAREY BAY NSW 2283",
       "state": "NSW",
       "prices": {
-        "U95": 230.8
+        "Diesel": 259.8,
+        "U95": 230.8,
+        "U91": 218.5
       },
-      "updated": "2026-11-10T22:21:04Z",
+      "updated": "2026-11-13T05:09:04Z",
       "lat": -33.022855,
       "lng": 151.6051
     },
@@ -5854,10 +5859,10 @@
       "state": "NSW",
       "prices": {
         "U98": 259.9,
-        "Premium Diesel": 274.9,
+        "Premium Diesel": 269.9,
         "U91": 227.9
       },
-      "updated": "2026-11-10T20:00:04Z",
+      "updated": "2026-11-13T05:25:05Z",
       "lat": -33.79564,
       "lng": 150.939075
     },
@@ -5886,12 +5891,13 @@
       "address": "583 Bells Line Of Road, Kurmond NSW 2757",
       "state": "NSW",
       "prices": {
+        "Diesel": 265.9,
         "E10": 213.9,
         "U95": 230.9,
         "U98": 239.9,
         "U91": 215.9
       },
-      "updated": "2026-11-12T20:56:34Z",
+      "updated": "2026-11-13T07:56:36Z",
       "lat": -33.55094,
       "lng": 150.682834
     },
@@ -6049,11 +6055,11 @@
       "address": "1 Old Port Road, PORT KEMBLA NSW 2505",
       "state": "NSW",
       "prices": {
-        "U98": 256.9,
-        "Premium Diesel": 269.9,
-        "U91": 231.9
+        "U98": 240.9,
+        "Premium Diesel": 260.9,
+        "U91": 217.9
       },
-      "updated": "2026-11-05T22:24:13Z",
+      "updated": "2026-11-13T08:21:53Z",
       "lat": -34.478216,
       "lng": 150.902731
     },
@@ -6082,8 +6088,7 @@
       "prices": {
         "E10": 203.9,
         "U95": 224.9,
-        "Premium Diesel": 255.9,
-        "U91": 207.9
+        "Premium Diesel": 255.9
       },
       "updated": "2026-11-12T21:20:17Z",
       "lat": -33.886478,
@@ -6096,11 +6101,11 @@
       "address": "136-140 Adelaide Street, BLAYNEY NSW 2799",
       "state": "NSW",
       "prices": {
-        "Diesel": 269.9,
-        "U98": 249.9,
-        "U91": 228.9
+        "Diesel": 268.9,
+        "U98": 248.9,
+        "U91": 226.9
       },
-      "updated": "2026-11-13T01:07:29Z",
+      "updated": "2026-11-13T09:18:34Z",
       "lat": -33.528082,
       "lng": 149.256552
     },
@@ -6128,11 +6133,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 268.9,
-        "E10": 211.9,
-        "U98": 238.9,
-        "U91": 213.9
+        "E10": 208.9,
+        "U98": 233.9,
+        "U91": 210.9
       },
-      "updated": "2026-11-12T22:39:27Z",
+      "updated": "2026-11-13T06:04:37Z",
       "lat": -33.787346,
       "lng": 151.284083
     },
@@ -6178,7 +6183,7 @@
         "Diesel": 269.9,
         "Premium Diesel": 272.9
       },
-      "updated": "2026-11-12T03:07:26Z",
+      "updated": "2026-11-13T05:27:24Z",
       "lat": -36.054966,
       "lng": 146.94876
     },
@@ -6203,11 +6208,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 271.9,
-        "E10": 215.9,
+        "E10": 214.9,
         "U98": 240.9,
-        "U91": 217.9
+        "U91": 216.9
       },
-      "updated": "2026-11-12T21:17:13Z",
+      "updated": "2026-11-13T05:30:52Z",
       "lat": -33.736153,
       "lng": 151.280363
     },
@@ -6299,12 +6304,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 276.9,
-        "U95": 249.9,
-        "U98": 259.9,
+        "U95": 239.9,
+        "U98": 249.9,
         "Premium Diesel": 278.9,
-        "U91": 239.9
+        "U91": 229.9
       },
-      "updated": "2026-11-12T05:31:42Z",
+      "updated": "2026-11-13T06:53:47Z",
       "lat": -34.173813,
       "lng": 142.192966
     },
@@ -6318,10 +6323,10 @@
         "E10": 220.5,
         "LPG": 99.9,
         "U98": 239.5,
-        "Premium Diesel": 262.5,
+        "Premium Diesel": 259.5,
         "U91": 222.5
       },
-      "updated": "2026-11-12T02:48:32Z",
+      "updated": "2026-11-13T03:41:03Z",
       "lat": -32.873154,
       "lng": 151.712036
     },
@@ -6426,13 +6431,13 @@
       "address": "246 Goonoo Goonoo Road, SOUTH TAMWORTH NSW 2340",
       "state": "NSW",
       "prices": {
-        "E10": 215.5,
+        "E10": 210.5,
         "U95": 230.5,
         "U98": 239.5,
-        "Premium Diesel": 259.5,
+        "Premium Diesel": 254.5,
         "U91": 217.5
       },
-      "updated": "2026-11-13T00:33:02Z",
+      "updated": "2026-11-13T09:03:31Z",
       "lat": -31.109618,
       "lng": 150.923571
     },
@@ -6445,10 +6450,10 @@
       "prices": {
         "E10": 226.5,
         "U98": 256.5,
-        "Premium Diesel": 265.9,
+        "Premium Diesel": 263.9,
         "U91": 228.5
       },
-      "updated": "2026-11-12T02:10:54Z",
+      "updated": "2026-11-13T05:31:16Z",
       "lat": -32.787931,
       "lng": 151.727098
     },
@@ -6459,13 +6464,13 @@
       "address": "20 Burwood Road, CONCORD NSW 2137",
       "state": "NSW",
       "prices": {
-        "E10": 211.8,
-        "U95": 231.8,
+        "E10": 210.8,
+        "U95": 230.8,
         "U98": 237.8,
         "Premium Diesel": 268.5,
-        "U91": 213.8
+        "U91": 212.8
       },
-      "updated": "2026-11-13T01:27:21Z",
+      "updated": "2026-11-13T05:32:50Z",
       "lat": -33.867541,
       "lng": 151.105302
     },
@@ -6572,12 +6577,12 @@
       "address": "45 Bant Street, SOUTH BATHURST NSW 2795",
       "state": "NSW",
       "prices": {
-        "E10": 223.5,
-        "U95": 236.5,
-        "Premium Diesel": 265.5,
-        "U91": 225.5
+        "E10": 219.5,
+        "U95": 233.5,
+        "Premium Diesel": 264.5,
+        "U91": 221.5
       },
-      "updated": "2026-11-12T06:47:42Z",
+      "updated": "2026-11-13T05:36:52Z",
       "lat": -33.431001,
       "lng": 149.57828
     },
@@ -6619,11 +6624,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 265.5,
-        "E10": 223.5,
-        "U98": 248.5,
-        "U91": 225.5
+        "E10": 219.5,
+        "U98": 244.5,
+        "U91": 221.5
       },
-      "updated": "2026-11-11T23:32:59Z",
+      "updated": "2026-11-13T04:40:01Z",
       "lat": -33.419091,
       "lng": 149.602403
     },
@@ -6779,11 +6784,11 @@
       "address": "104 George Gibson Drive, COOPERNOOK NSW 2426",
       "state": "NSW",
       "prices": {
-        "U98": 250.5,
-        "Premium Diesel": 273.5,
-        "U91": 227.5
+        "U98": 248.5,
+        "Premium Diesel": 272.5,
+        "U91": 225.5
       },
-      "updated": "2026-11-12T01:30:04Z",
+      "updated": "2026-11-13T06:20:05Z",
       "lat": -31.825514,
       "lng": 152.612706
     },
@@ -6825,9 +6830,9 @@
       "address": "117-119 George Street, MARULAN NSW 2579",
       "state": "NSW",
       "prices": {
-        "Premium Diesel": 259.9
+        "Premium Diesel": 254.9
       },
-      "updated": "2026-11-10T04:40:18Z",
+      "updated": "2026-11-13T08:18:03Z",
       "lat": -34.708272,
       "lng": 150.010075
     },
@@ -6870,13 +6875,13 @@
       "address": "5 Hanrahan Place, ORANGE NSW 2800",
       "state": "NSW",
       "prices": {
-        "Diesel": 261.5,
+        "Diesel": 260.5,
         "E10": 221.5,
         "U95": 240.5,
-        "Premium Diesel": 263.5,
+        "Premium Diesel": 262.5,
         "U91": 223.5
       },
-      "updated": "2026-11-12T03:37:36Z",
+      "updated": "2026-11-13T04:24:00Z",
       "lat": -33.259595,
       "lng": 149.114342
     },
@@ -6906,9 +6911,9 @@
         "E85": 475,
         "U98": 231.5,
         "Premium Diesel": 259.5,
-        "U91": 209.5
+        "U91": 204.5
       },
-      "updated": "2026-11-12T20:55:44Z",
+      "updated": "2026-11-13T07:01:09Z",
       "lat": -33.915998,
       "lng": 151.1336
     },
@@ -6919,12 +6924,12 @@
       "address": "103 Bellevue RD, Figtree NSW 2525",
       "state": "NSW",
       "prices": {
-        "E10": 233.7,
-        "U98": 261.7,
-        "Premium Diesel": 279.9,
-        "U91": 235.7
+        "E10": 231.7,
+        "U98": 259.7,
+        "Premium Diesel": 278.9,
+        "U91": 233.7
       },
-      "updated": "2026-11-12T10:12:36Z",
+      "updated": "2026-11-13T03:23:02Z",
       "lat": -34.427879,
       "lng": 150.853907
     },
@@ -6938,11 +6943,11 @@
         "Diesel": 283.4,
         "E10": 233.4,
         "U95": 253.9,
-        "U98": 255.9,
+        "U98": 256.9,
         "Premium Diesel": 286.4,
         "U91": 231.9
       },
-      "updated": "2026-11-13T02:02:25Z",
+      "updated": "2026-11-13T03:27:25Z",
       "lat": -35.699916,
       "lng": 150.182162
     },
@@ -7017,12 +7022,12 @@
       "address": "166 Marius Street, TAMWORTH NSW 2340",
       "state": "NSW",
       "prices": {
-        "Diesel": 266.9,
-        "U95": 244.9,
-        "U98": 252.9,
-        "U91": 224.9
+        "Diesel": 266.4,
+        "U95": 240.4,
+        "U98": 248.4,
+        "U91": 223.4
       },
-      "updated": "2026-11-11T22:49:36Z",
+      "updated": "2026-11-13T04:02:47Z",
       "lat": -31.089848,
       "lng": 150.932744
     },
@@ -7033,12 +7038,12 @@
       "address": "60 Hill Road, LURNEA NSW 2170",
       "state": "NSW",
       "prices": {
-        "Diesel": 252.9,
-        "E10": 210.9,
-        "U98": 230.9,
-        "U91": 212.9
+        "Diesel": 251.9,
+        "E10": 207.9,
+        "U98": 229.9,
+        "U91": 209.9
       },
-      "updated": "2026-11-11T18:40:13Z",
+      "updated": "2026-11-13T03:34:20Z",
       "lat": -33.931552,
       "lng": 150.896642
     },
@@ -7147,13 +7152,13 @@
       "address": "319 New England Highway, 319 New England Highway, RUTHERFORD NSW 2320",
       "state": "NSW",
       "prices": {
-        "E10": 223.9,
-        "U95": 242.9,
-        "U98": 251.9,
+        "E10": 221.9,
+        "U95": 240.9,
+        "U98": 249.9,
         "Premium Diesel": 260.9,
-        "U91": 225.9
+        "U91": 223.9
       },
-      "updated": "2026-11-12T05:15:26Z",
+      "updated": "2026-11-13T03:30:36Z",
       "lat": -32.713209,
       "lng": 151.518439
     },
@@ -7258,12 +7263,12 @@
       "address": "86-88 MacIntosh Street, FORSTER NSW 2428",
       "state": "NSW",
       "prices": {
-        "Diesel": 273.5,
-        "E10": 223.5,
-        "U98": 247.5,
-        "U91": 225.5
+        "Diesel": 271.5,
+        "E10": 219.5,
+        "U98": 244.5,
+        "U91": 221.5
       },
-      "updated": "2026-11-10T21:11:53Z",
+      "updated": "2026-11-13T08:24:22Z",
       "lat": -32.190793,
       "lng": 152.515482
     },
@@ -7290,12 +7295,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 269.9,
-        "E10": 222.9,
-        "U98": 249.9,
+        "E10": 219.9,
+        "U98": 246.9,
         "Premium Diesel": 272.9,
-        "U91": 224.9
+        "U91": 221.9
       },
-      "updated": "2026-11-13T00:52:02Z",
+      "updated": "2026-11-13T06:54:02Z",
       "lat": -29.706278,
       "lng": 152.94218
     },
@@ -7370,10 +7375,10 @@
         "E10": 228.9,
         "U95": 247.9,
         "U98": 257.9,
-        "Premium Diesel": 277.9,
+        "Premium Diesel": 275.9,
         "U91": 230.9
       },
-      "updated": "2026-11-13T01:22:24Z",
+      "updated": "2026-11-13T05:27:24Z",
       "lat": -33.731281,
       "lng": 150.706489
     },
@@ -7596,12 +7601,12 @@
       "address": "86 Castlereagh Street, LIVERPOOL NSW 2170",
       "state": "NSW",
       "prices": {
-        "E10": 218.5,
-        "U98": 236.9,
+        "E10": 206.9,
+        "U98": 229.5,
         "Premium Diesel": 269.9,
-        "U91": 219.5
+        "U91": 208.9
       },
-      "updated": "2026-11-09T05:55:37Z",
+      "updated": "2026-11-13T04:47:01Z",
       "lat": -33.924658,
       "lng": 150.919983
     },
@@ -7630,11 +7635,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 264.5,
-        "E10": 221.5,
-        "U98": 246.5,
-        "U91": 223.5
+        "E10": 219.5,
+        "U98": 244.5,
+        "U91": 221.5
       },
-      "updated": "2026-11-13T00:25:11Z",
+      "updated": "2026-11-13T03:57:56Z",
       "lat": -33.420495,
       "lng": 149.577641
     },
@@ -7693,13 +7698,13 @@
       "address": "41 Bruxner Highway, WEST BALLINA NSW 2478",
       "state": "NSW",
       "prices": {
-        "Diesel": 283.9,
-        "E10": 234.9,
-        "U95": 252.9,
-        "U98": 261.9,
-        "Premium Diesel": 286.9
+        "Diesel": 279.9,
+        "E10": 232.9,
+        "U95": 250.9,
+        "U98": 259.9,
+        "Premium Diesel": 282.9
       },
-      "updated": "2026-11-13T00:28:33Z",
+      "updated": "2026-11-13T03:51:56Z",
       "lat": -28.861067,
       "lng": 153.516882
     },
@@ -7857,9 +7862,9 @@
       "address": "119 New England HWY, Willow Tree NSW 2339",
       "state": "NSW",
       "prices": {
-        "Premium Diesel": 272.9
+        "Premium Diesel": 269.5
       },
-      "updated": "2026-11-10T04:40:32Z",
+      "updated": "2026-11-13T08:20:56Z",
       "lat": -31.654316,
       "lng": 150.734643
     },
@@ -8016,11 +8021,11 @@
       "address": "270 Gipps RD, Keiraville NSW 2500",
       "state": "NSW",
       "prices": {
-        "U95": 240.9,
+        "U95": 239.3,
         "Premium Diesel": 264.5,
         "U91": 219.5
       },
-      "updated": "2026-11-12T10:11:06Z",
+      "updated": "2026-11-13T03:22:46Z",
       "lat": -34.414752,
       "lng": 150.875126
     },
@@ -8045,12 +8050,12 @@
       "address": "690a Great Western HWY, Faulconbridge NSW 2776",
       "state": "NSW",
       "prices": {
-        "E10": 222.9,
-        "U98": 235.9,
-        "Premium Diesel": 278.7,
-        "U91": 235.9
+        "E10": 217.9,
+        "U98": 243.9,
+        "Premium Diesel": 272.9,
+        "U91": 221.9
       },
-      "updated": "2026-11-09T03:45:46Z",
+      "updated": "2026-11-13T08:09:12Z",
       "lat": -33.706598,
       "lng": 150.526625
     },
@@ -8242,13 +8247,13 @@
       "address": "47-49 Northcote ST, Kurri Kurri NSW 2327",
       "state": "NSW",
       "prices": {
-        "E10": 231.9,
+        "E10": 221.9,
         "U95": 243.9,
         "U98": 255.9,
-        "Premium Diesel": 271.7,
+        "Premium Diesel": 261.7,
         "U91": 233.9
       },
-      "updated": "2026-11-12T18:55:38Z",
+      "updated": "2026-11-13T08:03:39Z",
       "lat": -32.81118,
       "lng": 151.479314
     },
@@ -8389,14 +8394,14 @@
       "address": "Lot 12, South Western Freeway, Pheasants Nest NSW 2574",
       "state": "NSW",
       "prices": {
-        "Diesel": 266.9,
+        "Diesel": 265.9,
         "E10": 224.9,
         "U95": 243.9,
         "U98": 253.9,
-        "Premium Diesel": 269.9,
+        "Premium Diesel": 268.9,
         "U91": 226.9
       },
-      "updated": "2026-11-13T02:02:25Z",
+      "updated": "2026-11-13T03:32:26Z",
       "lat": -34.282907,
       "lng": 150.639027
     },
@@ -8407,14 +8412,14 @@
       "address": "Lot no 13 South Western Freeway, Pheasants Nest NSW 2574",
       "state": "NSW",
       "prices": {
-        "Diesel": 266.9,
+        "Diesel": 265.9,
         "E10": 224.9,
         "U95": 243.9,
         "U98": 253.9,
-        "Premium Diesel": 269.9,
+        "Premium Diesel": 268.9,
         "U91": 226.9
       },
-      "updated": "2026-11-13T02:02:25Z",
+      "updated": "2026-11-13T03:27:25Z",
       "lat": -34.283188,
       "lng": 150.636449
     },
@@ -8605,13 +8610,13 @@
       "address": "67 Woodhouse DR, Ambarvale NSW 2560",
       "state": "NSW",
       "prices": {
-        "E10": 231.9,
-        "U95": 250.9,
-        "U98": 259.9,
+        "E10": 232.9,
+        "U95": 251.9,
+        "U98": 260.9,
         "Premium Diesel": 283.9,
-        "U91": 233.9
+        "U91": 234.9
       },
-      "updated": "2026-11-11T21:06:16Z",
+      "updated": "2026-11-13T06:15:21Z",
       "lat": -34.087352,
       "lng": 150.799712
     },
@@ -8622,13 +8627,13 @@
       "address": "Unit 1 83 Princes HWY, Albion Park Rail NSW 2527",
       "state": "NSW",
       "prices": {
-        "E10": 229.9,
+        "E10": 225.9,
         "LPG": 109.9,
-        "U98": 257.9,
-        "Premium Diesel": 279.9,
-        "U91": 231.9
+        "U98": 252.9,
+        "Premium Diesel": 272.9,
+        "U91": 227.9
       },
-      "updated": "2026-11-09T22:37:50Z",
+      "updated": "2026-11-13T03:03:03Z",
       "lat": -34.553586,
       "lng": 150.791978
     },
@@ -8709,9 +8714,9 @@
       "address": "Mitchell Highway, Nevertire NSW 2826",
       "state": "NSW",
       "prices": {
-        "Diesel": 269.5
+        "Diesel": 267.5
       },
-      "updated": "2026-11-11T05:13:55Z",
+      "updated": "2026-11-13T03:21:01Z",
       "lat": -31.838854,
       "lng": 147.718723
     },
@@ -8904,11 +8909,11 @@
       "address": "13-15 Village RD, Saratoga NSW 2251",
       "state": "NSW",
       "prices": {
-        "U95": 234.9,
+        "U95": 227.9,
         "Premium Diesel": 269.9,
-        "U91": 219.9
+        "U91": 215.9
       },
-      "updated": "2026-11-11T04:25:50Z",
+      "updated": "2026-11-13T02:46:40Z",
       "lat": -33.475356,
       "lng": 151.353215
     },
@@ -8950,10 +8955,10 @@
       "prices": {
         "U95": 215.9,
         "U98": 225.9,
-        "Premium Diesel": 251.9,
-        "U91": 208.9
+        "Premium Diesel": 246.9,
+        "U91": 203.9
       },
-      "updated": "2026-11-13T02:13:28Z",
+      "updated": "2026-11-13T08:17:29Z",
       "lat": -33.926384,
       "lng": 151.127688
     },
@@ -8964,12 +8969,12 @@
       "address": "59 the Crescent, Toongabbie NSW 2146",
       "state": "NSW",
       "prices": {
-        "E10": 219.9,
-        "U98": 245.9,
-        "Premium Diesel": 269.9,
-        "U91": 223.9
+        "E10": 215.9,
+        "U98": 243.9,
+        "Premium Diesel": 267.9,
+        "U91": 219.9
       },
-      "updated": "2026-11-10T23:19:46Z",
+      "updated": "2026-11-13T02:47:10Z",
       "lat": -33.795954,
       "lng": 150.929795
     },
@@ -9014,14 +9019,14 @@
       "address": "M4 Motorway Eastbound\t, Eastern Creek NSW 2766",
       "state": "NSW",
       "prices": {
-        "Diesel": 269.9,
+        "Diesel": 268.9,
         "E10": 226.9,
         "U95": 245.9,
         "U98": 255.9,
-        "Premium Diesel": 272.9,
+        "Premium Diesel": 271.9,
         "U91": 228.9
       },
-      "updated": "2026-11-12T21:32:26Z",
+      "updated": "2026-11-13T03:27:25Z",
       "lat": -33.801629,
       "lng": 150.885988
     },
@@ -9049,14 +9054,14 @@
       "address": "M4 Motorway westbound, EASTERN CREEK NSW 2766",
       "state": "NSW",
       "prices": {
-        "Diesel": 269.9,
+        "Diesel": 268.9,
         "E10": 226.9,
         "U95": 245.9,
         "U98": 255.9,
-        "Premium Diesel": 272.9,
+        "Premium Diesel": 271.9,
         "U91": 228.9
       },
-      "updated": "2026-11-12T21:37:25Z",
+      "updated": "2026-11-13T03:37:24Z",
       "lat": -33.80232,
       "lng": 150.8829
     },
@@ -9223,12 +9228,12 @@
       "address": "16 Ingersole DR, Kelso NSW 2795",
       "state": "NSW",
       "prices": {
-        "E10": 223.5,
-        "U98": 245.5,
+        "E10": 218.9,
+        "U98": 239.9,
         "Premium Diesel": 264.9,
-        "U91": 225.5
+        "U91": 219.9
       },
-      "updated": "2026-11-12T20:28:41Z",
+      "updated": "2026-11-13T07:43:47Z",
       "lat": -33.42116,
       "lng": 149.624477
     },
@@ -9239,13 +9244,13 @@
       "address": "15 Ocean DR, Port Macquarie NSW 2444",
       "state": "NSW",
       "prices": {
-        "E10": 219.5,
-        "U95": 234.5,
-        "U98": 243.5,
-        "Premium Diesel": 269.5,
-        "U91": 221.5
+        "E10": 218.9,
+        "U95": 232.9,
+        "U98": 243.9,
+        "Premium Diesel": 268.9,
+        "U91": 220.9
       },
-      "updated": "2026-11-12T23:00:40Z",
+      "updated": "2026-11-13T08:55:35Z",
       "lat": -31.435545,
       "lng": 152.899939
     },
@@ -9324,12 +9329,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 260.5,
-        "E10": 208.9,
+        "E10": 208.5,
         "U98": 240.5,
         "Premium Diesel": 262.5,
-        "U91": 210.9
+        "U91": 210.5
       },
-      "updated": "2026-11-12T03:05:21Z",
+      "updated": "2026-11-13T05:30:45Z",
       "lat": -33.928392,
       "lng": 150.9772
     },
@@ -9477,12 +9482,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 269.5,
-        "E10": 220.5,
-        "U98": 247.5,
+        "E10": 218.5,
+        "U98": 244.5,
         "Premium Diesel": 272.5,
-        "U91": 221.5
+        "U91": 219.5
       },
-      "updated": "2026-11-13T00:18:21Z",
+      "updated": "2026-11-13T06:40:35Z",
       "lat": -29.703894,
       "lng": 152.95755
     },
@@ -9540,13 +9545,13 @@
       "address": "79 Barrenjoey RD, Mona Vale NSW 2103",
       "state": "NSW",
       "prices": {
-        "Diesel": 272.5,
-        "E10": 215.5,
-        "U95": 230.5,
+        "Diesel": 269.5,
+        "E10": 213.5,
+        "U95": 229.5,
         "U98": 239.5,
-        "U91": 217.5
+        "U91": 215.5
       },
-      "updated": "2026-11-12T18:13:59Z",
+      "updated": "2026-11-13T03:06:50Z",
       "lat": -33.674174,
       "lng": 151.310235
     },
@@ -9668,12 +9673,12 @@
       "address": "279 Comur ST, Yass NSW 2582",
       "state": "NSW",
       "prices": {
-        "Diesel": 274.9,
-        "E10": 232.9,
+        "Diesel": 273.9,
+        "E10": 231.9,
         "LPG": 133.9,
-        "U91": 233.9
+        "U91": 232.9
       },
-      "updated": "2026-11-12T04:29:01Z",
+      "updated": "2026-11-13T02:47:49Z",
       "lat": -34.848394,
       "lng": 148.91631
     },
@@ -9798,12 +9803,12 @@
       "address": "1 Victoria ST, Kurri Kurri NSW 2327",
       "state": "NSW",
       "prices": {
-        "E10": 231.9,
+        "E10": 221.9,
         "U98": 255.9,
-        "Premium Diesel": 271.7,
+        "Premium Diesel": 261.7,
         "U91": 233.9
       },
-      "updated": "2026-11-12T10:50:23Z",
+      "updated": "2026-11-13T08:09:54Z",
       "lat": -32.82385,
       "lng": 151.486565
     },
@@ -9909,10 +9914,10 @@
       "state": "NSW",
       "prices": {
         "Diesel": 269.9,
-        "U98": 243.9,
-        "U91": 220.9
+        "U98": 242.9,
+        "U91": 219.9
       },
-      "updated": "2026-11-12T20:36:52Z",
+      "updated": "2026-11-13T06:53:45Z",
       "lat": -33.472307,
       "lng": 150.974977
     },
@@ -9940,12 +9945,12 @@
       "address": "75 Camp ST, Grenfell NSW 2810",
       "state": "NSW",
       "prices": {
-        "E10": 235.9,
-        "U98": 263.9,
-        "Premium Diesel": 270.9,
-        "U91": 242.9
+        "E10": 229.9,
+        "U98": 259.9,
+        "Premium Diesel": 266.7,
+        "U91": 241.9
       },
-      "updated": "2026-11-11T05:46:22Z",
+      "updated": "2026-11-13T09:27:14Z",
       "lat": -33.895468,
       "lng": 148.163041
     },
@@ -10016,13 +10021,13 @@
       "address": "4613 Mitchell HWY, Lucknow NSW 2800",
       "state": "NSW",
       "prices": {
-        "E10": 220.5,
-        "U95": 235.5,
-        "U98": 245.5,
-        "Premium Diesel": 260.5,
-        "U91": 222.5
+        "E10": 217.5,
+        "U95": 231.5,
+        "U98": 241.5,
+        "Premium Diesel": 259.5,
+        "U91": 219.5
       },
-      "updated": "2026-11-12T20:50:22Z",
+      "updated": "2026-11-13T07:16:27Z",
       "lat": -33.346783,
       "lng": 149.162158
     },
@@ -10035,9 +10040,9 @@
       "prices": {
         "Diesel": 278.9,
         "U98": 247.9,
-        "U91": 229.9
+        "U91": 225.9
       },
-      "updated": "2026-11-11T04:12:12Z",
+      "updated": "2026-11-13T03:48:51Z",
       "lat": -28.686199,
       "lng": 153.525773
     },
@@ -10089,13 +10094,13 @@
       "address": "131 the Lakes WAY, Forster NSW 2428",
       "state": "NSW",
       "prices": {
-        "E10": 223.5,
-        "U95": 238.5,
-        "U98": 247.5,
-        "Premium Diesel": 273.5,
-        "U91": 225.5
+        "E10": 219.5,
+        "U95": 234.5,
+        "U98": 244.5,
+        "Premium Diesel": 269.5,
+        "U91": 221.5
       },
-      "updated": "2026-11-10T18:10:38Z",
+      "updated": "2026-11-13T09:08:39Z",
       "lat": -32.20426,
       "lng": 152.520233
     },
@@ -10322,12 +10327,12 @@
       "address": "418-424 Liverpool RD, Croydon NSW 2132",
       "state": "NSW",
       "prices": {
-        "E10": 204.9,
-        "U98": 229.9,
-        "Premium Diesel": 256.9,
-        "U91": 206.9
+        "E10": 203.9,
+        "U98": 227.5,
+        "Premium Diesel": 253.5,
+        "U91": 205.9
       },
-      "updated": "2026-11-12T03:00:03Z",
+      "updated": "2026-11-13T05:31:31Z",
       "lat": -33.888152,
       "lng": 151.115062
     },
@@ -10495,13 +10500,13 @@
       "address": "32 Head ST, Forster NSW 2428",
       "state": "NSW",
       "prices": {
-        "E10": 223.5,
-        "U95": 238.5,
-        "U98": 247.5,
-        "Premium Diesel": 273.5,
-        "U91": 225.5
+        "E10": 219.5,
+        "U95": 234.5,
+        "U98": 244.5,
+        "Premium Diesel": 269.5,
+        "U91": 221.5
       },
-      "updated": "2026-11-10T18:09:09Z",
+      "updated": "2026-11-13T09:14:14Z",
       "lat": -32.180479,
       "lng": 152.515374
     },
@@ -10512,13 +10517,13 @@
       "address": "516-526 Great Western HWY, ST Marys NSW 2760",
       "state": "NSW",
       "prices": {
-        "E10": 214.5,
+        "E10": 211.5,
         "LPG": 97.9,
-        "U98": 239.5,
-        "Premium Diesel": 254.5,
-        "U91": 216.5
+        "U98": 234.5,
+        "Premium Diesel": 252.5,
+        "U91": 213.5
       },
-      "updated": "2026-11-13T02:06:04Z",
+      "updated": "2026-11-13T04:07:02Z",
       "lat": -33.770335,
       "lng": 150.765951
     },
@@ -10663,11 +10668,11 @@
       "address": "65 Tharwa RD, Queanbeyan West NSW 2620",
       "state": "NSW",
       "prices": {
-        "U98": 237.9,
-        "Premium Diesel": 264.9,
-        "U91": 216.9
+        "U98": 235.9,
+        "Premium Diesel": 263.9,
+        "U91": 215.9
       },
-      "updated": "2026-11-10T06:27:27Z",
+      "updated": "2026-11-13T06:31:29Z",
       "lat": -35.358299,
       "lng": 149.220802
     },
@@ -10771,12 +10776,12 @@
       "address": "75 Gypsum ST, Broken Hill NSW 2880",
       "state": "NSW",
       "prices": {
-        "Diesel": 267.5,
+        "Diesel": 266.5,
         "U95": 236.5,
         "U98": 245.5,
-        "U91": 223.5
+        "U91": 220.5
       },
-      "updated": "2026-11-11T22:33:56Z",
+      "updated": "2026-11-13T08:43:16Z",
       "lat": -31.967804,
       "lng": 141.445295
     },
@@ -10819,12 +10824,12 @@
       "address": "307 Lang ST, Kurri Kurri NSW 2327",
       "state": "NSW",
       "prices": {
-        "E10": 231.9,
+        "E10": 221.9,
         "U98": 255.9,
-        "Premium Diesel": 271.7,
+        "Premium Diesel": 261.7,
         "U91": 233.9
       },
-      "updated": "2026-11-12T11:01:59Z",
+      "updated": "2026-11-13T08:01:54Z",
       "lat": -32.82039,
       "lng": 151.47686
     },
@@ -10851,9 +10856,10 @@
       "prices": {
         "E10": 204.9,
         "U98": 229.9,
+        "Premium Diesel": 258.8,
         "U91": 207.9
       },
-      "updated": "2026-11-12T19:12:25Z",
+      "updated": "2026-11-13T08:00:56Z",
       "lat": -33.791629,
       "lng": 151.089544
     },
@@ -10897,12 +10903,12 @@
       "address": "45 Jewry ST, Taminda NSW 2340",
       "state": "NSW",
       "prices": {
-        "Diesel": 266.9,
-        "E10": 214.9,
-        "U95": 244.9,
-        "U91": 224.9
+        "Diesel": 266.4,
+        "E10": 214.4,
+        "U95": 240.4,
+        "U91": 223.4
       },
-      "updated": "2026-11-12T00:47:26Z",
+      "updated": "2026-11-13T02:52:25Z",
       "lat": -31.084132,
       "lng": 150.91056
     },
@@ -10929,12 +10935,12 @@
       "address": "70 Clifford ST, Goulburn NSW 2580",
       "state": "NSW",
       "prices": {
-        "Diesel": 266.5,
+        "Diesel": 265.5,
         "E10": 221.7,
         "U98": 247.7,
         "U91": 223.7
       },
-      "updated": "2026-11-13T00:00:40Z",
+      "updated": "2026-11-13T04:45:36Z",
       "lat": -34.752102,
       "lng": 149.717837
     },
@@ -10960,11 +10966,11 @@
       "address": "Unit 4 26 Ferodale RD, Medowie NSW 2318",
       "state": "NSW",
       "prices": {
-        "U95": 234.9,
-        "Premium Diesel": 260.9,
-        "U91": 222.9
+        "U95": 233.9,
+        "Premium Diesel": 258.9,
+        "U91": 220.9
       },
-      "updated": "2026-11-12T21:24:27Z",
+      "updated": "2026-11-13T03:27:54Z",
       "lat": -32.740177,
       "lng": 151.854436
     },
@@ -11153,9 +11159,9 @@
       "address": "17 Grand Av, Camellia NSW 2142",
       "state": "NSW",
       "prices": {
-        "Diesel": 265.9
+        "Diesel": 263.6
       },
-      "updated": "2026-11-10T04:39:45Z",
+      "updated": "2026-11-13T08:21:20Z",
       "lat": -33.820505,
       "lng": 151.035636
     },
@@ -11201,10 +11207,10 @@
       "prices": {
         "U95": 239.9,
         "U98": 249.9,
-        "Premium Diesel": 269.9,
-        "U91": 229.9
+        "Premium Diesel": 264.9,
+        "U91": 224.9
       },
-      "updated": "2026-11-12T22:24:31Z",
+      "updated": "2026-11-13T03:58:47Z",
       "lat": -36.232923,
       "lng": 149.131103
     },
@@ -11313,10 +11319,10 @@
       "state": "NSW",
       "prices": {
         "U98": 251.9,
-        "Premium Diesel": 269.9,
-        "U91": 223.9
+        "Premium Diesel": 266.9,
+        "U91": 220.9
       },
-      "updated": "2026-11-10T21:31:36Z",
+      "updated": "2026-11-13T05:31:13Z",
       "lat": -32.895758,
       "lng": 151.681771
     },
@@ -11467,12 +11473,12 @@
       "address": "36 Wine Country DR, Cessnock NSW 2325",
       "state": "NSW",
       "prices": {
-        "E10": 223.5,
-        "U98": 247.5,
-        "Premium Diesel": 269.5,
-        "U91": 225.5
+        "E10": 219.5,
+        "U98": 243.5,
+        "Premium Diesel": 264.5,
+        "U91": 221.5
       },
-      "updated": "2026-11-12T01:59:08Z",
+      "updated": "2026-11-13T03:40:28Z",
       "lat": -32.818759,
       "lng": 151.352182
     },
@@ -11552,9 +11558,9 @@
       "prices": {
         "Diesel": 253.5,
         "U98": 226.5,
-        "U91": 204.5
+        "U91": 202.7
       },
-      "updated": "2026-11-12T23:32:53Z",
+      "updated": "2026-11-13T05:15:31Z",
       "lat": -33.78495,
       "lng": 151.0435
     },
@@ -11749,8 +11755,7 @@
       "prices": {
         "E10": 209.5,
         "U98": 235.5,
-        "Premium Diesel": 262.5,
-        "U91": 213.5
+        "Premium Diesel": 262.5
       },
       "updated": "2026-11-12T23:16:19Z",
       "lat": -33.777528,
@@ -11828,13 +11833,13 @@
       "address": "276 Miller RD, Villawood NSW 2163",
       "state": "NSW",
       "prices": {
-        "E10": 217.8,
-        "U95": 234.8,
-        "U98": 239.8,
-        "Premium Diesel": 259.8,
-        "U91": 219.8
+        "E10": 209.8,
+        "U95": 226.8,
+        "U98": 231.8,
+        "Premium Diesel": 255.8,
+        "U91": 211.8
       },
-      "updated": "2026-11-11T05:02:09Z",
+      "updated": "2026-11-13T05:19:39Z",
       "lat": -33.887614,
       "lng": 150.992089
     },
@@ -11921,12 +11926,12 @@
       "address": "657 the Northern Road, Bringelly NSW 2556",
       "state": "NSW",
       "prices": {
-        "E10": 217.9,
-        "U98": 247.9,
-        "Premium Diesel": 269.9,
-        "U91": 219.9
+        "E10": 215.9,
+        "U98": 245.9,
+        "Premium Diesel": 268.9,
+        "U91": 217.9
       },
-      "updated": "2026-11-12T21:32:02Z",
+      "updated": "2026-11-13T08:46:24Z",
       "lat": -33.986338,
       "lng": 150.728801
     },
@@ -11969,12 +11974,12 @@
       "address": "35 Cooma RD, Narrabri NSW 2390",
       "state": "NSW",
       "prices": {
-        "Diesel": 275.9,
-        "E10": 235.9,
-        "U98": 257.9,
-        "U91": 237.9
+        "Diesel": 271.9,
+        "E10": 224.9,
+        "U98": 245.9,
+        "U91": 226.9
       },
-      "updated": "2026-11-10T23:58:51Z",
+      "updated": "2026-11-13T05:03:30Z",
       "lat": -30.337849,
       "lng": 149.766967
     },
@@ -11985,12 +11990,12 @@
       "address": "21 Caigan ST, Dunedoo NSW 2844",
       "state": "NSW",
       "prices": {
-        "Diesel": 283.9,
-        "E10": 239.9,
-        "U98": 259.9,
-        "U91": 241.9
+        "Diesel": 275.9,
+        "E10": 224.9,
+        "U98": 249.9,
+        "U91": 226.9
       },
-      "updated": "2026-11-10T23:33:27Z",
+      "updated": "2026-11-13T04:46:00Z",
       "lat": -32.01654,
       "lng": 149.388212
     },
@@ -12047,14 +12052,14 @@
       "address": "10 Industrial Drive corner of Zylpha Drive, South Kempsey NSW 2440",
       "state": "NSW",
       "prices": {
-        "Diesel": 274.5,
-        "E10": 236.5,
-        "U95": 252.5,
-        "U98": 261.5,
-        "Premium Diesel": 276.5,
-        "U91": 238.5
+        "Diesel": 273.5,
+        "E10": 234.5,
+        "U95": 250.5,
+        "U98": 258.5,
+        "Premium Diesel": 275.5,
+        "U91": 236.5
       },
-      "updated": "2026-11-11T22:33:42Z",
+      "updated": "2026-11-13T08:58:40Z",
       "lat": -31.12744,
       "lng": 152.8285
     },
@@ -12082,12 +12087,12 @@
       "address": "169-171 Pennant Hills RD, Thornleigh NSW 2120",
       "state": "NSW",
       "prices": {
-        "E10": 209.9,
+        "E10": 204.9,
         "U98": 237.9,
-        "Premium Diesel": 269.9,
+        "Premium Diesel": 264.9,
         "U91": 212.9
       },
-      "updated": "2026-11-12T11:55:47Z",
+      "updated": "2026-11-13T08:03:37Z",
       "lat": -33.724925,
       "lng": 151.088261
     },
@@ -12383,12 +12388,12 @@
       "address": "12 Pacific HWY, Ourimbah NSW 2258",
       "state": "NSW",
       "prices": {
-        "LPG": 99.9,
-        "U98": 249.9,
-        "Premium Diesel": 266.7,
-        "U91": 227.9
+        "LPG": 94.9,
+        "U98": 244.9,
+        "Premium Diesel": 261.7,
+        "U91": 222.9
       },
-      "updated": "2026-11-12T13:54:13Z",
+      "updated": "2026-11-13T04:04:43Z",
       "lat": -33.36297,
       "lng": 151.371353
     },
@@ -12399,12 +12404,12 @@
       "address": "2 Gidley ST, Molong NSW 2866",
       "state": "NSW",
       "prices": {
-        "Diesel": 260.5,
-        "E10": 220.5,
-        "U95": 235.5,
-        "U91": 222.5
+        "Diesel": 259.5,
+        "E10": 217.5,
+        "U95": 232.5,
+        "U91": 219.5
       },
-      "updated": "2026-11-12T18:15:56Z",
+      "updated": "2026-11-13T04:01:17Z",
       "lat": -33.090264,
       "lng": 148.869581
     },
@@ -12872,14 +12877,14 @@
       "address": "363 Vardys Road, Kings Park NSW 2148",
       "state": "NSW",
       "prices": {
-        "E10": 213.9,
+        "E10": 211.9,
         "LPG": 112.9,
-        "U95": 232.9,
-        "U98": 241.9,
+        "U95": 230.9,
+        "U98": 239.9,
         "Premium Diesel": 269.9,
-        "U91": 215.9
+        "U91": 213.9
       },
-      "updated": "2026-11-13T01:18:13Z",
+      "updated": "2026-11-13T04:36:16Z",
       "lat": -33.7466,
       "lng": 150.90688
     },
@@ -12893,10 +12898,10 @@
         "E10": 222.9,
         "U95": 241.9,
         "U98": 250.9,
-        "Premium Diesel": 273.9,
+        "Premium Diesel": 271.9,
         "U91": 224.9
       },
-      "updated": "2026-11-13T02:32:39Z",
+      "updated": "2026-11-13T04:39:13Z",
       "lat": -33.823058,
       "lng": 151.243459
     },
@@ -12910,10 +12915,10 @@
         "E10": 221.9,
         "U95": 240.9,
         "U98": 249.9,
-        "Premium Diesel": 280.4,
+        "Premium Diesel": 279.9,
         "U91": 223.9
       },
-      "updated": "2026-11-12T23:45:23Z",
+      "updated": "2026-11-13T03:39:14Z",
       "lat": -33.022787,
       "lng": 151.664179
     },
@@ -12944,10 +12949,10 @@
         "E10": 229.9,
         "U95": 248.9,
         "U98": 257.9,
-        "Premium Diesel": 283.9,
+        "Premium Diesel": 281.9,
         "U91": 231.9
       },
-      "updated": "2026-11-12T05:54:19Z",
+      "updated": "2026-11-13T05:12:15Z",
       "lat": -33.754088,
       "lng": 150.704558
     },
@@ -12958,13 +12963,13 @@
       "address": "138-146 Princes Highway, Corrimal NSW 2518",
       "state": "NSW",
       "prices": {
-        "E10": 215.9,
-        "U95": 234.9,
-        "U98": 243.9,
+        "E10": 213.9,
+        "U95": 232.9,
+        "U98": 241.9,
         "Premium Diesel": 272.9,
-        "U91": 217.9
+        "U91": 215.9
       },
-      "updated": "2026-11-11T07:15:24Z",
+      "updated": "2026-11-13T04:36:16Z",
       "lat": -34.369863,
       "lng": 150.897816
     },
@@ -12992,12 +12997,12 @@
       "address": "132 Liverpool RD, Ashfield NSW 2131",
       "state": "NSW",
       "prices": {
-        "E10": 212.9,
+        "E10": 209.9,
         "LPG": 109.9,
-        "U98": 240.9,
+        "U98": 237.9,
         "Premium Diesel": 260.9
       },
-      "updated": "2026-11-10T20:09:13Z",
+      "updated": "2026-11-13T04:48:14Z",
       "lat": -33.890578,
       "lng": 151.129552
     },
@@ -13074,13 +13079,13 @@
       "address": "139 Great Western Highway (Corner Layton Avenue), Blaxland NSW 2774",
       "state": "NSW",
       "prices": {
-        "E10": 224.9,
-        "U95": 243.9,
-        "U98": 252.9,
+        "E10": 223.9,
+        "U95": 242.9,
+        "U98": 251.9,
         "Premium Diesel": 275.9,
-        "U91": 226.9
+        "U91": 225.9
       },
-      "updated": "2026-11-13T00:15:21Z",
+      "updated": "2026-11-13T08:39:14Z",
       "lat": -33.746366,
       "lng": 150.613486
     },
@@ -13093,10 +13098,10 @@
       "prices": {
         "E10": 215.9,
         "U98": 243.9,
-        "Premium Diesel": 271.9,
+        "Premium Diesel": 270.9,
         "U91": 217.9
       },
-      "updated": "2026-11-12T19:39:13Z",
+      "updated": "2026-11-13T09:09:14Z",
       "lat": -33.884086,
       "lng": 150.892033
     },
@@ -13123,14 +13128,14 @@
       "address": "940 Pittwater Road & Hawkesbury Avenue, Dee Why NSW 2099",
       "state": "NSW",
       "prices": {
-        "E10": 220.9,
+        "E10": 222.9,
         "LPG": 113.9,
-        "U95": 237.9,
-        "U98": 246.9,
-        "Premium Diesel": 284.4,
-        "U91": 222.9
+        "U95": 241.9,
+        "U98": 250.9,
+        "Premium Diesel": 282.9,
+        "U91": 224.9
       },
-      "updated": "2026-11-12T23:51:13Z",
+      "updated": "2026-11-13T05:12:15Z",
       "lat": -33.749095,
       "lng": 151.290234
     },
@@ -13159,13 +13164,13 @@
       "address": "Shop 1, 135-137 Popondetta Road, Emerton NSW 2770",
       "state": "NSW",
       "prices": {
-        "E10": 222.9,
-        "U95": 241.9,
-        "U98": 250.9,
-        "Premium Diesel": 282.9,
-        "U91": 224.9
+        "E10": 220.9,
+        "U95": 239.9,
+        "U98": 248.9,
+        "Premium Diesel": 279.9,
+        "U91": 222.9
       },
-      "updated": "2026-11-12T19:27:15Z",
+      "updated": "2026-11-13T04:42:14Z",
       "lat": -33.744639,
       "lng": 150.810225
     },
@@ -13227,12 +13232,12 @@
       "address": "55 Central Coast Highway, Gosford West NSW 2250",
       "state": "NSW",
       "prices": {
-        "E10": 219.9,
-        "U98": 247.9,
-        "Premium Diesel": 269.9,
-        "U91": 221.9
+        "E10": 217.9,
+        "U98": 245.9,
+        "Premium Diesel": 268.9,
+        "U91": 219.9
       },
-      "updated": "2026-11-12T21:24:14Z",
+      "updated": "2026-11-13T04:39:13Z",
       "lat": -33.427077,
       "lng": 151.33001
     },
@@ -13311,13 +13316,13 @@
       "address": "110 Anzac Parade & Goodwood Street, Kensington NSW 2033",
       "state": "NSW",
       "prices": {
-        "E10": 219.9,
+        "E10": 217.9,
         "LPG": 113.9,
-        "U98": 247.9,
+        "U98": 245.9,
         "Premium Diesel": 272.9,
-        "U91": 221.9
+        "U91": 219.9
       },
-      "updated": "2026-11-12T23:06:14Z",
+      "updated": "2026-11-13T04:36:16Z",
       "lat": -33.907017,
       "lng": 151.223796
     },
@@ -13345,13 +13350,13 @@
       "address": "291 Rooty Hill Road North, Plumpton NSW 2761",
       "state": "NSW",
       "prices": {
-        "E10": 219.9,
-        "U95": 238.9,
-        "U98": 247.9,
-        "Premium Diesel": 279.9,
-        "U91": 221.9
+        "E10": 218.9,
+        "U95": 237.9,
+        "U98": 246.9,
+        "Premium Diesel": 277.9,
+        "U91": 220.9
       },
-      "updated": "2026-11-12T22:27:15Z",
+      "updated": "2026-11-13T04:39:13Z",
       "lat": -33.753565,
       "lng": 150.840322
     },
@@ -13412,13 +13417,13 @@
       "address": "95 Elizabeth Drive (Corner Park Road), Liverpool NSW 2170",
       "state": "NSW",
       "prices": {
-        "E10": 232.9,
+        "E10": 219.9,
         "LPG": 125.9,
-        "U98": 260.9,
-        "Premium Diesel": 279.9,
-        "U91": 234.9
+        "U98": 247.9,
+        "Premium Diesel": 272.9,
+        "U91": 221.9
       },
-      "updated": "2026-11-12T19:27:15Z",
+      "updated": "2026-11-13T04:42:14Z",
       "lat": -33.918366,
       "lng": 150.916008
     },
@@ -13462,13 +13467,13 @@
       "address": "Corner Allison Crescent & Menai Road, Menai NSW 2234",
       "state": "NSW",
       "prices": {
-        "E10": 235.9,
-        "U95": 254.9,
-        "U98": 263.9,
+        "E10": 234.9,
+        "U95": 253.9,
+        "U98": 262.9,
         "Premium Diesel": 289.9,
-        "U91": 237.9
+        "U91": 236.9
       },
-      "updated": "2026-11-12T07:09:15Z",
+      "updated": "2026-11-13T04:36:16Z",
       "lat": -34.01574,
       "lng": 151.013222
     },
@@ -13479,14 +13484,14 @@
       "address": "24 Barrenjoey Road (Corner Darley Street East), Mona Vale NSW 2103",
       "state": "NSW",
       "prices": {
-        "E10": 219.9,
+        "E10": 214.9,
         "LPG": 112.7,
-        "U95": 238.9,
-        "U98": 247.9,
-        "Premium Diesel": 281.9,
-        "U91": 221.9
+        "U95": 233.9,
+        "U98": 242.9,
+        "Premium Diesel": 279.9,
+        "U91": 216.9
       },
-      "updated": "2026-11-12T23:45:23Z",
+      "updated": "2026-11-13T04:45:21Z",
       "lat": -33.676825,
       "lng": 151.308231
     },
@@ -13546,13 +13551,13 @@
       "address": "15-19 Aspen Street, Penrith South NSW 2750",
       "state": "NSW",
       "prices": {
-        "E10": 217.9,
-        "U95": 236.9,
-        "U98": 245.9,
-        "Premium Diesel": 279.9,
-        "U91": 219.9
+        "E10": 215.9,
+        "U95": 234.9,
+        "U98": 243.9,
+        "Premium Diesel": 280.9,
+        "U91": 217.9
       },
-      "updated": "2026-11-12T05:03:15Z",
+      "updated": "2026-11-13T04:48:14Z",
       "lat": -33.777277,
       "lng": 150.710723
     },
@@ -13598,12 +13603,12 @@
       "state": "NSW",
       "prices": {
         "E10": 220.9,
-        "U95": 241.9,
+        "U95": 239.9,
         "U98": 248.9,
         "Premium Diesel": 274.9,
         "U91": 222.9
       },
-      "updated": "2026-11-12T23:42:15Z",
+      "updated": "2026-11-13T05:15:27Z",
       "lat": -33.808768,
       "lng": 151.014716
     },
@@ -13614,12 +13619,12 @@
       "address": "212-222 Andrews & Castlereagh Roads, Cranebrook NSW 2749",
       "state": "NSW",
       "prices": {
-        "E10": 228.9,
-        "U98": 256.9,
-        "Premium Diesel": 277.9,
-        "U91": 230.9
+        "E10": 229.9,
+        "U98": 257.9,
+        "Premium Diesel": 275.9,
+        "U91": 231.9
       },
-      "updated": "2026-11-12T23:09:13Z",
+      "updated": "2026-11-13T07:42:14Z",
       "lat": -33.730588,
       "lng": 150.695165
     },
@@ -13653,7 +13658,7 @@
         "Premium Diesel": 279.9,
         "U91": 221.9
       },
-      "updated": "2026-11-12T22:48:14Z",
+      "updated": "2026-11-13T06:15:21Z",
       "lat": -33.73984,
       "lng": 150.860297
     },
@@ -13734,10 +13739,10 @@
       "prices": {
         "E10": 226.9,
         "U98": 254.9,
-        "Premium Diesel": 272.9,
+        "Premium Diesel": 271.9,
         "U91": 228.9
       },
-      "updated": "2026-11-12T22:48:14Z",
+      "updated": "2026-11-13T04:39:13Z",
       "lat": -33.78036,
       "lng": 150.8502
     },
@@ -13888,10 +13893,10 @@
         "LPG": 115.9,
         "U95": 238.9,
         "U98": 247.9,
-        "Premium Diesel": 270.9,
+        "Premium Diesel": 269.9,
         "U91": 221.9
       },
-      "updated": "2026-11-12T10:45:21Z",
+      "updated": "2026-11-13T06:15:21Z",
       "lat": -33.79414,
       "lng": 150.789066
     },
@@ -13920,13 +13925,13 @@
       "address": "Corner Forrester Road & Christie Street, St Marys NSW 2760",
       "state": "NSW",
       "prices": {
-        "E10": 213.9,
-        "U95": 232.9,
-        "U98": 241.9,
-        "Premium Diesel": 263.9,
-        "U91": 215.9
+        "E10": 211.9,
+        "U95": 230.9,
+        "U98": 239.9,
+        "Premium Diesel": 268.9,
+        "U91": 213.9
       },
-      "updated": "2026-11-12T05:21:15Z",
+      "updated": "2026-11-13T04:45:21Z",
       "lat": -33.747899,
       "lng": 150.776737
     },
@@ -14020,14 +14025,14 @@
       "address": "1408 Pacific Highway (Corner Duff Street), Turramurra NSW 2074",
       "state": "NSW",
       "prices": {
-        "E10": 219.9,
+        "E10": 220.9,
         "LPG": 112.7,
-        "U95": 238.9,
-        "U98": 247.9,
+        "U95": 239.9,
+        "U98": 248.9,
         "Premium Diesel": 271.9,
-        "U91": 221.9
+        "U91": 222.9
       },
-      "updated": "2026-11-13T01:18:13Z",
+      "updated": "2026-11-13T03:45:23Z",
       "lat": -33.733062,
       "lng": 151.126513
     },
@@ -14088,12 +14093,12 @@
       "address": "Cnr Avenue & Cowles Roads, Mosman NSW 2088",
       "state": "NSW",
       "prices": {
-        "E10": 220.9,
-        "U95": 239.9,
-        "U98": 248.9,
-        "Premium Diesel": 273.9
+        "E10": 219.9,
+        "U95": 238.9,
+        "U98": 247.9,
+        "Premium Diesel": 271.9
       },
-      "updated": "2026-11-12T20:41:56Z",
+      "updated": "2026-11-13T03:37:39Z",
       "lat": -33.832039,
       "lng": 151.237292
     },
@@ -14186,13 +14191,13 @@
       "address": "588 High ST, Penrith NSW 2750",
       "state": "NSW",
       "prices": {
-        "E10": 230.9,
+        "E10": 229.9,
         "LPG": 112.9,
-        "U98": 258.9,
-        "Premium Diesel": 280.9,
-        "U91": 232.9
+        "U98": 257.9,
+        "Premium Diesel": 279.9,
+        "U91": 231.9
       },
-      "updated": "2026-11-12T02:54:14Z",
+      "updated": "2026-11-13T04:36:16Z",
       "lat": -33.752554,
       "lng": 150.691289
     },
@@ -14220,13 +14225,13 @@
       "address": "138-142 Princes Highway, ALBION PARK RAIL NSW 2527",
       "state": "NSW",
       "prices": {
-        "E10": 228.9,
-        "U95": 247.9,
-        "U98": 256.9,
+        "E10": 225.9,
+        "U95": 244.9,
+        "U98": 253.9,
         "Premium Diesel": 272.9,
-        "U91": 230.9
+        "U91": 227.9
       },
-      "updated": "2026-11-12T21:57:14Z",
+      "updated": "2026-11-13T04:42:14Z",
       "lat": -34.559031,
       "lng": 150.793658
     },
@@ -14253,13 +14258,13 @@
       "address": "88 - 92 Clinton Street, Goulburn NSW 2580",
       "state": "NSW",
       "prices": {
-        "E10": 226.9,
-        "U95": 245.9,
-        "U98": 254.9,
-        "Premium Diesel": 269.5,
-        "U91": 228.9
+        "E10": 225.9,
+        "U95": 244.9,
+        "U98": 253.9,
+        "Premium Diesel": 265.9,
+        "U91": 227.9
       },
-      "updated": "2026-11-12T19:30:47Z",
+      "updated": "2026-11-13T04:39:13Z",
       "lat": -34.756539,
       "lng": 149.712291
     },
@@ -14320,12 +14325,12 @@
       "address": "322 Canterbury Road, Canterbury NSW 2193",
       "state": "NSW",
       "prices": {
-        "E10": 216.9,
-        "U95": 235.9,
-        "U98": 244.9,
+        "E10": 213.9,
+        "U95": 232.9,
+        "U98": 241.9,
         "Premium Diesel": 269.9
       },
-      "updated": "2026-11-12T19:52:09Z",
+      "updated": "2026-11-13T03:51:52Z",
       "lat": -33.914974,
       "lng": 151.113038
     },
@@ -14384,12 +14389,12 @@
       "address": "Cnr Barrenjoey & Darley Roads, Mona Vale NSW 2103",
       "state": "NSW",
       "prices": {
-        "E10": 218.9,
-        "U95": 235.9,
-        "U98": 244.9,
+        "E10": 215.9,
+        "U95": 232.9,
+        "U98": 241.9,
         "Premium Diesel": 276.9
       },
-      "updated": "2026-11-12T23:52:02Z",
+      "updated": "2026-11-13T04:51:56Z",
       "lat": -33.676686,
       "lng": 151.308878
     },
@@ -14400,12 +14405,12 @@
       "address": "Cnr Victora Rd & Clyde St, Rydalmere NSW 2116",
       "state": "NSW",
       "prices": {
-        "E10": 219.9,
-        "U95": 237.9,
-        "U98": 246.9,
+        "E10": 215.9,
+        "U95": 233.9,
+        "U98": 242.9,
         "Premium Diesel": 269.9
       },
-      "updated": "2026-11-12T23:53:59Z",
+      "updated": "2026-11-13T08:35:40Z",
       "lat": -33.810883,
       "lng": 151.032896
     },
@@ -14499,12 +14504,12 @@
       "address": "136 Pacific Highway, Coffs Harbour NSW 2450",
       "state": "NSW",
       "prices": {
-        "E10": 222.9,
-        "U95": 241.9,
-        "U98": 250.9,
-        "Premium Diesel": 271.9
+        "E10": 219.9,
+        "U95": 238.9,
+        "U98": 247.9,
+        "Premium Diesel": 270.9
       },
-      "updated": "2026-11-12T22:06:24Z",
+      "updated": "2026-11-13T03:58:00Z",
       "lat": -30.291826,
       "lng": 153.118513
     },
@@ -14518,9 +14523,9 @@
         "E10": 219.9,
         "U95": 236.9,
         "U98": 245.9,
-        "Premium Diesel": 273.9
+        "Premium Diesel": 271.9
       },
-      "updated": "2026-11-12T22:06:21Z",
+      "updated": "2026-11-13T02:51:54Z",
       "lat": -33.81137,
       "lng": 151.17555
     },
@@ -14547,12 +14552,12 @@
       "address": "485 Sydney Road, Balgowlah NSW 2093",
       "state": "NSW",
       "prices": {
-        "E10": 221.9,
-        "U98": 249.9,
-        "Premium Diesel": 273.9,
-        "U91": 224.9
+        "E10": 219.9,
+        "U98": 247.9,
+        "Premium Diesel": 271.9,
+        "U91": 222.9
       },
-      "updated": "2026-11-12T19:52:09Z",
+      "updated": "2026-11-13T04:51:56Z",
       "lat": -33.795281,
       "lng": 151.255873
     },
@@ -14644,12 +14649,12 @@
       "address": "Cnr Hassall & James Ruse Drive, Rosehill NSW 2142",
       "state": "NSW",
       "prices": {
-        "E10": 216.9,
-        "U95": 235.9,
-        "U98": 244.9,
+        "E10": 214.9,
+        "U95": 233.9,
+        "U98": 242.9,
         "Premium Diesel": 274.9
       },
-      "updated": "2026-11-13T00:22:34Z",
+      "updated": "2026-11-13T04:06:12Z",
       "lat": -33.819266,
       "lng": 151.021834
     },
@@ -14772,12 +14777,12 @@
       "address": "39 Vernon Street, Woollahra NSW 2025",
       "state": "NSW",
       "prices": {
-        "E10": 215.9,
-        "U95": 234.9,
-        "U98": 243.9,
+        "E10": 214.9,
+        "U95": 233.9,
+        "U98": 242.9,
         "Premium Diesel": 271.9
       },
-      "updated": "2026-11-12T20:35:51Z",
+      "updated": "2026-11-13T05:02:10Z",
       "lat": -33.889907,
       "lng": 151.247435
     },
@@ -14903,12 +14908,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 268.9,
-        "E10": 217.9,
-        "U95": 235.9,
-        "U98": 244.9,
+        "E10": 216.9,
+        "U95": 234.9,
+        "U98": 243.9,
         "Premium Diesel": 271.9
       },
-      "updated": "2026-11-12T23:14:20Z",
+      "updated": "2026-11-13T04:45:49Z",
       "lat": -33.893297,
       "lng": 151.039079
     },
@@ -15000,12 +15005,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 278.9,
-        "E10": 229.9,
+        "E10": 227.9,
         "E85": 259.9,
-        "U98": 254.9,
-        "U91": 231.9
+        "U98": 252.9,
+        "U91": 229.9
       },
-      "updated": "2026-11-12T22:15:04Z",
+      "updated": "2026-11-13T07:05:10Z",
       "lat": -33.745864,
       "lng": 150.622484
     },
@@ -15034,11 +15039,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 275.9,
-        "E10": 223.9,
-        "U98": 248.9,
-        "U91": 225.9
+        "E10": 215.9,
+        "U98": 240.9,
+        "U91": 217.9
       },
-      "updated": "2026-11-12T06:25:07Z",
+      "updated": "2026-11-13T07:15:15Z",
       "lat": -28.860712,
       "lng": 153.062007
     },
@@ -15118,13 +15123,13 @@
       "state": "NSW",
       "prices": {
         "Diesel": 271.9,
-        "E10": 215.9,
-        "U95": 231.9,
-        "U98": 240.9,
+        "E10": 214.9,
+        "U95": 230.9,
+        "U98": 239.9,
         "Premium Diesel": 273.9,
-        "U91": 217.9
+        "U91": 216.9
       },
-      "updated": "2026-11-12T21:35:14Z",
+      "updated": "2026-11-13T05:55:16Z",
       "lat": -33.755734,
       "lng": 151.29601
     },
@@ -15136,13 +15141,13 @@
       "state": "NSW",
       "prices": {
         "Diesel": 271.9,
-        "E10": 215.9,
+        "E10": 214.9,
         "E85": 259.9,
         "LPG": 121.9,
-        "U98": 240.9,
-        "U91": 217.9
+        "U98": 239.9,
+        "U91": 216.9
       },
-      "updated": "2026-11-12T21:30:05Z",
+      "updated": "2026-11-13T05:55:16Z",
       "lat": -33.75579,
       "lng": 151.282715
     },
@@ -15154,13 +15159,13 @@
       "state": "NSW",
       "prices": {
         "Diesel": 280.9,
-        "E10": 227.9,
-        "U95": 243.9,
-        "U98": 252.9,
+        "E10": 228.9,
+        "U95": 244.9,
+        "U98": 253.9,
         "Premium Diesel": 282.9,
-        "U91": 229.9
+        "U91": 230.9
       },
-      "updated": "2026-11-11T23:30:12Z",
+      "updated": "2026-11-13T03:35:06Z",
       "lat": -30.340107,
       "lng": 152.710156
     },
@@ -15307,13 +15312,13 @@
       "address": "Pacific Hwy & Heber Street, GRAFTON SOUTH NSW 2460",
       "state": "NSW",
       "prices": {
-        "Diesel": 270.5,
-        "E10": 222.5,
+        "Diesel": 269.5,
+        "E10": 217.5,
         "LPG": 131.9,
-        "U98": 247.5,
-        "U91": 224.5
+        "U98": 242.5,
+        "U91": 219.5
       },
-      "updated": "2026-11-12T07:15:06Z",
+      "updated": "2026-11-13T06:55:09Z",
       "lat": -29.711111,
       "lng": 152.945306
     },
@@ -15324,13 +15329,13 @@
       "address": "1465-1467 Elizabeth Drive, Kemps Creek NSW 2178",
       "state": "NSW",
       "prices": {
-        "Diesel": 256.7,
-        "E10": 214.9,
+        "Diesel": 253.9,
+        "E10": 213.9,
         "LPG": 117.9,
-        "U98": 240.9,
-        "U91": 216.9
+        "U98": 239.9,
+        "U91": 215.9
       },
-      "updated": "2026-11-08T22:40:06Z",
+      "updated": "2026-11-13T03:55:12Z",
       "lat": -33.879605,
       "lng": 150.788879
     },
@@ -15481,12 +15486,12 @@
       "address": "Cnr Patrick & Watkins Streets, Merewether NSW 2291",
       "state": "NSW",
       "prices": {
-        "Diesel": 267.5,
-        "E10": 221.5,
-        "U98": 246.5,
-        "U91": 223.5
+        "Diesel": 265.5,
+        "E10": 217.5,
+        "U98": 242.5,
+        "U91": 219.5
       },
-      "updated": "2026-11-12T22:20:03Z",
+      "updated": "2026-11-13T03:45:18Z",
       "lat": -32.940932,
       "lng": 151.75926
     },
@@ -15583,13 +15588,13 @@
       "address": "174 Woodward Street, Orange NSW 2800",
       "state": "NSW",
       "prices": {
-        "Diesel": 262.5,
-        "E10": 219.7,
+        "Diesel": 259.5,
+        "E10": 215.5,
         "LPG": 129.9,
-        "U98": 246.7,
-        "U91": 223.7
+        "U98": 242.5,
+        "U91": 219.5
       },
-      "updated": "2026-11-12T22:25:04Z",
+      "updated": "2026-11-13T05:55:16Z",
       "lat": -33.280011,
       "lng": 149.087192
     },
@@ -15600,14 +15605,14 @@
       "address": "51 Pacific Highway, OURIMBAH NSW 2258",
       "state": "NSW",
       "prices": {
-        "Diesel": 263.9,
-        "E10": 225.9,
+        "Diesel": 261.7,
+        "E10": 220.9,
         "E85": 259.9,
-        "U95": 241.9,
-        "U98": 250.9,
-        "U91": 227.9
+        "U95": 236.9,
+        "U98": 245.9,
+        "U91": 222.9
       },
-      "updated": "2026-11-12T22:40:08Z",
+      "updated": "2026-11-13T05:15:09Z",
       "lat": -33.36025,
       "lng": 151.369454
     },
@@ -15687,13 +15692,13 @@
       "address": "1542  Federal Highway Service Road, Sutton NSW 2620",
       "state": "NSW",
       "prices": {
-        "Diesel": 271.9,
+        "Diesel": 271.3,
         "E10": 229.9,
         "LPG": 120.9,
         "U98": 255.9,
         "U91": 231.9
       },
-      "updated": "2026-11-12T05:15:06Z",
+      "updated": "2026-11-13T07:50:08Z",
       "lat": -35.203032,
       "lng": 149.21056
     },
@@ -15990,12 +15995,12 @@
       "address": "108 Sirus Drive, Lakewood NSW 2443",
       "state": "NSW",
       "prices": {
-        "E10": 252.9,
-        "U95": 271.9,
-        "U98": 281.9,
+        "E10": 234.9,
+        "U95": 253.9,
+        "U98": 263.9,
         "Premium Diesel": 269.9
       },
-      "updated": "2026-11-12T20:17:24Z",
+      "updated": "2026-11-13T05:37:24Z",
       "lat": -31.63495,
       "lng": 152.755832
     },
@@ -16278,10 +16283,10 @@
         "E10": 215.9,
         "U95": 234.9,
         "U98": 244.9,
-        "Premium Diesel": 271.9,
+        "Premium Diesel": 269.9,
         "U91": 217.9
       },
-      "updated": "2026-11-12T22:02:25Z",
+      "updated": "2026-11-13T04:07:26Z",
       "lat": -34.040992,
       "lng": 150.735311
     },
@@ -16573,13 +16578,13 @@
       "address": "Cnr Lennox & East Market Streets, Richmond NSW 2753",
       "state": "NSW",
       "prices": {
-        "E10": 217.9,
-        "U95": 236.9,
-        "U98": 246.9,
+        "E10": 212.9,
+        "U95": 231.9,
+        "U98": 241.9,
         "Premium Diesel": 267.9,
-        "U91": 219.9
+        "U91": 214.9
       },
-      "updated": "2026-11-12T19:47:24Z",
+      "updated": "2026-11-13T02:52:25Z",
       "lat": -33.60055,
       "lng": 150.751324
     },
@@ -16608,10 +16613,10 @@
         "E10": 217.9,
         "U95": 236.9,
         "U98": 246.9,
-        "Premium Diesel": 272.9,
+        "Premium Diesel": 271.9,
         "U91": 219.9
       },
-      "updated": "2026-11-12T20:42:24Z",
+      "updated": "2026-11-13T02:57:23Z",
       "lat": -35.351599,
       "lng": 149.233485
     },
@@ -17053,10 +17058,10 @@
       "prices": {
         "U95": 243.9,
         "U98": 253.9,
-        "Premium Diesel": 270.9,
+        "Premium Diesel": 269.9,
         "U91": 226.9
       },
-      "updated": "2026-11-12T21:27:26Z",
+      "updated": "2026-11-13T02:47:24Z",
       "lat": -32.732209,
       "lng": 151.551216
     },
@@ -17104,9 +17109,9 @@
         "E10": 219.9,
         "U95": 231.9,
         "U98": 248.9,
-        "Premium Diesel": 283.9
+        "Premium Diesel": 279.9
       },
-      "updated": "2026-11-10T22:32:25Z",
+      "updated": "2026-11-13T04:02:25Z",
       "lat": -33.755021,
       "lng": 150.712972
     },
@@ -17353,12 +17358,11 @@
       "address": "Cnr Allison Cres & Old Menai Road, Menai NSW 2234",
       "state": "NSW",
       "prices": {
-        "E10": 235.9,
-        "U95": 247.9,
-        "U98": 264.9,
+        "E10": 234.9,
+        "U98": 263.9,
         "Premium Diesel": 289.9
       },
-      "updated": "2026-11-12T22:07:23Z",
+      "updated": "2026-11-13T05:32:24Z",
       "lat": -34.015212,
       "lng": 151.014943
     },
@@ -17931,10 +17935,10 @@
         "E10": 222.9,
         "U95": 241.9,
         "U98": 251.9,
-        "Premium Diesel": 283.9,
+        "Premium Diesel": 282.9,
         "U91": 224.9
       },
-      "updated": "2026-11-13T01:22:24Z",
+      "updated": "2026-11-13T04:07:26Z",
       "lat": -33.761653,
       "lng": 151.276273
     },
@@ -18162,12 +18166,12 @@
       "address": "2 Perricoota Rd, Moama NSW 2731",
       "state": "NSW",
       "prices": {
-        "U95": 271.9,
-        "U98": 281.9,
-        "Premium Diesel": 283.9,
-        "U91": 254.9
+        "U95": 266.9,
+        "U98": 276.9,
+        "Premium Diesel": 279.9,
+        "U91": 249.9
       },
-      "updated": "2026-11-13T02:32:24Z",
+      "updated": "2026-11-13T05:42:24Z",
       "lat": -36.106522,
       "lng": 144.75068
     },
@@ -18425,13 +18429,13 @@
       "address": "155-157 Princes Highway, Ulladulla NSW 2539",
       "state": "NSW",
       "prices": {
-        "E10": 250.9,
-        "U95": 269.9,
-        "U98": 279.9,
-        "Premium Diesel": 292.9,
-        "U91": 252.9
+        "E10": 243.9,
+        "U95": 262.9,
+        "U98": 272.9,
+        "Premium Diesel": 289.9,
+        "U91": 245.9
       },
-      "updated": "2026-10-30T22:32:27Z",
+      "updated": "2026-11-13T05:27:24Z",
       "lat": -35.363187,
       "lng": 150.472685
     },
@@ -18494,10 +18498,10 @@
         "E10": 215.9,
         "U95": 234.9,
         "U98": 244.9,
-        "Premium Diesel": 271.9,
+        "Premium Diesel": 269.9,
         "U91": 217.9
       },
-      "updated": "2026-11-12T22:02:25Z",
+      "updated": "2026-11-13T04:07:26Z",
       "lat": -34.068448,
       "lng": 150.729793
     },
@@ -18562,11 +18566,11 @@
         "Diesel": 272.9,
         "E10": 220.9,
         "U95": 241.9,
-        "U98": 251.9,
+        "U98": 250.9,
         "Premium Diesel": 277.9,
         "U91": 222.4
       },
-      "updated": "2026-11-13T02:02:25Z",
+      "updated": "2026-11-13T03:27:25Z",
       "lat": -33.773892,
       "lng": 150.944345
     },
@@ -18939,14 +18943,14 @@
       "address": "153 Coreen Ave Cnr Castlereagh Rd, Penrith NSW 2750",
       "state": "NSW",
       "prices": {
-        "Diesel": 278.9,
+        "Diesel": 275.9,
         "E10": 229.9,
         "U95": 248.9,
         "U98": 258.9,
-        "Premium Diesel": 281.9,
+        "Premium Diesel": 278.9,
         "U91": 231.9
       },
-      "updated": "2026-11-12T05:32:24Z",
+      "updated": "2026-11-13T03:27:25Z",
       "lat": -33.74291,
       "lng": 150.69272
     },
@@ -19008,9 +19012,9 @@
       "address": "360 Old Maitland Rd Cnr Pacific Hwy, Hexham NSW 2322",
       "state": "NSW",
       "prices": {
-        "Diesel": 261.9
+        "Diesel": 259.9
       },
-      "updated": "2026-11-12T04:37:26Z",
+      "updated": "2026-11-13T03:37:24Z",
       "lat": -32.827955,
       "lng": 151.684425
     },
@@ -19057,10 +19061,10 @@
         "E10": 218.9,
         "U95": 243.9,
         "U98": 250.9,
-        "Premium Diesel": 279.4,
+        "Premium Diesel": 268.9,
         "U91": 220.9
       },
-      "updated": "2026-11-13T02:07:25Z",
+      "updated": "2026-11-13T03:27:25Z",
       "lat": -33.87506,
       "lng": 150.688891
     },
@@ -19107,10 +19111,10 @@
         "E10": 225.9,
         "U95": 241.9,
         "U98": 250.9,
-        "Premium Diesel": 272.9,
+        "Premium Diesel": 271.9,
         "U91": 226.9
       },
-      "updated": "2026-11-13T02:12:26Z",
+      "updated": "2026-11-13T03:32:26Z",
       "lat": -33.252841,
       "lng": 151.405549
     },
@@ -19121,12 +19125,12 @@
       "address": "M1 Northbound, Wyong NSW 2259",
       "state": "NSW",
       "prices": {
-        "Diesel": 269.9,
+        "Diesel": 268.9,
         "E10": 225.9,
         "U95": 241.9,
-        "Premium Diesel": 272.9
+        "Premium Diesel": 271.9
       },
-      "updated": "2026-11-13T02:12:26Z",
+      "updated": "2026-11-13T03:32:26Z",
       "lat": -33.256253,
       "lng": 151.402518
     },
@@ -19137,12 +19141,12 @@
       "address": "M1 Southbound, Wyong NSW 2259",
       "state": "NSW",
       "prices": {
-        "Diesel": 269.9,
+        "Diesel": 268.9,
         "E10": 225.9,
         "U95": 241.9,
-        "Premium Diesel": 272.9
+        "Premium Diesel": 271.9
       },
-      "updated": "2026-11-13T02:32:24Z",
+      "updated": "2026-11-13T03:37:24Z",
       "lat": -33.253679,
       "lng": 151.404885
     },
@@ -19156,10 +19160,10 @@
         "E10": 225.9,
         "U95": 241.9,
         "U98": 250.9,
-        "Premium Diesel": 272.9,
+        "Premium Diesel": 271.9,
         "U91": 226.9
       },
-      "updated": "2026-11-13T02:17:25Z",
+      "updated": "2026-11-13T03:32:26Z",
       "lat": -33.255965,
       "lng": 151.402726
     },
@@ -19203,13 +19207,13 @@
       "address": "1715 Yass Valley Way, Yass NSW 2582",
       "state": "NSW",
       "prices": {
-        "Diesel": 266.9,
+        "Diesel": 265.9,
         "E10": 226.9,
         "U95": 245.9,
         "U98": 255.9,
-        "Premium Diesel": 269.9
+        "Premium Diesel": 268.9
       },
-      "updated": "2026-11-12T21:47:25Z",
+      "updated": "2026-11-13T03:32:26Z",
       "lat": -34.806963,
       "lng": 148.88252
     },
@@ -19490,13 +19494,13 @@
       "address": "253 Princes Hwy, Albion Park Rail NSW 2527",
       "state": "NSW",
       "prices": {
-        "E10": 220.9,
+        "E10": 214.9,
         "LPG": 109.9,
-        "U98": 244.9,
-        "Premium Diesel": 263.9,
-        "U91": 222.9
+        "U98": 240.9,
+        "Premium Diesel": 260.9,
+        "U91": 216.9
       },
-      "updated": "2026-11-12T21:19:10Z",
+      "updated": "2026-11-13T07:21:04Z",
       "lat": -34.567594,
       "lng": 150.803238
     },
@@ -19575,12 +19579,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 259.9,
-        "U95": 229.9,
-        "U98": 234.9,
+        "U95": 224.9,
+        "U98": 231.9,
         "Premium Diesel": 261.9,
         "U91": 209.9
       },
-      "updated": "2026-11-12T18:59:44Z",
+      "updated": "2026-11-13T05:36:40Z",
       "lat": -33.922433,
       "lng": 151.012584
     },
@@ -19592,13 +19596,13 @@
       "state": "NSW",
       "prices": {
         "Diesel": 253.9,
-        "E10": 211.9,
-        "U95": 232.9,
-        "U98": 239.9,
+        "E10": 210.9,
+        "U95": 229.9,
+        "U98": 237.9,
         "Premium Diesel": 255.9,
-        "U91": 213.9
+        "U91": 212.9
       },
-      "updated": "2026-11-13T01:02:24Z",
+      "updated": "2026-11-13T05:37:18Z",
       "lat": -33.904856,
       "lng": 151.011464
     },
@@ -19803,11 +19807,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 259.9,
-        "E10": 210.5,
-        "U98": 235.5,
-        "U91": 213.5
+        "E10": 209.5,
+        "U98": 230.5,
+        "U91": 212.5
       },
-      "updated": "2026-11-12T10:53:36Z",
+      "updated": "2026-11-13T03:39:46Z",
       "lat": -33.913952,
       "lng": 151.085535
     },
@@ -19818,12 +19822,12 @@
       "address": "280 Canterbury Road, Canterbury NSW 2193",
       "state": "NSW",
       "prices": {
-        "E10": 212.5,
-        "U98": 235.5,
+        "E10": 209.5,
+        "U98": 230.5,
         "Premium Diesel": 261.5,
-        "U91": 215.5
+        "U91": 212.5
       },
-      "updated": "2026-11-12T01:37:00Z",
+      "updated": "2026-11-13T03:39:10Z",
       "lat": -33.914023,
       "lng": 151.115187
     },
@@ -20021,15 +20025,15 @@
       "address": "53 Sydney Rd, Goulburn NSW 2580",
       "state": "NSW",
       "prices": {
-        "Diesel": 259.9,
-        "E10": 219.9,
+        "Diesel": 258.9,
+        "E10": 218.9,
         "LPG": 149.9,
         "U95": 259.9,
         "U98": 262.9,
         "Premium Diesel": 275.9,
-        "U91": 221.9
+        "U91": 220.9
       },
-      "updated": "2026-11-12T21:28:20Z",
+      "updated": "2026-11-13T06:36:19Z",
       "lat": -34.747919,
       "lng": 149.749345
     },
@@ -20056,12 +20060,12 @@
       "address": "162 Hardinge Street, Deniliquin NSW 2710",
       "state": "NSW",
       "prices": {
-        "Diesel": 283.9,
-        "U98": 269.9,
-        "Premium Diesel": 286.9,
-        "U91": 244.9
+        "Diesel": 279.9,
+        "U98": 264.9,
+        "Premium Diesel": 282.9,
+        "U91": 239.9
       },
-      "updated": "2026-11-09T22:40:10Z",
+      "updated": "2026-11-13T04:16:05Z",
       "lat": -35.533757,
       "lng": 144.951246
     },
@@ -20087,12 +20091,12 @@
       "address": "429 Moama Street, Hay NSW 2711",
       "state": "NSW",
       "prices": {
-        "Diesel": 283.9,
-        "U98": 274.9,
-        "Premium Diesel": 286.9,
-        "U91": 249.9
+        "Diesel": 279.9,
+        "U98": 269.9,
+        "Premium Diesel": 282.9,
+        "U91": 244.9
       },
-      "updated": "2026-11-09T22:48:01Z",
+      "updated": "2026-11-13T08:30:15Z",
       "lat": -34.52014,
       "lng": 144.838144
     },
@@ -20117,12 +20121,12 @@
       "address": "54 Deniliquin Road, Tocumwal NSW 2714",
       "state": "NSW",
       "prices": {
-        "Diesel": 279.9,
-        "U98": 259.9,
-        "Premium Diesel": 282.9,
-        "U91": 234.9
+        "Diesel": 274.9,
+        "U98": 254.9,
+        "Premium Diesel": 277.9,
+        "U91": 229.9
       },
-      "updated": "2026-11-10T00:04:06Z",
+      "updated": "2026-11-13T03:56:07Z",
       "lat": -35.810776,
       "lng": 145.560793
     },
@@ -20615,12 +20619,12 @@
       "address": "132 Allambie road, Allambie Heights NSW 2100",
       "state": "NSW",
       "prices": {
-        "E10": 213.8,
-        "U95": 228.8,
-        "U98": 238.8,
-        "Premium Diesel": 275.8
+        "E10": 211.8,
+        "U95": 226.8,
+        "U98": 236.8,
+        "Premium Diesel": 273.8
       },
-      "updated": "2026-11-12T20:40:28Z",
+      "updated": "2026-11-13T06:07:04Z",
       "lat": -33.765091,
       "lng": 151.249673
     },
@@ -20696,7 +20700,6 @@
       "state": "NSW",
       "prices": {
         "E10": 223.9,
-        "LPG": 121.9,
         "U98": 251.9,
         "Premium Diesel": 274.9,
         "U91": 225.9
@@ -20895,13 +20898,13 @@
       "address": "150 Pacific Highway, COFFS HARBOUR NSW 2450",
       "state": "NSW",
       "prices": {
-        "Diesel": 272.9,
+        "Diesel": 269.9,
         "LPG": 146.9,
         "U95": 237.9,
         "U98": 246.9,
-        "U91": 224.9
+        "U91": 221.9
       },
-      "updated": "2026-11-12T01:41:21Z",
+      "updated": "2026-11-13T03:22:12Z",
       "lat": -30.291043,
       "lng": 153.119607
     },
@@ -21073,11 +21076,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 250.5,
-        "E10": 210.5,
+        "E10": 207.5,
         "U98": 233.5,
-        "U91": 212.5
+        "U91": 209.5
       },
-      "updated": "2026-11-12T06:03:16Z",
+      "updated": "2026-11-13T03:58:02Z",
       "lat": -33.864119,
       "lng": 151.023111
     },
@@ -21122,12 +21125,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 259.8,
-        "E10": 209.8,
+        "E10": 204.8,
         "U95": 224.8,
         "U98": 231.8,
-        "U91": 209.8
+        "U91": 204.8
       },
-      "updated": "2026-11-12T20:20:51Z",
+      "updated": "2026-11-13T08:05:14Z",
       "lat": -33.927121,
       "lng": 151.128572
     },
@@ -21191,10 +21194,10 @@
       "prices": {
         "Diesel": 256.5,
         "E10": 211.5,
-        "U98": 238.5,
+        "U98": 234.5,
         "U91": 213.5
       },
-      "updated": "2026-11-12T21:27:56Z",
+      "updated": "2026-11-13T07:17:31Z",
       "lat": -33.761031,
       "lng": 150.780775
     },
@@ -21220,11 +21223,11 @@
       "address": "103 Sydenham RD, Marrickville NSW 2204",
       "state": "NSW",
       "prices": {
-        "E10": 209.7,
+        "E10": 204.7,
         "U95": 221.7,
-        "Premium Diesel": 263.5
+        "Premium Diesel": 258.5
       },
-      "updated": "2026-11-12T20:23:23Z",
+      "updated": "2026-11-13T08:00:58Z",
       "lat": -33.910197,
       "lng": 151.163393
     },
@@ -21316,10 +21319,10 @@
       "prices": {
         "U95": 256.9,
         "U98": 265.9,
-        "Premium Diesel": 289.9,
-        "U91": 236.9
+        "Premium Diesel": 285.9,
+        "U91": 233.9
       },
-      "updated": "2026-11-12T01:43:49Z",
+      "updated": "2026-11-13T05:40:05Z",
       "lat": -30.652195,
       "lng": 152.991497
     },
@@ -21423,13 +21426,13 @@
       "address": "18 Allandale St, KEARSLEY NSW 2325",
       "state": "NSW",
       "prices": {
-        "E10": 221.5,
-        "U95": 239.5,
+        "E10": 219.5,
+        "U95": 233.5,
         "U98": 243.5,
         "Premium Diesel": 264.5,
-        "U91": 223.5
+        "U91": 221.5
       },
-      "updated": "2026-11-11T23:51:53Z",
+      "updated": "2026-11-13T08:52:10Z",
       "lat": -32.858663,
       "lng": 151.395106
     },
@@ -21455,11 +21458,11 @@
       "address": "22 East Street, Murrumbateman NSW 2582",
       "state": "NSW",
       "prices": {
-        "Diesel": 273.9,
-        "U98": 257.9,
-        "U91": 231.9
+        "Diesel": 269.9,
+        "U98": 255.9,
+        "U91": 229.9
       },
-      "updated": "2026-11-12T07:06:20Z",
+      "updated": "2026-11-13T08:15:11Z",
       "lat": -34.969895,
       "lng": 149.029771
     },
@@ -21720,12 +21723,12 @@
       "address": "149 Nancy Bird Walton Dr, Kew NSW 2439",
       "state": "NSW",
       "prices": {
-        "Diesel": 267.9,
-        "U95": 246.9,
-        "U98": 257.9,
-        "U91": 234.9
+        "Diesel": 264.9,
+        "U95": 241.9,
+        "U98": 252.9,
+        "U91": 229.9
       },
-      "updated": "2026-11-08T23:23:52Z",
+      "updated": "2026-11-13T05:35:51Z",
       "lat": -31.633701,
       "lng": 152.723329
     },
@@ -21861,12 +21864,12 @@
       "address": "88 Louee St, Rylstone NSW 2849",
       "state": "NSW",
       "prices": {
-        "Diesel": 279.9,
-        "U95": 248.9,
-        "U98": 260.9,
-        "U91": 235.9
+        "Diesel": 274.9,
+        "U95": 244.9,
+        "U98": 257.9,
+        "U91": 229.9
       },
-      "updated": "2026-11-08T23:43:44Z",
+      "updated": "2026-11-13T04:21:58Z",
       "lat": -32.799163,
       "lng": 149.970819
     },
@@ -21938,12 +21941,12 @@
       "address": "129 Lagoon Street, Goulburn NSW 2580",
       "state": "NSW",
       "prices": {
-        "E10": 225.5,
-        "U98": 252.5,
-        "Premium Diesel": 261.9,
-        "U91": 227.5
+        "E10": 220.5,
+        "U98": 246.9,
+        "Premium Diesel": 260.9,
+        "U91": 222.9
       },
-      "updated": "2026-11-12T06:46:55Z",
+      "updated": "2026-11-13T05:23:30Z",
       "lat": -34.746098,
       "lng": 149.732757
     },
@@ -21985,12 +21988,12 @@
       "address": "1 Brookfield Road, Minto NSW 2566",
       "state": "NSW",
       "prices": {
-        "E10": 202.9,
-        "U98": 226.9,
-        "Premium Diesel": 250.9,
-        "U91": 204.9
+        "E10": 200.9,
+        "U98": 224.9,
+        "Premium Diesel": 248.9,
+        "U91": 202.9
       },
-      "updated": "2026-11-12T20:56:27Z",
+      "updated": "2026-11-13T07:33:35Z",
       "lat": -34.031695,
       "lng": 150.847906
     },
@@ -22312,12 +22315,10 @@
       "address": "187, Oberon Street, Oberon NSW 2787",
       "state": "NSW",
       "prices": {
-        "Diesel": 279.9,
         "E10": 237.9,
-        "U98": 265.9,
         "U91": 239.9
       },
-      "updated": "2026-11-12T22:01:02Z",
+      "updated": "2026-11-06T00:48:12Z",
       "lat": -33.703406,
       "lng": 149.854611
     },
@@ -22497,11 +22498,11 @@
       "address": "7452 Newell Hwy, Beckom NSW 2665",
       "state": "NSW",
       "prices": {
-        "Diesel": 274.9,
+        "Diesel": 270.9,
         "U98": 275.9,
         "U91": 244.9
       },
-      "updated": "2026-11-11T23:49:57Z",
+      "updated": "2026-11-13T04:35:09Z",
       "lat": -34.331599,
       "lng": 146.958417
     },
@@ -22591,12 +22592,12 @@
       "address": "214 Warringah Road, Beacon Hill NSW 2100",
       "state": "NSW",
       "prices": {
-        "Diesel": 274.9,
-        "E10": 215.9,
-        "U98": 244.9,
-        "U91": 217.9
+        "Diesel": 273.9,
+        "E10": 213.9,
+        "U98": 242.9,
+        "U91": 215.9
       },
-      "updated": "2026-11-12T21:58:52Z",
+      "updated": "2026-11-13T05:40:32Z",
       "lat": -33.752572,
       "lng": 151.25491
     },
@@ -22746,12 +22747,12 @@
       "address": "155 Pennant Hills Rd, Normanhurst NSW 2076",
       "state": "NSW",
       "prices": {
-        "U95": 231.9,
-        "U98": 240.9,
+        "U95": 230.9,
+        "U98": 239.9,
         "Premium Diesel": 269.9,
-        "U91": 213.9
+        "U91": 212.9
       },
-      "updated": "2026-11-12T23:05:03Z",
+      "updated": "2026-11-13T07:21:52Z",
       "lat": -33.724599,
       "lng": 151.089992
     },
@@ -23000,9 +23001,9 @@
         "E10": 206.7,
         "U95": 225.7,
         "U98": 234.7,
-        "Premium Diesel": 268.7
+        "Premium Diesel": 266.7
       },
-      "updated": "2026-11-12T00:13:14Z",
+      "updated": "2026-11-13T02:55:15Z",
       "lat": -33.769346,
       "lng": 151.031858
     },
@@ -23044,10 +23045,10 @@
         "E10": 206.5,
         "U95": 225.5,
         "U98": 234.5,
-        "Premium Diesel": 267.5,
+        "Premium Diesel": 266.5,
         "U91": 208.5
       },
-      "updated": "2026-11-12T01:00:18Z",
+      "updated": "2026-11-13T03:17:42Z",
       "lat": -33.765073,
       "lng": 151.057902
     },
@@ -23266,13 +23267,13 @@
       "address": "1642 The Horsley Dr, Horsley Park NSW 2164",
       "state": "NSW",
       "prices": {
-        "Diesel": 263.9,
-        "E10": 219.9,
-        "U95": 234.9,
-        "U98": 247.9,
-        "Premium Diesel": 266.9
+        "Diesel": 262.9,
+        "E10": 215.9,
+        "U95": 231.9,
+        "U98": 245.9,
+        "Premium Diesel": 265.9
       },
-      "updated": "2026-11-12T04:57:27Z",
+      "updated": "2026-11-13T05:03:32Z",
       "lat": -33.843714,
       "lng": 150.863232
     },
@@ -23299,12 +23300,12 @@
       "address": "3 Bells Line Of Road, NORTH RICHMOND NSW 2754",
       "state": "NSW",
       "prices": {
-        "U95": 233.9,
-        "U98": 245.9,
+        "U95": 231.9,
+        "U98": 244.9,
         "Premium Diesel": 267.9,
-        "U91": 214.9
+        "U91": 212.9
       },
-      "updated": "2026-11-12T02:36:18Z",
+      "updated": "2026-11-13T05:03:42Z",
       "lat": -33.582914,
       "lng": 150.722427
     },
@@ -23551,12 +23552,12 @@
       "address": "405 Hume Highway, Yagoona NSW 2199",
       "state": "NSW",
       "prices": {
-        "U95": 234.9,
-        "U98": 244.9,
+        "U95": 229.9,
+        "U98": 239.9,
         "Premium Diesel": 269.9,
-        "U91": 219.9
+        "U91": 215.9
       },
-      "updated": "2026-11-12T00:13:12Z",
+      "updated": "2026-11-13T04:19:19Z",
       "lat": -33.908972,
       "lng": 151.029147
     },
@@ -23753,14 +23754,14 @@
       "address": "72 Harold St, Macquarie Fields NSW 2564",
       "state": "NSW",
       "prices": {
-        "E10": 217.9,
+        "E10": 207.9,
         "LPG": 119.9,
-        "U95": 236.9,
-        "U98": 245.9,
-        "Premium Diesel": 275.9,
-        "U91": 219.9
+        "U95": 229.9,
+        "U98": 239.9,
+        "Premium Diesel": 269.9,
+        "U91": 209.9
       },
-      "updated": "2026-11-10T04:17:25Z",
+      "updated": "2026-11-13T03:12:53Z",
       "lat": -33.985109,
       "lng": 150.893446
     },
@@ -23894,13 +23895,13 @@
       "address": "208-212 Cabramatta Rd, Cabramatta West NSW 2166",
       "state": "NSW",
       "prices": {
-        "E10": 217.9,
-        "U95": 245.9,
-        "U98": 255.9,
-        "Premium Diesel": 270.9,
-        "U91": 225.9
+        "E10": 215.9,
+        "U95": 243.9,
+        "U98": 253.9,
+        "Premium Diesel": 268.9,
+        "U91": 223.9
       },
-      "updated": "2026-11-12T03:08:07Z",
+      "updated": "2026-11-13T07:44:05Z",
       "lat": -33.895888,
       "lng": 150.936403
     },
@@ -23960,11 +23961,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 259.9,
-        "U95": 243.9,
-        "U98": 248.9,
+        "U95": 241.9,
+        "U98": 247.9,
         "U91": 226.9
       },
-      "updated": "2026-11-12T08:03:44Z",
+      "updated": "2026-11-13T04:04:31Z",
       "lat": -31.647949,
       "lng": 152.796382
     },
@@ -24054,10 +24055,10 @@
       "address": "38 Maitland Road, Paterson NSW 2421",
       "state": "NSW",
       "prices": {
-        "Diesel": 271.9,
-        "U95": 250.9
+        "Diesel": 265.9,
+        "U95": 229.9
       },
-      "updated": "2026-11-09T20:34:56Z",
+      "updated": "2026-11-13T05:59:42Z",
       "lat": -32.604948,
       "lng": 151.616328
     },
@@ -24102,11 +24103,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 267.9,
-        "E10": 214.9,
-        "U98": 241.9,
-        "U91": 216.9
+        "E10": 211.9,
+        "U98": 236.9,
+        "U91": 213.9
       },
-      "updated": "2026-11-11T08:27:38Z",
+      "updated": "2026-11-13T04:34:51Z",
       "lat": -33.765383,
       "lng": 150.869643
     },
@@ -24178,7 +24179,6 @@
       "address": "370 Hoxton Park RD, Prestons NSW 2170",
       "state": "NSW",
       "prices": {
-        "E10": 219.9,
         "U98": 254.9,
         "Premium Diesel": 266.9,
         "U91": 221.9
@@ -24288,11 +24288,11 @@
       "state": "NSW",
       "prices": {
         "E10": 223.9,
-        "U98": 253.9,
+        "U98": 247.9,
         "Premium Diesel": 265.7,
         "U91": 225.9
       },
-      "updated": "2026-11-12T20:19:51Z",
+      "updated": "2026-11-13T06:46:29Z",
       "lat": -32.950534,
       "lng": 151.623698
     },
@@ -24488,13 +24488,13 @@
       "address": "709 Cabramatta Road, Bonnyrigg NSW 2177",
       "state": "NSW",
       "prices": {
-        "E10": 213.5,
+        "E10": 203.5,
         "U95": 230.5,
         "U98": 239.5,
-        "Premium Diesel": 259.5,
+        "Premium Diesel": 249.5,
         "U91": 216.5
       },
-      "updated": "2026-11-12T19:00:58Z",
+      "updated": "2026-11-13T08:59:28Z",
       "lat": -33.893095,
       "lng": 150.89238
     },
@@ -24744,12 +24744,12 @@
       "address": "299-303 Wardell Rd, Dulwich Hill NSW 2203",
       "state": "NSW",
       "prices": {
-        "E10": 209.5,
+        "E10": 204.5,
         "U98": 231.5,
         "Premium Diesel": 259.5,
         "U91": 209.5
       },
-      "updated": "2026-11-12T21:24:47Z",
+      "updated": "2026-11-13T07:03:45Z",
       "lat": -33.912799,
       "lng": 151.138427
     },
@@ -24776,12 +24776,12 @@
       "address": "46 Wyrallah Rd, Lismore NSW 2480",
       "state": "NSW",
       "prices": {
-        "Diesel": 276.9,
+        "Diesel": 272.9,
         "U95": 240.9,
         "U98": 250.9,
         "U91": 230.9
       },
-      "updated": "2026-11-11T21:26:28Z",
+      "updated": "2026-11-13T08:55:35Z",
       "lat": -28.818425,
       "lng": 153.284364
     },
@@ -24886,12 +24886,12 @@
       "address": "32-36 Princes Highway, MILTON NSW 2538",
       "state": "NSW",
       "prices": {
-        "Diesel": 289.9,
-        "E10": 249.9,
-        "U98": 277.9,
-        "U91": 251.9
+        "Diesel": 279.9,
+        "E10": 243.9,
+        "U98": 271.9,
+        "U91": 245.9
       },
-      "updated": "2026-10-02T21:03:17Z",
+      "updated": "2026-11-13T06:43:45Z",
       "lat": -35.313425,
       "lng": 150.433152
     },
@@ -25045,7 +25045,7 @@
         "Premium Diesel": 269.9,
         "U91": 209.5
       },
-      "updated": "2026-11-12T23:15:08Z",
+      "updated": "2026-11-13T07:13:31Z",
       "lat": -33.754151,
       "lng": 151.040615
     },
@@ -25103,12 +25103,12 @@
       "address": "256 Kissing Point Rd, DUNDAS NSW 2117",
       "state": "NSW",
       "prices": {
-        "E10": 219.9,
-        "U95": 239.9,
-        "U98": 248.9,
+        "E10": 214.9,
+        "U95": 234.9,
+        "U98": 243.9,
         "Premium Diesel": 273.9
       },
-      "updated": "2026-11-12T05:02:57Z",
+      "updated": "2026-11-13T05:50:27Z",
       "lat": -33.798888,
       "lng": 151.054368
     },
@@ -25125,7 +25125,7 @@
         "Premium Diesel": 273.9,
         "U91": 219.9
       },
-      "updated": "2026-11-13T00:50:38Z",
+      "updated": "2026-11-13T06:55:51Z",
       "lat": -33.769073,
       "lng": 150.941486
     },
@@ -25138,10 +25138,10 @@
       "prices": {
         "E10": 218.9,
         "U98": 247.9,
-        "Premium Diesel": 274.9,
+        "Premium Diesel": 272.9,
         "U91": 220.9
       },
-      "updated": "2026-11-12T23:13:13Z",
+      "updated": "2026-11-13T07:29:01Z",
       "lat": -33.811106,
       "lng": 151.164217
     },
@@ -25182,12 +25182,12 @@
       "address": "66-68 Cessnock Road, Neath NSW 2326",
       "state": "NSW",
       "prices": {
-        "Diesel": 271.9,
-        "E10": 231.9,
+        "Diesel": 262.9,
+        "E10": 221.9,
         "U98": 251.9,
         "U91": 233.9
       },
-      "updated": "2026-11-12T10:39:56Z",
+      "updated": "2026-11-13T07:48:35Z",
       "lat": -32.826152,
       "lng": 151.414131
     },
@@ -25219,7 +25219,7 @@
         "Premium Diesel": 268.9,
         "U91": 218.9
       },
-      "updated": "2026-11-12T21:05:35Z",
+      "updated": "2026-11-13T08:43:46Z",
       "lat": -33.781325,
       "lng": 150.771133
     },
@@ -25263,13 +25263,13 @@
       "address": "Lot 1 Cowpasture Road, HOXTON PARK NSW 2171",
       "state": "NSW",
       "prices": {
-        "E10": 219.9,
+        "E10": 214.9,
         "LPG": 125.9,
-        "U98": 250.9,
-        "Premium Diesel": 272.9,
-        "U91": 222.9
+        "U98": 245.9,
+        "Premium Diesel": 270.9,
+        "U91": 217.9
       },
-      "updated": "2026-11-12T05:39:53Z",
+      "updated": "2026-11-13T06:28:20Z",
       "lat": -33.922918,
       "lng": 150.848727
     },
@@ -25342,7 +25342,6 @@
       "address": "199 Anderson Drive, Beresfield NSW 2322",
       "state": "NSW",
       "prices": {
-        "Diesel": 288.9,
         "U95": 264.9,
         "U91": 248.9
       },
@@ -25496,12 +25495,12 @@
       "address": "120 Rocky Point RD, Kogarah NSW 2217",
       "state": "NSW",
       "prices": {
-        "E10": 212.7,
-        "U95": 231.9,
+        "E10": 210.9,
+        "U95": 229.9,
         "U98": 236.5,
-        "Premium Diesel": 268.9
+        "Premium Diesel": 266.9
       },
-      "updated": "2026-11-12T02:28:13Z",
+      "updated": "2026-11-13T07:00:45Z",
       "lat": -33.976923,
       "lng": 151.13682
     },
@@ -25593,10 +25592,9 @@
         "E10": 216.5,
         "U95": 239.5,
         "U98": 249.5,
-        "Premium Diesel": 265.5,
         "U91": 218.5
       },
-      "updated": "2026-11-11T06:14:43Z",
+      "updated": "2026-11-13T06:17:38Z",
       "lat": -33.873839,
       "lng": 151.007145
     },
@@ -25623,10 +25621,10 @@
       "address": "571 Beryl Street, Broken Hill NSW 2880",
       "state": "NSW",
       "prices": {
-        "Premium Diesel": 267.5,
-        "U91": 223.5
+        "Premium Diesel": 266.5,
+        "U91": 220.5
       },
-      "updated": "2026-11-11T22:33:12Z",
+      "updated": "2026-11-13T08:43:04Z",
       "lat": -31.94987,
       "lng": 141.475305
     },
@@ -25742,12 +25740,12 @@
       "address": "174 Ryan St, South Grafton NSW 2460",
       "state": "NSW",
       "prices": {
-        "Diesel": 271.5,
-        "U95": 242.5,
-        "U98": 248.5,
-        "U91": 225.5
+        "Diesel": 269.5,
+        "U95": 240.5,
+        "U98": 247.5,
+        "U91": 221.5
       },
-      "updated": "2026-11-11T22:03:42Z",
+      "updated": "2026-11-13T06:31:29Z",
       "lat": -29.702781,
       "lng": 152.928772
     },
@@ -25948,12 +25946,12 @@
       "address": "102 Commerce Street, Taree NSW 2430",
       "state": "NSW",
       "prices": {
-        "U95": 238.5,
-        "U98": 247.5,
-        "Premium Diesel": 275.5,
-        "U91": 225.5
+        "U95": 243.5,
+        "U98": 253.5,
+        "Premium Diesel": 272.5,
+        "U91": 223.5
       },
-      "updated": "2026-11-12T01:30:04Z",
+      "updated": "2026-11-13T04:10:03Z",
       "lat": -31.907564,
       "lng": 152.450449
     },
@@ -26028,10 +26026,10 @@
         "E10": 221.9,
         "U95": 240.9,
         "U98": 249.9,
-        "Premium Diesel": 278.9,
+        "Premium Diesel": 276.9,
         "U91": 223.9
       },
-      "updated": "2026-11-12T23:42:15Z",
+      "updated": "2026-11-13T03:39:14Z",
       "lat": -32.890998,
       "lng": 151.666094
     },
@@ -26059,13 +26057,13 @@
       "address": "90 Bathurst Road, Orange NSW 2800",
       "state": "NSW",
       "prices": {
-        "E10": 222.9,
-        "U95": 241.9,
-        "U98": 250.9,
+        "E10": 221.9,
+        "U95": 240.9,
+        "U98": 249.9,
         "Premium Diesel": 269.9,
-        "U91": 224.9
+        "U91": 223.9
       },
-      "updated": "2026-11-12T21:51:14Z",
+      "updated": "2026-11-13T03:39:14Z",
       "lat": -33.291793,
       "lng": 149.110594
     },
@@ -26373,12 +26371,12 @@
       "address": "182 Green Valley Rd, Green Valley NSW 2168",
       "state": "NSW",
       "prices": {
-        "Diesel": 263.9,
-        "E10": 216.9,
-        "U98": 240.9,
-        "U91": 218.9
+        "Diesel": 261.5,
+        "E10": 213.5,
+        "U98": 238.5,
+        "U91": 215.5
       },
-      "updated": "2026-11-12T00:21:34Z",
+      "updated": "2026-11-13T03:07:51Z",
       "lat": -33.902392,
       "lng": 150.868276
     },
@@ -26389,12 +26387,12 @@
       "address": "57 High Street, Wauchope NSW 2446",
       "state": "NSW",
       "prices": {
-        "U95": 239,
-        "U98": 249,
-        "Premium Diesel": 265,
-        "U91": 227
+        "U95": 235,
+        "U98": 245,
+        "Premium Diesel": 263,
+        "U91": 223
       },
-      "updated": "2026-11-11T22:37:21Z",
+      "updated": "2026-11-13T06:38:07Z",
       "lat": -31.457356,
       "lng": 152.730501
     },
@@ -26520,12 +26518,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 265.9,
-        "E10": 212.9,
-        "U98": 236.9,
+        "E10": 210.9,
+        "U98": 234.9,
         "Premium Diesel": 268.9,
-        "U91": 214.9
+        "U91": 212.9
       },
-      "updated": "2026-11-12T03:16:23Z",
+      "updated": "2026-11-13T03:46:14Z",
       "lat": -33.959161,
       "lng": 151.137703
     },
@@ -26703,10 +26701,10 @@
       "state": "NSW",
       "prices": {
         "Diesel": 275.9,
-        "U98": 247.9,
-        "U91": 225.9
+        "U98": 239.9,
+        "U91": 217.9
       },
-      "updated": "2026-11-12T22:01:28Z",
+      "updated": "2026-11-13T03:43:40Z",
       "lat": -28.87041,
       "lng": 153.0441
     },
@@ -26718,10 +26716,10 @@
       "state": "NSW",
       "prices": {
         "Diesel": 275.9,
-        "U98": 247.9,
-        "U91": 225.9
+        "U98": 239.9,
+        "U91": 217.9
       },
-      "updated": "2026-11-12T22:17:26Z",
+      "updated": "2026-11-13T04:21:06Z",
       "lat": -28.869763,
       "lng": 153.038557
     },
@@ -26850,12 +26848,12 @@
       "address": "6 Kosciuszko rd, Jindabyne NSW 2627",
       "state": "NSW",
       "prices": {
-        "U95": 268.9,
-        "U98": 278.9,
-        "Premium Diesel": 290.9,
-        "U91": 251.9
+        "U95": 262.9,
+        "U98": 272.9,
+        "Premium Diesel": 289.9,
+        "U91": 245.9
       },
-      "updated": "2026-11-11T20:37:25Z",
+      "updated": "2026-11-13T05:27:24Z",
       "lat": -36.414063,
       "lng": 148.622691
     },
@@ -26950,11 +26948,11 @@
       "address": "113 Union st, Lismore NSW 2480",
       "state": "NSW",
       "prices": {
-        "Diesel": 276.9,
+        "Diesel": 272.9,
         "U98": 250.9,
         "U91": 230.9
       },
-      "updated": "2026-11-11T21:26:42Z",
+      "updated": "2026-11-13T08:55:44Z",
       "lat": -28.810315,
       "lng": 153.265695
     },
@@ -27042,11 +27040,11 @@
       "address": "309a Wollombi RD, Bellbird Heights NSW 2325",
       "state": "NSW",
       "prices": {
-        "E10": 225.5,
-        "Premium Diesel": 269.5,
-        "U91": 227.5
+        "E10": 219.5,
+        "Premium Diesel": 264.5,
+        "U91": 221.5
       },
-      "updated": "2026-11-11T06:06:34Z",
+      "updated": "2026-11-13T08:28:36Z",
       "lat": -32.849229,
       "lng": 151.329231
     },
@@ -27091,13 +27089,13 @@
       "address": "51-59 Main Street, Mittagong NSW 2575",
       "state": "NSW",
       "prices": {
-        "E10": 224.9,
-        "U95": 241.9,
-        "U98": 251.9,
-        "Premium Diesel": 274.9,
-        "U91": 226.9
+        "E10": 221.9,
+        "U95": 238.9,
+        "U98": 248.9,
+        "Premium Diesel": 269.9,
+        "U91": 223.9
       },
-      "updated": "2026-11-12T02:07:00Z",
+      "updated": "2026-11-13T03:47:47Z",
       "lat": -34.44999,
       "lng": 150.450159
     },
@@ -27425,11 +27423,11 @@
       "address": "4 Kiah Store RD, Kiah NSW 2551",
       "state": "NSW",
       "prices": {
-        "Diesel": 294.9,
-        "U98": 273.9,
-        "U91": 249.9
+        "Diesel": 277.9,
+        "U98": 259.9,
+        "U91": 235.9
       },
-      "updated": "2026-10-06T22:34:51Z",
+      "updated": "2026-11-13T02:46:46Z",
       "lat": -37.157528,
       "lng": 149.856382
     },
@@ -27555,12 +27553,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 264.5,
-        "E10": 221.5,
+        "E10": 219.5,
         "U95": 236.5,
-        "U98": 246.5,
-        "U91": 223.5
+        "U98": 244.5,
+        "U91": 221.5
       },
-      "updated": "2026-11-13T00:54:01Z",
+      "updated": "2026-11-13T04:30:28Z",
       "lat": -33.415998,
       "lng": 149.582965
     },
@@ -27573,9 +27571,9 @@
       "prices": {
         "U98": 224.5,
         "Premium Diesel": 250.5,
-        "U91": 207.5
+        "U91": 203.5
       },
-      "updated": "2026-11-13T02:23:56Z",
+      "updated": "2026-11-13T08:06:02Z",
       "lat": -33.924048,
       "lng": 151.135875
     },
@@ -27667,13 +27665,13 @@
       "address": "100 Rookwood RD, Yagoona NSW 2199",
       "state": "NSW",
       "prices": {
-        "Diesel": 257.9,
-        "E10": 213.9,
+        "Diesel": 253.9,
+        "E10": 209.5,
         "E85": 229.5,
         "U98": 239.9,
-        "U91": 215.9
+        "U91": 211.5
       },
-      "updated": "2026-11-13T00:27:38Z",
+      "updated": "2026-11-13T07:00:21Z",
       "lat": -33.899293,
       "lng": 151.036862
     },
@@ -27917,11 +27915,11 @@
       "address": "95 Northcote ST, Kurri Kurri NSW 2327",
       "state": "NSW",
       "prices": {
-        "Diesel": 271.9,
+        "Diesel": 261.7,
         "U98": 255.9,
         "U91": 233.9
       },
-      "updated": "2026-11-09T23:43:29Z",
+      "updated": "2026-11-13T08:25:05Z",
       "lat": -32.812292,
       "lng": 151.475928
     },
@@ -28117,13 +28115,13 @@
       "address": "3 Waller Av, Armidale NSW 2350",
       "state": "NSW",
       "prices": {
-        "Diesel": 255.5,
-        "E10": 210.5,
-        "U98": 237.5,
-        "Premium Diesel": 258.5,
-        "U91": 214.5
+        "Diesel": 254.5,
+        "E10": 209.5,
+        "U98": 236.5,
+        "Premium Diesel": 257.5,
+        "U91": 213.5
       },
-      "updated": "2026-11-12T21:21:13Z",
+      "updated": "2026-11-13T03:37:03Z",
       "lat": -30.535408,
       "lng": 151.611248
     },
@@ -28256,14 +28254,14 @@
       "address": "176-178 Peisley ST, Orange NSW 2800",
       "state": "NSW",
       "prices": {
-        "Diesel": 260.5,
-        "E10": 219.5,
+        "Diesel": 259.5,
+        "E10": 217.5,
         "E85": 255.5,
-        "U95": 235.5,
-        "U98": 246.5,
-        "U91": 221.5
+        "U95": 232.5,
+        "U98": 244.5,
+        "U91": 219.5
       },
-      "updated": "2026-11-13T02:31:24Z",
+      "updated": "2026-11-13T04:39:18Z",
       "lat": -33.285254,
       "lng": 149.103726
     },
@@ -28291,13 +28289,13 @@
       "address": "106 Milperra RD, Revesby NSW 2212",
       "state": "NSW",
       "prices": {
-        "Diesel": 259.5,
-        "E10": 208.5,
+        "Diesel": 254.5,
+        "E10": 203.5,
         "U98": 234.9,
         "Premium Diesel": 261.5,
         "U91": 211.5
       },
-      "updated": "2026-11-12T01:17:52Z",
+      "updated": "2026-11-13T09:14:22Z",
       "lat": -33.935615,
       "lng": 151.008715
     },
@@ -28424,13 +28422,13 @@
       "address": "2 Bakehouse RD, North Rothbury NSW 2335",
       "state": "NSW",
       "prices": {
-        "E10": 223.9,
-        "U95": 242.9,
-        "U98": 251.9,
+        "E10": 222.9,
+        "U95": 241.9,
+        "U98": 250.9,
         "Premium Diesel": 265.9,
-        "U91": 225.9
+        "U91": 224.9
       },
-      "updated": "2026-11-12T22:48:14Z",
+      "updated": "2026-11-13T05:12:15Z",
       "lat": -32.67357,
       "lng": 151.350631
     },
@@ -28506,11 +28504,11 @@
       "address": "2 Bunga ST, Bermagui NSW 2546",
       "state": "NSW",
       "prices": {
-        "Diesel": 287.9,
-        "U98": 271.9,
-        "U91": 247.9
+        "Diesel": 283.9,
+        "U98": 267.9,
+        "U91": 245.9
       },
-      "updated": "2026-11-12T00:16:57Z",
+      "updated": "2026-11-13T05:07:37Z",
       "lat": -36.427341,
       "lng": 150.07593
     },
@@ -28521,15 +28519,15 @@
       "address": "262 - 272 VICTORIA RD Rydalmere NSW 2116",
       "state": "NSW",
       "prices": {
-        "Diesel": 265.9,
-        "E10": 218.9,
+        "Diesel": 259.9,
+        "E10": 213.9,
         "E85": 249.9,
         "LPG": 118.9,
-        "U95": 236.9,
-        "U98": 245.9,
-        "U91": 220.9
+        "U95": 229.9,
+        "U98": 239.9,
+        "U91": 217.9
       },
-      "updated": "2026-11-12T23:38:42Z",
+      "updated": "2026-11-13T08:23:25Z",
       "lat": -33.810076,
       "lng": 151.032389
     },
@@ -28755,12 +28753,12 @@
       "address": "275 Pacific HWY Hornsby NSW 2077",
       "state": "NSW",
       "prices": {
-        "E10": 211.9,
+        "E10": 206.9,
         "U98": 237.9,
-        "Premium Diesel": 269.9,
+        "Premium Diesel": 264.9,
         "U91": 213.9
       },
-      "updated": "2026-11-12T04:05:43Z",
+      "updated": "2026-11-13T08:10:33Z",
       "lat": -33.690987,
       "lng": 151.099631
     },
@@ -28771,11 +28769,11 @@
       "address": "16-20 Murray ST, Finley NSW 2713",
       "state": "NSW",
       "prices": {
-        "U98": 249.9,
-        "Premium Diesel": 269.9,
-        "U91": 229.9
+        "U98": 244.9,
+        "Premium Diesel": 264.9,
+        "U91": 224.9
       },
-      "updated": "2026-11-12T12:35:54Z",
+      "updated": "2026-11-13T07:30:48Z",
       "lat": -35.634056,
       "lng": 145.581488
     },
@@ -29023,12 +29021,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 250.5,
-        "E10": 210.5,
-        "U95": 224.5,
+        "E10": 207.5,
+        "U95": 221.5,
         "U98": 233.5,
-        "U91": 212.5
+        "U91": 209.5
       },
-      "updated": "2026-11-12T20:07:34Z",
+      "updated": "2026-11-13T03:53:49Z",
       "lat": -33.854649,
       "lng": 151.032508
     },
@@ -29039,10 +29037,10 @@
       "address": "90 Princes HWY, Milton NSW 2538",
       "state": "NSW",
       "prices": {
-        "Premium Diesel": 289.9,
-        "U91": 251.9
+        "Premium Diesel": 279.9,
+        "U91": 245.9
       },
-      "updated": "2026-10-04T08:32:00Z",
+      "updated": "2026-11-13T08:49:54Z",
       "lat": -35.317087,
       "lng": 150.437112
     },
@@ -29084,12 +29082,12 @@
       "address": "85 Main ST, Young NSW 2594",
       "state": "NSW",
       "prices": {
-        "E10": 237.9,
-        "U98": 259.9,
+        "E10": 235.9,
+        "U98": 257.9,
         "Premium Diesel": 275.9,
-        "U91": 239.9
+        "U91": 237.9
       },
-      "updated": "2026-11-10T18:50:19Z",
+      "updated": "2026-11-13T08:42:51Z",
       "lat": -34.313779,
       "lng": 148.295233
     },
@@ -29100,13 +29098,13 @@
       "address": "569 Great Western HWY, Werrington NSW 2747",
       "state": "NSW",
       "prices": {
-        "E10": 214.5,
-        "U95": 228.5,
-        "U98": 239.5,
-        "Premium Diesel": 254.5,
-        "U91": 216.5
+        "E10": 211.5,
+        "U95": 224.5,
+        "U98": 234.5,
+        "Premium Diesel": 252.5,
+        "U91": 213.5
       },
-      "updated": "2026-11-13T02:22:06Z",
+      "updated": "2026-11-13T04:14:49Z",
       "lat": -33.768067,
       "lng": 150.758376
     },
@@ -29318,12 +29316,12 @@
       "address": "68 Bathurst RD, Orange NSW 2800",
       "state": "NSW",
       "prices": {
-        "Diesel": 260.5,
-        "E10": 220.5,
-        "U95": 235.5,
-        "U91": 222.5
+        "Diesel": 259.5,
+        "E10": 215.5,
+        "U95": 232.5,
+        "U91": 219.5
       },
-      "updated": "2026-11-12T09:59:14Z",
+      "updated": "2026-11-13T08:48:17Z",
       "lat": -33.290734,
       "lng": 149.109431
     },
@@ -29353,10 +29351,10 @@
       "prices": {
         "E10": 214.9,
         "U98": 240.9,
-        "Premium Diesel": 262.9,
+        "Premium Diesel": 260.9,
         "U91": 216.9
       },
-      "updated": "2026-11-12T22:15:16Z",
+      "updated": "2026-11-13T07:18:42Z",
       "lat": -34.561219,
       "lng": 150.795564
     },
@@ -29399,13 +29397,13 @@
       "address": "1 Dunn RD, Smeaton Grange NSW 2567",
       "state": "NSW",
       "prices": {
-        "Diesel": 261.9,
-        "U95": 231.9,
-        "U98": 239.9,
-        "Premium Diesel": 263.9,
-        "U91": 214.9
+        "Diesel": 260.9,
+        "U95": 230.5,
+        "U98": 238.5,
+        "Premium Diesel": 262.9,
+        "U91": 213.5
       },
-      "updated": "2026-11-12T09:18:28Z",
+      "updated": "2026-11-13T03:20:43Z",
       "lat": -34.032313,
       "lng": 150.756161
     },
@@ -29494,12 +29492,12 @@
       "address": "69 Richmond RD, Blacktown NSW 2148",
       "state": "NSW",
       "prices": {
-        "E10": 211.9,
+        "E10": 201.9,
         "U98": 237.9,
-        "Premium Diesel": 269.9,
+        "Premium Diesel": 259.9,
         "U91": 213.9
       },
-      "updated": "2026-11-12T18:59:07Z",
+      "updated": "2026-11-13T09:03:11Z",
       "lat": -33.763866,
       "lng": 150.902445
     },
@@ -29510,13 +29508,13 @@
       "address": "14 Bernera RD, Prestons NSW 2170",
       "state": "NSW",
       "prices": {
-        "E10": 218.7,
-        "U95": 222.7,
-        "U98": 232.7,
-        "Premium Diesel": 256.9,
-        "U91": 220.7
+        "E10": 205.9,
+        "U95": 217.7,
+        "U98": 227.7,
+        "Premium Diesel": 251.9,
+        "U91": 215.7
       },
-      "updated": "2026-11-12T19:13:58Z",
+      "updated": "2026-11-13T06:58:35Z",
       "lat": -33.93577,
       "lng": 150.869267
     },
@@ -29626,11 +29624,11 @@
       "address": "127a Alfred ST, Parramatta NSW 2150",
       "state": "NSW",
       "prices": {
-        "Diesel": 259.5,
-        "U98": 239.5,
-        "U91": 212.5
+        "Diesel": 257.5,
+        "U98": 235.5,
+        "U91": 210.5
       },
-      "updated": "2026-11-12T23:51:56Z",
+      "updated": "2026-11-13T03:52:52Z",
       "lat": -33.817864,
       "lng": 151.017544
     },
@@ -29642,13 +29640,13 @@
       "state": "NSW",
       "prices": {
         "Diesel": 269.9,
-        "E10": 209.9,
-        "U95": 233.9,
-        "U98": 243.9,
+        "E10": 208.8,
+        "U95": 232.9,
+        "U98": 242.9,
         "Premium Diesel": 275.9,
-        "U91": 213.9
+        "U91": 212.8
       },
-      "updated": "2026-11-12T00:13:02Z",
+      "updated": "2026-11-13T04:16:18Z",
       "lat": -33.929299,
       "lng": 150.953464
     },
@@ -29693,11 +29691,11 @@
       "address": "78 Murray ST, Tooleybuc NSW 2736",
       "state": "NSW",
       "prices": {
-        "Diesel": 276.9,
-        "U98": 254.9,
-        "U91": 234.9
+        "Diesel": 274.9,
+        "U98": 249.9,
+        "U91": 229.9
       },
-      "updated": "2026-11-10T05:42:45Z",
+      "updated": "2026-11-13T04:31:46Z",
       "lat": -35.028004,
       "lng": 143.336318
     },
@@ -29726,12 +29724,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 269.5,
-        "U95": 240.5,
-        "U98": 247.5,
+        "U95": 236.5,
+        "U98": 244.5,
         "Premium Diesel": 272.5,
-        "U91": 221.5
+        "U91": 219.5
       },
-      "updated": "2026-11-13T01:01:04Z",
+      "updated": "2026-11-13T06:47:03Z",
       "lat": -29.701935,
       "lng": 152.934951
     },
@@ -29805,13 +29803,13 @@
       "address": "41 Broadarrow RD, Narwee NSW 2209",
       "state": "NSW",
       "prices": {
-        "E10": 215.7,
+        "E10": 210.7,
         "U95": 233.7,
         "U98": 243.7,
-        "Premium Diesel": 265.7,
+        "Premium Diesel": 260.7,
         "U91": 217.7
       },
-      "updated": "2026-11-12T18:04:42Z",
+      "updated": "2026-11-13T08:11:01Z",
       "lat": -33.948149,
       "lng": 151.070973
     },
@@ -29839,12 +29837,12 @@
       "address": "1-3 Church ST, Port Kembla NSW 2505",
       "state": "NSW",
       "prices": {
-        "E10": 218.9,
-        "U98": 241.9,
-        "Premium Diesel": 261.9,
-        "U91": 220.9
+        "E10": 215.9,
+        "U98": 240.9,
+        "Premium Diesel": 260.9,
+        "U91": 217.9
       },
-      "updated": "2026-11-13T00:19:09Z",
+      "updated": "2026-11-13T07:07:36Z",
       "lat": -34.484568,
       "lng": 150.904006
     },
@@ -29974,11 +29972,11 @@
       "address": "198 Hill End RD, Doonside NSW 2767",
       "state": "NSW",
       "prices": {
-        "E10": 215.9,
+        "E10": 205.9,
         "Premium Diesel": 266.5,
-        "U91": 217.9
+        "U91": 212.9
       },
-      "updated": "2026-11-12T11:40:16Z",
+      "updated": "2026-11-13T07:59:06Z",
       "lat": -33.747217,
       "lng": 150.872244
     },
@@ -30048,12 +30046,11 @@
       "address": "37 Shellharbour RD, Lake Illawarra NSW 2528",
       "state": "NSW",
       "prices": {
-        "Diesel": 261.9,
-        "E10": 214.9,
-        "U98": 240.9,
-        "U91": 216.9
+        "Diesel": 251.9,
+        "E10": 199.9,
+        "U91": 206.9
       },
-      "updated": "2026-11-12T23:17:50Z",
+      "updated": "2026-11-13T08:49:39Z",
       "lat": -34.545146,
       "lng": 150.862914
     },
@@ -30080,11 +30077,11 @@
       "address": "93-99 Addison RD, Marrickville NSW 2204",
       "state": "NSW",
       "prices": {
-        "E10": 212.7,
-        "Premium Diesel": 266.7,
-        "U91": 214.7
+        "E10": 204.9,
+        "Premium Diesel": 259.9,
+        "U91": 211.9
       },
-      "updated": "2026-11-12T11:40:35Z",
+      "updated": "2026-11-13T08:00:03Z",
       "lat": -33.902431,
       "lng": 151.164548
     },
@@ -30154,11 +30151,11 @@
       "address": "1 Shand Drive Armidale NSW 2350",
       "state": "NSW",
       "prices": {
-        "Diesel": 254.9,
+        "Diesel": 254.5,
         "U95": 224.9,
-        "U91": 213.9
+        "U91": 213.5
       },
-      "updated": "2026-11-12T23:07:50Z",
+      "updated": "2026-11-13T04:38:26Z",
       "lat": -30.530027,
       "lng": 151.619106
     },
@@ -30170,11 +30167,11 @@
       "state": "NSW",
       "prices": {
         "E10": 195.9,
-        "U98": 236.9,
+        "U98": 229.9,
         "Premium Diesel": 259.9,
-        "U91": 214.9
+        "U91": 207.9
       },
-      "updated": "2026-11-10T20:13:17Z",
+      "updated": "2026-11-13T05:42:41Z",
       "lat": -33.916224,
       "lng": 151.013734
     },
@@ -30263,12 +30260,12 @@
       "address": "472 Cabramatta RD West, Mount Pritchard NSW 2170",
       "state": "NSW",
       "prices": {
-        "Diesel": 259.9,
-        "E10": 209.9,
+        "Diesel": 254.9,
+        "E10": 204.9,
         "U98": 237.9,
         "U91": 217.9
       },
-      "updated": "2026-11-12T20:35:12Z",
+      "updated": "2026-11-13T08:08:23Z",
       "lat": -33.897038,
       "lng": 150.912351
     },
@@ -30279,12 +30276,12 @@
       "address": "85-87 Princes HWY, Batemans Bay NSW 2536",
       "state": "NSW",
       "prices": {
-        "Diesel": 273.9,
-        "E10": 223.9,
-        "U98": 251.9,
-        "U91": 227.9
+        "Diesel": 270.9,
+        "E10": 219.9,
+        "U98": 247.9,
+        "U91": 223.9
       },
-      "updated": "2026-11-09T22:57:15Z",
+      "updated": "2026-11-13T02:59:40Z",
       "lat": -35.719405,
       "lng": 150.176276
     },
@@ -30295,11 +30292,11 @@
       "address": "20-22 Neeld ST, Wyalong NSW 2671",
       "state": "NSW",
       "prices": {
-        "U98": 259.5,
-        "Premium Diesel": 273.9,
-        "U91": 234.9
+        "U98": 239.9,
+        "Premium Diesel": 265.9,
+        "U91": 219.9
       },
-      "updated": "2026-11-10T04:41:08Z",
+      "updated": "2026-11-13T08:19:22Z",
       "lat": -33.926794,
       "lng": 147.248309
     },
@@ -30340,12 +30337,12 @@
       "address": "485 River ST, West Ballina NSW 2478",
       "state": "NSW",
       "prices": {
-        "E10": 229.5,
-        "U95": 244.5,
-        "Premium Diesel": 283.5,
-        "U91": 231.5
+        "E10": 225.5,
+        "U95": 240.5,
+        "Premium Diesel": 277.5,
+        "U91": 227.5
       },
-      "updated": "2026-11-09T10:26:17Z",
+      "updated": "2026-11-13T08:51:27Z",
       "lat": -28.8635,
       "lng": 153.535034
     },
@@ -30389,13 +30386,13 @@
       "address": "27 Young ST, Wallendbeen NSW 2588",
       "state": "NSW",
       "prices": {
-        "Diesel": 266.9,
+        "Diesel": 263.9,
         "E10": 229.9,
         "U98": 257.9,
-        "Premium Diesel": 268.9,
+        "Premium Diesel": 265.9,
         "U91": 234.9
       },
-      "updated": "2026-11-09T03:42:42Z",
+      "updated": "2026-11-13T02:47:19Z",
       "lat": -34.529788,
       "lng": 148.163766
     },
@@ -30468,11 +30465,11 @@
       "address": "26l Yarrandale RD, Dubbo NSW 2830",
       "state": "NSW",
       "prices": {
-        "U98": 256.5,
-        "Premium Diesel": 265.5,
-        "U91": 233.5
+        "U98": 242.5,
+        "Premium Diesel": 255.5,
+        "U91": 219.5
       },
-      "updated": "2026-11-05T22:23:01Z",
+      "updated": "2026-11-13T08:20:02Z",
       "lat": -32.215765,
       "lng": 148.632498
     },
@@ -30611,9 +30608,9 @@
       "address": "8 Law CL, Gunnedah NSW 2380",
       "state": "NSW",
       "prices": {
-        "Premium Diesel": 275.5
+        "Premium Diesel": 269.5
       },
-      "updated": "2026-11-05T22:23:12Z",
+      "updated": "2026-11-13T08:20:35Z",
       "lat": -30.964109,
       "lng": 150.233733
     },
@@ -30651,13 +30648,13 @@
       "address": "105 Wollombi RD, Cessnock NSW 2325",
       "state": "NSW",
       "prices": {
-        "E10": 225.5,
-        "U95": 239.5,
-        "U98": 249.5,
-        "Premium Diesel": 269.5,
-        "U91": 227.5
+        "E10": 219.5,
+        "U95": 233.5,
+        "U98": 243.5,
+        "Premium Diesel": 264.5,
+        "U91": 221.5
       },
-      "updated": "2026-11-11T05:45:29Z",
+      "updated": "2026-11-13T03:53:08Z",
       "lat": -32.839355,
       "lng": 151.343011
     },
@@ -30681,13 +30678,13 @@
       "address": "425 Argyle ST, Picton NSW 2571",
       "state": "NSW",
       "prices": {
-        "Diesel": 269.5,
-        "E10": 219.5,
-        "U95": 233.5,
-        "U98": 243.5,
-        "U91": 221.5
+        "Diesel": 268.5,
+        "E10": 217.5,
+        "U95": 231.5,
+        "U98": 241.5,
+        "U91": 219.5
       },
-      "updated": "2026-11-12T18:11:44Z",
+      "updated": "2026-11-13T03:03:56Z",
       "lat": -34.190267,
       "lng": 150.603968
     },
@@ -30749,13 +30746,13 @@
       "address": "3 Dunk PL, Oran Park NSW 2570",
       "state": "NSW",
       "prices": {
-        "E10": 215.9,
-        "U95": 234.9,
-        "U98": 244.9,
-        "Premium Diesel": 268.9,
-        "U91": 217.9
+        "E10": 213.9,
+        "U95": 232.9,
+        "U98": 242.9,
+        "Premium Diesel": 267.9,
+        "U91": 215.9
       },
-      "updated": "2026-11-12T22:02:25Z",
+      "updated": "2026-11-13T06:42:24Z",
       "lat": -33.995421,
       "lng": 150.727869
     },
@@ -30766,12 +30763,12 @@
       "address": "163-165 Parramatta RD, Haberfield NSW 2045",
       "state": "NSW",
       "prices": {
-        "E10": 216.7,
-        "U98": 242.7,
-        "Premium Diesel": 267.7,
-        "U91": 218.7
+        "E10": 209.5,
+        "U98": 233.5,
+        "Premium Diesel": 264.5,
+        "U91": 211.5
       },
-      "updated": "2026-11-09T22:19:03Z",
+      "updated": "2026-11-13T07:33:11Z",
       "lat": -33.883649,
       "lng": 151.134535
     },
@@ -30813,11 +30810,11 @@
       "address": "169 Riverside Drive Jugiong NSW 2726",
       "state": "NSW",
       "prices": {
-        "U98": 263.9,
-        "Premium Diesel": 265.9,
-        "U91": 239.9
+        "U98": 249.9,
+        "Premium Diesel": 259.9,
+        "U91": 229.9
       },
-      "updated": "2026-11-10T04:41:21Z",
+      "updated": "2026-11-13T08:18:32Z",
       "lat": -34.822155,
       "lng": 148.343062
     },
@@ -30860,12 +30857,12 @@
       "address": "113 Parry ST, Newcastle West NSW 2302",
       "state": "NSW",
       "prices": {
-        "E10": 220.5,
+        "E10": 217.5,
         "U98": 243.5,
         "Premium Diesel": 262.5,
-        "U91": 223.5
+        "U91": 219.5
       },
-      "updated": "2026-11-12T21:09:49Z",
+      "updated": "2026-11-13T03:21:49Z",
       "lat": -32.92557,
       "lng": 151.755799
     },
@@ -31191,11 +31188,11 @@
       "address": "1 Main ST, Grenfell NSW 2810",
       "state": "NSW",
       "prices": {
-        "Diesel": 282.9,
-        "U98": 265.9,
-        "U91": 245.9
+        "Diesel": 266.9,
+        "U98": 236.9,
+        "U91": 230.9
       },
-      "updated": "2026-11-03T21:33:52Z",
+      "updated": "2026-11-13T06:13:09Z",
       "lat": -33.894342,
       "lng": 148.158056
     },
@@ -31221,13 +31218,14 @@
       "address": "464 Goonoo Goonoo RD, Hillvue NSW 2340",
       "state": "NSW",
       "prices": {
-        "Diesel": 259.5,
-        "E10": 215.5,
+        "Diesel": 254.5,
+        "E10": 210.5,
         "U95": 229.5,
         "U98": 239.5,
+        "Premium Diesel": 261.5,
         "U91": 217.5
       },
-      "updated": "2026-11-13T00:23:43Z",
+      "updated": "2026-11-13T08:58:50Z",
       "lat": -31.129862,
       "lng": 150.924575
     },
@@ -31332,15 +31330,15 @@
       "address": "45 Rookwood RD, Yagoona NSW 2199",
       "state": "NSW",
       "prices": {
-        "Diesel": 262.9,
-        "E10": 215.9,
+        "Diesel": 259.9,
+        "E10": 209.5,
         "E85": 229.7,
         "LPG": 116.9,
         "U95": 239.9,
         "U98": 249.9,
-        "U91": 219.9
+        "U91": 215.9
       },
-      "updated": "2026-11-12T06:35:30Z",
+      "updated": "2026-11-13T07:39:03Z",
       "lat": -33.901877,
       "lng": 151.037178
     },
@@ -31383,12 +31381,12 @@
       "address": "178 Warren RD, Gilgandra NSW 2827",
       "state": "NSW",
       "prices": {
-        "Diesel": 258.9,
+        "Diesel": 257.9,
         "E10": 227.9,
         "U98": 254.9,
         "U91": 229.9
       },
-      "updated": "2026-11-12T22:38:35Z",
+      "updated": "2026-11-13T05:08:33Z",
       "lat": -31.710103,
       "lng": 148.654046
     },
@@ -31576,12 +31574,12 @@
       "address": "67 Stewart Av, Hamilton South NSW 2303",
       "state": "NSW",
       "prices": {
-        "E10": 219.5,
+        "E10": 217.5,
         "U98": 243.5,
-        "Premium Diesel": 267.5,
-        "U91": 223.5
+        "Premium Diesel": 265.5,
+        "U91": 219.5
       },
-      "updated": "2026-11-12T21:11:05Z",
+      "updated": "2026-11-13T03:19:55Z",
       "lat": -32.932128,
       "lng": 151.753307
     },
@@ -31641,11 +31639,11 @@
       "address": "2111 George Bass DR, Tomakin NSW 2537",
       "state": "NSW",
       "prices": {
-        "U98": 246.9,
-        "Premium Diesel": 269.9,
-        "U91": 223.9
+        "U98": 244.9,
+        "Premium Diesel": 267.9,
+        "U91": 221.9
       },
-      "updated": "2026-11-13T00:40:46Z",
+      "updated": "2026-11-13T05:56:12Z",
       "lat": -35.823285,
       "lng": 150.186164
     },
@@ -31673,12 +31671,12 @@
       "address": "15-17 Castlereagh ST, Gilgandra NSW 2827",
       "state": "NSW",
       "prices": {
-        "Diesel": 258.9,
+        "Diesel": 257.9,
         "U98": 249.9,
         "Premium Diesel": 259.9,
         "U91": 229.9
       },
-      "updated": "2026-11-12T22:32:28Z",
+      "updated": "2026-11-13T07:07:07Z",
       "lat": -31.716598,
       "lng": 148.658731
     },
@@ -31817,13 +31815,13 @@
       "address": "242-246 Bridge St West Tamworth NSW 2340",
       "state": "NSW",
       "prices": {
-        "Diesel": 254.5,
-        "E10": 214.5,
+        "Diesel": 259.5,
+        "E10": 214.4,
         "U95": 229.5,
         "U98": 239.5,
         "U91": 217.5
       },
-      "updated": "2026-11-12T23:45:06Z",
+      "updated": "2026-11-13T03:25:02Z",
       "lat": -31.095386,
       "lng": 150.912055
     },
@@ -31834,13 +31832,13 @@
       "address": "108 Canterbury RD, Bankstown NSW 2200",
       "state": "NSW",
       "prices": {
-        "Diesel": 257.9,
-        "E10": 208.5,
+        "Diesel": 256.7,
+        "E10": 207.7,
         "E85": 229.8,
-        "U98": 234.9,
-        "U91": 210.7
+        "U98": 234.7,
+        "U91": 209.7
       },
-      "updated": "2026-11-12T23:21:34Z",
+      "updated": "2026-11-13T05:11:44Z",
       "lat": -33.93436,
       "lng": 151.0313
     },
@@ -31851,13 +31849,13 @@
       "address": "495 Coolac RD, Coolac NSW 2727",
       "state": "NSW",
       "prices": {
-        "Diesel": 256.5,
+        "Diesel": 255.5,
         "E10": 215.5,
         "U95": 230.5,
         "U98": 239.5,
         "U91": 217.5
       },
-      "updated": "2026-11-12T12:19:33Z",
+      "updated": "2026-11-13T08:44:07Z",
       "lat": -34.922031,
       "lng": 148.167845
     },
@@ -31868,12 +31866,12 @@
       "address": "Shop 1 2790 Remembrance Dvwy, Tahmoor NSW 2573",
       "state": "NSW",
       "prices": {
-        "E10": 219.5,
-        "U98": 243.5,
+        "E10": 217.5,
+        "U98": 241.5,
         "Premium Diesel": 268.5,
-        "U91": 221.5
+        "U91": 219.5
       },
-      "updated": "2026-11-12T21:52:17Z",
+      "updated": "2026-11-13T06:55:39Z",
       "lat": -34.234391,
       "lng": 150.58175
     },
@@ -31995,13 +31993,13 @@
       "address": "112-114 Ramsgate RD, Ramsgate NSW 2217",
       "state": "NSW",
       "prices": {
-        "E10": 212.7,
-        "U95": 231.9,
+        "E10": 210.9,
+        "U95": 229.9,
         "U98": 236.5,
-        "Premium Diesel": 268.9,
+        "Premium Diesel": 266.9,
         "U91": 213.9
       },
-      "updated": "2026-11-12T19:32:22Z",
+      "updated": "2026-11-13T08:55:39Z",
       "lat": -33.984424,
       "lng": 151.14014
     },
@@ -32122,12 +32120,12 @@
       "address": "535 ARGENT ST Broken Hill NSW 2880",
       "state": "NSW",
       "prices": {
-        "Diesel": 267.5,
-        "U95": 236.5,
-        "U98": 245.5,
-        "U91": 223.5
+        "Diesel": 266.5,
+        "U95": 233.5,
+        "U98": 242.5,
+        "U91": 220.9
       },
-      "updated": "2026-11-11T21:15:16Z",
+      "updated": "2026-11-13T06:00:47Z",
       "lat": -31.953118,
       "lng": 141.474528
     },
@@ -32186,12 +32184,12 @@
       "address": "506 Merrylands RD, Merrylands West NSW 2160",
       "state": "NSW",
       "prices": {
-        "E10": 209.2,
+        "E10": 197.9,
         "U98": 234.3,
         "Premium Diesel": 245.3,
-        "U91": 209.3
+        "U91": 199.9
       },
-      "updated": "2026-11-13T00:27:44Z",
+      "updated": "2026-11-13T08:05:30Z",
       "lat": -33.832687,
       "lng": 150.96969
     },
@@ -32234,9 +32232,9 @@
       "address": "79 Hartley RD, Smeaton Grange NSW 2567",
       "state": "NSW",
       "prices": {
-        "Premium Diesel": 263.9
+        "Premium Diesel": 259.5
       },
-      "updated": "2026-11-10T04:40:53Z",
+      "updated": "2026-11-13T08:21:33Z",
       "lat": -34.042009,
       "lng": 150.76134
     },
@@ -32280,14 +32278,14 @@
       "address": "Unit 3 1 Beinda ST, Bomaderry NSW 2541",
       "state": "NSW",
       "prices": {
-        "Diesel": 259.9,
-        "E10": 223.5,
-        "U95": 235.9,
-        "U98": 247.5,
+        "Diesel": 259.5,
+        "E10": 218.7,
+        "U95": 231.7,
+        "U98": 242.7,
         "Premium Diesel": 269.5,
-        "U91": 225.5
+        "U91": 220.7
       },
-      "updated": "2026-11-12T20:22:07Z",
+      "updated": "2026-11-13T03:36:19Z",
       "lat": -34.85768,
       "lng": 150.605234
     },
@@ -32333,11 +32331,11 @@
       "address": "21 Main ST, Clunes NSW 2480",
       "state": "NSW",
       "prices": {
-        "Diesel": 284.9,
-        "U95": 243.9,
-        "U91": 232.9
+        "Diesel": 279.9,
+        "U95": 238.9,
+        "U91": 227.9
       },
-      "updated": "2026-11-10T23:17:32Z",
+      "updated": "2026-11-13T04:52:20Z",
       "lat": -28.732272,
       "lng": 153.405317
     },
@@ -32431,12 +32429,12 @@
       "address": "481 Luxford RD, Shalvey NSW 2770",
       "state": "NSW",
       "prices": {
-        "Diesel": 282.9,
-        "U95": 240.9,
-        "U98": 250.9,
-        "U91": 224.9
+        "Diesel": 275.9,
+        "U95": 236.9,
+        "U98": 246.9,
+        "U91": 221.9
       },
-      "updated": "2026-11-10T05:41:17Z",
+      "updated": "2026-11-13T03:11:52Z",
       "lat": -33.729482,
       "lng": 150.805285
     },
@@ -32527,13 +32525,13 @@
       "address": "57 Central Coast HWY, West Gosford NSW 2250",
       "state": "NSW",
       "prices": {
-        "E10": 217.7,
+        "E10": 212.7,
         "U95": 232.7,
         "U98": 242.7,
-        "Premium Diesel": 267.9,
+        "Premium Diesel": 262.9,
         "U91": 219.7
       },
-      "updated": "2026-11-12T20:23:40Z",
+      "updated": "2026-11-13T07:58:46Z",
       "lat": -33.42695,
       "lng": 151.32893
     },
@@ -32681,10 +32679,10 @@
       "prices": {
         "E10": 220.5,
         "U98": 239.5,
-        "Premium Diesel": 262.5,
+        "Premium Diesel": 259.5,
         "U91": 222.5
       },
-      "updated": "2026-11-12T03:38:21Z",
+      "updated": "2026-11-13T05:05:45Z",
       "lat": -32.910963,
       "lng": 151.717987
     },
@@ -32695,12 +32693,12 @@
       "address": "2179 Pacific HWY, Heatherbrae NSW 2324",
       "state": "NSW",
       "prices": {
-        "E10": 220.5,
-        "U98": 243.5,
-        "Premium Diesel": 259.5,
-        "U91": 222.5
+        "E10": 215.5,
+        "U98": 238.5,
+        "Premium Diesel": 254.5,
+        "U91": 217.5
       },
-      "updated": "2026-11-13T02:02:48Z",
+      "updated": "2026-11-13T06:59:15Z",
       "lat": -32.795438,
       "lng": 151.720657
     },
@@ -32758,10 +32756,10 @@
       "prices": {
         "Diesel": 259.5,
         "E10": 220.5,
-        "U98": 234.5,
+        "U98": 244.5,
         "U91": 222.5
       },
-      "updated": "2026-11-12T23:21:37Z",
+      "updated": "2026-11-13T03:10:48Z",
       "lat": -32.736205,
       "lng": 152.001298
     },
@@ -32940,11 +32938,11 @@
       "address": "3050 Princes HWY, East Lynne NSW 2536",
       "state": "NSW",
       "prices": {
-        "U98": 260.9,
-        "Premium Diesel": 276.9,
-        "U91": 238.9
+        "U98": 247.9,
+        "Premium Diesel": 269.9,
+        "U91": 224.9
       },
-      "updated": "2026-11-03T06:50:01Z",
+      "updated": "2026-11-13T02:49:12Z",
       "lat": -35.57537,
       "lng": 150.258549
     },
@@ -32971,11 +32969,11 @@
       "address": "223 Sheridan ST, Gundagai NSW 2722",
       "state": "NSW",
       "prices": {
-        "U95": 239.5,
-        "Premium Diesel": 262.5,
-        "U91": 224.5
+        "U95": 236.5,
+        "Premium Diesel": 259.5,
+        "U91": 222.5
       },
-      "updated": "2026-11-12T19:13:13Z",
+      "updated": "2026-11-13T08:44:19Z",
       "lat": -35.063589,
       "lng": 148.103434
     },
@@ -33250,13 +33248,13 @@
       "address": "793 Tomago RD, Tomago NSW 2322",
       "state": "NSW",
       "prices": {
-        "Diesel": 259.5,
-        "E10": 220.5,
-        "U95": 234.5,
-        "U98": 244.5,
-        "U91": 222.5
+        "Diesel": 254.5,
+        "E10": 215.5,
+        "U95": 229.5,
+        "U98": 239.5,
+        "U91": 217.5
       },
-      "updated": "2026-11-12T21:10:10Z",
+      "updated": "2026-11-13T07:08:11Z",
       "lat": -32.821351,
       "lng": 151.699354
     },
@@ -33267,12 +33265,12 @@
       "address": "278 Sandgate RD, Shortland NSW 2307",
       "state": "NSW",
       "prices": {
-        "E10": 220.5,
+        "E10": 215.5,
         "U95": 233.5,
-        "Premium Diesel": 262.5,
+        "Premium Diesel": 259.5,
         "U91": 222.9
       },
-      "updated": "2026-11-12T11:06:14Z",
+      "updated": "2026-11-13T08:08:49Z",
       "lat": -32.887467,
       "lng": 151.695193
     },
@@ -33430,13 +33428,13 @@
       "address": "232 High ST, Wauchope NSW 2446",
       "state": "NSW",
       "prices": {
-        "Diesel": 265.5,
+        "Diesel": 262.5,
         "E10": 219.5,
         "U95": 235.5,
         "U98": 245.5,
         "U91": 223.5
       },
-      "updated": "2026-11-12T21:58:44Z",
+      "updated": "2026-11-13T08:59:53Z",
       "lat": -31.46863,
       "lng": 152.716235
     },
@@ -33515,7 +33513,7 @@
         "U98": 244.5,
         "U91": 221.5
       },
-      "updated": "2026-11-12T22:30:11Z",
+      "updated": "2026-11-13T08:15:07Z",
       "lat": -34.504131,
       "lng": 150.332188
     },
@@ -33633,12 +33631,12 @@
       "address": "8 Wallaga Lake RD, Bermagui NSW 2546",
       "state": "NSW",
       "prices": {
-        "Diesel": 285.9,
-        "U95": 258.9,
-        "U98": 269.9,
-        "U91": 245.9
+        "Diesel": 278.9,
+        "U95": 251.9,
+        "U98": 263.9,
+        "U91": 239.9
       },
-      "updated": "2026-11-09T01:16:07Z",
+      "updated": "2026-11-13T03:15:37Z",
       "lat": -36.419998,
       "lng": 150.064291
     },
@@ -33726,11 +33724,11 @@
       "address": "21-27 Tarcoola ST, Pooncarie NSW 2648",
       "state": "NSW",
       "prices": {
-        "Diesel": 277.9,
-        "U98": 257.9,
-        "U91": 237.9
+        "Diesel": 276.9,
+        "U98": 249.9,
+        "U91": 229.9
       },
-      "updated": "2026-11-10T23:34:38Z",
+      "updated": "2026-11-13T04:59:44Z",
       "lat": -33.386454,
       "lng": 142.570905
     },
@@ -33758,13 +33756,13 @@
       "address": "73 Pembroke RD, Minto NSW 2566",
       "state": "NSW",
       "prices": {
-        "Diesel": 250.9,
-        "E10": 203.9,
-        "U98": 226.9,
-        "Premium Diesel": 252.9,
-        "U91": 205.9
+        "Diesel": 249.9,
+        "E10": 201.9,
+        "U98": 225.9,
+        "Premium Diesel": 251.9,
+        "U91": 203.9
       },
-      "updated": "2026-11-12T18:49:02Z",
+      "updated": "2026-11-13T05:30:16Z",
       "lat": -34.023189,
       "lng": 150.850331
     },

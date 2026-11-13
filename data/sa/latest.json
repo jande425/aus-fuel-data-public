@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-11-13T09:27:39Z",
+  "fetched_at": "2026-11-13T10:27:20Z",
   "station_count": 699,
   "fuel_types": [
     "E10",
@@ -2924,7 +2924,7 @@
         "U98": 232.9,
         "Premium Diesel": 258.9
       },
-      "updated": "2026-11-13T09:25:17Z",
+      "updated": "2026-11-13T10:25:17Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5425,7 +5425,7 @@
         "U98": 249.9,
         "Premium Diesel": 272.9
       },
-      "updated": "2026-11-13T09:25:17Z",
+      "updated": "2026-11-13T10:25:17Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -5666,13 +5666,13 @@
       "address": "17 Scott St, SA 5231",
       "state": "SA",
       "prices": {
-        "U91": 209.9,
+        "U91": 213.9,
         "LPG": 121.9,
-        "U95": 231.9,
-        "U98": 239.9,
-        "Premium Diesel": 263.9
+        "U95": 228.9,
+        "U98": 236.9,
+        "Premium Diesel": 267.9
       },
-      "updated": "2026-11-13T02:43:51Z",
+      "updated": "2026-11-13T09:45:40Z",
       "lat": -34.781789,
       "lng": 138.852242
     },
@@ -8144,15 +8144,17 @@
       "state": "SA",
       "prices": {
         "U91": 203.9,
-        "Diesel": 258.9,
         "LPG": 124.9,
         "U95": 219.9,
         "U98": 232.9,
         "Premium Diesel": 260.9
       },
-      "updated": "2026-11-13T07:17:10Z",
+      "updated": "2026-11-13T09:44:05Z",
       "lat": -35.065006,
-      "lng": 138.864098
+      "lng": 138.864098,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
     },
     {
       "brand": "Ampol",

@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-11-13T12:28:39Z",
-  "station_count": 2109,
+  "fetched_at": "2026-11-13T18:29:44Z",
+  "station_count": 2111,
   "fuel_types": [
     "E10",
     "U91",
@@ -297,12 +297,12 @@
       "address": "111 Berowra Waters Rd, BEROWRA HEIGHTS NSW 2082",
       "state": "NSW",
       "prices": {
-        "U95": 231.9,
-        "U98": 236.9,
+        "U95": 229.9,
+        "U98": 234.9,
         "Premium Diesel": 262.9,
-        "U91": 213.9
+        "U91": 211.9
       },
-      "updated": "2026-11-12T01:15:18Z",
+      "updated": "2026-11-13T16:18:06Z",
       "lat": -33.615454,
       "lng": 151.141677
     },
@@ -346,12 +346,12 @@
       "state": "NSW",
       "prices": {
         "Diesel": 259.5,
-        "E10": 212.5,
+        "E10": 209.5,
         "U98": 239.5,
         "Premium Diesel": 261.5,
-        "U91": 214.5
+        "U91": 211.5
       },
-      "updated": "2026-11-12T06:43:21Z",
+      "updated": "2026-11-13T13:36:32Z",
       "lat": -33.85437,
       "lng": 150.988836
     },
@@ -2653,6 +2653,23 @@
       "updated": "2026-11-12T23:06:13Z",
       "lat": -34.878761,
       "lng": 150.604307
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:2697",
+      "name": "Ampol Foodary Swansea",
+      "address": "126 Pacific Hwy, SWANSEA NSW 2281",
+      "state": "NSW",
+      "prices": {
+        "E10": 228.9,
+        "U95": 243.3,
+        "U98": 250.4,
+        "Premium Diesel": 278.4,
+        "U91": 224.9
+      },
+      "updated": "2026-11-13T13:07:25Z",
+      "lat": -33.088127,
+      "lng": 151.638255
     },
     {
       "brand": "Reddy Express",
@@ -6017,6 +6034,22 @@
     },
     {
       "brand": "Ampol Foodary",
+      "code": "NSW:17995",
+      "name": "Ampol Foodary Morisset",
+      "address": "5-11 Bvd, Morisset NSW 2264",
+      "state": "NSW",
+      "prices": {
+        "E10": 225.9,
+        "U98": 254.9,
+        "Premium Diesel": 272.9,
+        "U91": 227.9
+      },
+      "updated": "2026-11-13T13:47:25Z",
+      "lat": -33.116708,
+      "lng": 151.471173
+    },
+    {
+      "brand": "Ampol Foodary",
       "code": "NSW:17997",
       "name": "Ampol Foodary Narrabeen",
       "address": "1509-1511 Pittwater Road, NORTH NARRABEEN NSW 2101",
@@ -6991,12 +7024,12 @@
       "address": "2 Rawson Road, GUILDFORD NSW 2161",
       "state": "NSW",
       "prices": {
-        "Diesel": 250.5,
-        "E10": 210.5,
-        "U98": 233.5,
-        "U91": 212.5
+        "Diesel": 249.5,
+        "E10": 207.5,
+        "U98": 231.5,
+        "U91": 209.5
       },
-      "updated": "2026-11-11T23:29:12Z",
+      "updated": "2026-11-13T12:33:00Z",
       "lat": -33.863659,
       "lng": 151.008872
     },
@@ -8578,13 +8611,13 @@
       "address": "67 Woodhouse DR, Ambarvale NSW 2560",
       "state": "NSW",
       "prices": {
-        "E10": 232.9,
-        "U95": 251.9,
-        "U98": 260.9,
+        "E10": 231.9,
+        "U95": 250.9,
+        "U98": 259.9,
         "Premium Diesel": 283.9,
-        "U91": 234.9
+        "U91": 233.9
       },
-      "updated": "2026-11-13T06:15:21Z",
+      "updated": "2026-11-13T14:42:11Z",
       "lat": -34.087352,
       "lng": 150.799712
     },
@@ -9134,11 +9167,11 @@
       "address": "190 Waterloo RD, Greenacre NSW 2190",
       "state": "NSW",
       "prices": {
-        "Diesel": 249.7,
-        "U98": 227.7,
-        "U91": 199.7
+        "Diesel": 237.7,
+        "U98": 217.7,
+        "U91": 192.7
       },
-      "updated": "2026-11-10T08:10:08Z",
+      "updated": "2026-11-13T16:37:31Z",
       "lat": -33.906395,
       "lng": 151.056994
     },
@@ -12357,12 +12390,12 @@
       "address": "12 Pacific HWY, Ourimbah NSW 2258",
       "state": "NSW",
       "prices": {
-        "LPG": 94.9,
-        "U98": 244.9,
-        "Premium Diesel": 261.7,
-        "U91": 222.9
+        "LPG": 99.9,
+        "U98": 249.9,
+        "Premium Diesel": 266.7,
+        "U91": 227.9
       },
-      "updated": "2026-11-13T04:04:43Z",
+      "updated": "2026-11-13T14:47:54Z",
       "lat": -33.36297,
       "lng": 151.371353
     },
@@ -20218,14 +20251,14 @@
       "address": "Pacific Highway, Coolongolook NSW 2423",
       "state": "NSW",
       "prices": {
-        "Diesel": 269.5,
-        "E10": 225.5,
-        "U95": 240.5,
-        "U98": 249.5,
-        "Premium Diesel": 274.5,
-        "U91": 227.5
+        "Diesel": 265.5,
+        "E10": 223.5,
+        "U95": 238.5,
+        "U98": 247.5,
+        "Premium Diesel": 269.5,
+        "U91": 225.5
       },
-      "updated": "2026-11-10T03:31:09Z",
+      "updated": "2026-11-13T18:21:23Z",
       "lat": -32.219046,
       "lng": 152.322054
     },
@@ -22284,10 +22317,12 @@
       "address": "187, Oberon Street, Oberon NSW 2787",
       "state": "NSW",
       "prices": {
+        "Diesel": 279.9,
         "E10": 237.9,
+        "U98": 265.9,
         "U91": 239.9
       },
-      "updated": "2026-11-06T00:48:12Z",
+      "updated": "2026-11-13T16:33:05Z",
       "lat": -33.703406,
       "lng": 149.854611
     },
@@ -22889,11 +22924,11 @@
       "address": "281 Hawkesbury Rd, Winmalee NSW 2777",
       "state": "NSW",
       "prices": {
-        "U95": 238.5,
-        "Premium Diesel": 275.5,
-        "U91": 223.5
+        "U95": 237.5,
+        "Premium Diesel": 274.5,
+        "U91": 222.5
       },
-      "updated": "2026-11-12T21:36:08Z",
+      "updated": "2026-11-13T13:34:21Z",
       "lat": -33.682233,
       "lng": 150.59972
     },
@@ -25693,12 +25728,12 @@
       "address": "608 Fishery Point Rd, Morisset NSW 2264",
       "state": "NSW",
       "prices": {
-        "E10": 234.9,
-        "U98": 263.9,
-        "Premium Diesel": 279.9,
-        "U91": 236.9
+        "E10": 230.9,
+        "U98": 259.9,
+        "Premium Diesel": 277.9,
+        "U91": 232.9
       },
-      "updated": "2026-11-06T19:56:08Z",
+      "updated": "2026-11-13T18:01:13Z",
       "lat": -33.107986,
       "lng": 151.497916
     },
@@ -25932,10 +25967,10 @@
       "state": "NSW",
       "prices": {
         "U98": 259.9,
-        "Premium Diesel": 274.9,
+        "Premium Diesel": 269.9,
         "U91": 229.9
       },
-      "updated": "2026-11-11T04:13:39Z",
+      "updated": "2026-11-13T14:55:06Z",
       "lat": -33.146102,
       "lng": 149.985513
     },
@@ -28488,15 +28523,15 @@
       "address": "262 - 272 VICTORIA RD Rydalmere NSW 2116",
       "state": "NSW",
       "prices": {
-        "Diesel": 259.9,
-        "E10": 213.9,
+        "Diesel": 264.9,
+        "E10": 216.9,
         "E85": 249.9,
         "LPG": 118.9,
-        "U95": 229.9,
-        "U98": 239.9,
-        "U91": 217.9
+        "U95": 233.9,
+        "U98": 242.9,
+        "U91": 218.9
       },
-      "updated": "2026-11-13T08:23:25Z",
+      "updated": "2026-11-13T13:00:20Z",
       "lat": -33.810076,
       "lng": 151.032389
     },
@@ -30229,12 +30264,12 @@
       "address": "472 Cabramatta RD West, Mount Pritchard NSW 2170",
       "state": "NSW",
       "prices": {
-        "Diesel": 254.9,
-        "E10": 204.9,
+        "Diesel": 259.9,
+        "E10": 209.9,
         "U98": 237.9,
         "U91": 217.9
       },
-      "updated": "2026-11-13T08:08:23Z",
+      "updated": "2026-11-13T18:14:15Z",
       "lat": -33.897038,
       "lng": 150.912351
     },
@@ -31300,14 +31335,14 @@
       "state": "NSW",
       "prices": {
         "Diesel": 259.9,
-        "E10": 209.5,
+        "E10": 212.9,
         "E85": 229.7,
         "LPG": 116.9,
         "U95": 239.9,
         "U98": 249.9,
-        "U91": 215.9
+        "U91": 216.9
       },
-      "updated": "2026-11-13T07:39:03Z",
+      "updated": "2026-11-13T15:02:29Z",
       "lat": -33.901877,
       "lng": 151.037178
     },
@@ -32153,12 +32188,12 @@
       "address": "506 Merrylands RD, Merrylands West NSW 2160",
       "state": "NSW",
       "prices": {
-        "E10": 197.9,
+        "E10": 209.2,
         "U98": 234.3,
         "Premium Diesel": 245.3,
-        "U91": 199.9
+        "U91": 209.3
       },
-      "updated": "2026-11-13T08:05:30Z",
+      "updated": "2026-11-13T16:58:59Z",
       "lat": -33.832687,
       "lng": 150.96969
     },
@@ -33676,13 +33711,13 @@
       "address": "158 AUBURN RD Birrong NSW 2143",
       "state": "NSW",
       "prices": {
-        "E10": 216.5,
-        "U95": 233.5,
-        "U98": 238.5,
-        "Premium Diesel": 254.5,
-        "U91": 218.5
+        "E10": 207.5,
+        "U95": 228.5,
+        "U98": 232.5,
+        "Premium Diesel": 249.5,
+        "U91": 209.5
       },
-      "updated": "2026-11-11T22:35:54Z",
+      "updated": "2026-11-13T12:52:25Z",
       "lat": -33.89746,
       "lng": 151.02121
     },

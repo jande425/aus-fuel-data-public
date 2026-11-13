@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-11-13T18:29:44Z",
+  "fetched_at": "2026-11-13T19:06:20Z",
   "station_count": 699,
   "fuel_types": [
     "E10",
@@ -483,15 +483,13 @@
       "state": "SA",
       "prices": {
         "U91": 211.9,
+        "U95": 228.9,
         "U98": 234.9,
         "Premium Diesel": 255.9
       },
-      "updated": "2026-11-12T03:57:47Z",
+      "updated": "2026-11-13T18:47:10Z",
       "lat": -34.888625,
-      "lng": 138.673655,
-      "unavailable_fuels": [
-        "U95"
-      ]
+      "lng": 138.673655
     },
     {
       "brand": "AM/PM",
@@ -2922,7 +2920,7 @@
         "U98": 232.9,
         "Premium Diesel": 258.9
       },
-      "updated": "2026-11-13T18:25:17Z",
+      "updated": "2026-11-13T18:55:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5423,7 +5421,7 @@
         "U98": 249.9,
         "Premium Diesel": 272.9
       },
-      "updated": "2026-11-13T18:25:17Z",
+      "updated": "2026-11-13T18:55:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },

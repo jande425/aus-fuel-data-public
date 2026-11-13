@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-13T19:06:20Z",
+  "fetched_at": "2026-11-13T20:35:07Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1259,
+  "station_count": 1260,
   "by_state": {
     "ACT": 8,
     "NSW": 1157,
     "NT": 6,
-    "QLD": 31,
+    "QLD": 32,
     "SA": 29,
     "TAS": 1,
     "VIC": 27
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 16,
+    "Ampol": 17,
     "Caltex": 11,
     "Shell": 10,
     "EVUp": 9,
@@ -10605,6 +10605,22 @@
       "unavailable_fuels": [
         "Diesel",
         "Premium Diesel"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "QLD:61401738",
+      "name": "Ampol Foodary Marsden",
+      "address": "10 Third Av & Browns Plains Rd, QLD 4132",
+      "state": "QLD",
+      "lat": -27.679856,
+      "lng": 153.087847,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
       ]
     },
     {

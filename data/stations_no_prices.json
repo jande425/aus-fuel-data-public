@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-14T21:54:41Z",
+  "fetched_at": "2026-11-14T23:13:54Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1259,
+  "station_count": 1257,
   "by_state": {
     "ACT": 8,
     "NSW": 1156,
@@ -9,14 +9,14 @@
     "QLD": 31,
     "SA": 29,
     "TAS": 1,
-    "VIC": 27
+    "VIC": 25
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 82,
+    "Reddy Express": 81,
     "Independent": 73,
     "Chargefox": 72,
     "7-Eleven": 68,
@@ -40,13 +40,13 @@
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
-    "U-Go": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "PK's": 1,
     "Astron": 1,
     "Ampol Foodary": 1,
     "Arko Energy": 1,
+    "U-Go": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
@@ -11583,21 +11583,6 @@
     },
     {
       "brand": "Reddy Express",
-      "code": "VIC:hSBIXvwj9yfAmqvjGinjrKlaRC6h6nf/2IZUv6ysgEQ=",
-      "name": "Shell Reddy Express Dandenong",
-      "address": "61-65 Cheltenham RD, DANDENONG, 3175",
-      "state": "VIC",
-      "lat": -37.99070521742784,
-      "lng": 145.20842958151945,
-      "unavailable_fuels": [
-        "Diesel",
-        "LPG",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Reddy Express",
       "code": "VIC:HSfeC3jheYxx+iSezK7TxN+MX6fmvK0g79x4SCSKpsM=",
       "name": "Shell Reddy Express Geelong West",
       "address": "21-25 Church Street, GEELONG WEST, 3218",
@@ -11651,21 +11636,6 @@
         "Diesel",
         "E10",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "U-Go",
-      "code": "VIC:vtG8AHYF05WWz4KrO6wbwC9wx3RTsEZPdOk1WbtyrIo=",
-      "name": "U-Go Lilydale",
-      "address": "346, Main Street, LILYDALE, 3140",
-      "state": "VIC",
-      "lat": -37.757788,
-      "lng": 145.355254,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

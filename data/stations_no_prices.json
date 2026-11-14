@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-14T08:55:31Z",
+  "fetched_at": "2026-11-14T09:45:32Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1258,
+  "station_count": 1257,
   "by_state": {
     "ACT": 8,
     "NSW": 1156,
@@ -9,7 +9,7 @@
     "QLD": 31,
     "SA": 29,
     "TAS": 1,
-    "VIC": 27
+    "VIC": 26
   },
   "by_brand": {
     "Exploren": 236,
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 19,
+    "Ampol": 18,
     "Caltex": 11,
     "Shell": 10,
     "EVUp": 9,
@@ -11325,18 +11325,6 @@
         "U91",
         "U95",
         "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "VIC:C9akHhXY62TU/T1WP2qA0Rq9wn0aiuRSkV/VolyCARQ=",
-      "name": "Ampol Brooklyn Diesel Stop",
-      "address": "574 Geelong Road, Cnr Mcdonald Road, Brooklyn, 3012",
-      "state": "VIC",
-      "lat": -37.81684153499272,
-      "lng": 144.84717367902206,
-      "unavailable_fuels": [
-        "Diesel"
       ]
     },
     {

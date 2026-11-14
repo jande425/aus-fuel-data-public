@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-14T17:35:33Z",
+  "fetched_at": "2026-11-14T18:47:33Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1258,
+  "station_count": 1259,
   "by_state": {
     "ACT": 8,
     "NSW": 1156,
@@ -9,7 +9,7 @@
     "QLD": 32,
     "SA": 29,
     "TAS": 1,
-    "VIC": 26
+    "VIC": 27
   },
   "by_brand": {
     "Exploren": 236,
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 18,
+    "Ampol": 19,
     "Caltex": 11,
     "Shell": 10,
     "EVUp": 9,
@@ -11337,6 +11337,21 @@
       "state": "VIC",
       "lat": -37.87619815,
       "lng": 144.59009246,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "VIC:d1WKsJQlqi7gKYJ+GCj6i33qkzPyRgbHPl9psKXRK7s=",
+      "name": "Ampol Foodary Albert Park",
+      "address": "370 Ferrars Street, Albert Park, 3206",
+      "state": "VIC",
+      "lat": -37.84031784,
+      "lng": 144.95804093,
       "unavailable_fuels": [
         "Premium Diesel",
         "U91",

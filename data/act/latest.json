@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-11-14T02:36:12Z",
+  "fetched_at": "2026-11-14T08:55:31Z",
   "station_count": 61,
   "fuel_types": [
     "E10",
@@ -54,12 +54,12 @@
       "address": "20 Mort ST, Braddon ACT 2612",
       "state": "ACT",
       "prices": {
-        "E10": 229.9,
-        "U98": 257.9,
+        "E10": 225.9,
+        "U98": 253.9,
         "Premium Diesel": 268.4,
-        "U91": 231.9
+        "U91": 227.9
       },
-      "updated": "2026-11-13T01:15:22Z",
+      "updated": "2026-11-14T04:24:14Z",
       "lat": -35.275669,
       "lng": 149.131261
     },
@@ -87,13 +87,13 @@
       "address": "36 Lonsdale ST, Braddon ACT 2612",
       "state": "ACT",
       "prices": {
-        "E10": 225.9,
-        "U95": 249.1,
+        "E10": 225.4,
+        "U95": 251.1,
         "U98": 256.4,
         "Premium Diesel": 269.4,
-        "U91": 229.9
+        "U91": 229.4
       },
-      "updated": "2026-11-13T20:52:28Z",
+      "updated": "2026-11-14T06:17:24Z",
       "lat": -35.270935,
       "lng": 149.133379
     },
@@ -920,10 +920,10 @@
         "E10": 230.9,
         "U95": 249.9,
         "U98": 258.9,
-        "Premium Diesel": 285.9,
+        "Premium Diesel": 280.9,
         "U91": 232.9
       },
-      "updated": "2026-11-13T05:12:15Z",
+      "updated": "2026-11-14T04:09:13Z",
       "lat": -35.19471,
       "lng": 149.0623
     },
@@ -982,12 +982,12 @@
       "address": "Mobil Outlet 15 Barrier ST, Fyshwick ACT 2609",
       "state": "ACT",
       "prices": {
-        "E10": 209.9,
-        "U98": 237.9,
-        "Premium Diesel": 266.7,
-        "U91": 216.9
+        "E10": 204.9,
+        "U98": 232.9,
+        "Premium Diesel": 261.7,
+        "U91": 211.9
       },
-      "updated": "2026-11-13T20:00:58Z",
+      "updated": "2026-11-14T08:11:56Z",
       "lat": -35.329111,
       "lng": 149.172604
     },

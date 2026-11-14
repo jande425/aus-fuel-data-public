@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-13T20:35:07Z",
+  "fetched_at": "2026-11-14T00:52:12Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1260,
   "by_state": {
     "ACT": 8,
-    "NSW": 1157,
+    "NSW": 1156,
     "NT": 6,
-    "QLD": 32,
+    "QLD": 31,
     "SA": 29,
     "TAS": 1,
-    "VIC": 27
+    "VIC": 29
   },
   "by_brand": {
     "Exploren": 236,
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 17,
+    "Ampol": 19,
     "Caltex": 11,
     "Shell": 10,
     "EVUp": 9,
@@ -36,7 +36,6 @@
     "Liberty": 5,
     "Everty": 4,
     "Speedway": 3,
-    "Ampol Foodary": 2,
     "EG Ampol": 2,
     "Budget": 2,
     "Transwest Fuels": 2,
@@ -45,8 +44,8 @@
     "Westside": 1,
     "PK's": 1,
     "Astron": 1,
+    "Ampol Foodary": 1,
     "Arko Energy": 1,
-    "U-Go": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
@@ -2250,15 +2249,6 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:18292",
-      "name": "Ampol Foodary Kemps Creek",
-      "address": "1163-1167 Mamre RD, Kemps Creek NSW 2178",
-      "state": "NSW",
-      "lat": -33.870525,
-      "lng": 150.795234
     },
     {
       "brand": "Ampol",
@@ -10894,21 +10884,6 @@
       "lng": 143.549026
     },
     {
-      "brand": "U-Go",
-      "code": "QLD:61401252",
-      "name": "U-Go Bracken Ridge",
-      "address": "168 Barrett St & Medika St, QLD 4017",
-      "state": "QLD",
-      "lat": -27.319382,
-      "lng": 153.040903,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "United",
       "code": "QLD:61477083",
       "name": "United Crestmead",
@@ -11370,6 +11345,18 @@
       ]
     },
     {
+      "brand": "Ampol",
+      "code": "VIC:C9akHhXY62TU/T1WP2qA0Rq9wn0aiuRSkV/VolyCARQ=",
+      "name": "Ampol Brooklyn Diesel Stop",
+      "address": "574 Geelong Road, Cnr Mcdonald Road, Brooklyn, 3012",
+      "state": "VIC",
+      "lat": -37.81684153499272,
+      "lng": 144.84717367902206,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "VIC:mCLy5LVa9a0SixEFe/OR+X+ByeAARLmlUYE3eNnzwMs=",
       "name": "Birchip Motel & Caravan Park",
@@ -11480,6 +11467,20 @@
       "unavailable_fuels": [
         "Diesel",
         "E10",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "VIC:PeOkl1x83J2/SZZZmPEBCa1Npy2f5pqBzWaZA2nMWxU=",
+      "name": "Gunny Road House",
+      "address": "22 Main Street, GUNBOWER, 3566",
+      "state": "VIC",
+      "lat": -35.95569265,
+      "lng": 144.36957833,
+      "unavailable_fuels": [
+        "Diesel",
         "U91",
         "U98"
       ]

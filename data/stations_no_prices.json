@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-14T18:47:33Z",
+  "fetched_at": "2026-11-14T21:25:54Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1259,
   "by_state": {
     "ACT": 8,
     "NSW": 1156,
-    "NT": 6,
-    "QLD": 32,
+    "NT": 7,
+    "QLD": 31,
     "SA": 29,
     "TAS": 1,
     "VIC": 27
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 19,
+    "Ampol": 18,
     "Caltex": 11,
     "Shell": 10,
     "EVUp": 9,
@@ -40,13 +40,13 @@
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
+    "U-Go": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "PK's": 1,
     "Astron": 1,
     "Ampol Foodary": 1,
     "Arko Energy": 1,
-    "U-Go": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
@@ -10531,6 +10531,15 @@
       "lng": 150.946945
     },
     {
+      "brand": "Ampol",
+      "code": "NT:08700183",
+      "name": "Ampol Teppa Hill",
+      "address": "3/34 North Stuart Highway, Alice Springs, 0870, NT",
+      "state": "NT",
+      "lat": -23.691003,
+      "lng": 133.876074
+    },
+    {
       "brand": "Puma Energy",
       "code": "NT:08220174",
       "name": "Daly River Inn",
@@ -10595,22 +10604,6 @@
       "unavailable_fuels": [
         "Diesel",
         "Premium Diesel"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "QLD:61401738",
-      "name": "Ampol Foodary Marsden",
-      "address": "10 Third Av & Browns Plains Rd, QLD 4132",
-      "state": "QLD",
-      "lat": -27.679856,
-      "lng": 153.087847,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {
@@ -11345,21 +11338,6 @@
       ]
     },
     {
-      "brand": "Ampol",
-      "code": "VIC:d1WKsJQlqi7gKYJ+GCj6i33qkzPyRgbHPl9psKXRK7s=",
-      "name": "Ampol Foodary Albert Park",
-      "address": "370 Ferrars Street, Albert Park, 3206",
-      "state": "VIC",
-      "lat": -37.84031784,
-      "lng": 144.95804093,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "VIC:mCLy5LVa9a0SixEFe/OR+X+ByeAARLmlUYE3eNnzwMs=",
       "name": "Birchip Motel & Caravan Park",
@@ -11673,6 +11651,21 @@
         "Diesel",
         "E10",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "U-Go",
+      "code": "VIC:vtG8AHYF05WWz4KrO6wbwC9wx3RTsEZPdOk1WbtyrIo=",
+      "name": "U-Go Lilydale",
+      "address": "346, Main Street, LILYDALE, 3140",
+      "state": "VIC",
+      "lat": -37.757788,
+      "lng": 145.355254,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

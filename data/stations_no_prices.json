@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-15T13:20:36Z",
+  "fetched_at": "2026-11-15T17:19:50Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1257,
+  "station_count": 1258,
   "by_state": {
     "ACT": 8,
-    "NSW": 1157,
+    "NSW": 1158,
     "NT": 6,
     "QLD": 30,
     "SA": 30,
@@ -36,6 +36,7 @@
     "Liberty": 5,
     "Everty": 4,
     "Speedway": 3,
+    "Ampol Foodary": 2,
     "EG Ampol": 2,
     "Budget": 2,
     "Transwest Fuels": 2,
@@ -44,7 +45,6 @@
     "Westside": 1,
     "PK's": 1,
     "Astron": 1,
-    "Ampol Foodary": 1,
     "Arko Energy": 1,
     "U-Go": 1,
     "Freedom Fuels": 1,
@@ -2249,6 +2249,15 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:17995",
+      "name": "Ampol Foodary Morisset",
+      "address": "5-11 Bvd, Morisset NSW 2264",
+      "state": "NSW",
+      "lat": -33.116708,
+      "lng": 151.471173
     },
     {
       "brand": "Ampol",

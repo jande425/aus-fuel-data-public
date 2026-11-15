@@ -2,7 +2,7 @@
   "source": "TAS_FuelData",
   "version": 2,
   "state": "TAS",
-  "fetched_at": "2026-11-15T13:20:36Z",
+  "fetched_at": "2026-11-15T17:19:50Z",
   "station_count": 294,
   "fuel_types": [
     "E10",
@@ -2370,7 +2370,7 @@
       "address": "Cnr Montagu & Burnett Streets, New Norfolk TAS 7140",
       "state": "TAS",
       "prices": {
-        "E10": 226.9,
+        "E10": 225.9,
         "U98": 249.9,
         "Premium Diesel": 272.9,
         "U91": 225.9,
@@ -2378,7 +2378,7 @@
         "EV": 50,
         "U95": 239.9
       },
-      "updated": "2026-11-14T19:27:15Z",
+      "updated": "2026-11-15T14:39:13Z",
       "lat": -42.779245,
       "lng": 147.06143
     },
@@ -2793,12 +2793,12 @@
       "address": "29 Bass Hwy, Deloraine TAS 7304",
       "state": "TAS",
       "prices": {
+        "U91": 226.9,
         "U95": 239.9,
         "U98": 253.9,
-        "Premium Diesel": 269.9,
-        "U91": 226.9
+        "Premium Diesel": 269.9
       },
-      "updated": "2026-11-13T01:57:57Z",
+      "updated": "2026-11-15T16:56:38Z",
       "lat": -41.524852,
       "lng": 146.664088
     },

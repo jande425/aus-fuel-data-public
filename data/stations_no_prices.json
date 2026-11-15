@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-15T20:05:49Z",
+  "fetched_at": "2026-11-15T23:27:24Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1258,
+  "station_count": 1255,
   "by_state": {
     "ACT": 8,
     "NSW": 1158,
     "NT": 6,
-    "QLD": 30,
+    "QLD": 29,
     "SA": 29,
     "TAS": 1,
-    "VIC": 26
+    "VIC": 24
   },
   "by_brand": {
     "Exploren": 236,
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 17,
+    "Ampol": 16,
     "Caltex": 11,
     "Shell": 10,
     "EVUp": 9,
@@ -33,20 +33,20 @@
     "Mobil": 7,
     "United": 6,
     "Pearl Energy": 6,
-    "Liberty": 5,
     "Everty": 4,
+    "Liberty": 4,
     "Speedway": 3,
     "EG Ampol": 2,
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
-    "U-Go": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "PK's": 1,
     "Astron": 1,
     "Ampol Foodary": 1,
     "Arko Energy": 1,
+    "U-Go": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
@@ -10731,20 +10731,6 @@
       "lng": 152.240816
     },
     {
-      "brand": "Liberty",
-      "code": "QLD:61451576",
-      "name": "Liberty Rockhampton",
-      "address": "49 Gladstone Rd, QLD 4700",
-      "state": "QLD",
-      "lat": -23.389561,
-      "lng": 150.506979,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95"
-      ]
-    },
-    {
       "brand": "Mobil",
       "code": "QLD:61402654",
       "name": "Mobil Barcaldine",
@@ -10772,8 +10758,8 @@
       "name": "Mobil Yandina",
       "address": "8 Stevens St, QLD 4561",
       "state": "QLD",
-      "lat": -26.560848695787005,
-      "lng": 152.95584709812874
+      "lat": -26.560908695787006,
+      "lng": 152.95582709812874
     },
     {
       "brand": "Independent",
@@ -11446,20 +11432,6 @@
       ]
     },
     {
-      "brand": "Ampol",
-      "code": "VIC:PeOkl1x83J2/SZZZmPEBCa1Npy2f5pqBzWaZA2nMWxU=",
-      "name": "Gunny Road House",
-      "address": "22 Main Street, GUNBOWER, 3566",
-      "state": "VIC",
-      "lat": -35.95569265,
-      "lng": 144.36957833,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "Metro Petroleum",
       "code": "VIC:DvE5Oe+jXXe7tgfQvCaMagoXzjXMmfCgQd3XTF5Zcxk=",
       "name": "Metro Petroleum Narbethong",
@@ -11629,21 +11601,6 @@
         "Diesel",
         "E10",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "U-Go",
-      "code": "VIC:trcRj2EN3khYONqiCHfbyyiO2KdPINq/OFqxsjO3Se8=",
-      "name": "U-Go Dandenong",
-      "address": "154-156 Princes Highway, Dandenong, 3175",
-      "state": "VIC",
-      "lat": -37.97468285,
-      "lng": 145.20359988,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T17:19:50Z",
+  "fetched_at": "2026-11-15T19:44:55Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1258,
   "by_state": {
@@ -7,9 +7,9 @@
     "NSW": 1158,
     "NT": 6,
     "QLD": 30,
-    "SA": 30,
+    "SA": 29,
     "TAS": 1,
-    "VIC": 25
+    "VIC": 26
   },
   "by_brand": {
     "Exploren": 236,
@@ -24,11 +24,11 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 18,
+    "Ampol": 17,
     "Caltex": 11,
     "Shell": 10,
     "EVUp": 9,
-    "Metro Fuel": 7,
+    "Metro Fuel": 8,
     "Evie Networks": 7,
     "Mobil": 7,
     "United": 6,
@@ -36,17 +36,17 @@
     "Liberty": 5,
     "Everty": 4,
     "Speedway": 3,
-    "Ampol Foodary": 2,
     "EG Ampol": 2,
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
+    "U-Go": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "PK's": 1,
     "Astron": 1,
+    "Ampol Foodary": 1,
     "Arko Energy": 1,
-    "U-Go": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
@@ -2249,15 +2249,6 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:17995",
-      "name": "Ampol Foodary Morisset",
-      "address": "5-11 Bvd, Morisset NSW 2264",
-      "state": "NSW",
-      "lat": -33.116708,
-      "lng": 151.471173
     },
     {
       "brand": "Ampol",
@@ -6616,6 +6607,15 @@
       "lng": 151.443842
     },
     {
+      "brand": "Metro Fuel",
+      "code": "NSW:20898",
+      "name": "Metro Wyong",
+      "address": "35 Alison RD, Wyong NSW 2259",
+      "state": "NSW",
+      "lat": -33.283425,
+      "lng": 151.421048
+    },
+    {
       "brand": "ChargePoint",
       "code": "NSW:19321",
       "name": "Micro Energy Systems Australia",
@@ -10928,21 +10928,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "SA:61501227",
-      "name": "Ampol Foodary Reynella",
-      "address": "3 Main South Rd & Sherriffs Rd, SA 5161",
-      "state": "SA",
-      "lat": -35.104659,
-      "lng": 138.527359,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "SA:61577309",
       "name": "Ampol Seaford Unmanned",
       "address": "55 Seaford Road, SA 5169",
@@ -11644,6 +11629,21 @@
         "Diesel",
         "E10",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "U-Go",
+      "code": "VIC:trcRj2EN3khYONqiCHfbyyiO2KdPINq/OFqxsjO3Se8=",
+      "name": "U-Go Dandenong",
+      "address": "154-156 Princes Highway, Dandenong, 3175",
+      "state": "VIC",
+      "lat": -37.97468285,
+      "lng": 145.20359988,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

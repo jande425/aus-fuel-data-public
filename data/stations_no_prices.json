@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-15T12:41:35Z",
+  "fetched_at": "2026-11-15T13:20:36Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1261,
+  "station_count": 1257,
   "by_state": {
     "ACT": 8,
     "NSW": 1157,
     "NT": 6,
-    "QLD": 34,
+    "QLD": 30,
     "SA": 30,
     "TAS": 1,
     "VIC": 25
@@ -19,7 +19,7 @@
     "Reddy Express": 81,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 72,
+    "7-Eleven": 68,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -10592,69 +10592,6 @@
       "state": "NT",
       "lat": -14.735076,
       "lng": 134.528786
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61401914",
-      "name": "7-Eleven Albany Creek",
-      "address": "70 Albany Creek Rd, QLD 4034",
-      "state": "QLD",
-      "lat": -27.363889718122927,
-      "lng": 153.01311577315525,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61402262",
-      "name": "7-Eleven Bellbird Park",
-      "address": "354 Redbank Plains Rd, QLD 4300",
-      "state": "QLD",
-      "lat": -27.645055,
-      "lng": 152.872371,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61401750",
-      "name": "7-Eleven Nerang",
-      "address": "Price St, QLD 4211",
-      "state": "QLD",
-      "lat": -27.993111,
-      "lng": 153.333047,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61477143",
-      "name": "7-Eleven Taigum",
-      "address": "377 Handford Road, QLD 4018",
-      "state": "QLD",
-      "lat": -27.342366,
-      "lng": 153.041502,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "Ampol",

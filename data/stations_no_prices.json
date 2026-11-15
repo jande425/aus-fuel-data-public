@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-15T02:37:07Z",
+  "fetched_at": "2026-11-15T04:30:08Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1258,
+  "station_count": 1257,
   "by_state": {
     "ACT": 8,
-    "NSW": 1156,
-    "NT": 7,
-    "QLD": 32,
+    "NSW": 1157,
+    "NT": 6,
+    "QLD": 31,
     "SA": 29,
     "TAS": 1,
     "VIC": 25
@@ -20,11 +20,11 @@
     "Independent": 73,
     "Chargefox": 72,
     "7-Eleven": 68,
-    "BP": 52,
+    "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 19,
+    "Ampol": 17,
     "Caltex": 11,
     "Shell": 10,
     "EVUp": 9,
@@ -2798,6 +2798,15 @@
       "state": "NSW",
       "lat": -29.449332,
       "lng": 153.200963
+    },
+    {
+      "brand": "BP",
+      "code": "NSW:2259",
+      "name": "BP Rose Bay Central",
+      "address": "777 New South Head Rd, ROSE BAY NSW 2029",
+      "state": "NSW",
+      "lat": -33.870581,
+      "lng": 151.268579
     },
     {
       "brand": "BP",
@@ -10531,15 +10540,6 @@
       "lng": 150.946945
     },
     {
-      "brand": "Ampol",
-      "code": "NT:08700183",
-      "name": "Ampol Teppa Hill",
-      "address": "3/34 North Stuart Highway, Alice Springs, 0870, NT",
-      "state": "NT",
-      "lat": -23.691003,
-      "lng": 133.876074
-    },
-    {
       "brand": "Puma Energy",
       "code": "NT:08220174",
       "name": "Daly River Inn",
@@ -10604,20 +10604,6 @@
       "unavailable_fuels": [
         "Diesel",
         "Premium Diesel"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "QLD:61401755",
-      "name": "Ampol Foodary Waterford West",
-      "address": "76 Chambers Flat Rd & Mark Ln, QLD 4133",
-      "state": "QLD",
-      "lat": -27.681393,
-      "lng": 153.114674,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95"
       ]
     },
     {

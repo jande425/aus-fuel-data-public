@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-11-15T19:44:55Z",
+  "fetched_at": "2026-11-15T20:05:49Z",
   "station_count": 61,
   "fuel_types": [
     "E10",
@@ -169,12 +169,12 @@
       "state": "ACT",
       "prices": {
         "E10": 231.9,
-        "U95": 252.3,
+        "U95": 250.7,
         "U98": 259.9,
         "Premium Diesel": 279.9,
         "U91": 232.9
       },
-      "updated": "2026-11-13T20:57:22Z",
+      "updated": "2026-11-15T20:02:25Z",
       "lat": -35.378878,
       "lng": 149.057528
     },
@@ -686,12 +686,12 @@
       "address": "8/12 Wiluna St, Fyshwick Wiluna ACT 2609",
       "state": "ACT",
       "prices": {
-        "Diesel": 267.9,
-        "U95": 242.3,
-        "U98": 249.8,
-        "U91": 224.8
+        "Diesel": 265.9,
+        "U95": 240.3,
+        "U98": 247.8,
+        "U91": 222.8
       },
-      "updated": "2026-11-13T01:05:17Z",
+      "updated": "2026-11-15T20:05:21Z",
       "lat": -35.328513,
       "lng": 149.163619
     },

@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-16T08:18:10Z",
+  "fetched_at": "2026-11-16T09:33:24Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1258,
+  "station_count": 1265,
   "by_state": {
     "ACT": 10,
-    "NSW": 1157,
+    "NSW": 1161,
     "NT": 6,
-    "QLD": 30,
+    "QLD": 32,
     "SA": 29,
     "TAS": 1,
-    "VIC": 25
+    "VIC": 26
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,9 +17,9 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
+    "7-Eleven": 76,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 69,
     "BP": 51,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -480,6 +480,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:2500",
+      "name": "7-Eleven Kanwal",
+      "address": "207-209 Wallarah Rd, KANWAL NSW 2259",
+      "state": "NSW",
+      "lat": -33.252865,
+      "lng": 151.493174
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:239",
       "name": "7-Eleven Kensington",
       "address": "131 Anzac Parade & Todman Avenue, Kensington NSW 2033",
@@ -597,6 +606,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:188",
+      "name": "7-Eleven Mount Pritchard",
+      "address": "464 Cabramatta Road West, Mount Pritchard NSW 2170",
+      "state": "NSW",
+      "lat": -33.897357,
+      "lng": 150.912907
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:164",
       "name": "7-Eleven Narrabeen",
       "address": "1234 Pittwater Road, Narrabeen NSW 2101",
@@ -651,6 +669,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:241",
+      "name": "7-Eleven Plumpton",
+      "address": "291 Rooty Hill Road North, Plumpton NSW 2761",
+      "state": "NSW",
+      "lat": -33.753565,
+      "lng": 150.840322
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:149",
       "name": "7-Eleven Randwick",
       "address": "128 Barker Street, Randwick NSW 2031",
@@ -666,6 +693,15 @@
       "state": "NSW",
       "lat": -33.77504,
       "lng": 150.666023
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:274",
+      "name": "7-Eleven Riverwood",
+      "address": "30 Bonds Road (Corner Romilly Street), Riverwood NSW 2210",
+      "state": "NSW",
+      "lat": -33.9523,
+      "lng": 151.058345
     },
     {
       "brand": "7-Eleven",
@@ -10613,6 +10649,39 @@
       "lng": 134.528786
     },
     {
+      "brand": "7-Eleven",
+      "code": "QLD:61401264",
+      "name": "7-Eleven Aspley",
+      "address": "1429 Gympie Rd & Brickfield Rd, QLD 4034",
+      "state": "QLD",
+      "lat": -27.358443,
+      "lng": 153.017037,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61478233",
+      "name": "7-Eleven Chuwar",
+      "address": "268 Mount Crosby Rd, QLD 4306",
+      "state": "QLD",
+      "lat": -27.57247896542318,
+      "lng": 152.79030419172994,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Ampol",
       "code": "QLD:61402893",
       "name": "Ampol Blackwater Diesel Stop",
@@ -11301,6 +11370,22 @@
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:cuYCu1554LrT7HXE4NP17ogo1XG7uqwkdDMObQv0/Yo=",
+      "name": "7-Eleven Coburg East",
+      "address": "1-3 Elizabeth Street, Coburg, 3058",
+      "state": "VIC",
+      "lat": -37.74229084,
+      "lng": 144.97976994,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "7-Eleven",

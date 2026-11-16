@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T23:57:10Z",
+  "fetched_at": "2026-11-16T00:39:38Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1255,
   "by_state": {
@@ -20,7 +20,7 @@
     "Independent": 74,
     "Chargefox": 72,
     "7-Eleven": 68,
-    "BP": 53,
+    "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -35,7 +35,7 @@
     "Pearl Energy": 6,
     "Everty": 4,
     "Liberty": 4,
-    "Speedway": 3,
+    "Speedway": 4,
     "EG Ampol": 2,
     "Budget": 2,
     "Transwest Fuels": 2,
@@ -2717,15 +2717,6 @@
       "state": "NSW",
       "lat": -33.821068,
       "lng": 151.233292
-    },
-    {
-      "brand": "BP",
-      "code": "NSW:20064",
-      "name": "BP Narrabri",
-      "address": "Bp Service Station Res 65 Cooma RD, Narrabri NSW 2390",
-      "state": "NSW",
-      "lat": -30.334981,
-      "lng": 149.769806
     },
     {
       "brand": "BP",
@@ -8954,6 +8945,15 @@
       "state": "NSW",
       "lat": -29.4368,
       "lng": 153.358193
+    },
+    {
+      "brand": "Speedway",
+      "code": "NSW:20089",
+      "name": "Speedway Parramatta",
+      "address": "127a Alfred ST, Parramatta NSW 2150",
+      "state": "NSW",
+      "lat": -33.817864,
+      "lng": 151.017544
     },
     {
       "brand": "Speedway",

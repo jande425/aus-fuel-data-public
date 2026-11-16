@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-16T19:11:18Z",
+  "fetched_at": "2026-11-16T20:37:25Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1257,
+  "station_count": 1258,
   "by_state": {
     "ACT": 9,
-    "NSW": 1157,
+    "NSW": 1158,
     "NT": 6,
     "QLD": 30,
     "SA": 29,
@@ -28,8 +28,8 @@
     "Caltex": 12,
     "Shell": 10,
     "EVUp": 9,
+    "Mobil": 9,
     "Metro Fuel": 8,
-    "Mobil": 8,
     "Evie Networks": 7,
     "United": 6,
     "Pearl Energy": 6,
@@ -6705,6 +6705,15 @@
       "state": "NSW",
       "lat": -33.765044,
       "lng": 151.057905
+    },
+    {
+      "brand": "Mobil",
+      "code": "NSW:1317",
+      "name": "Mobil Faulconbridge",
+      "address": "450 Great Western Hw, Faulconbridge NSW 2776",
+      "state": "NSW",
+      "lat": -33.694227,
+      "lng": 150.547766
     },
     {
       "brand": "Mobil",

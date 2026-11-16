@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-11-16T19:11:18Z",
+  "fetched_at": "2026-11-16T20:37:25Z",
   "station_count": 60,
   "fuel_types": [
     "E10",
@@ -364,12 +364,12 @@
       "address": "4 Luxton ST, Belconnen ACT 2617",
       "state": "ACT",
       "prices": {
-        "U95": 247.9,
-        "U98": 257.9,
+        "U95": 246.9,
+        "U98": 256.9,
         "Premium Diesel": 275.9,
-        "U91": 230.9
+        "U91": 229.9
       },
-      "updated": "2026-11-15T21:52:24Z",
+      "updated": "2026-11-16T20:37:25Z",
       "lat": -35.236307,
       "lng": 149.059066
     },
@@ -397,11 +397,11 @@
       "address": "Cnr Canopus Cres & Atalumba Cl, Giralang ACT 2617",
       "state": "ACT",
       "prices": {
-        "U98": 255.9,
+        "U98": 254.9,
         "Premium Diesel": 275.9,
-        "U91": 229.9
+        "U91": 228.9
       },
-      "updated": "2026-11-16T05:27:19Z",
+      "updated": "2026-11-16T19:18:14Z",
       "lat": -35.2136,
       "lng": 149.096
     },
@@ -903,10 +903,10 @@
         "E10": 228.9,
         "U95": 247.9,
         "U98": 256.9,
-        "Premium Diesel": 275.9,
+        "Premium Diesel": 275.7,
         "U91": 230.9
       },
-      "updated": "2026-11-15T20:21:15Z",
+      "updated": "2026-11-16T19:18:14Z",
       "lat": -35.355061,
       "lng": 149.091106
     },

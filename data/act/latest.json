@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-11-16T20:37:25Z",
+  "fetched_at": "2026-11-16T20:59:10Z",
   "station_count": 60,
   "fuel_types": [
     "E10",
@@ -299,12 +299,12 @@
       "address": "CNR BowCNR Bowen St and Redfern Sten St and Redfern St Macquarie ACT 2614",
       "state": "ACT",
       "prices": {
-        "E10": 230.9,
-        "U95": 249.9,
-        "U98": 258.9,
+        "E10": 229.9,
+        "U95": 248.9,
+        "U98": 257.9,
         "Premium Diesel": 275.9
       },
-      "updated": "2026-11-15T20:48:40Z",
+      "updated": "2026-11-16T20:52:01Z",
       "lat": -35.252979,
       "lng": 149.073175
     },

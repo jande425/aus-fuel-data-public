@@ -2,8 +2,8 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-11-16T07:16:52Z",
-  "station_count": 60,
+  "fetched_at": "2026-11-16T08:18:10Z",
+  "station_count": 59,
   "fuel_types": [
     "E10",
     "U91",
@@ -40,10 +40,10 @@
       "prices": {
         "E10": 225.9,
         "U98": 253.9,
-        "Premium Diesel": 271.8,
+        "Premium Diesel": 271.9,
         "U91": 228.9
       },
-      "updated": "2026-11-16T07:09:26Z",
+      "updated": "2026-11-16T07:32:07Z",
       "lat": -35.214511,
       "lng": 149.143317
     },
@@ -62,23 +62,6 @@
       "updated": "2026-11-16T03:00:45Z",
       "lat": -35.275669,
       "lng": 149.131261
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "ACT:18789",
-      "name": "7-Eleven Casey",
-      "address": "10 Kingsland Parade, Casey ACT 2913",
-      "state": "ACT",
-      "prices": {
-        "E10": 227.9,
-        "U95": 246.9,
-        "U98": 255.9,
-        "Premium Diesel": 275.9,
-        "U91": 229.9
-      },
-      "updated": "2026-11-15T23:42:15Z",
-      "lat": -35.1756,
-      "lng": 149.096
     },
     {
       "brand": "Ampol Foodary",
@@ -493,12 +476,12 @@
       "address": "15 Mawson Place, Mawson ACT 2607",
       "state": "ACT",
       "prices": {
-        "U95": 249.9,
-        "U98": 259.9,
-        "Premium Diesel": 277.9,
-        "U91": 232.9
+        "U95": 247.9,
+        "U98": 257.9,
+        "Premium Diesel": 275.8,
+        "U91": 230.9
       },
-      "updated": "2026-11-13T02:27:24Z",
+      "updated": "2026-11-16T07:22:26Z",
       "lat": -35.3665,
       "lng": 149.094
     },
@@ -817,7 +800,7 @@
       "address": "150 O'Halloran Circuit, Kambah ACT 2902",
       "state": "ACT",
       "prices": {
-        "Diesel": 275.9,
+        "Diesel": 275.7,
         "E10": 227.9,
         "E85": 259.9,
         "LPG": 119.9,
@@ -825,7 +808,7 @@
         "U98": 253.9,
         "U91": 229.9
       },
-      "updated": "2026-11-16T00:00:09Z",
+      "updated": "2026-11-16T07:40:08Z",
       "lat": -35.3924,
       "lng": 149.069
     },
@@ -967,12 +950,12 @@
       "address": "Mobil Outlet 15 Barrier ST, Fyshwick ACT 2609",
       "state": "ACT",
       "prices": {
-        "E10": 209.9,
-        "U98": 237.9,
-        "Premium Diesel": 263.5,
-        "U91": 216.9
+        "E10": 204.9,
+        "U98": 232.9,
+        "Premium Diesel": 258.5,
+        "U91": 211.9
       },
-      "updated": "2026-11-15T23:19:17Z",
+      "updated": "2026-11-16T07:58:59Z",
       "lat": -35.329111,
       "lng": 149.172604
     },

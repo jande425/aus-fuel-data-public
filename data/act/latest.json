@@ -2,8 +2,8 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-11-16T00:39:38Z",
-  "station_count": 61,
+  "fetched_at": "2026-11-16T07:16:52Z",
+  "station_count": 60,
   "fuel_types": [
     "E10",
     "U91",
@@ -38,12 +38,12 @@
       "address": "2 Callan ST, Mitchell ACT 2911",
       "state": "ACT",
       "prices": {
-        "E10": 228.9,
-        "U98": 259.9,
-        "Premium Diesel": 279.8,
-        "U91": 232.9
+        "E10": 225.9,
+        "U98": 253.9,
+        "Premium Diesel": 271.8,
+        "U91": 228.9
       },
-      "updated": "2026-11-12T22:02:26Z",
+      "updated": "2026-11-16T07:09:26Z",
       "lat": -35.214511,
       "lng": 149.143317
     },
@@ -56,10 +56,10 @@
       "prices": {
         "E10": 225.9,
         "U98": 253.9,
-        "Premium Diesel": 267.9,
+        "Premium Diesel": 267.4,
         "U91": 227.9
       },
-      "updated": "2026-11-14T21:54:14Z",
+      "updated": "2026-11-16T03:00:45Z",
       "lat": -35.275669,
       "lng": 149.131261
     },
@@ -90,10 +90,10 @@
         "E10": 226.4,
         "U95": 245.9,
         "U98": 253.9,
-        "Premium Diesel": 268.4,
+        "Premium Diesel": 267.4,
         "U91": 229.4
       },
-      "updated": "2026-11-15T21:17:24Z",
+      "updated": "2026-11-16T01:17:24Z",
       "lat": -35.270935,
       "lng": 149.133379
     },
@@ -151,13 +151,13 @@
       "address": "275 Maribyrnong Av, Kaleen ACT 2617",
       "state": "ACT",
       "prices": {
-        "E10": 231.9,
-        "U95": 250.9,
-        "U98": 260.9,
+        "E10": 230.9,
+        "U95": 249.9,
+        "U98": 259.9,
         "Premium Diesel": 275.9,
-        "U91": 233.9
+        "U91": 232.9
       },
-      "updated": "2026-11-16T00:07:26Z",
+      "updated": "2026-11-16T06:32:24Z",
       "lat": -35.233718,
       "lng": 149.103666
     },
@@ -170,11 +170,11 @@
       "prices": {
         "E10": 229.9,
         "U95": 250.3,
-        "U98": 256.4,
+        "U98": 254.4,
         "Premium Diesel": 279.9,
         "U91": 230.4
       },
-      "updated": "2026-11-16T00:17:24Z",
+      "updated": "2026-11-16T05:17:24Z",
       "lat": -35.378878,
       "lng": 149.057528
     },
@@ -201,13 +201,13 @@
       "address": "Curran Drive Cnr O'Hanlon Pl, Nicholls ACT 2913",
       "state": "ACT",
       "prices": {
-        "E10": 229.9,
-        "U95": 248.9,
-        "U98": 258.9,
+        "E10": 227.9,
+        "U95": 246.9,
+        "U98": 256.9,
         "Premium Diesel": 275.9,
-        "U91": 231.9
+        "U91": 229.9
       },
-      "updated": "2026-11-16T00:07:26Z",
+      "updated": "2026-11-16T06:32:24Z",
       "lat": -35.1891,
       "lng": 149.082
     },
@@ -315,12 +315,12 @@
       "address": "166 Melrose DR, Phillip ACT 2606",
       "state": "ACT",
       "prices": {
-        "E10": 229.9,
-        "U95": 248.9,
-        "U98": 257.9,
-        "Premium Diesel": 278.9
+        "E10": 228.9,
+        "U95": 247.9,
+        "U98": 256.9,
+        "Premium Diesel": 276.9
       },
-      "updated": "2026-11-13T08:30:36Z",
+      "updated": "2026-11-16T02:24:29Z",
       "lat": -35.351002,
       "lng": 149.085289
     },
@@ -331,12 +331,12 @@
       "address": "110 Federal HWY, Watson ACT 2602",
       "state": "ACT",
       "prices": {
-        "E10": 228.9,
-        "U95": 247.9,
-        "U98": 256.9,
-        "Premium Diesel": 279.9
+        "E10": 227.9,
+        "U95": 246.9,
+        "U98": 255.9,
+        "Premium Diesel": 276.9
       },
-      "updated": "2026-11-15T20:22:12Z",
+      "updated": "2026-11-16T06:22:31Z",
       "lat": -35.224985,
       "lng": 149.165864
     },
@@ -380,13 +380,13 @@
       "address": "Cnr Tharwa Drive & Norman Lindsay Street, Conder ACT 2906",
       "state": "ACT",
       "prices": {
-        "E10": 232.9,
-        "U95": 252.9,
-        "U98": 262.9,
+        "E10": 231.9,
+        "U95": 251.9,
+        "U98": 261.9,
         "Premium Diesel": 279.9,
-        "U91": 234.9
+        "U91": 233.9
       },
-      "updated": "2026-11-15T22:12:25Z",
+      "updated": "2026-11-16T02:27:26Z",
       "lat": -35.4582,
       "lng": 149.092
     },
@@ -397,11 +397,11 @@
       "address": "Cnr Canopus Cres & Atalumba Cl, Giralang ACT 2617",
       "state": "ACT",
       "prices": {
-        "U98": 259.9,
-        "Premium Diesel": 288.9,
-        "U91": 233.9
+        "U98": 255.9,
+        "Premium Diesel": 275.9,
+        "U91": 229.9
       },
-      "updated": "2026-11-13T00:09:14Z",
+      "updated": "2026-11-16T05:27:19Z",
       "lat": -35.2136,
       "lng": 149.096
     },
@@ -428,12 +428,12 @@
       "address": "18 Gundaroo Dr, Gungahlin ACT 2912",
       "state": "ACT",
       "prices": {
-        "U95": 247.9,
-        "U98": 257.9,
+        "U95": 246.9,
+        "U98": 256.9,
         "Premium Diesel": 275.9,
-        "U91": 230.9
+        "U91": 229.9
       },
-      "updated": "2026-11-15T20:07:27Z",
+      "updated": "2026-11-16T00:57:24Z",
       "lat": -35.183622,
       "lng": 149.125917
     },
@@ -444,13 +444,13 @@
       "address": "41 Federal Hwy, Lyneham ACT 2602",
       "state": "ACT",
       "prices": {
-        "E10": 228.9,
-        "U95": 247.9,
-        "U98": 257.9,
-        "Premium Diesel": 277.9,
-        "U91": 230.9
+        "E10": 227.9,
+        "U95": 246.9,
+        "U98": 256.9,
+        "Premium Diesel": 276.9,
+        "U91": 229.9
       },
-      "updated": "2026-11-15T22:02:27Z",
+      "updated": "2026-11-16T06:07:26Z",
       "lat": -35.2301,
       "lng": 149.151
     },
@@ -750,13 +750,13 @@
       "address": "1 Mawson Pl, Mawson ACT 2607",
       "state": "ACT",
       "prices": {
-        "E10": 230.9,
+        "E10": 228.9,
         "LPG": 120.9,
-        "U98": 258.9,
+        "U98": 256.9,
         "Premium Diesel": 275.9,
-        "U91": 232.9
+        "U91": 230.9
       },
-      "updated": "2026-11-15T20:21:15Z",
+      "updated": "2026-11-16T03:48:17Z",
       "lat": -35.365,
       "lng": 149.094
     },
@@ -836,13 +836,13 @@
       "address": "Garage 116 Lysaght ST, Mitchell ACT 2911",
       "state": "ACT",
       "prices": {
-        "Diesel": 280.9,
+        "Diesel": 272.9,
         "LPG": 126.9,
-        "U98": 260.9,
-        "Premium Diesel": 282.9,
-        "U91": 233.9
+        "U98": 254.9,
+        "Premium Diesel": 274.9,
+        "U91": 229.9
       },
-      "updated": "2026-11-12T21:02:20Z",
+      "updated": "2026-11-16T05:09:04Z",
       "lat": -35.215024,
       "lng": 149.139903
     },
@@ -917,13 +917,13 @@
       "address": "Glassey Pl & Cnr Clarey Cres, Spence ACT 2615",
       "state": "ACT",
       "prices": {
-        "E10": 232.9,
-        "U95": 251.9,
-        "U98": 260.9,
-        "Premium Diesel": 277.9,
-        "U91": 234.9
+        "E10": 227.9,
+        "U95": 246.9,
+        "U98": 255.9,
+        "Premium Diesel": 275.9,
+        "U91": 229.9
       },
-      "updated": "2026-11-15T23:48:14Z",
+      "updated": "2026-11-16T05:30:30Z",
       "lat": -35.19471,
       "lng": 149.0623
     },
@@ -935,29 +935,14 @@
       "state": "ACT",
       "prices": {
         "E10": 228.9,
+        "LPG": 120.9,
         "U98": 256.9,
         "Premium Diesel": 275.9,
         "U91": 230.9
       },
-      "updated": "2026-11-15T20:24:13Z",
+      "updated": "2026-11-16T06:56:56Z",
       "lat": -35.4052,
       "lng": 149.101
-    },
-    {
-      "brand": "Metro Fuel",
-      "code": "ACT:20090",
-      "name": "Metro Petroleum Phillip",
-      "address": "103 Hindmarsh DR, Phillip ACT 2606",
-      "state": "ACT",
-      "prices": {
-        "E10": 227.9,
-        "U98": 255.9,
-        "Premium Diesel": 275.9,
-        "U91": 229.9
-      },
-      "updated": "2026-11-15T16:55:14Z",
-      "lat": -35.349177,
-      "lng": 149.085739
     },
     {
       "brand": "Ampol",

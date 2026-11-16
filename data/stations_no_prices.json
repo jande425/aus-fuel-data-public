@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-16T00:39:38Z",
+  "fetched_at": "2026-11-16T07:16:52Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1255,
+  "station_count": 1257,
   "by_state": {
-    "ACT": 8,
-    "NSW": 1158,
+    "ACT": 9,
+    "NSW": 1157,
     "NT": 6,
-    "QLD": 29,
+    "QLD": 30,
     "SA": 29,
     "TAS": 1,
-    "VIC": 24
+    "VIC": 25
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,20 +17,20 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "Independent": 74,
+    "Independent": 73,
     "Chargefox": 72,
     "7-Eleven": 68,
-    "BP": 52,
+    "BP": 51,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
     "Ampol": 16,
-    "Caltex": 11,
+    "Caltex": 12,
     "Shell": 10,
     "EVUp": 9,
-    "Metro Fuel": 7,
+    "Metro Fuel": 8,
+    "Mobil": 8,
     "Evie Networks": 7,
-    "Mobil": 7,
     "United": 6,
     "Pearl Energy": 6,
     "Everty": 4,
@@ -41,6 +41,7 @@
     "Transwest Fuels": 2,
     "Puma Energy": 2,
     "Metro Petroleum": 2,
+    "North Haven Fuels": 1,
     "Westside": 1,
     "PK's": 1,
     "Astron": 1,
@@ -107,6 +108,15 @@
       "state": "ACT",
       "lat": -35.185475,
       "lng": 149.13353
+    },
+    {
+      "brand": "Metro Fuel",
+      "code": "ACT:20090",
+      "name": "Metro Petroleum Phillip",
+      "address": "103 Hindmarsh DR, Phillip ACT 2606",
+      "state": "ACT",
+      "lat": -35.349177,
+      "lng": 149.085739
     },
     {
       "brand": "Metro Fuel",
@@ -2233,15 +2243,6 @@
       "lng": 152.135661
     },
     {
-      "brand": "Ampol",
-      "code": "NSW:655",
-      "name": "Ampol Eastern Creek Diesel Stop",
-      "address": "Lot 1548 Roberts Rd, Eastern Creek NSW 2766",
-      "state": "NSW",
-      "lat": -33.815141,
-      "lng": 150.837384
-    },
-    {
       "brand": "Ampol Foodary",
       "code": "NSW:20046",
       "name": "Ampol Foodary Halfway Creek",
@@ -2792,15 +2793,6 @@
     },
     {
       "brand": "BP",
-      "code": "NSW:2259",
-      "name": "BP Rose Bay Central",
-      "address": "777 New South Head Rd, ROSE BAY NSW 2029",
-      "state": "NSW",
-      "lat": -33.870581,
-      "lng": 151.268579
-    },
-    {
-      "brand": "BP",
       "code": "NSW:412",
       "name": "BP Rutherford",
       "address": "360 New England Hwy, Rutherford NSW 2320",
@@ -3232,15 +3224,6 @@
       "lng": 150.070827
     },
     {
-      "brand": "Independent",
-      "code": "NSW:20965",
-      "name": "Billabong Takeaway and LPO",
-      "address": "Elizabeth Lodge 5 Forbes ST, Yeoval NSW 2868",
-      "state": "NSW",
-      "lat": -32.753713,
-      "lng": 148.647883
-    },
-    {
       "brand": "Tesla",
       "code": "NSW:19131",
       "name": "Birkenhead Point Outlet Centre",
@@ -3662,6 +3645,15 @@
       "state": "NSW",
       "lat": -30.709804,
       "lng": 152.919831
+    },
+    {
+      "brand": "Caltex",
+      "code": "NSW:20199",
+      "name": "Caltex Milton & Acai Bowl",
+      "address": "90 Princes HWY, Milton NSW 2538",
+      "state": "NSW",
+      "lat": -35.317087,
+      "lng": 150.437112
     },
     {
       "brand": "Caltex",
@@ -7172,6 +7164,15 @@
       "state": "NSW",
       "lat": -30.287399,
       "lng": 153.127184
+    },
+    {
+      "brand": "North Haven Fuels",
+      "code": "NSW:2679",
+      "name": "North Haven Fuels",
+      "address": "Shop 1 531 Ocean Dr, NORTH HAVEN NSW 2443",
+      "state": "NSW",
+      "lat": -31.642115,
+      "lng": 152.810203
     },
     {
       "brand": "ChargePoint",
@@ -10741,6 +10742,21 @@
     },
     {
       "brand": "Mobil",
+      "code": "QLD:61451588",
+      "name": "Mobil Childers",
+      "address": "154 Churchill St, QLD 4660",
+      "state": "QLD",
+      "lat": -25.235309885245105,
+      "lng": 152.27440050429917,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U95"
+      ]
+    },
+    {
+      "brand": "Mobil",
       "code": "QLD:61402648",
       "name": "Mobil Texas",
       "address": "11 Greenup St, QLD 4385",
@@ -10759,7 +10775,14 @@
       "address": "8 Stevens St, QLD 4561",
       "state": "QLD",
       "lat": -26.560908695787006,
-      "lng": 152.95582709812874
+      "lng": 152.95582709812874,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Independent",
@@ -11310,6 +11333,22 @@
       "lat": -37.87619815,
       "lng": 144.59009246,
       "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "VIC:68UJG34vuRgnWvHja9KhN+50ss3vFildFNj0RpP5EY0=",
+      "name": "Ampol Foodary Wangaratta (greta Rd)",
+      "address": "70-72 Greta Road, Wangaratta, 3677",
+      "state": "VIC",
+      "lat": -36.365491,
+      "lng": 146.314515,
+      "unavailable_fuels": [
+        "Diesel",
         "Premium Diesel",
         "U91",
         "U95",

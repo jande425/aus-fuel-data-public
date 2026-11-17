@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-17T21:19:47Z",
+  "fetched_at": "2026-11-17T23:49:42Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1265,
+  "station_count": 1266,
   "by_state": {
     "ACT": 9,
     "NSW": 1156,
     "NT": 6,
-    "QLD": 34,
-    "SA": 30,
+    "QLD": 35,
+    "SA": 31,
     "TAS": 1,
-    "VIC": 29
+    "VIC": 28
   },
   "by_brand": {
     "Exploren": 236,
@@ -24,19 +24,19 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 15,
+    "Ampol": 16,
     "Caltex": 12,
-    "Shell": 10,
+    "Shell": 12,
     "EVUp": 9,
-    "Mobil": 9,
     "Metro Fuel": 8,
+    "Mobil": 8,
     "Evie Networks": 7,
+    "Pearl Energy": 7,
     "United": 6,
-    "Pearl Energy": 6,
     "Everty": 4,
-    "EG Ampol": 4,
     "Liberty": 4,
     "Speedway": 4,
+    "EG Ampol": 3,
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
@@ -51,9 +51,8 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "Endeavour Energy Fuels": 1,
-    "Riordan Fuels": 1,
-    "MILDURA SERVO": 1
+    "MILDURA SERVO": 1,
+    "Riordan Fuels": 1
   },
   "stations": [
     {
@@ -6708,10 +6707,10 @@
       "lng": 151.057905
     },
     {
-      "brand": "Mobil",
-      "code": "NSW:1317",
+      "brand": "Pearl Energy",
+      "code": "NSW:20966",
       "name": "Mobil Faulconbridge",
-      "address": "450 Great Western Hw, Faulconbridge NSW 2776",
+      "address": "450 Great Western HWY, Faulconbridge NSW 2776",
       "state": "NSW",
       "lat": -33.694227,
       "lng": 150.547766
@@ -10667,6 +10666,20 @@
     },
     {
       "brand": "Ampol",
+      "code": "QLD:61402753",
+      "name": "Ampol Noosaville Diesel Stop",
+      "address": "13 Venture Dr, QLD 4566",
+      "state": "QLD",
+      "lat": -26.408229,
+      "lng": 153.044944,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
       "code": "QLD:61402482",
       "name": "Ampol Pampas",
       "address": "6164 Gore Highway, QLD 4352",
@@ -10709,22 +10722,6 @@
       "state": "QLD",
       "lat": -24.865276497096275,
       "lng": 151.1198653325062
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "QLD:61401157",
-      "name": "EG Ampol Birkdale",
-      "address": "118 Birkdale Rd, QLD 4159",
-      "state": "QLD",
-      "lat": -27.494931,
-      "lng": 153.212762,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "EG Ampol",
@@ -10946,6 +10943,20 @@
       "lng": 149.797847
     },
     {
+      "brand": "Shell",
+      "code": "QLD:61401607",
+      "name": "Shell Currumbin",
+      "address": "59 Currumbin Creek Rd, QLD 4223",
+      "state": "QLD",
+      "lat": -28.14482582221764,
+      "lng": 153.47158649570085,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "QLD:61402672",
       "name": "The Post Office Roadhouse",
@@ -11165,6 +11176,19 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "Shell",
+      "code": "SA:61501159",
+      "name": "Largs Bay OPT",
+      "address": "207 Victoria Rd, SA 5016",
+      "state": "SA",
+      "lat": -34.82568369580605,
+      "lng": 138.49966604639758,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel"
       ]
     },
     {
@@ -11508,18 +11532,6 @@
         "U91",
         "U95",
         "U98"
-      ]
-    },
-    {
-      "brand": "Endeavour Energy Fuels",
-      "code": "VIC:nTF3E+Bj1Qg8ruB6+2iwIjDw1zVmb+n21tj3VDm0lcc=",
-      "name": "Endeavour Donald",
-      "address": "39 Corack Road, Donald, 3923",
-      "state": "VIC",
-      "lat": -36.35736527,
-      "lng": 142.991495,
-      "unavailable_fuels": [
-        "Diesel"
       ]
     },
     {

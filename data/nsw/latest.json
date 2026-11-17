@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-11-17T14:19:38Z",
-  "station_count": 2112,
+  "fetched_at": "2026-11-17T16:59:15Z",
+  "station_count": 2111,
   "fuel_types": [
     "E10",
     "U91",
@@ -299,10 +299,10 @@
       "prices": {
         "U95": 223.9,
         "U98": 229.9,
-        "Premium Diesel": 259.9,
+        "Premium Diesel": 255.9,
         "U91": 206.9
       },
-      "updated": "2026-11-16T22:58:07Z",
+      "updated": "2026-11-17T15:36:04Z",
       "lat": -33.615454,
       "lng": 151.141677
     },
@@ -1087,23 +1087,6 @@
       "updated": "2026-11-16T23:55:33Z",
       "lat": -33.96333,
       "lng": 151.090139
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:2336",
-      "name": "Ampol Foodary Dural",
-      "address": "917-923 Old Northern Rd, DURAL NSW 2158",
-      "state": "NSW",
-      "prices": {
-        "E10": 215.9,
-        "U95": 234.9,
-        "U98": 244.9,
-        "Premium Diesel": 270.9,
-        "U91": 217.9
-      },
-      "updated": "2026-11-17T00:17:26Z",
-      "lat": -33.68313,
-      "lng": 151.028749
     },
     {
       "brand": "Ampol Foodary",
@@ -3887,13 +3870,13 @@
       "address": "12 Hawkesbury Valley Way, WINDSOR NSW 2756",
       "state": "NSW",
       "prices": {
-        "E10": 214.9,
+        "E10": 215.9,
         "LPG": 117.9,
-        "U98": 242.9,
+        "U98": 243.9,
         "Premium Diesel": 267.9,
-        "U91": 216.9
+        "U91": 217.9
       },
-      "updated": "2026-11-17T05:42:14Z",
+      "updated": "2026-11-17T16:39:15Z",
       "lat": -33.611871,
       "lng": 150.812202
     },
@@ -10456,13 +10439,13 @@
       "address": "5/100 Eastern Rd, Bungarribee NSW 2767",
       "state": "NSW",
       "prices": {
-        "E10": 211.9,
-        "U95": 230.9,
-        "U98": 239.9,
+        "E10": 212.9,
+        "U95": 231.9,
+        "U98": 240.9,
         "Premium Diesel": 267.9,
-        "U91": 213.9
+        "U91": 214.9
       },
-      "updated": "2026-11-16T22:39:14Z",
+      "updated": "2026-11-17T15:45:15Z",
       "lat": -33.77097,
       "lng": 150.85895
     },
@@ -11369,12 +11352,12 @@
       "address": "127-129 Marion ST, Leichhardt NSW 2040",
       "state": "NSW",
       "prices": {
-        "E10": 204.8,
+        "E10": 199.4,
         "U98": 237.8,
         "Premium Diesel": 259.8,
         "U91": 211.8
       },
-      "updated": "2026-11-17T04:15:02Z",
+      "updated": "2026-11-17T16:13:14Z",
       "lat": -33.88394,
       "lng": 151.150779
     },
@@ -13352,13 +13335,13 @@
       "address": "110 Anzac Parade & Goodwood Street, Kensington NSW 2033",
       "state": "NSW",
       "prices": {
-        "E10": 209.9,
+        "E10": 211.9,
         "LPG": 113.9,
-        "U98": 237.9,
+        "U98": 239.9,
         "Premium Diesel": 269.9,
-        "U91": 211.9
+        "U91": 213.9
       },
-      "updated": "2026-11-17T05:15:23Z",
+      "updated": "2026-11-17T15:45:15Z",
       "lat": -33.907017,
       "lng": 151.223796
     },
@@ -13586,13 +13569,13 @@
       "address": "15-19 Aspen Street, Penrith South NSW 2750",
       "state": "NSW",
       "prices": {
-        "E10": 211.9,
-        "U95": 230.9,
-        "U98": 239.9,
+        "E10": 212.9,
+        "U95": 231.9,
+        "U98": 240.9,
         "Premium Diesel": 278.9,
-        "U91": 213.9
+        "U91": 214.9
       },
-      "updated": "2026-11-17T05:42:14Z",
+      "updated": "2026-11-17T14:30:26Z",
       "lat": -33.777277,
       "lng": 150.710723
     },
@@ -20260,12 +20243,12 @@
       "address": "533 Mowbray RD West, Lane Cove North NSW 2066",
       "state": "NSW",
       "prices": {
-        "E10": 206.8,
+        "E10": 199.8,
         "U98": 242.8,
         "Premium Diesel": 259.8,
         "U91": 209.8
       },
-      "updated": "2026-11-16T12:04:29Z",
+      "updated": "2026-11-17T16:13:01Z",
       "lat": -33.805971,
       "lng": 151.166274
     },
@@ -22693,13 +22676,13 @@
       "address": "Sturt Hwy & Archer St, HAY SOUTH NSW 2711",
       "state": "NSW",
       "prices": {
-        "Diesel": 279.9,
+        "Diesel": 276.9,
         "LPG": 128.9,
-        "U95": 257.9,
-        "U98": 263.9,
-        "U91": 240.9
+        "U95": 253.9,
+        "U98": 259.9,
+        "U91": 236.9
       },
-      "updated": "2026-11-16T15:52:01Z",
+      "updated": "2026-11-17T15:52:19Z",
       "lat": -34.520145,
       "lng": 144.838046
     },
@@ -24440,9 +24423,9 @@
       "prices": {
         "Diesel": 263.9,
         "U98": 246.9,
-        "U91": 221.9
+        "U91": 219.9
       },
-      "updated": "2026-11-16T16:50:38Z",
+      "updated": "2026-11-17T16:28:24Z",
       "lat": -29.779537,
       "lng": 151.119398
     },
@@ -27925,11 +27908,11 @@
       "address": "95 Northcote ST, Kurri Kurri NSW 2327",
       "state": "NSW",
       "prices": {
-        "Diesel": 257.9,
+        "Diesel": 267.9,
         "U98": 253.9,
         "U91": 229.9
       },
-      "updated": "2026-11-17T08:23:53Z",
+      "updated": "2026-11-17T16:04:58Z",
       "lat": -32.812292,
       "lng": 151.475928
     },

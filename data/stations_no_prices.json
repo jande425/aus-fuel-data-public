@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-17T16:59:15Z",
+  "fetched_at": "2026-11-17T21:19:47Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1267,
+  "station_count": 1265,
   "by_state": {
     "ACT": 9,
-    "NSW": 1157,
+    "NSW": 1156,
     "NT": 6,
-    "QLD": 35,
+    "QLD": 34,
     "SA": 30,
     "TAS": 1,
     "VIC": 29
@@ -24,9 +24,9 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 16,
+    "Ampol": 15,
     "Caltex": 12,
-    "Shell": 11,
+    "Shell": 10,
     "EVUp": 9,
     "Mobil": 9,
     "Metro Fuel": 8,
@@ -34,10 +34,9 @@
     "United": 6,
     "Pearl Energy": 6,
     "Everty": 4,
+    "EG Ampol": 4,
     "Liberty": 4,
     "Speedway": 4,
-    "EG Ampol": 3,
-    "Ampol Foodary": 2,
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
@@ -46,6 +45,7 @@
     "Westside": 1,
     "PK's": 1,
     "Astron": 1,
+    "Ampol Foodary": 1,
     "Arko Energy": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
@@ -2242,15 +2242,6 @@
       "state": "NSW",
       "lat": -32.719967,
       "lng": 152.135661
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:2336",
-      "name": "Ampol Foodary Dural",
-      "address": "917-923 Old Northern Rd, DURAL NSW 2158",
-      "state": "NSW",
-      "lat": -33.68313,
-      "lng": 151.028749
     },
     {
       "brand": "Ampol Foodary",
@@ -10622,12 +10613,12 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "QLD:61477665",
-      "name": "7-Eleven Heathwood",
-      "address": "15 Stapylton Road, QLD 4110",
+      "code": "QLD:61477690",
+      "name": "7-Eleven Greenbank",
+      "address": "257-261 Teviot Road, QLD 4124",
       "state": "QLD",
-      "lat": -27.630712,
-      "lng": 152.986492,
+      "lat": -27.738606,
+      "lng": 152.984226,
       "unavailable_fuels": [
         "E10",
         "Premium Diesel",
@@ -10638,12 +10629,12 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "QLD:61478319",
-      "name": "7-Eleven Kirwan",
-      "address": "59-63 Thuringowa Dr, QLD 4817",
+      "code": "QLD:61477665",
+      "name": "7-Eleven Heathwood",
+      "address": "15 Stapylton Road, QLD 4110",
       "state": "QLD",
-      "lat": -19.307792626193866,
-      "lng": 146.73303557539367,
+      "lat": -27.630712,
+      "lng": 152.986492,
       "unavailable_fuels": [
         "E10",
         "Premium Diesel",
@@ -10663,22 +10654,6 @@
       "unavailable_fuels": [
         "Diesel",
         "Premium Diesel"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "QLD:61477946",
-      "name": "Ampol Foodary Hendra",
-      "address": "132A East West Arterial Road, QLD 4011",
-      "state": "QLD",
-      "lat": -27.410275,
-      "lng": 153.072089,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {
@@ -10734,6 +10709,22 @@
       "state": "QLD",
       "lat": -24.865276497096275,
       "lng": 151.1198653325062
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "QLD:61401157",
+      "name": "EG Ampol Birkdale",
+      "address": "118 Birkdale Rd, QLD 4159",
+      "state": "QLD",
+      "lat": -27.494931,
+      "lng": 153.212762,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "EG Ampol",
@@ -10953,20 +10944,6 @@
       "state": "QLD",
       "lat": -25.634965,
       "lng": 149.797847
-    },
-    {
-      "brand": "Shell",
-      "code": "QLD:61401607",
-      "name": "Shell Currumbin",
-      "address": "59 Currumbin Creek Rd, QLD 4223",
-      "state": "QLD",
-      "lat": -28.14482582221764,
-      "lng": 153.47158649570085,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "Independent",

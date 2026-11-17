@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-17T12:28:24Z",
+  "fetched_at": "2026-11-17T14:19:38Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1270,
+  "station_count": 1265,
   "by_state": {
     "ACT": 9,
     "NSW": 1156,
     "NT": 6,
-    "QLD": 37,
+    "QLD": 34,
     "SA": 30,
     "TAS": 1,
-    "VIC": 31
+    "VIC": 29
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,9 +17,9 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 80,
-    "7-Eleven": 76,
     "Independent": 74,
     "Chargefox": 72,
+    "7-Eleven": 71,
     "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -52,8 +52,8 @@
     "X Convenience": 1,
     "Perrys": 1,
     "Endeavour Energy Fuels": 1,
-    "MILDURA SERVO": 1,
-    "Riordan Fuels": 1
+    "Riordan Fuels": 1,
+    "MILDURA SERVO": 1
   },
   "stations": [
     {
@@ -10597,44 +10597,12 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "QLD:61401276",
-      "name": "7-Eleven Aspley",
-      "address": "581 Robinson Rd & Kirby Rd, QLD 4034",
-      "state": "QLD",
-      "lat": -27.364758,
-      "lng": 153.026257,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "QLD:61402204",
       "name": "7-Eleven Boronia Heights",
       "address": "Middle Road, QLD 4118",
       "state": "QLD",
       "lat": -27.678754,
       "lng": 153.021806,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61477647",
-      "name": "7-Eleven Eagleby",
-      "address": "126 Riverhills Road, QLD 4207",
-      "state": "QLD",
-      "lat": -27.701976,
-      "lng": 153.211396,
       "unavailable_fuels": [
         "E10",
         "Premium Diesel",
@@ -10667,22 +10635,6 @@
       "state": "QLD",
       "lat": -19.307792626193866,
       "lng": 146.73303557539367,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61477779",
-      "name": "7-Eleven West Ipswich",
-      "address": "353-357 Brisbane Street, QLD 4305",
-      "state": "QLD",
-      "lat": -27.621919,
-      "lng": 152.747585,
       "unavailable_fuels": [
         "E10",
         "Premium Diesel",
@@ -11412,23 +11364,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "VIC:/OdPebdayKXZfIZiSlkxoqVANpTQW3QuKcIHT9REzkw=",
-      "name": "7-Eleven Blackburn South",
-      "address": "2-18 Canterbury Road, Blackburn South, 3130",
-      "state": "VIC",
-      "lat": -37.83061385,
-      "lng": 145.1366759,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "VIC:aIpf5c+FbIFIqjsnktLA+kzJT6XxVXCNbtB6Xfo1iqE=",
       "name": "7-Eleven Hoppers Crossing Central",
       "address": "289-293 Derrimut Road, Hoppers Crossing, 3029",
@@ -11450,22 +11385,6 @@
       "state": "VIC",
       "lat": -37.96512786,
       "lng": 145.17289763,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:cOj8ij/UE1R/4SmrSMSmXQOKmkqohXIjWxknZIf80fA=",
-      "name": "7-Eleven St Albans",
-      "address": "70 Kings Road, St Albans, 3021",
-      "state": "VIC",
-      "lat": -37.73448582,
-      "lng": 144.78123498,
       "unavailable_fuels": [
         "LPG",
         "Premium Diesel",

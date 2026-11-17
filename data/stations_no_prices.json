@@ -1,26 +1,26 @@
 {
-  "fetched_at": "2026-11-16T20:59:10Z",
+  "fetched_at": "2026-11-17T03:21:29Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1258,
+  "station_count": 1264,
   "by_state": {
     "ACT": 9,
-    "NSW": 1158,
+    "NSW": 1156,
     "NT": 6,
-    "QLD": 30,
+    "QLD": 35,
     "SA": 29,
     "TAS": 1,
-    "VIC": 25
+    "VIC": 28
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
-    "Independent": 73,
+    "Reddy Express": 80,
+    "Independent": 74,
     "Chargefox": 72,
-    "7-Eleven": 68,
-    "BP": 51,
+    "7-Eleven": 70,
+    "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -36,22 +36,23 @@
     "Everty": 4,
     "Liberty": 4,
     "Speedway": 4,
-    "EG Ampol": 2,
+    "EG Ampol": 3,
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
+    "U-Go": 2,
     "Metro Petroleum": 2,
-    "North Haven Fuels": 1,
     "Westside": 1,
     "PK's": 1,
     "Astron": 1,
     "Ampol Foodary": 1,
     "Arko Energy": 1,
-    "U-Go": 1,
     "Freedom Fuels": 1,
+    "Shell Express": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
+    "Riordan Fuels": 1,
     "MILDURA SERVO": 1
   },
   "stations": [
@@ -7175,15 +7176,6 @@
       "lng": 153.127184
     },
     {
-      "brand": "North Haven Fuels",
-      "code": "NSW:2679",
-      "name": "North Haven Fuels",
-      "address": "Shop 1 531 Ocean Dr, NORTH HAVEN NSW 2443",
-      "state": "NSW",
-      "lat": -31.642115,
-      "lng": 152.810203
-    },
-    {
       "brand": "ChargePoint",
       "code": "NSW:19351",
       "name": "North Shore BMW",
@@ -8247,15 +8239,6 @@
     },
     {
       "brand": "Reddy Express",
-      "code": "NSW:46",
-      "name": "Shell Reddy  Express Merewether",
-      "address": "87 Llewellyn St (Cnr Glebe Rd), Merewether NSW 2291",
-      "state": "NSW",
-      "lat": -32.938146,
-      "lng": 151.749567
-    },
-    {
-      "brand": "Reddy Express",
       "code": "NSW:391",
       "name": "Shell Reddy  Express Northmead",
       "address": "197 Windsor Road, Northmead NSW 2152",
@@ -8325,6 +8308,15 @@
       "state": "NSW",
       "lat": -34.026377,
       "lng": 151.120108
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "NSW:746",
+      "name": "Shell Reddy Express Avalon",
+      "address": "2 Avalon Pde (Cnr Barrenjoey Rd), Avalon Beach NSW 2107",
+      "state": "NSW",
+      "lat": -33.636355,
+      "lng": 151.330203
     },
     {
       "brand": "Reddy Express",
@@ -8451,15 +8443,6 @@
       "state": "NSW",
       "lat": -33.88688,
       "lng": 151.071135
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:51",
-      "name": "Shell Reddy Express Five Dock",
-      "address": "213-253 Parramatta Rd & Walker St, Five Dock NSW 2046",
-      "state": "NSW",
-      "lat": -33.870106,
-      "lng": 151.115104
     },
     {
       "brand": "Reddy Express",
@@ -10613,6 +10596,38 @@
       "lng": 134.528786
     },
     {
+      "brand": "7-Eleven",
+      "code": "QLD:61402204",
+      "name": "7-Eleven Boronia Heights",
+      "address": "Middle Road, QLD 4118",
+      "state": "QLD",
+      "lat": -27.678754,
+      "lng": 153.021806,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61478319",
+      "name": "7-Eleven Kirwan",
+      "address": "59-63 Thuringowa Dr, QLD 4817",
+      "state": "QLD",
+      "lat": -19.307792626193866,
+      "lng": 146.73303557539367,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Ampol",
       "code": "QLD:61402893",
       "name": "Ampol Blackwater Diesel Stop",
@@ -10623,6 +10638,21 @@
       "unavailable_fuels": [
         "Diesel",
         "Premium Diesel"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "QLD:61402917",
+      "name": "Ampol Coolum Diesel Stop",
+      "address": "43-45 Junction Drive, QLD 4573",
+      "state": "QLD",
+      "lat": -26.521952,
+      "lng": 153.058033,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "Premium Diesel",
+        "U98"
       ]
     },
     {
@@ -10678,6 +10708,22 @@
       "state": "QLD",
       "lat": -24.865276497096275,
       "lng": 151.1198653325062
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "QLD:61401447",
+      "name": "EG Ampol Macgregor",
+      "address": "605 Kessels Rd, QLD 4109",
+      "state": "QLD",
+      "lat": -27.562252,
+      "lng": 153.074394,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Freedom Fuels",
@@ -10883,6 +10929,21 @@
       "lng": 149.797847
     },
     {
+      "brand": "Shell Express",
+      "code": "QLD:61477716",
+      "name": "Shell Express Bremer",
+      "address": "73 Blackstone Rd, QLD 4304",
+      "state": "QLD",
+      "lat": -27.620510322961355,
+      "lng": 152.77946611765213,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U98"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "QLD:61402672",
       "name": "The Post Office Roadhouse",
@@ -11055,6 +11116,19 @@
     },
     {
       "brand": "Independent",
+      "code": "SA:61501681",
+      "name": "Fuel 24/7 PTY LTD",
+      "address": "9 Railway Terrace, Karoonda SA 5307, Australia, SA 5307",
+      "state": "SA",
+      "lat": -35.0948469136921,
+      "lng": 139.89484741964338,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91"
+      ]
+    },
+    {
+      "brand": "Independent",
       "code": "SA:61570239",
       "name": "Greenock General Store",
       "address": "37-39 Adelaide Road, SA 5360",
@@ -11102,19 +11176,6 @@
       "state": "SA",
       "lat": -35.094431,
       "lng": 139.896371,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91"
-      ]
-    },
-    {
-      "brand": "Independent",
-      "code": "SA:61501681",
-      "name": "Karoonda Fuel Stop",
-      "address": "9 Railway Terrace, Karoonda SA 5307, Australia, SA 5307",
-      "state": "SA",
-      "lat": -35.0947769136921,
-      "lng": 139.89491741964338,
       "unavailable_fuels": [
         "Diesel",
         "U91"
@@ -11349,22 +11410,6 @@
       ]
     },
     {
-      "brand": "Ampol",
-      "code": "VIC:68UJG34vuRgnWvHja9KhN+50ss3vFildFNj0RpP5EY0=",
-      "name": "Ampol Foodary Wangaratta (greta Rd)",
-      "address": "70-72 Greta Road, Wangaratta, 3677",
-      "state": "VIC",
-      "lat": -36.365491,
-      "lng": 146.314515,
-      "unavailable_fuels": [
-        "Diesel",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "VIC:mCLy5LVa9a0SixEFe/OR+X+ByeAARLmlUYE3eNnzwMs=",
       "name": "Birchip Motel & Caravan Park",
@@ -11535,6 +11580,19 @@
       ]
     },
     {
+      "brand": "Independent",
+      "code": "VIC:kmDlfyYXSghzvGkdnu4zj973IfiN2Ctq6nhVYXKyFKo=",
+      "name": "Patchewollock Community Store and Post Office",
+      "address": "58 Federation St, PATCHEWOLLOCK, 3491",
+      "state": "VIC",
+      "lat": -35.38338711,
+      "lng": 142.18716739,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91"
+      ]
+    },
+    {
       "brand": "Pearl Energy",
       "code": "VIC:CH4hjiK/bCb66Xaj/YI683K8sR+PjmakUsEuiLcMQi8=",
       "name": "Pearl Energy Bairnsdale",
@@ -11551,6 +11609,19 @@
       ]
     },
     {
+      "brand": "BP",
+      "code": "VIC:8FfhQSWJKf6qp/5j8PKAMk+KAW0kvYVu6B1rsdNGrQY=",
+      "name": "Queenscliff Junction Motors",
+      "address": "56 Bellarine highway, Queenscliff, 3225",
+      "state": "VIC",
+      "lat": -38.27194356,
+      "lng": 144.62662069,
+      "unavailable_fuels": [
+        "U91",
+        "U95"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "VIC:ZW9hTQa74HcdbdZOkvXEmvpbrdTIQq0gLftEeoob1mg=",
       "name": "Raywood Motors",
@@ -11562,6 +11633,18 @@
         "Diesel",
         "U91",
         "U95"
+      ]
+    },
+    {
+      "brand": "Riordan Fuels",
+      "code": "VIC:9xMucyik9VYXttRWypNIpkLERW9ScaOYncxWcdECVhs=",
+      "name": "Riordan Fuels - St Arnaud",
+      "address": "20 Melbourne  Road, St Arnaud, 3478",
+      "state": "VIC",
+      "lat": -36.62577897,
+      "lng": 143.2636326,
+      "unavailable_fuels": [
+        "Diesel"
       ]
     },
     {
@@ -11649,6 +11732,21 @@
         "Diesel",
         "E10",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "U-Go",
+      "code": "VIC:pevTl5ALpnSKsHciCbGE/tcVWQNI0GJQMULWSVa41g4=",
+      "name": "U-Go Sebastopol",
+      "address": "76-82 Albert Street, Sebastopol, 3356",
+      "state": "VIC",
+      "lat": -37.58856307,
+      "lng": 143.84064375,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-18T19:23:07Z",
+  "fetched_at": "2026-11-18T20:54:01Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1259,
   "by_state": {
     "ACT": 9,
-    "NSW": 1157,
+    "NSW": 1156,
     "NT": 5,
-    "QLD": 32,
+    "QLD": 33,
     "SA": 28,
     "TAS": 1,
     "VIC": 27
@@ -17,8 +17,8 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 80,
-    "Independent": 73,
     "Chargefox": 72,
+    "Independent": 72,
     "7-Eleven": 70,
     "BP": 52,
     "NRMA": 45,
@@ -50,6 +50,7 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
+    "Mortimer Petroleum": 1,
     "MILDURA SERVO": 1
   },
   "stations": [
@@ -3769,15 +3770,6 @@
       "state": "NSW",
       "lat": -36.419857,
       "lng": 150.063318
-    },
-    {
-      "brand": "Independent",
-      "code": "NSW:17828",
-      "name": "Carey bay servo",
-      "address": "42 Ambrose Street, CAREY BAY NSW 2283",
-      "state": "NSW",
-      "lat": -33.022855,
-      "lng": 151.6051
     },
     {
       "brand": "Exploren",
@@ -10639,6 +10631,19 @@
     },
     {
       "brand": "Ampol",
+      "code": "QLD:61402872",
+      "name": "Ampol Bundamba (Citiswich) Diesel Stop",
+      "address": "1  Hawkins Crescent, QLD 4304",
+      "state": "QLD",
+      "lat": -27.588499,
+      "lng": 152.818139,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel"
+      ]
+    },
+    {
+      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -11347,21 +11352,6 @@
       ]
     },
     {
-      "brand": "Ampol",
-      "code": "VIC:1xhjz7d7oec6bH9S1cixpldNcKpTc85Vb8IZf6yEf2U=",
-      "name": "Ampol Foodary Yarraville",
-      "address": "130-132 Hyde Street, Somerville Rd, YARRAVILLE, 3013",
-      "state": "VIC",
-      "lat": -37.813901455093706,
-      "lng": 144.89690653915986,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "VIC:mCLy5LVa9a0SixEFe/OR+X+ByeAARLmlUYE3eNnzwMs=",
       "name": "Birchip Motel & Caravan Park",
@@ -11488,6 +11478,21 @@
         "Diesel",
         "E10",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Mortimer Petroleum",
+      "code": "VIC:Ute7n31l66XF7b1HZgg1wBqhbLhUADFxKc+JAcn9mk4=",
+      "name": "Meredith Roadhouse",
+      "address": "26 Wallace Street, Meredith, 3333",
+      "state": "VIC",
+      "lat": -37.84608564260743,
+      "lng": 144.076546,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-18T01:45:55Z",
+  "fetched_at": "2026-11-18T03:07:51Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1264,
+  "station_count": 1260,
   "by_state": {
     "ACT": 9,
     "NSW": 1157,
-    "NT": 6,
-    "QLD": 33,
-    "SA": 30,
+    "NT": 5,
+    "QLD": 32,
+    "SA": 29,
     "TAS": 1,
-    "VIC": 28
+    "VIC": 27
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,14 +17,14 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 80,
-    "Independent": 74,
     "Chargefox": 72,
+    "Independent": 72,
     "7-Eleven": 70,
     "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 17,
+    "Ampol": 16,
     "Caltex": 12,
     "Shell": 10,
     "EVUp": 9,
@@ -40,7 +40,6 @@
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
-    "U-Go": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "PK's": 1,
@@ -51,8 +50,9 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
+    "Riordan Fuels": 1,
     "MILDURA SERVO": 1,
-    "Riordan Fuels": 1
+    "U-Go": 1
   },
   "stations": [
     {
@@ -10577,15 +10577,6 @@
       "lng": 131.370842
     },
     {
-      "brand": "Independent",
-      "code": "NT:08720112",
-      "name": "Laramba Community Store",
-      "address": "Lot 82 - Store Street, Laramba, 0872, NT",
-      "state": "NT",
-      "lat": -22.534303,
-      "lng": 132.754003
-    },
-    {
       "brand": "Puma Energy",
       "code": "NT:08720211",
       "name": "Maryvale Store",
@@ -10656,20 +10647,6 @@
       "state": "QLD",
       "lat": -25.532642,
       "lng": 152.702998
-    },
-    {
-      "brand": "Ampol",
-      "code": "QLD:61402753",
-      "name": "Ampol Noosaville Diesel Stop",
-      "address": "13 Venture Dr, QLD 4566",
-      "state": "QLD",
-      "lat": -26.408229,
-      "lng": 153.044944,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
-      ]
     },
     {
       "brand": "Ampol",
@@ -11308,21 +11285,6 @@
       "lng": 139.597512
     },
     {
-      "brand": "U-Go",
-      "code": "SA:61501113",
-      "name": "U-Go Elizabeth Vale",
-      "address": "149 Main N Rd, SA 5112",
-      "state": "SA",
-      "lat": -34.74189059621186,
-      "lng": 138.67578913988115,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "X Convenience",
       "code": "SA:61501450",
       "name": "X Convenience Port Adelaide",
@@ -11565,19 +11527,6 @@
       "state": "VIC",
       "lat": -37.85074217,
       "lng": 144.89426179,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91"
-      ]
-    },
-    {
-      "brand": "Independent",
-      "code": "VIC:kmDlfyYXSghzvGkdnu4zj973IfiN2Ctq6nhVYXKyFKo=",
-      "name": "Patchewollock Community Store and Post Office",
-      "address": "58 Federation St, PATCHEWOLLOCK, 3491",
-      "state": "VIC",
-      "lat": -35.38338711,
-      "lng": 142.18716739,
       "unavailable_fuels": [
         "Diesel",
         "U91"

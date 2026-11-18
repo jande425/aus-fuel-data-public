@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-11-18T01:45:55Z",
+  "fetched_at": "2026-11-18T03:07:51Z",
   "station_count": 60,
   "fuel_types": [
     "E10",
@@ -151,13 +151,13 @@
       "address": "275 Maribyrnong Av, Kaleen ACT 2617",
       "state": "ACT",
       "prices": {
-        "E10": 227.9,
-        "U95": 246.9,
-        "U98": 256.9,
+        "E10": 226.9,
+        "U95": 245.9,
+        "U98": 255.9,
         "Premium Diesel": 275.9,
-        "U91": 229.9
+        "U91": 228.9
       },
-      "updated": "2026-11-17T01:17:24Z",
+      "updated": "2026-11-18T01:47:27Z",
       "lat": -35.233718,
       "lng": 149.103666
     },
@@ -854,11 +854,11 @@
       "state": "ACT",
       "prices": {
         "E10": 209.9,
-        "U98": 237.9,
+        "U98": 233.9,
         "Premium Diesel": 258.9,
         "U91": 213.9
       },
-      "updated": "2026-11-17T23:06:28Z",
+      "updated": "2026-11-18T02:03:40Z",
       "lat": -35.3326,
       "lng": 149.176
     },

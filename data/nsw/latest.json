@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-11-18T12:14:44Z",
-  "station_count": 2108,
+  "fetched_at": "2026-11-18T13:18:11Z",
+  "station_count": 2109,
   "fuel_types": [
     "E10",
     "U91",
@@ -9391,13 +9391,13 @@
       "address": "456, Metford Road, Metford NEW SOUTH WALES 2323",
       "state": "NSW",
       "prices": {
-        "E10": 214.9,
-        "U95": 233.9,
-        "U98": 242.9,
+        "E10": 213.9,
+        "U95": 232.9,
+        "U98": 241.9,
         "Premium Diesel": 261.9,
-        "U91": 216.9
+        "U91": 215.9
       },
-      "updated": "2026-11-17T04:09:15Z",
+      "updated": "2026-11-18T12:48:39Z",
       "lat": -32.761177,
       "lng": 151.600376
     },
@@ -14710,12 +14710,12 @@
       "address": "76 Glossop Street, St Marys NSW 2760",
       "state": "NSW",
       "prices": {
-        "E10": 208.9,
-        "U95": 227.9,
-        "U98": 236.9,
+        "E10": 206.9,
+        "U95": 225.9,
+        "U98": 234.9,
         "Premium Diesel": 267.9
       },
-      "updated": "2026-11-18T01:06:14Z",
+      "updated": "2026-11-18T12:30:31Z",
       "lat": -33.760059,
       "lng": 150.781616
     },
@@ -25978,6 +25978,23 @@
       "updated": "2026-11-18T06:15:34Z",
       "lat": -33.916526,
       "lng": 151.066504
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:1931",
+      "name": "7-Eleven Wallsend",
+      "address": "15 Minmi Road, Wallsend NSW 2287",
+      "state": "NSW",
+      "prices": {
+        "E10": 217.9,
+        "U95": 237.9,
+        "U98": 246.9,
+        "Premium Diesel": 274.9,
+        "U91": 219.9
+      },
+      "updated": "2026-11-18T12:29:26Z",
+      "lat": -32.890998,
+      "lng": 151.666094
     },
     {
       "brand": "7-Eleven",

@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-18T12:14:44Z",
+  "fetched_at": "2026-11-18T13:18:11Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1263,
+  "station_count": 1262,
   "by_state": {
     "ACT": 9,
-    "NSW": 1159,
+    "NSW": 1158,
     "NT": 5,
     "QLD": 34,
     "SA": 28,
@@ -17,7 +17,7 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 80,
-    "7-Eleven": 76,
+    "7-Eleven": 75,
     "Independent": 73,
     "Chargefox": 72,
     "BP": 52,
@@ -709,15 +709,6 @@
       "state": "NSW",
       "lat": -33.975997,
       "lng": 151.10364
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:1931",
-      "name": "7-Eleven Wallsend",
-      "address": "15 Minmi Road, Wallsend NSW 2287",
-      "state": "NSW",
-      "lat": -32.890998,
-      "lng": 151.666094
     },
     {
       "brand": "7-Eleven",

@@ -1,23 +1,23 @@
 {
-  "fetched_at": "2026-11-18T10:04:04Z",
+  "fetched_at": "2026-11-18T12:14:44Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1267,
+  "station_count": 1263,
   "by_state": {
     "ACT": 9,
-    "NSW": 1161,
+    "NSW": 1159,
     "NT": 5,
     "QLD": 34,
     "SA": 28,
     "TAS": 1,
-    "VIC": 29
+    "VIC": 27
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "7-Eleven": 81,
     "Reddy Express": 80,
+    "7-Eleven": 76,
     "Independent": 73,
     "Chargefox": 72,
     "BP": 52,
@@ -36,10 +36,10 @@
     "Everty": 4,
     "Liberty": 4,
     "Speedway": 4,
+    "EG Ampol": 3,
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
-    "EG Ampol": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "PK's": 1,
@@ -214,15 +214,6 @@
       "state": "NSW",
       "lat": -34.476871,
       "lng": 150.839335
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:197",
-      "name": "7-Eleven Bexley",
-      "address": "611-615  Mimosa Street (Corner Forest Road), Bexley NSW 2207",
-      "state": "NSW",
-      "lat": -33.955531,
-      "lng": 151.118478
     },
     {
       "brand": "7-Eleven",
@@ -493,15 +484,6 @@
       "state": "NSW",
       "lat": -33.910008,
       "lng": 151.223177
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:240",
-      "name": "7-Eleven Killara",
-      "address": "494 Pacific Hwy, Killara NSW 2071",
-      "state": "NSW",
-      "lat": -33.771365,
-      "lng": 151.16108
     },
     {
       "brand": "7-Eleven",
@@ -11370,40 +11352,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "VIC:SmSNTRCDiOE2EN9ittgYqT38LNtqGXZOIfwv1sWKEaw=",
-      "name": "7-Eleven Cranbourne West",
-      "address": "185 Evans Road, Cranbourne West, 3977",
-      "state": "VIC",
-      "lat": -38.09297581,
-      "lng": 145.25523037,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:ndOboH5gxcM6eBuWKl0l+y1WLUjNjoNw9L+di2a69WA=",
-      "name": "7-Eleven Ferntree Gully",
-      "address": "510 Napoleon Road, Ferntree Gully, 3156",
-      "state": "VIC",
-      "lat": -37.91067642532898,
-      "lng": 145.27567044065782,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "VIC:aIpf5c+FbIFIqjsnktLA+kzJT6XxVXCNbtB6Xfo1iqE=",
       "name": "7-Eleven Hoppers Crossing Central",
       "address": "289-293 Derrimut Road, Hoppers Crossing, 3029",
@@ -11411,22 +11359,6 @@
       "lat": -37.86298282,
       "lng": 144.68437998,
       "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:hFUvRsOp6JAfbaZMgeqyXtYhxWWo7vQYX61tmaAS3ds=",
-      "name": "7-Eleven Niddrie",
-      "address": "387 Keilor Road, Niddrie, 3042",
-      "state": "VIC",
-      "lat": -37.737330779567394,
-      "lng": 144.89217204098594,
-      "unavailable_fuels": [
-        "E10",
         "Premium Diesel",
         "U91",
         "U95",
@@ -11573,6 +11505,21 @@
       "state": "VIC",
       "lat": -37.81237751,
       "lng": 145.0763508,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "VIC:kdema6y0mxy1seszYclAiWs215UTN8/fUnil5DBgxao=",
+      "name": "EG Ampol Camberwell",
+      "address": "550 Riversdale Road, Camberwell, 3124",
+      "state": "VIC",
+      "lat": -37.83176184,
+      "lng": 145.0588319,
       "unavailable_fuels": [
         "Premium Diesel",
         "U91",

@@ -1,30 +1,30 @@
 {
-  "fetched_at": "2026-11-18T03:07:51Z",
+  "fetched_at": "2026-11-18T10:04:04Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1260,
+  "station_count": 1267,
   "by_state": {
     "ACT": 9,
-    "NSW": 1157,
+    "NSW": 1161,
     "NT": 5,
-    "QLD": 32,
-    "SA": 29,
+    "QLD": 34,
+    "SA": 28,
     "TAS": 1,
-    "VIC": 27
+    "VIC": 29
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
+    "7-Eleven": 81,
     "Reddy Express": 80,
+    "Independent": 73,
     "Chargefox": 72,
-    "Independent": 72,
-    "7-Eleven": 70,
     "BP": 52,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 16,
+    "Ampol": 14,
     "Caltex": 12,
     "Shell": 10,
     "EVUp": 9,
@@ -36,10 +36,10 @@
     "Everty": 4,
     "Liberty": 4,
     "Speedway": 4,
-    "EG Ampol": 3,
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
+    "EG Ampol": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "PK's": 1,
@@ -50,9 +50,7 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "Riordan Fuels": 1,
-    "MILDURA SERVO": 1,
-    "U-Go": 1
+    "MILDURA SERVO": 1
   },
   "stations": [
     {
@@ -216,6 +214,15 @@
       "state": "NSW",
       "lat": -34.476871,
       "lng": 150.839335
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:197",
+      "name": "7-Eleven Bexley",
+      "address": "611-615  Mimosa Street (Corner Forest Road), Bexley NSW 2207",
+      "state": "NSW",
+      "lat": -33.955531,
+      "lng": 151.118478
     },
     {
       "brand": "7-Eleven",
@@ -426,6 +433,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:308",
+      "name": "7-Eleven Gregory Hills",
+      "address": "1&3 Rodeo Rd (160 Camden Valley Way), Gregory Hills NSW 2557",
+      "state": "NSW",
+      "lat": -34.024252,
+      "lng": 150.759008
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:130",
       "name": "7-Eleven Guildford West",
       "address": "534 Guildford Road West (Corner Fowler Road), Guildford West NSW 2161",
@@ -477,6 +493,15 @@
       "state": "NSW",
       "lat": -33.910008,
       "lng": 151.223177
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:240",
+      "name": "7-Eleven Killara",
+      "address": "494 Pacific Hwy, Killara NSW 2071",
+      "state": "NSW",
+      "lat": -33.771365,
+      "lng": 151.16108
     },
     {
       "brand": "7-Eleven",
@@ -642,6 +667,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:271",
+      "name": "7-Eleven Plumpton",
+      "address": "Corner Richmond Road & Dublin Street, Plumpton NSW 2761",
+      "state": "NSW",
+      "lat": -33.73984,
+      "lng": 150.860297
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:149",
       "name": "7-Eleven Randwick",
       "address": "128 Barker Street, Randwick NSW 2031",
@@ -693,6 +727,15 @@
       "state": "NSW",
       "lat": -33.975997,
       "lng": 151.10364
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:1931",
+      "name": "7-Eleven Wallsend",
+      "address": "15 Minmi Road, Wallsend NSW 2287",
+      "state": "NSW",
+      "lat": -32.890998,
+      "lng": 151.666094
     },
     {
       "brand": "7-Eleven",
@@ -2243,15 +2286,6 @@
       "lng": 152.135661
     },
     {
-      "brand": "Ampol",
-      "code": "NSW:2227",
-      "name": "Ampol Bega Depot",
-      "address": "36 Lagoon Street, BEGA NSW 2550",
-      "state": "NSW",
-      "lat": -36.668515,
-      "lng": 149.828596
-    },
-    {
       "brand": "Ampol Foodary",
       "code": "NSW:20046",
       "name": "Ampol Foodary Halfway Creek",
@@ -3773,6 +3807,15 @@
       "lng": 150.063318
     },
     {
+      "brand": "Independent",
+      "code": "NSW:17828",
+      "name": "Carey bay servo",
+      "address": "42 Ambrose Street, CAREY BAY NSW 2283",
+      "state": "NSW",
+      "lat": -33.022855,
+      "lng": 151.6051
+    },
+    {
       "brand": "Exploren",
       "code": "NSW:20308",
       "name": "Carrathool Shire Council - Goolgowi Caravan Park",
@@ -4311,15 +4354,6 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "NSW:627",
-      "name": "EG Ampol Bowral",
-      "address": "2-4 Banyette Street (Cnr Station St), Bowral NSW 2576",
-      "state": "NSW",
-      "lat": -34.481158,
-      "lng": 150.415338
     },
     {
       "brand": "EVUp",
@@ -10612,12 +10646,44 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "QLD:61478288",
+      "name": "7-Eleven Collingwood Park",
+      "address": "Cnr Collingwood Dr & Eagle St, QLD 4301",
+      "state": "QLD",
+      "lat": -27.62425080880812,
+      "lng": 152.85782253032556,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "QLD:61477690",
       "name": "7-Eleven Greenbank",
       "address": "257-261 Teviot Road, QLD 4124",
       "state": "QLD",
       "lat": -27.738606,
       "lng": 152.984226,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61402889",
+      "name": "7-Eleven Holmview",
+      "address": "324 Logan River Rd, Holmview QLD 4207, Australia, QLD 4207",
+      "state": "QLD",
+      "lat": -27.710096234628637,
+      "lng": 153.16063349073792,
       "unavailable_fuels": [
         "E10",
         "Premium Diesel",
@@ -10968,20 +11034,6 @@
       "lng": 138.483943
     },
     {
-      "brand": "Ampol",
-      "code": "SA:61577050",
-      "name": "Ampol Streaky Bay",
-      "address": "3 Bay Road, SA 5680",
-      "state": "SA",
-      "lat": -32.796674,
-      "lng": 134.210938,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "SA:61577294",
       "name": "Booborowie General Store",
@@ -11318,6 +11370,40 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:SmSNTRCDiOE2EN9ittgYqT38LNtqGXZOIfwv1sWKEaw=",
+      "name": "7-Eleven Cranbourne West",
+      "address": "185 Evans Road, Cranbourne West, 3977",
+      "state": "VIC",
+      "lat": -38.09297581,
+      "lng": 145.25523037,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:ndOboH5gxcM6eBuWKl0l+y1WLUjNjoNw9L+di2a69WA=",
+      "name": "7-Eleven Ferntree Gully",
+      "address": "510 Napoleon Road, Ferntree Gully, 3156",
+      "state": "VIC",
+      "lat": -37.91067642532898,
+      "lng": 145.27567044065782,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:aIpf5c+FbIFIqjsnktLA+kzJT6XxVXCNbtB6Xfo1iqE=",
       "name": "7-Eleven Hoppers Crossing Central",
       "address": "289-293 Derrimut Road, Hoppers Crossing, 3029",
@@ -11333,12 +11419,44 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:hFUvRsOp6JAfbaZMgeqyXtYhxWWo7vQYX61tmaAS3ds=",
+      "name": "7-Eleven Niddrie",
+      "address": "387 Keilor Road, Niddrie, 3042",
+      "state": "VIC",
+      "lat": -37.737330779567394,
+      "lng": 144.89217204098594,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:VkvBa8whRgy6Z46L367DlDXkAoFePQygEgkFhtVuUPE=",
       "name": "7-Eleven Noble Park",
       "address": "1100-1106 Heatherton Road, Noble Park, 3174",
       "state": "VIC",
       "lat": -37.96512786,
       "lng": 145.17289763,
+      "unavailable_fuels": [
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:tFghvF+5FLi4kImPlLQmjZWR3vYhUG/CunTvXEPqUwk=",
+      "name": "7-Eleven Sandringham",
+      "address": "302 Bluff Road, Sandringham, 3191",
+      "state": "VIC",
+      "lat": -37.9535447577642,
+      "lng": 145.0211220420444,
       "unavailable_fuels": [
         "LPG",
         "Premium Diesel",
@@ -11450,7 +11568,7 @@
     {
       "brand": "EG Ampol",
       "code": "VIC:9Gg5KwafB8U1ZS6Prk1Rlzbe01Rgz4iN+JERj6cFrgY=",
-      "name": "EG Ampol Balwyn",
+      "name": "EG Ampol Balwyn - Temporarily Closed",
       "address": "192 Whitehorse Road, Balwyn, 3103",
       "state": "VIC",
       "lat": -37.81237751,
@@ -11576,18 +11694,6 @@
       ]
     },
     {
-      "brand": "Riordan Fuels",
-      "code": "VIC:9xMucyik9VYXttRWypNIpkLERW9ScaOYncxWcdECVhs=",
-      "name": "Riordan Fuels - St Arnaud",
-      "address": "20 Melbourne  Road, St Arnaud, 3478",
-      "state": "VIC",
-      "lat": -36.62577897,
-      "lng": 143.2636326,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
-    },
-    {
       "brand": "Shell",
       "code": "VIC:ZxB7g48qgexGA8k0i6UCszHbjN+b6bYP3LiTX1H4K4s=",
       "name": "Shell",
@@ -11672,21 +11778,6 @@
         "Diesel",
         "E10",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "U-Go",
-      "code": "VIC:pevTl5ALpnSKsHciCbGE/tcVWQNI0GJQMULWSVa41g4=",
-      "name": "U-Go Sebastopol",
-      "address": "76-82 Albert Street, Sebastopol, 3356",
-      "state": "VIC",
-      "lat": -37.58856307,
-      "lng": 143.84064375,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

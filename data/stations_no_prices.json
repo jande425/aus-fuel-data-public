@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-19T11:02:01Z",
+  "fetched_at": "2026-11-19T13:42:00Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1265,
+  "station_count": 1261,
   "by_state": {
     "ACT": 9,
-    "NSW": 1163,
+    "NSW": 1160,
     "NT": 5,
     "QLD": 29,
     "SA": 28,
     "TAS": 1,
-    "VIC": 30
+    "VIC": 29
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,9 +17,9 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "7-Eleven": 76,
     "Chargefox": 72,
     "Independent": 72,
+    "7-Eleven": 71,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -49,6 +49,7 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
+    "U-Go": 1,
     "MILDURA SERVO": 1
   },
   "stations": [
@@ -567,15 +568,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:175",
-      "name": "7-Eleven Minto",
-      "address": "Lot 1 Ben Lomond Road, MINTO NSW 2566",
-      "state": "NSW",
-      "lat": -34.031754,
-      "lng": 150.850253
-    },
-    {
-      "brand": "7-Eleven",
       "code": "NSW:141",
       "name": "7-Eleven Mosman",
       "address": "162A Spit Road (Corner Mitchell Road), Mosman NSW 2088",
@@ -681,24 +673,6 @@
       "state": "NSW",
       "lat": -33.952566,
       "lng": 151.135774
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:17127",
-      "name": "7-Eleven Sans Souci",
-      "address": "474-478 Rocky Point Rd, SANS SOUCI NSW 2219",
-      "state": "NSW",
-      "lat": -33.990878,
-      "lng": 151.133385
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:17142",
-      "name": "7-Eleven Seven Hills",
-      "address": "151 Prospect Hwy, SEVEN HILLS NSW 2147",
-      "state": "NSW",
-      "lat": -33.768936,
-      "lng": 150.94268
     },
     {
       "brand": "7-Eleven",
@@ -10663,12 +10637,12 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "QLD:61401676",
-      "name": "7-Eleven Gumdale",
-      "address": "698 New Cleveland Road, QLD 4154",
+      "code": "QLD:61478050",
+      "name": "7-Eleven Logan Village",
+      "address": "2-30 Logan Street, QLD 4207",
       "state": "QLD",
-      "lat": -27.491043,
-      "lng": 153.152854,
+      "lat": -27.769634,
+      "lng": 153.105117,
       "unavailable_fuels": [
         "E10",
         "Premium Diesel",
@@ -11340,38 +11314,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "VIC:Xrev9f7pLN6TmKGongqE0UvF/omDu1DruZImnBa5PG4=",
-      "name": "7-Eleven Ringwood",
-      "address": "87-91 Warrandyte Road, East Ringwood, 3134",
-      "state": "VIC",
-      "lat": -37.80477210924627,
-      "lng": 145.23003338767998,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:V92e2jUQE+RUQKL1Sk/3WuZQelb8dh1AGsiVq0sFzr4=",
-      "name": "7-Eleven Werribee",
-      "address": "370 Heaths Rd corner Tarneit Road, Werribee, 3029",
-      "state": "VIC",
-      "lat": -37.87519992598524,
-      "lng": 144.66519682729603,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "VIC:kmGVTrMKoO4w39i8oFz4fAbgZyYp4v567kPH8NbGniA=",
       "name": "7-Eleven Williamstown North",
       "address": "14 Kororoit Creek Road, Williamstown North, 3016",
@@ -11730,6 +11672,21 @@
         "Diesel",
         "E10",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "U-Go",
+      "code": "VIC:vtG8AHYF05WWz4KrO6wbwC9wx3RTsEZPdOk1WbtyrIo=",
+      "name": "U-Go Lilydale",
+      "address": "346, Main Street, LILYDALE, 3140",
+      "state": "VIC",
+      "lat": -37.757788,
+      "lng": 145.355254,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-18T21:30:10Z",
+  "fetched_at": "2026-11-19T01:51:12Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1259,
   "by_state": {
     "ACT": 9,
-    "NSW": 1156,
+    "NSW": 1157,
     "NT": 5,
-    "QLD": 33,
-    "SA": 28,
+    "QLD": 31,
+    "SA": 29,
     "TAS": 1,
     "VIC": 27
   },
@@ -19,8 +19,8 @@
     "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 70,
-    "BP": 52,
+    "7-Eleven": 69,
+    "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -36,8 +36,8 @@
     "Everty": 4,
     "Liberty": 4,
     "Speedway": 4,
+    "Ampol Foodary": 3,
     "EG Ampol": 3,
-    "Ampol Foodary": 2,
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
@@ -50,7 +50,6 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "Mortimer Petroleum": 1,
     "MILDURA SERVO": 1
   },
   "stations": [
@@ -2249,6 +2248,15 @@
       "state": "NSW",
       "lat": -28.538168,
       "lng": 153.548694
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:2241",
+      "name": "Ampol Foodary Chinderah",
+      "address": "Tweed Valley Way, CHINDERAH NSW 2487",
+      "state": "NSW",
+      "lat": -28.256781,
+      "lng": 153.527876
     },
     {
       "brand": "Ampol Foodary",
@@ -10586,22 +10594,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "QLD:61402204",
-      "name": "7-Eleven Boronia Heights",
-      "address": "Middle Road, QLD 4118",
-      "state": "QLD",
-      "lat": -27.678754,
-      "lng": 153.021806,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "QLD:61477690",
       "name": "7-Eleven Greenbank",
       "address": "257-261 Teviot Road, QLD 4124",
@@ -10662,12 +10654,12 @@
     },
     {
       "brand": "BP",
-      "code": "QLD:61478037",
-      "name": "BP Molendinar",
-      "address": "383 Southport Nerang Road, QLD 4214",
+      "code": "QLD:61402572",
+      "name": "BP Roadhouse & Tourist Park",
+      "address": "Savannah Way, QLD 4871",
       "state": "QLD",
-      "lat": -27.980671,
-      "lng": 153.375691
+      "lat": -18.147174,
+      "lng": 144.318352
     },
     {
       "brand": "Independent",
@@ -10695,22 +10687,6 @@
       "state": "QLD",
       "lat": -24.865276497096275,
       "lng": 151.1198653325062
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "QLD:61401447",
-      "name": "EG Ampol Macgregor",
-      "address": "605 Kessels Rd, QLD 4109",
-      "state": "QLD",
-      "lat": -27.562252,
-      "lng": 153.074394,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "Freedom Fuels",
@@ -11019,6 +10995,21 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "SA:61501319",
+      "name": "EG Ampol Eden Hills",
+      "address": "272 Shepherds Hill Rd & Northcote Rd, SA 5050",
+      "state": "SA",
+      "lat": -35.026448,
+      "lng": 138.603635,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },
@@ -11382,6 +11373,21 @@
       ]
     },
     {
+      "brand": "BP",
+      "code": "VIC:1JHXFMeQJKr8LDV2oEoELFJBQeBiTxJiqb4ZemNrOTk=",
+      "name": "Bp Kingsway",
+      "address": "331 Kings WAY, South Melbourne, 3205",
+      "state": "VIC",
+      "lat": -37.834315716470115,
+      "lng": 144.97031408514243,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "VIC:+3ilgEq9OuCV9hrPLrdOvkQjhTZA8qaBtvRvlUCZQtM=",
       "name": "Bundalong Riverside Resort",
@@ -11478,21 +11484,6 @@
         "Diesel",
         "E10",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Mortimer Petroleum",
-      "code": "VIC:Ute7n31l66XF7b1HZgg1wBqhbLhUADFxKc+JAcn9mk4=",
-      "name": "Meredith Roadhouse",
-      "address": "26 Wallace Street, Meredith, 3333",
-      "state": "VIC",
-      "lat": -37.84608564260743,
-      "lng": 144.076546,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

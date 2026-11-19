@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-19T02:12:05Z",
+  "fetched_at": "2026-11-19T03:44:28Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1259,
+  "station_count": 1258,
   "by_state": {
     "ACT": 9,
-    "NSW": 1157,
+    "NSW": 1158,
     "NT": 5,
-    "QLD": 31,
-    "SA": 29,
+    "QLD": 29,
+    "SA": 28,
     "TAS": 1,
-    "VIC": 27
+    "VIC": 28
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,10 +17,10 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 80,
-    "Independent": 73,
     "Chargefox": 72,
+    "Independent": 72,
     "7-Eleven": 69,
-    "BP": 53,
+    "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -37,16 +37,15 @@
     "Speedway": 4,
     "Ampol Foodary": 3,
     "Liberty": 3,
-    "EG Ampol": 3,
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
     "Metro Petroleum": 2,
+    "EG Ampol": 2,
     "Westside": 1,
     "PK's": 1,
     "Astron": 1,
     "Arko Energy": 1,
-    "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
@@ -2242,15 +2241,6 @@
     },
     {
       "brand": "Ampol Foodary",
-      "code": "NSW:2122",
-      "name": "Ampol Foodary Brunswick Heads R/H",
-      "address": "5 Tweed ST, Brunswick Heads NSW 2483",
-      "state": "NSW",
-      "lat": -28.538168,
-      "lng": 153.548694
-    },
-    {
-      "brand": "Ampol Foodary",
       "code": "NSW:2241",
       "name": "Ampol Foodary Chinderah",
       "address": "Tweed Valley Way, CHINDERAH NSW 2487",
@@ -2266,6 +2256,15 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:2474",
+      "name": "Ampol Foodary Kogarah",
+      "address": "29 President Ave, KOGARAH NSW 2217",
+      "state": "NSW",
+      "lat": -33.965163,
+      "lng": 151.14115
     },
     {
       "brand": "Ampol",
@@ -7489,6 +7488,15 @@
     },
     {
       "brand": "Pearl Energy",
+      "code": "NSW:20967",
+      "name": "Pearl Energy Lake Haven (Self- Serve)",
+      "address": "7 Callaghan DR, Charmhaven NSW 2263",
+      "state": "NSW",
+      "lat": -33.238004,
+      "lng": 151.497616
+    },
+    {
+      "brand": "Pearl Energy",
       "code": "NSW:20028",
       "name": "Pearl Energy Sturt Hwy",
       "address": "106 Edward ST, Wagga Wagga NSW 2650",
@@ -10689,22 +10697,6 @@
       "lng": 151.1198653325062
     },
     {
-      "brand": "Freedom Fuels",
-      "code": "QLD:61401837",
-      "name": "Freedom Fuels Nambour",
-      "address": "1251 Nambour Connection Rd, QLD 4560",
-      "state": "QLD",
-      "lat": -26.588329,
-      "lng": 152.967988,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "LPG",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "QLD:61478228",
       "name": "Heathy's General Store",
@@ -10835,22 +10827,6 @@
       "lng": 152.88439310750323
     },
     {
-      "brand": "Pearl Energy",
-      "code": "QLD:61478317",
-      "name": "Pearl Energy Virginia",
-      "address": "2071 Sandgate Road, QLD 4014",
-      "state": "QLD",
-      "lat": -27.366857935692128,
-      "lng": 153.06217969044073,
-      "unavailable_fuels": [
-        "Diesel",
-        "E10",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "QLD:61477628",
       "name": "Plumtree Store",
@@ -10947,6 +10923,21 @@
       "lng": 138.483943
     },
     {
+      "brand": "BP",
+      "code": "SA:61501499",
+      "name": "BP Goolwa",
+      "address": "36 Cadell St, SA 5214",
+      "state": "SA",
+      "lat": -35.499684,
+      "lng": 138.781024,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "SA:61577294",
       "name": "Booborowie General Store",
@@ -10999,21 +10990,6 @@
       ]
     },
     {
-      "brand": "EG Ampol",
-      "code": "SA:61501319",
-      "name": "EG Ampol Eden Hills",
-      "address": "272 Shepherds Hill Rd & Northcote Rd, SA 5050",
-      "state": "SA",
-      "lat": -35.026448,
-      "lng": 138.603635,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "SA:61577291",
       "name": "Earles Transport",
@@ -11046,19 +11022,6 @@
       "state": "SA",
       "lat": -36.712676,
       "lng": 140.955234
-    },
-    {
-      "brand": "Independent",
-      "code": "SA:61501681",
-      "name": "Fuel 24/7 PTY LTD",
-      "address": "9 Railway Terrace, Karoonda SA 5307, Australia, SA 5307",
-      "state": "SA",
-      "lat": -35.0948469136921,
-      "lng": 139.89484741964338,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91"
-      ]
     },
     {
       "brand": "Independent",
@@ -11384,6 +11347,21 @@
         "Premium Diesel",
         "U91",
         "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "BP",
+      "code": "VIC:784Fwpumt2qDwxdV93MzYLZxGXybQ7aoDA134W49pEM=",
+      "name": "Bp Newtown Store",
+      "address": "404-408 Shannon Avenue, Newtown, 3220",
+      "state": "VIC",
+      "lat": -38.15806285,
+      "lng": 144.33328482,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel",
+        "U91",
         "U98"
       ]
     },

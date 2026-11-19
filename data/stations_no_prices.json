@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-19T01:51:12Z",
+  "fetched_at": "2026-11-19T02:12:05Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1259,
   "by_state": {
@@ -17,8 +17,8 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 80,
+    "Independent": 73,
     "Chargefox": 72,
-    "Independent": 72,
     "7-Eleven": 69,
     "BP": 53,
     "NRMA": 45,
@@ -34,9 +34,9 @@
     "Pearl Energy": 7,
     "United": 6,
     "Everty": 4,
-    "Liberty": 4,
     "Speedway": 4,
     "Ampol Foodary": 3,
+    "Liberty": 3,
     "EG Ampol": 3,
     "Budget": 2,
     "Transwest Fuels": 2,
@@ -11088,13 +11088,13 @@
       ]
     },
     {
-      "brand": "Liberty",
-      "code": "SA:61501708",
-      "name": "Jarrett Motor Company",
-      "address": "510 Mt Barker Road, SA 5155",
+      "brand": "Independent",
+      "code": "SA:61501469",
+      "name": "IGA Local Grocer Middleton",
+      "address": "17a Goolwa Road, SA 5213",
       "state": "SA",
-      "lat": -35.013144,
-      "lng": 138.770975,
+      "lat": -35.508412,
+      "lng": 138.708745,
       "unavailable_fuels": [
         "Diesel",
         "U91",

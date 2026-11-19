@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-19T19:52:43Z",
+  "fetched_at": "2026-11-19T23:09:09Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1259,
+  "station_count": 1261,
   "by_state": {
     "ACT": 9,
-    "NSW": 1160,
+    "NSW": 1158,
     "NT": 5,
-    "QLD": 27,
-    "SA": 28,
+    "QLD": 31,
+    "SA": 29,
     "TAS": 1,
-    "VIC": 29
+    "VIC": 28
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,16 +17,16 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
+    "Independent": 73,
     "Chargefox": 72,
-    "Independent": 72,
     "7-Eleven": 69,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 14,
+    "Ampol": 16,
     "Caltex": 12,
-    "Shell": 11,
+    "Shell": 10,
     "EVUp": 9,
     "Metro Fuel": 8,
     "Mobil": 8,
@@ -37,7 +37,6 @@
     "Speedway": 4,
     "EG Ampol": 3,
     "Liberty": 3,
-    "Ampol Foodary": 2,
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
@@ -45,12 +44,14 @@
     "Westside": 1,
     "PK's": 1,
     "Astron": 1,
+    "Ampol Foodary": 1,
     "Arko Energy": 1,
+    "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "MILDURA SERVO": 1,
-    "U-Go": 1
+    "Mogas": 1,
+    "MILDURA SERVO": 1
   },
   "stations": [
     {
@@ -2248,15 +2249,6 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:2474",
-      "name": "Ampol Foodary Kogarah",
-      "address": "29 President Ave, KOGARAH NSW 2217",
-      "state": "NSW",
-      "lat": -33.965163,
-      "lng": 151.14115
     },
     {
       "brand": "Ampol",
@@ -8137,15 +8129,6 @@
     },
     {
       "brand": "Shell",
-      "code": "NSW:20968",
-      "name": "Shell Narooma",
-      "address": "16 Princes HWY, Narooma NSW 2546",
-      "state": "NSW",
-      "lat": -36.213373,
-      "lng": 150.123308
-    },
-    {
-      "brand": "Shell",
       "code": "NSW:20020",
       "name": "Shell Narrabri Truck Stop",
       "address": "Shell Service Station 11553 Newell HWY, Narrabri NSW 2390",
@@ -10634,6 +10617,35 @@
     },
     {
       "brand": "Ampol",
+      "code": "QLD:61402872",
+      "name": "Ampol Bundamba (Citiswich) Diesel Stop",
+      "address": "1  Hawkins Crescent, QLD 4304",
+      "state": "QLD",
+      "lat": -27.588499,
+      "lng": 152.818139,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "QLD:61401881",
+      "name": "Ampol Foodary Rochedale",
+      "address": "720 Underwood Rd, QLD 4123",
+      "state": "QLD",
+      "lat": -27.595176,
+      "lng": 153.121695,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -10685,6 +10697,22 @@
       "state": "QLD",
       "lat": -24.865276497096275,
       "lng": 151.1198653325062
+    },
+    {
+      "brand": "Freedom Fuels",
+      "code": "QLD:61401156",
+      "name": "Freedom Fuels Thorneside",
+      "address": "187-191 Quarry Road, QLD 4158",
+      "state": "QLD",
+      "lat": -27.488687,
+      "lng": 153.194782,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Independent",
@@ -10856,6 +10884,19 @@
       "state": "QLD",
       "lat": -25.634965,
       "lng": 149.797847
+    },
+    {
+      "brand": "Independent",
+      "code": "QLD:61470918",
+      "name": "Sunstate Monkland",
+      "address": "295 Brisbane Rd & Bruce Hwy, QLD 4570",
+      "state": "QLD",
+      "lat": -26.220708,
+      "lng": 152.686566,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91"
+      ]
     },
     {
       "brand": "Independent",
@@ -11065,6 +11106,18 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "Mogas",
+      "code": "SA:61550315",
+      "name": "MRO Kimba",
+      "address": "15351 Eyre Highway, SA 5641",
+      "state": "SA",
+      "lat": -33.142121,
+      "lng": 136.421848,
+      "unavailable_fuels": [
+        "Diesel"
       ]
     },
     {
@@ -11640,21 +11693,6 @@
         "Diesel",
         "E10",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "U-Go",
-      "code": "VIC:vtG8AHYF05WWz4KrO6wbwC9wx3RTsEZPdOk1WbtyrIo=",
-      "name": "U-Go Lilydale",
-      "address": "346, Main Street, LILYDALE, 3140",
-      "state": "VIC",
-      "lat": -37.757788,
-      "lng": 145.355254,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

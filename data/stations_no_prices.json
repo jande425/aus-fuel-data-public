@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-20T01:59:07Z",
+  "fetched_at": "2026-11-20T08:52:35Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1262,
+  "station_count": 1260,
   "by_state": {
     "ACT": 9,
     "NSW": 1159,
     "NT": 5,
-    "QLD": 31,
+    "QLD": 29,
     "SA": 29,
     "TAS": 1,
     "VIC": 28
@@ -16,7 +16,7 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 82,
+    "Reddy Express": 81,
     "Independent": 73,
     "Chargefox": 72,
     "7-Eleven": 69,
@@ -24,9 +24,9 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 15,
+    "Ampol": 14,
     "Caltex": 12,
-    "Shell": 10,
+    "Shell": 11,
     "EVUp": 9,
     "Metro Fuel": 8,
     "Mobil": 8,
@@ -34,8 +34,8 @@
     "Pearl Energy": 7,
     "United": 6,
     "Everty": 4,
-    "EG Ampol": 4,
     "Speedway": 4,
+    "EG Ampol": 3,
     "Liberty": 3,
     "Budget": 2,
     "Transwest Fuels": 2,
@@ -7255,6 +7255,15 @@
       "lng": 150.868543
     },
     {
+      "brand": "Shell",
+      "code": "NSW:20249",
+      "name": "OTR Strathfield",
+      "address": "9 Albert RD, Strathfield NSW 2135",
+      "state": "NSW",
+      "lat": -33.870803,
+      "lng": 151.092355
+    },
+    {
       "brand": "Tesla",
       "code": "NSW:19359",
       "name": "Oakvale Wines",
@@ -8360,15 +8369,6 @@
       "state": "NSW",
       "lat": -33.945714,
       "lng": 151.128092
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:136",
-      "name": "Shell Reddy Express Bowral",
-      "address": "430 Bong Bong St (Cnr Bowral St), Bowral NSW 2576",
-      "state": "NSW",
-      "lat": -34.48268,
-      "lng": 150.417354
     },
     {
       "brand": "Reddy Express",
@@ -10626,19 +10626,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61402872",
-      "name": "Ampol Bundamba (Citiswich) Diesel Stop",
-      "address": "1  Hawkins Crescent, QLD 4304",
-      "state": "QLD",
-      "lat": -27.588499,
-      "lng": 152.818139,
-      "unavailable_fuels": [
-        "Diesel",
-        "Premium Diesel"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -10690,22 +10677,6 @@
       "state": "QLD",
       "lat": -24.865276497096275,
       "lng": 151.1198653325062
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "QLD:61478229",
-      "name": "EG Ampol Baringa",
-      "address": "2 Symonds Wy, QLD 4551",
-      "state": "QLD",
-      "lat": -26.811492983643546,
-      "lng": 153.06898283002477,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "Freedom Fuels",
@@ -11131,18 +11102,6 @@
     },
     {
       "brand": "Independent",
-      "code": "SA:61577270",
-      "name": "Mansers Motors",
-      "address": "209 Commercial Street East, SA 5290",
-      "state": "SA",
-      "lat": -37.833265,
-      "lng": 140.796617,
-      "unavailable_fuels": [
-        "U91"
-      ]
-    },
-    {
-      "brand": "Independent",
       "code": "SA:61577432",
       "name": "Mount Burr General Store and Liquor",
       "address": "2 Thomas Dr, SA 5279",
@@ -11280,6 +11239,19 @@
       "lng": 139.597512
     },
     {
+      "brand": "Independent",
+      "code": "SA:61570142",
+      "name": "Wirrulla General Store",
+      "address": "75 Hay Terrace, SA 5661",
+      "state": "SA",
+      "lat": -32.40374619515053,
+      "lng": 134.5320832331352,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91"
+      ]
+    },
+    {
       "brand": "X Convenience",
       "code": "SA:61501450",
       "name": "X Convenience Port Adelaide",
@@ -11313,6 +11285,20 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:ZpwtD69aEwIpTOnMXioFtu3G4H3u8YquwQKzGRfiDJ0=",
+      "name": "7-Eleven Dandenong",
+      "address": "65 Clow Street, Dandenong, 3175",
+      "state": "VIC",
+      "lat": -37.98532886,
+      "lng": 145.22039687,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:aIpf5c+FbIFIqjsnktLA+kzJT6XxVXCNbtB6Xfo1iqE=",
       "name": "7-Eleven Hoppers Crossing Central",
       "address": "289-293 Derrimut Road, Hoppers Crossing, 3029",
@@ -11335,23 +11321,6 @@
       "lat": -37.96512786,
       "lng": 145.17289763,
       "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:kmGVTrMKoO4w39i8oFz4fAbgZyYp4v567kPH8NbGniA=",
-      "name": "7-Eleven Williamstown North",
-      "address": "14 Kororoit Creek Road, Williamstown North, 3016",
-      "state": "VIC",
-      "lat": -37.85755318,
-      "lng": 144.8881239,
-      "unavailable_fuels": [
-        "E10",
         "LPG",
         "Premium Diesel",
         "U91",

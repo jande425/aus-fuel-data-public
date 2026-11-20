@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-11-20T18:42:54Z",
+  "fetched_at": "2026-11-20T19:04:28Z",
   "station_count": 696,
   "fuel_types": [
     "E10",
@@ -380,13 +380,13 @@
       "address": "386 North East Road, SA 5087",
       "state": "SA",
       "prices": {
-        "U91": 189.5,
-        "Diesel": 239.5,
+        "U91": 188.5,
+        "Diesel": 238.5,
         "LPG": 109.5,
-        "U98": 211.5,
+        "U98": 210.5,
         "E10": 187.5
       },
-      "updated": "2026-11-19T06:03:19Z",
+      "updated": "2026-11-20T18:55:26Z",
       "lat": -34.866102,
       "lng": 138.643786
     },
@@ -467,13 +467,13 @@
       "address": "232 St Bernards Rd & Watson St, SA 5073",
       "state": "SA",
       "prices": {
-        "U91": 195.9,
+        "U91": 193.9,
         "LPG": 109.9,
         "U95": 207.9,
         "U98": 219.9,
         "Premium Diesel": 249.9
       },
-      "updated": "2026-11-19T02:49:30Z",
+      "updated": "2026-11-20T18:46:29Z",
       "lat": -34.890146,
       "lng": 138.674065
     },
@@ -2922,7 +2922,7 @@
         "U98": 222.9,
         "Premium Diesel": 252.9
       },
-      "updated": "2026-11-20T18:40:17Z",
+      "updated": "2026-11-20T18:55:17Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -5410,7 +5410,7 @@
         "U98": 245.9,
         "Premium Diesel": 266.9
       },
-      "updated": "2026-11-20T18:40:17Z",
+      "updated": "2026-11-20T18:55:17Z",
       "lat": -32.508998,
       "lng": 137.796545
     },

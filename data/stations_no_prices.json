@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-19T23:09:09Z",
+  "fetched_at": "2026-11-20T01:46:06Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1261,
+  "station_count": 1262,
   "by_state": {
     "ACT": 9,
-    "NSW": 1158,
+    "NSW": 1159,
     "NT": 5,
     "QLD": 31,
     "SA": 29,
@@ -16,7 +16,7 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
+    "Reddy Express": 82,
     "Independent": 73,
     "Chargefox": 72,
     "7-Eleven": 69,
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 16,
+    "Ampol": 15,
     "Caltex": 12,
     "Shell": 10,
     "EVUp": 9,
@@ -34,8 +34,8 @@
     "Pearl Energy": 7,
     "United": 6,
     "Everty": 4,
+    "EG Ampol": 4,
     "Speedway": 4,
-    "EG Ampol": 3,
     "Liberty": 3,
     "Budget": 2,
     "Transwest Fuels": 2,
@@ -8363,6 +8363,15 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "NSW:136",
+      "name": "Shell Reddy Express Bowral",
+      "address": "430 Bong Bong St (Cnr Bowral St), Bowral NSW 2576",
+      "state": "NSW",
+      "lat": -34.48268,
+      "lng": 150.417354
+    },
+    {
+      "brand": "Reddy Express",
       "code": "NSW:36",
       "name": "Shell Reddy Express Brighton-Le-Sands",
       "address": "2-6 General Holmes Drive, Brighton-Le-Sands NSW 2216",
@@ -10630,22 +10639,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "QLD:61401881",
-      "name": "Ampol Foodary Rochedale",
-      "address": "720 Underwood Rd, QLD 4123",
-      "state": "QLD",
-      "lat": -27.595176,
-      "lng": 153.121695,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "QLD:61402302",
       "name": "Ampol John St",
       "address": "184 John Street, QLD 4650",
@@ -10697,6 +10690,22 @@
       "state": "QLD",
       "lat": -24.865276497096275,
       "lng": 151.1198653325062
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "QLD:61478229",
+      "name": "EG Ampol Baringa",
+      "address": "2 Symonds Wy, QLD 4551",
+      "state": "QLD",
+      "lat": -26.811492983643546,
+      "lng": 153.06898283002477,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "Freedom Fuels",

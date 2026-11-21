@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-21T09:42:19Z",
+  "fetched_at": "2026-11-21T10:34:45Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1257,
+  "station_count": 1258,
   "by_state": {
     "ACT": 9,
     "NSW": 1158,
@@ -9,7 +9,7 @@
     "QLD": 29,
     "SA": 28,
     "TAS": 1,
-    "VIC": 27
+    "VIC": 28
   },
   "by_brand": {
     "Exploren": 236,
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 14,
+    "Ampol": 15,
     "Caltex": 12,
     "Shell": 10,
     "EVUp": 9,
@@ -11301,6 +11301,21 @@
       "state": "VIC",
       "lat": -37.87619815,
       "lng": 144.59009246,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "VIC:ZuPULC7otCJMlZ9Au1h5sK5eD0X3p2NOtnom5vw2ay4=",
+      "name": "Ampol Foodary Baxter",
+      "address": "1 Baxter-Tooradin Road, Baxter, 3911",
+      "state": "VIC",
+      "lat": -38.1942951,
+      "lng": 145.1490092,
       "unavailable_fuels": [
         "Premium Diesel",
         "U91",

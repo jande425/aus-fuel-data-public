@@ -2,8 +2,8 @@
   "source": "NSW_FuelData",
   "version": 2,
   "state": "NSW",
-  "fetched_at": "2026-11-21T23:35:05Z",
-  "station_count": 2112,
+  "fetched_at": "2026-11-21T23:52:14Z",
+  "station_count": 2111,
   "fuel_types": [
     "E10",
     "U91",
@@ -1649,23 +1649,6 @@
       "lng": 151.285802
     },
     {
-      "brand": "Ampol Foodary",
-      "code": "NSW:2404",
-      "name": "Ampol Foodary Brookvale",
-      "address": "740-742 Pittwater Rd, BROOKVALE NSW 2100",
-      "state": "NSW",
-      "prices": {
-        "E10": 211.4,
-        "U95": 237.4,
-        "U98": 239.4,
-        "Premium Diesel": 274.9,
-        "U91": 214.4
-      },
-      "updated": "2026-11-21T22:17:24Z",
-      "lat": -33.761424,
-      "lng": 151.274598
-    },
-    {
       "brand": "U-Go",
       "code": "NSW:2405",
       "name": "U-Go Lake Munmorah (self-serve)",
@@ -2443,11 +2426,11 @@
       "prices": {
         "E10": 216.9,
         "U95": 235.9,
-        "U98": 248.9,
+        "U98": 245.9,
         "Premium Diesel": 268.9,
         "U91": 218.9
       },
-      "updated": "2026-11-21T23:32:26Z",
+      "updated": "2026-11-21T23:37:25Z",
       "lat": -32.786649,
       "lng": 151.933639
     },
@@ -3684,13 +3667,13 @@
       "state": "NSW",
       "prices": {
         "E10": 201.9,
-        "LPG": 112.9,
+        "LPG": 112.7,
         "U95": 220.9,
         "U98": 229.9,
         "Premium Diesel": 263.9,
         "U91": 203.9
       },
-      "updated": "2026-11-21T22:31:11Z",
+      "updated": "2026-11-21T23:39:15Z",
       "lat": -33.905247,
       "lng": 151.041867
     },
@@ -3701,12 +3684,12 @@
       "address": "307-311 Barrenjoey Rd, NEWPORT NSW 2106",
       "state": "NSW",
       "prices": {
-        "E10": 208.9,
-        "U98": 236.9,
+        "E10": 207.9,
+        "U98": 235.9,
         "Premium Diesel": 271.9,
-        "U91": 210.9
+        "U91": 209.9
       },
-      "updated": "2026-11-21T07:06:13Z",
+      "updated": "2026-11-21T23:39:15Z",
       "lat": -33.65634,
       "lng": 151.31825
     },
@@ -9390,12 +9373,12 @@
       "address": "98 Kurrajong Av, Leeton NSW 2705",
       "state": "NSW",
       "prices": {
-        "Diesel": 279.9,
-        "E10": 229.9,
-        "U98": 255.9,
-        "U91": 232.9
+        "Diesel": 278.9,
+        "E10": 228.9,
+        "U98": 253.9,
+        "U91": 230.9
       },
-      "updated": "2026-11-19T04:16:23Z",
+      "updated": "2026-11-21T23:47:25Z",
       "lat": -34.55486,
       "lng": 146.408893
     },
@@ -11257,13 +11240,13 @@
       "address": "31-33 Maitland ST, Muswellbrook NSW 2333",
       "state": "NSW",
       "prices": {
-        "E10": 213.9,
-        "U95": 232.9,
-        "U98": 241.9,
+        "E10": 212.9,
+        "U95": 231.9,
+        "U98": 240.9,
         "Premium Diesel": 266.9,
-        "U91": 215.9
+        "U91": 214.9
       },
-      "updated": "2026-11-21T07:09:13Z",
+      "updated": "2026-11-21T23:42:12Z",
       "lat": -32.270515,
       "lng": 150.888256
     },
@@ -11948,10 +11931,10 @@
       "prices": {
         "E10": 218.9,
         "U98": 246.9,
-        "Premium Diesel": 275.9,
+        "Premium Diesel": 274.9,
         "U91": 220.9
       },
-      "updated": "2026-11-21T01:36:38Z",
+      "updated": "2026-11-21T23:52:05Z",
       "lat": -30.318343,
       "lng": 153.089242
     },
@@ -13755,13 +13738,13 @@
       "state": "NSW",
       "prices": {
         "E10": 208.9,
-        "LPG": 112.9,
+        "LPG": 111.9,
         "U95": 227.9,
         "U98": 236.9,
         "Premium Diesel": 266.9,
         "U91": 210.9
       },
-      "updated": "2026-11-21T11:39:13Z",
+      "updated": "2026-11-21T23:36:14Z",
       "lat": -33.949919,
       "lng": 151.148692
     },
@@ -14043,13 +14026,13 @@
       "address": "3 Metella Road & Corner Cornelia Road, Toongabbie NSW 2146",
       "state": "NSW",
       "prices": {
-        "E10": 211.9,
-        "U95": 230.9,
-        "U98": 239.9,
+        "E10": 210.9,
+        "U95": 229.9,
+        "U98": 238.9,
         "Premium Diesel": 264.9,
-        "U91": 213.9
+        "U91": 212.9
       },
-      "updated": "2026-11-20T08:24:14Z",
+      "updated": "2026-11-21T23:51:13Z",
       "lat": -33.786881,
       "lng": 150.946621
     },
@@ -14061,13 +14044,13 @@
       "state": "NSW",
       "prices": {
         "E10": 213.9,
-        "LPG": 112.7,
+        "LPG": 112.9,
         "U95": 232.9,
         "U98": 241.9,
         "Premium Diesel": 267.9,
         "U91": 215.9
       },
-      "updated": "2026-11-20T23:39:15Z",
+      "updated": "2026-11-21T23:39:15Z",
       "lat": -33.733062,
       "lng": 151.126513
     },
@@ -14096,12 +14079,12 @@
       "state": "NSW",
       "prices": {
         "E10": 226.9,
-        "LPG": 121.9,
+        "LPG": 120.9,
         "U98": 254.9,
         "Premium Diesel": 277.9,
         "U91": 228.9
       },
-      "updated": "2026-11-21T22:29:44Z",
+      "updated": "2026-11-21T23:39:15Z",
       "lat": -32.965976,
       "lng": 151.654297
     },
@@ -17912,11 +17895,12 @@
       "address": "477-483 Miller St & Palmer St, Cammeray NSW 2062",
       "state": "NSW",
       "prices": {
+        "Diesel": 267.9,
         "E10": 209.9,
         "U95": 227.4,
         "U98": 234.9
       },
-      "updated": "2026-11-18T23:35:30Z",
+      "updated": "2026-11-21T23:45:20Z",
       "lat": -33.821107,
       "lng": 151.210613
     },
@@ -19137,11 +19121,11 @@
       "state": "NSW",
       "prices": {
         "Diesel": 262.9,
-        "E10": 222.9,
+        "E10": 224.9,
         "U95": 240.9,
         "Premium Diesel": 265.9
       },
-      "updated": "2026-11-21T23:02:27Z",
+      "updated": "2026-11-21T23:37:25Z",
       "lat": -33.256253,
       "lng": 151.402518
     },
@@ -21576,12 +21560,12 @@
       "address": "9 Ironbark St, Temora NSW 2666",
       "state": "NSW",
       "prices": {
-        "Diesel": 266.9,
-        "U95": 241.9,
-        "U98": 251.9,
-        "U91": 229.9
+        "Diesel": 264.9,
+        "U95": 237.9,
+        "U98": 247.9,
+        "U91": 225.9
       },
-      "updated": "2026-11-18T22:24:43Z",
+      "updated": "2026-11-21T23:46:17Z",
       "lat": -34.44753,
       "lng": 147.55292
     },
@@ -21904,9 +21888,9 @@
       "address": "3 Wilson St, Ardlethan NSW 2665",
       "state": "NSW",
       "prices": {
-        "Diesel": 269.9
+        "Diesel": 264.9
       },
-      "updated": "2026-11-18T00:52:43Z",
+      "updated": "2026-11-21T23:45:31Z",
       "lat": -34.356874,
       "lng": 146.899942
     },
@@ -21965,11 +21949,11 @@
       "address": "42 Coolamon ST, Ariah Park NSW 2665",
       "state": "NSW",
       "prices": {
-        "Diesel": 269.9,
-        "U95": 241.9,
-        "U91": 229.9
+        "Diesel": 264.9,
+        "U95": 237.9,
+        "U91": 225.9
       },
-      "updated": "2026-11-18T02:01:41Z",
+      "updated": "2026-11-21T23:45:42Z",
       "lat": -34.348322,
       "lng": 147.220732
     },
@@ -22029,10 +22013,10 @@
       "address": "76 Yapunyah St, Barellan NSW 2665",
       "state": "NSW",
       "prices": {
-        "Diesel": 269.9,
-        "U91": 229.9
+        "Diesel": 264.9,
+        "U91": 225.9
       },
-      "updated": "2026-11-18T02:01:46Z",
+      "updated": "2026-11-21T23:45:50Z",
       "lat": -34.285412,
       "lng": 146.573768
     },
@@ -22215,9 +22199,9 @@
       "address": "1 Mandamah Rd, Barmedman NSW 2668",
       "state": "NSW",
       "prices": {
-        "Diesel": 269.9
+        "Diesel": 264.9
       },
-      "updated": "2026-11-18T00:53:01Z",
+      "updated": "2026-11-21T23:45:54Z",
       "lat": -34.156159,
       "lng": 147.388968
     },
@@ -22276,10 +22260,10 @@
       "address": "Second St, Quandialla NSW 2721",
       "state": "NSW",
       "prices": {
-        "Diesel": 269.9,
-        "U91": 229.9
+        "Diesel": 264.9,
+        "U91": 225.9
       },
-      "updated": "2026-11-18T02:01:52Z",
+      "updated": "2026-11-21T23:46:00Z",
       "lat": -34.010841,
       "lng": 147.793165
     },
@@ -33091,12 +33075,12 @@
       "address": "736 Main RD, Edgeworth NSW 2285",
       "state": "NSW",
       "prices": {
-        "Diesel": 254.5,
-        "E10": 191.5,
-        "U95": 205.5,
-        "U91": 193.5
+        "Diesel": 248.5,
+        "E10": 189.5,
+        "U95": 203.5,
+        "U91": 191.5
       },
-      "updated": "2026-11-21T18:59:41Z",
+      "updated": "2026-11-21T23:49:48Z",
       "lat": -32.924416,
       "lng": 151.620569
     },

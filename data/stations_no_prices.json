@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-21T23:35:05Z",
+  "fetched_at": "2026-11-21T23:52:14Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1259,
+  "station_count": 1260,
   "by_state": {
     "ACT": 9,
-    "NSW": 1158,
+    "NSW": 1159,
     "NT": 5,
     "QLD": 30,
     "SA": 28,
@@ -37,6 +37,7 @@
     "Everty": 4,
     "Speedway": 4,
     "Liberty": 3,
+    "Ampol Foodary": 2,
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
@@ -44,7 +45,6 @@
     "Westside": 1,
     "PK's": 1,
     "Astron": 1,
-    "Ampol Foodary": 1,
     "Arko Energy": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
@@ -2240,6 +2240,15 @@
       "state": "NSW",
       "lat": -32.719967,
       "lng": 152.135661
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:2404",
+      "name": "Ampol Foodary Brookvale",
+      "address": "740-742 Pittwater Rd, BROOKVALE NSW 2100",
+      "state": "NSW",
+      "lat": -33.761424,
+      "lng": 151.274598
     },
     {
       "brand": "Ampol Foodary",

@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-21T01:56:35Z",
+  "fetched_at": "2026-11-21T08:34:21Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1258,
+  "station_count": 1257,
   "by_state": {
     "ACT": 9,
     "NSW": 1158,
@@ -9,7 +9,7 @@
     "QLD": 29,
     "SA": 28,
     "TAS": 1,
-    "VIC": 28
+    "VIC": 27
   },
   "by_brand": {
     "Exploren": 236,
@@ -20,7 +20,7 @@
     "Chargefox": 72,
     "Independent": 72,
     "7-Eleven": 68,
-    "BP": 54,
+    "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -34,8 +34,8 @@
     "Pearl Energy": 7,
     "United": 6,
     "Everty": 4,
-    "EG Ampol": 4,
     "Speedway": 4,
+    "EG Ampol": 3,
     "Liberty": 3,
     "Budget": 2,
     "Transwest Fuels": 2,
@@ -51,6 +51,7 @@
     "X Convenience": 1,
     "Perrys": 1,
     "Mogas": 1,
+    "LHHP": 1,
     "MILDURA SERVO": 1
   },
   "stations": [
@@ -11338,21 +11339,6 @@
       ]
     },
     {
-      "brand": "BP",
-      "code": "VIC:784Fwpumt2qDwxdV93MzYLZxGXybQ7aoDA134W49pEM=",
-      "name": "Bp Newtown Store",
-      "address": "404-408 Shannon Avenue, Newtown, 3220",
-      "state": "VIC",
-      "lat": -38.15806285,
-      "lng": 144.33328482,
-      "unavailable_fuels": [
-        "Diesel",
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "VIC:+3ilgEq9OuCV9hrPLrdOvkQjhTZA8qaBtvRvlUCZQtM=",
       "name": "Bundalong Riverside Resort",
@@ -11438,21 +11424,6 @@
       ]
     },
     {
-      "brand": "EG Ampol",
-      "code": "VIC:wEglYEAQVOjj505TKTlGtkAudm+gW8aU4nIU5u0bG5o=",
-      "name": "EG Ampol Ringwood",
-      "address": "379-381 Maroondah Highway, Ringwood, 3134",
-      "state": "VIC",
-      "lat": -37.80078622224788,
-      "lng": 145.24476529327453,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "VIC:cpaeNjrUj+sNmDLLeUBBIWO2PQhTfnzbTctRUUw7EVA=",
       "name": "Food Plus Fuel",
@@ -11465,6 +11436,18 @@
         "E10",
         "U91",
         "U98"
+      ]
+    },
+    {
+      "brand": "LHHP",
+      "code": "VIC:kpZM1PLN1qGyF2AZ6PWAxy4CMnXJa6TSgFMFVjCT+JU=",
+      "name": "Loddon House Holiday Park",
+      "address": "565 Baringhup Road, BARINGHUP, 3463",
+      "state": "VIC",
+      "lat": -36.97919946,
+      "lng": 143.96329628,
+      "unavailable_fuels": [
+        "U91"
       ]
     },
     {

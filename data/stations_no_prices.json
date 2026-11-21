@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-21T00:54:45Z",
+  "fetched_at": "2026-11-21T01:27:44Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1260,
+  "station_count": 1258,
   "by_state": {
     "ACT": 9,
     "NSW": 1158,
     "NT": 5,
     "QLD": 29,
-    "SA": 29,
+    "SA": 28,
     "TAS": 1,
-    "VIC": 29
+    "VIC": 28
   },
   "by_brand": {
     "Exploren": 236,
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 15,
+    "Ampol": 14,
     "Caltex": 12,
     "Shell": 10,
     "EVUp": 9,
@@ -51,7 +51,6 @@
     "X Convenience": 1,
     "Perrys": 1,
     "Mogas": 1,
-    "U-Go": 1,
     "MILDURA SERVO": 1
   },
   "stations": [
@@ -10918,21 +10917,6 @@
     },
     {
       "brand": "Ampol",
-      "code": "SA:61501333",
-      "name": "Ampol Foodary Westbourne Park",
-      "address": "427 Goodwood Rd & Angas Rd, SA 5041",
-      "state": "SA",
-      "lat": -34.974217,
-      "lng": 138.591535,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Ampol",
       "code": "SA:61577309",
       "name": "Ampol Seaford Unmanned",
       "address": "55 Seaford Road, SA 5169",
@@ -11666,21 +11650,6 @@
         "Diesel",
         "E10",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "U-Go",
-      "code": "VIC:vtG8AHYF05WWz4KrO6wbwC9wx3RTsEZPdOk1WbtyrIo=",
-      "name": "U-Go Lilydale",
-      "address": "346, Main Street, LILYDALE, 3140",
-      "state": "VIC",
-      "lat": -37.757788,
-      "lng": 145.355254,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-21T00:54:45Z",
-  "total_stations": 7885,
+  "last_updated": "2026-11-21T01:27:44Z",
+  "total_stations": 7887,
   "total_states": 8,
   "fuel_types": [
     "B20",
@@ -21,56 +21,56 @@
       "station_count": 60,
       "price_count": 256,
       "file": "act/latest.json",
-      "checksum": "2f130bdf",
+      "checksum": "5e851f99",
       "size_bytes": 24481
     },
     "NSW": {
       "station_count": 2112,
       "price_count": 8431,
       "file": "nsw/latest.json",
-      "checksum": "0520aa50",
+      "checksum": "cfe9f7f5",
       "size_bytes": 838950
     },
     "NT": {
       "station_count": 209,
       "price_count": 563,
       "file": "nt/latest.json",
-      "checksum": "768ad702",
+      "checksum": "1b8fd3a8",
       "size_bytes": 78982
     },
     "QLD": {
       "station_count": 1779,
-      "price_count": 6903,
+      "price_count": 6904,
       "file": "qld/latest.json",
-      "checksum": "91202127",
-      "size_bytes": 702318
+      "checksum": "cff668ec",
+      "size_bytes": 702288
     },
     "SA": {
-      "station_count": 696,
-      "price_count": 2469,
+      "station_count": 697,
+      "price_count": 2473,
       "file": "sa/latest.json",
-      "checksum": "0d93525e",
-      "size_bytes": 269786
+      "checksum": "e7fbdf95",
+      "size_bytes": 270191
     },
     "TAS": {
       "station_count": 292,
       "price_count": 1419,
       "file": "tas/latest.json",
-      "checksum": "34c5b9d1",
+      "checksum": "fe2c7407",
       "size_bytes": 123087
     },
     "VIC": {
-      "station_count": 1735,
-      "price_count": 7113,
+      "station_count": 1736,
+      "price_count": 7119,
       "file": "vic/latest.json",
-      "checksum": "72106005",
-      "size_bytes": 778724
+      "checksum": "7332190d",
+      "size_bytes": 779124
     },
     "WA": {
       "station_count": 1002,
       "price_count": 3394,
       "file": "wa/latest.json",
-      "checksum": "ed3f85ef",
+      "checksum": "5c0ab8b4",
       "size_bytes": 513460
     }
   },

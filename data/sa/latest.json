@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-11-21T01:27:44Z",
+  "fetched_at": "2026-11-21T01:56:35Z",
   "station_count": 697,
   "fuel_types": [
     "E10",
@@ -2920,7 +2920,7 @@
         "U98": 217.9,
         "Premium Diesel": 252.9
       },
-      "updated": "2026-11-21T01:25:18Z",
+      "updated": "2026-11-21T01:40:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -3059,13 +3059,13 @@
       "address": "61 Seaford Road, SA 5169",
       "state": "SA",
       "prices": {
-        "U91": 193.0,
+        "U91": 192.0,
         "Diesel": 250.4,
         "U95": 214.9,
         "U98": 220.4,
         "Premium Diesel": 255.4
       },
-      "updated": "2026-11-20T20:52:09Z",
+      "updated": "2026-11-21T01:37:08Z",
       "lat": -35.180373,
       "lng": 138.483225
     },
@@ -5196,12 +5196,14 @@
       "prices": {
         "U91": 201.9,
         "U95": 218.9,
-        "U98": 224.9,
-        "Premium Diesel": 261.9
+        "U98": 224.9
       },
-      "updated": "2026-11-18T21:52:10Z",
+      "updated": "2026-11-18T06:12:09Z",
       "lat": -35.007486,
-      "lng": 138.720213
+      "lng": 138.720213,
+      "unavailable_fuels": [
+        "Premium Diesel"
+      ]
     },
     {
       "brand": "On the Run",
@@ -5404,7 +5406,7 @@
         "U98": 245.9,
         "Premium Diesel": 266.9
       },
-      "updated": "2026-11-21T01:25:18Z",
+      "updated": "2026-11-21T01:40:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -5862,9 +5864,9 @@
       "address": "3 Burton Terrace, SA 5652",
       "state": "SA",
       "prices": {
-        "Diesel": 279.9
+        "Diesel": 269.9
       },
-      "updated": "2026-11-11T01:42:08Z",
+      "updated": "2026-11-21T01:27:26Z",
       "lat": -33.045925,
       "lng": 135.459698
     },
@@ -6765,12 +6767,12 @@
       "address": "49 Norrie Ave, SA 5608",
       "state": "SA",
       "prices": {
-        "U91": 229.5,
-        "Diesel": 275.1,
+        "U91": 225.5,
+        "Diesel": 271.5,
         "LPG": 138.9,
-        "U98": 252.5
+        "U98": 248.5
       },
-      "updated": "2026-11-15T06:48:54Z",
+      "updated": "2026-11-21T01:32:31Z",
       "lat": -33.0247883916236,
       "lng": 137.5506509386578
     },

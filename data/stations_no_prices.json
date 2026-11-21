@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-20T19:32:06Z",
+  "fetched_at": "2026-11-21T00:54:45Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1259,
+  "station_count": 1260,
   "by_state": {
     "ACT": 9,
     "NSW": 1158,
@@ -9,7 +9,7 @@
     "QLD": 29,
     "SA": 29,
     "TAS": 1,
-    "VIC": 28
+    "VIC": 29
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,14 +17,14 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "Independent": 73,
     "Chargefox": 72,
+    "Independent": 72,
     "7-Eleven": 68,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 14,
+    "Ampol": 15,
     "Caltex": 12,
     "Shell": 10,
     "EVUp": 9,
@@ -34,8 +34,8 @@
     "Pearl Energy": 7,
     "United": 6,
     "Everty": 4,
+    "EG Ampol": 4,
     "Speedway": 4,
-    "EG Ampol": 3,
     "Liberty": 3,
     "Budget": 2,
     "Transwest Fuels": 2,
@@ -51,7 +51,7 @@
     "X Convenience": 1,
     "Perrys": 1,
     "Mogas": 1,
-    "Bowser Bean": 1,
+    "U-Go": 1,
     "MILDURA SERVO": 1
   },
   "stations": [
@@ -10918,6 +10918,21 @@
     },
     {
       "brand": "Ampol",
+      "code": "SA:61501333",
+      "name": "Ampol Foodary Westbourne Park",
+      "address": "427 Goodwood Rd & Angas Rd, SA 5041",
+      "state": "SA",
+      "lat": -34.974217,
+      "lng": 138.591535,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
       "code": "SA:61577309",
       "name": "Ampol Seaford Unmanned",
       "address": "55 Seaford Road, SA 5169",
@@ -11231,19 +11246,6 @@
       "lng": 139.597512
     },
     {
-      "brand": "Independent",
-      "code": "SA:61570142",
-      "name": "Wirrulla General Store",
-      "address": "75 Hay Terrace, SA 5661",
-      "state": "SA",
-      "lat": -32.40374619515053,
-      "lng": 134.5320832331352,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91"
-      ]
-    },
-    {
       "brand": "X Convenience",
       "code": "SA:61501450",
       "name": "X Convenience Port Adelaide",
@@ -11318,20 +11320,6 @@
         "Premium Diesel",
         "U91",
         "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Bowser Bean",
-      "code": "VIC:Jn08zFic4sqHiBMaogb198zzwtB9x5i/4Zw26inY/bw=",
-      "name": "BP Long Gully",
-      "address": "187 Eaglehawk Road, Long Gully, 3550",
-      "state": "VIC",
-      "lat": -36.74425224,
-      "lng": 144.25811166,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
         "U98"
       ]
     },
@@ -11458,6 +11446,21 @@
       "state": "VIC",
       "lat": -37.83176184,
       "lng": 145.0588319,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "VIC:wEglYEAQVOjj505TKTlGtkAudm+gW8aU4nIU5u0bG5o=",
+      "name": "EG Ampol Ringwood",
+      "address": "379-381 Maroondah Highway, Ringwood, 3134",
+      "state": "VIC",
+      "lat": -37.80078622224788,
+      "lng": 145.24476529327453,
       "unavailable_fuels": [
         "Premium Diesel",
         "U91",
@@ -11663,6 +11666,21 @@
         "Diesel",
         "E10",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "U-Go",
+      "code": "VIC:vtG8AHYF05WWz4KrO6wbwC9wx3RTsEZPdOk1WbtyrIo=",
+      "name": "U-Go Lilydale",
+      "address": "346, Main Street, LILYDALE, 3140",
+      "state": "VIC",
+      "lat": -37.757788,
+      "lng": 145.355254,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

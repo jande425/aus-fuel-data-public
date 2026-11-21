@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-21T18:37:02Z",
+  "fetched_at": "2026-11-21T23:35:05Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1256,
+  "station_count": 1259,
   "by_state": {
     "ACT": 9,
     "NSW": 1158,
     "NT": 5,
-    "QLD": 29,
+    "QLD": 30,
     "SA": 28,
     "TAS": 1,
-    "VIC": 26
+    "VIC": 28
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 81,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 68,
+    "7-Eleven": 69,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -33,9 +33,9 @@
     "Evie Networks": 7,
     "Pearl Energy": 7,
     "United": 6,
+    "EG Ampol": 5,
     "Everty": 4,
     "Speedway": 4,
-    "EG Ampol": 3,
     "Liberty": 3,
     "Budget": 2,
     "Transwest Fuels": 2,
@@ -10670,6 +10670,20 @@
       "lng": 151.1198653325062
     },
     {
+      "brand": "EG Ampol",
+      "code": "QLD:61402456",
+      "name": "EG Ampol Gladstone",
+      "address": "132 Auckland St, QLD 4680",
+      "state": "QLD",
+      "lat": -23.845808,
+      "lng": 151.260317,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95"
+      ]
+    },
+    {
       "brand": "Freedom Fuels",
       "code": "QLD:61401156",
       "name": "Freedom Fuels Thorneside",
@@ -11294,6 +11308,22 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:7slddVLl5qmOUhci9eYPMuLskajiN4uLtka22NjZdEI=",
+      "name": "7-Eleven Roxburgh Park",
+      "address": "250 Bridgewater Road, Roxburgh Park, 3064",
+      "state": "VIC",
+      "lat": -37.61963973,
+      "lng": 144.92786116,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:qdYS2O/Yo0pqGiELs2gDaGoPKgmciHw3VYczJCSDG3k=",
       "name": "7-Eleven Wyndham Vale",
       "address": "1389 Ison Road, Wyndham Vale, 3024",
@@ -11420,6 +11450,20 @@
         "U91",
         "U95",
         "U98"
+      ]
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "VIC:s7o7Wnl46fBtBJEQJwdsX7wDnWA5lBIZ7Df51lDL2LM=",
+      "name": "EG Ampol Horsham",
+      "address": "113-115 Wilson Street, Horsham, 3400",
+      "state": "VIC",
+      "lat": -36.716857378189715,
+      "lng": 142.19514751210428,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95"
       ]
     },
     {

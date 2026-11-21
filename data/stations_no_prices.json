@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-21T10:34:45Z",
+  "fetched_at": "2026-11-21T17:43:13Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1258,
+  "station_count": 1256,
   "by_state": {
     "ACT": 9,
     "NSW": 1158,
@@ -9,7 +9,7 @@
     "QLD": 29,
     "SA": 28,
     "TAS": 1,
-    "VIC": 28
+    "VIC": 26
   },
   "by_brand": {
     "Exploren": 236,
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 15,
+    "Ampol": 14,
     "Caltex": 12,
     "Shell": 10,
     "EVUp": 9,
@@ -51,7 +51,6 @@
     "X Convenience": 1,
     "Perrys": 1,
     "Mogas": 1,
-    "LHHP": 1,
     "MILDURA SERVO": 1
   },
   "stations": [
@@ -11309,21 +11308,6 @@
       ]
     },
     {
-      "brand": "Ampol",
-      "code": "VIC:ZuPULC7otCJMlZ9Au1h5sK5eD0X3p2NOtnom5vw2ay4=",
-      "name": "Ampol Foodary Baxter",
-      "address": "1 Baxter-Tooradin Road, Baxter, 3911",
-      "state": "VIC",
-      "lat": -38.1942951,
-      "lng": 145.1490092,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "VIC:mCLy5LVa9a0SixEFe/OR+X+ByeAARLmlUYE3eNnzwMs=",
       "name": "Birchip Motel & Caravan Park",
@@ -11451,18 +11435,6 @@
         "E10",
         "U91",
         "U98"
-      ]
-    },
-    {
-      "brand": "LHHP",
-      "code": "VIC:kpZM1PLN1qGyF2AZ6PWAxy4CMnXJa6TSgFMFVjCT+JU=",
-      "name": "Loddon House Holiday Park",
-      "address": "565 Baringhup Road, BARINGHUP, 3463",
-      "state": "VIC",
-      "lat": -36.97919946,
-      "lng": 143.96329628,
-      "unavailable_fuels": [
-        "U91"
       ]
     },
     {

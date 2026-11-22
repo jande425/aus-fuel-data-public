@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-22T00:18:38Z",
+  "fetched_at": "2026-11-22T04:45:26Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1261,
+  "station_count": 1257,
   "by_state": {
     "ACT": 9,
-    "NSW": 1159,
+    "NSW": 1158,
     "NT": 5,
     "QLD": 30,
-    "SA": 29,
+    "SA": 28,
     "TAS": 1,
-    "VIC": 28
+    "VIC": 26
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,7 +19,7 @@
     "Reddy Express": 81,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 69,
+    "7-Eleven": 68,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -28,16 +28,15 @@
     "Caltex": 12,
     "Shell": 10,
     "EVUp": 9,
-    "Mobil": 9,
     "Metro Fuel": 8,
+    "Mobil": 8,
     "Evie Networks": 7,
-    "Pearl Energy": 7,
     "United": 6,
+    "Pearl Energy": 6,
     "EG Ampol": 5,
     "Everty": 4,
     "Speedway": 4,
     "Liberty": 3,
-    "Ampol Foodary": 2,
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
@@ -45,6 +44,7 @@
     "Westside": 1,
     "PK's": 1,
     "Astron": 1,
+    "Ampol Foodary": 1,
     "Arko Energy": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
@@ -2240,15 +2240,6 @@
       "state": "NSW",
       "lat": -32.719967,
       "lng": 152.135661
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:2404",
-      "name": "Ampol Foodary Brookvale",
-      "address": "740-742 Pittwater Rd, BROOKVALE NSW 2100",
-      "state": "NSW",
-      "lat": -33.761424,
-      "lng": 151.274598
     },
     {
       "brand": "Ampol Foodary",
@@ -10976,20 +10967,6 @@
       ]
     },
     {
-      "brand": "Mobil",
-      "code": "SA:61501922",
-      "name": "Cadney Homestead Roadhouse",
-      "address": "69 Stuart Highway, SA 5723",
-      "state": "SA",
-      "lat": -27.905191,
-      "lng": 134.056677,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "SA:61501546",
       "name": "Cape Jervis Tavern And General Store",
@@ -11331,22 +11308,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "VIC:7slddVLl5qmOUhci9eYPMuLskajiN4uLtka22NjZdEI=",
-      "name": "7-Eleven Roxburgh Park",
-      "address": "250 Bridgewater Road, Roxburgh Park, 3064",
-      "state": "VIC",
-      "lat": -37.61963973,
-      "lng": 144.92786116,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "VIC:qdYS2O/Yo0pqGiELs2gDaGoPKgmciHw3VYczJCSDG3k=",
       "name": "7-Eleven Wyndham Vale",
       "address": "1389 Ison Road, Wyndham Vale, 3024",
@@ -11557,22 +11518,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Pearl Energy",
-      "code": "VIC:CH4hjiK/bCb66Xaj/YI683K8sR+PjmakUsEuiLcMQi8=",
-      "name": "Pearl Energy Bairnsdale",
-      "address": "390 Main Street, BAIRNSDALE, 3875",
-      "state": "VIC",
-      "lat": -37.82836863,
-      "lng": 147.61864729,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {

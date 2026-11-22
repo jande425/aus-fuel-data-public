@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-22T18:28:31Z",
+  "fetched_at": "2026-11-22T20:54:47Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1256,
   "by_state": {
     "ACT": 9,
-    "NSW": 1158,
+    "NSW": 1159,
     "NT": 5,
-    "QLD": 30,
+    "QLD": 29,
     "SA": 28,
     "TAS": 1,
     "VIC": 25
@@ -17,8 +17,8 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
+    "Independent": 73,
     "Chargefox": 72,
-    "Independent": 72,
     "7-Eleven": 68,
     "BP": 53,
     "NRMA": 45,
@@ -34,8 +34,8 @@
     "United": 6,
     "Pearl Energy": 6,
     "Everty": 4,
-    "EG Ampol": 4,
     "Speedway": 4,
+    "EG Ampol": 3,
     "Liberty": 3,
     "Budget": 2,
     "Transwest Fuels": 2,
@@ -9469,6 +9469,15 @@
       "lng": 150.916899
     },
     {
+      "brand": "Independent",
+      "code": "NSW:20620",
+      "name": "Tanilba Bay Servo",
+      "address": "1063 Lemon Tree Passage RD, Tanilba Bay NSW 2319",
+      "state": "NSW",
+      "lat": -32.736205,
+      "lng": 152.001298
+    },
+    {
       "brand": "Evie Networks",
       "code": "NSW:19476",
       "name": "Taree South Service Centre",
@@ -10668,20 +10677,6 @@
       "state": "QLD",
       "lat": -24.865276497096275,
       "lng": 151.1198653325062
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "QLD:61402456",
-      "name": "EG Ampol Gladstone",
-      "address": "132 Auckland St, QLD 4680",
-      "state": "QLD",
-      "lat": -23.845808,
-      "lng": 151.260317,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95"
-      ]
     },
     {
       "brand": "Freedom Fuels",

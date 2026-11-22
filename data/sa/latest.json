@@ -2,8 +2,8 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-11-21T23:52:14Z",
-  "station_count": 697,
+  "fetched_at": "2026-11-22T00:18:38Z",
+  "station_count": 696,
   "fuel_types": [
     "E10",
     "U91",
@@ -380,13 +380,13 @@
       "address": "386 North East Road, SA 5087",
       "state": "SA",
       "prices": {
-        "U91": 187.5,
+        "U91": 186.5,
         "Diesel": 238.5,
         "LPG": 109.5,
-        "U98": 209.5,
+        "U98": 208.5,
         "E10": 185.5
       },
-      "updated": "2026-11-21T00:35:24Z",
+      "updated": "2026-11-22T00:15:32Z",
       "lat": -34.866102,
       "lng": 138.643786
     },
@@ -2918,7 +2918,7 @@
         "U98": 217.9,
         "Premium Diesel": 252.9
       },
-      "updated": "2026-11-21T23:40:17Z",
+      "updated": "2026-11-22T00:10:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -4476,12 +4476,12 @@
       "address": "Aeolian Dr, SA 5125",
       "state": "SA",
       "prices": {
-        "U91": 195.9,
-        "U95": 212.9,
-        "U98": 218.9,
+        "U91": 192.9,
+        "U95": 209.9,
+        "U98": 215.9,
         "Premium Diesel": 260.9
       },
-      "updated": "2026-11-21T21:47:08Z",
+      "updated": "2026-11-22T00:12:09Z",
       "lat": -34.789291,
       "lng": 138.695197
     },
@@ -5400,7 +5400,7 @@
         "U98": 245.9,
         "Premium Diesel": 266.9
       },
-      "updated": "2026-11-21T23:40:17Z",
+      "updated": "2026-11-22T00:10:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -5536,23 +5536,6 @@
       "updated": "2026-11-19T00:02:58Z",
       "lat": -33.683213,
       "lng": 138.937678
-    },
-    {
-      "brand": "Mobil",
-      "code": "SA:61501922",
-      "name": "Cadney Homestead Roadhouse",
-      "address": "69 Stuart Highway, SA 5723",
-      "state": "SA",
-      "prices": {
-        "Diesel": 316.9,
-        "U95": 308.9
-      },
-      "updated": "2026-11-13T07:09:39Z",
-      "lat": -27.905191,
-      "lng": 134.056677,
-      "unavailable_fuels": [
-        "U91"
-      ]
     },
     {
       "brand": "Ampol",

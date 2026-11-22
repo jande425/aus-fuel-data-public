@@ -2,7 +2,7 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-11-22T09:42:14Z",
+  "fetched_at": "2026-11-22T13:56:37Z",
   "station_count": 697,
   "fuel_types": [
     "E10",
@@ -189,7 +189,7 @@
         "U98": 199.9,
         "Premium Diesel": 234.9
       },
-      "updated": "2026-11-21T12:10:41Z",
+      "updated": "2026-11-22T12:01:16Z",
       "lat": -34.86355166281097,
       "lng": 138.59275236441806
     },
@@ -298,15 +298,17 @@
       "address": "734  Marion Road, SA 5043",
       "state": "SA",
       "prices": {
-        "U91": 182.5,
         "Diesel": 239.5,
         "LPG": 107.5,
-        "U98": 204.5,
-        "E10": 181.5
+        "U98": 204.5
       },
-      "updated": "2026-11-19T20:15:47Z",
+      "updated": "2026-11-22T10:40:20Z",
       "lat": -35.004222,
-      "lng": 138.557335
+      "lng": 138.557335,
+      "unavailable_fuels": [
+        "E10",
+        "U91"
+      ]
     },
     {
       "brand": "On the Run",
@@ -2916,7 +2918,7 @@
         "U98": 217.9,
         "Premium Diesel": 252.9
       },
-      "updated": "2026-11-22T09:40:18Z",
+      "updated": "2026-11-22T13:40:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -3756,14 +3758,12 @@
       "state": "SA",
       "prices": {
         "U91": 221.9,
+        "U95": 238.9,
         "Premium Diesel": 265.9
       },
-      "updated": "2026-11-20T23:42:09Z",
+      "updated": "2026-11-22T10:02:09Z",
       "lat": -32.489335,
-      "lng": 137.762861,
-      "unavailable_fuels": [
-        "U95"
-      ]
+      "lng": 137.762861
     },
     {
       "brand": "United",
@@ -5398,7 +5398,7 @@
         "U98": 244.9,
         "Premium Diesel": 266.9
       },
-      "updated": "2026-11-22T09:40:18Z",
+      "updated": "2026-11-22T13:40:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -5639,13 +5639,13 @@
       "address": "17 Scott St, SA 5231",
       "state": "SA",
       "prices": {
-        "U91": 195.9,
+        "U91": 199.9,
         "LPG": 121.9,
         "U95": 214.9,
         "U98": 222.9,
-        "Premium Diesel": 253.9
+        "Premium Diesel": 257.9
       },
-      "updated": "2026-11-21T21:55:11Z",
+      "updated": "2026-11-22T09:56:44Z",
       "lat": -34.781789,
       "lng": 138.852242
     },

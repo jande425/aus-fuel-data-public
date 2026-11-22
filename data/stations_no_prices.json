@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-22T09:42:14Z",
+  "fetched_at": "2026-11-22T13:56:37Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1261,
+  "station_count": 1260,
   "by_state": {
     "ACT": 9,
-    "NSW": 1162,
+    "NSW": 1160,
     "NT": 5,
-    "QLD": 31,
+    "QLD": 32,
     "SA": 28,
     "TAS": 1,
     "VIC": 25
@@ -17,8 +17,8 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "7-Eleven": 73,
     "Chargefox": 72,
+    "7-Eleven": 72,
     "Independent": 72,
     "BP": 53,
     "NRMA": 45,
@@ -344,15 +344,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:17318",
-      "name": "7-Eleven East Maitland",
-      "address": "35 Melbourne St, EAST MAITLAND NSW 2323",
-      "state": "NSW",
-      "lat": -32.744809,
-      "lng": 151.583857
-    },
-    {
-      "brand": "7-Eleven",
       "code": "NSW:182",
       "name": "7-Eleven Emu Plains",
       "address": "49-51 Great Western Highway, Emu Plains NSW 2750",
@@ -476,15 +467,6 @@
       "state": "NSW",
       "lat": -32.791312,
       "lng": 151.725301
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:134",
-      "name": "7-Eleven Hurlstone Park",
-      "address": "670 New Canterbury Road (Corner Melford Street), Hurlstone Park NSW 2193",
-      "state": "NSW",
-      "lat": -33.905043,
-      "lng": 151.130108
     },
     {
       "brand": "7-Eleven",
@@ -10646,6 +10628,22 @@
       "state": "QLD",
       "lat": -27.536357,
       "lng": 152.948876,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61402041",
+      "name": "7-Eleven Rockhampton Central",
+      "address": "369 Yaamba Rd, QLD 4701",
+      "state": "QLD",
+      "lat": -23.3473810541463,
+      "lng": 150.52236186871716,
       "unavailable_fuels": [
         "E10",
         "Premium Diesel",

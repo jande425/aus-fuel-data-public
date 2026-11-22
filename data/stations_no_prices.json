@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-22T13:56:37Z",
+  "fetched_at": "2026-11-22T17:57:30Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1260,
+  "station_count": 1256,
   "by_state": {
     "ACT": 9,
-    "NSW": 1160,
+    "NSW": 1158,
     "NT": 5,
-    "QLD": 32,
+    "QLD": 30,
     "SA": 28,
     "TAS": 1,
     "VIC": 25
@@ -18,8 +18,8 @@
     "Independent EV": 99,
     "Reddy Express": 81,
     "Chargefox": 72,
-    "7-Eleven": 72,
     "Independent": 72,
+    "7-Eleven": 68,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -407,15 +407,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:230",
-      "name": "7-Eleven Granville",
-      "address": "154-160 Parramatta Road & Corner Bold Street, Granville NSW 2142",
-      "state": "NSW",
-      "lat": -33.830128,
-      "lng": 151.01003
-    },
-    {
-      "brand": "7-Eleven",
       "code": "NSW:187",
       "name": "7-Eleven Green Point",
       "address": "390 Avoca Drive (Gosford), Green Point NSW 2251",
@@ -548,15 +539,6 @@
       "state": "NSW",
       "lat": -33.951306,
       "lng": 151.24905
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:256",
-      "name": "7-Eleven Menai",
-      "address": "Corner Allison Crescent & Menai Road, Menai NSW 2234",
-      "state": "NSW",
-      "lat": -34.01574,
-      "lng": 151.013222
     },
     {
       "brand": "7-Eleven",
@@ -10619,38 +10601,6 @@
       "state": "NT",
       "lat": -14.735076,
       "lng": 134.528786
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61402365",
-      "name": "7-Eleven Jindalee",
-      "address": "721 Seventeen Mile Rocks Rd & Goggs Rd, QLD 4074",
-      "state": "QLD",
-      "lat": -27.536357,
-      "lng": 152.948876,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61402041",
-      "name": "7-Eleven Rockhampton Central",
-      "address": "369 Yaamba Rd, QLD 4701",
-      "state": "QLD",
-      "lat": -23.3473810541463,
-      "lng": 150.52236186871716,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "Ampol",

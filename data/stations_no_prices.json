@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-22T04:45:26Z",
+  "fetched_at": "2026-11-22T08:30:00Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1257,
+  "station_count": 1260,
   "by_state": {
     "ACT": 9,
-    "NSW": 1158,
+    "NSW": 1162,
     "NT": 5,
     "QLD": 30,
     "SA": 28,
     "TAS": 1,
-    "VIC": 26
+    "VIC": 25
   },
   "by_brand": {
     "Exploren": 236,
@@ -18,8 +18,8 @@
     "Independent EV": 99,
     "Reddy Express": 81,
     "Chargefox": 72,
+    "7-Eleven": 72,
     "Independent": 72,
-    "7-Eleven": 68,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -33,8 +33,8 @@
     "Evie Networks": 7,
     "United": 6,
     "Pearl Energy": 6,
-    "EG Ampol": 5,
     "Everty": 4,
+    "EG Ampol": 4,
     "Speedway": 4,
     "Liberty": 3,
     "Budget": 2,
@@ -344,6 +344,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:17318",
+      "name": "7-Eleven East Maitland",
+      "address": "35 Melbourne St, EAST MAITLAND NSW 2323",
+      "state": "NSW",
+      "lat": -32.744809,
+      "lng": 151.583857
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:182",
       "name": "7-Eleven Emu Plains",
       "address": "49-51 Great Western Highway, Emu Plains NSW 2750",
@@ -407,6 +416,15 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "NSW:230",
+      "name": "7-Eleven Granville",
+      "address": "154-160 Parramatta Road & Corner Bold Street, Granville NSW 2142",
+      "state": "NSW",
+      "lat": -33.830128,
+      "lng": 151.01003
+    },
+    {
+      "brand": "7-Eleven",
       "code": "NSW:187",
       "name": "7-Eleven Green Point",
       "address": "390 Avoca Drive (Gosford), Green Point NSW 2251",
@@ -458,6 +476,15 @@
       "state": "NSW",
       "lat": -32.791312,
       "lng": 151.725301
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:134",
+      "name": "7-Eleven Hurlstone Park",
+      "address": "670 New Canterbury Road (Corner Melford Street), Hurlstone Park NSW 2193",
+      "state": "NSW",
+      "lat": -33.905043,
+      "lng": 151.130108
     },
     {
       "brand": "7-Eleven",
@@ -539,6 +566,15 @@
       "state": "NSW",
       "lat": -33.951306,
       "lng": 151.24905
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:256",
+      "name": "7-Eleven Menai",
+      "address": "Corner Allison Crescent & Menai Road, Menai NSW 2234",
+      "state": "NSW",
+      "lat": -34.01574,
+      "lng": 151.013222
     },
     {
       "brand": "7-Eleven",
@@ -11434,20 +11470,6 @@
         "U91",
         "U95",
         "U98"
-      ]
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "VIC:s7o7Wnl46fBtBJEQJwdsX7wDnWA5lBIZ7Df51lDL2LM=",
-      "name": "EG Ampol Horsham",
-      "address": "113-115 Wilson Street, Horsham, 3400",
-      "state": "VIC",
-      "lat": -36.716857378189715,
-      "lng": 142.19514751210428,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95"
       ]
     },
     {

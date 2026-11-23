@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23T22:36:35Z",
+  "fetched_at": "2026-11-23T23:16:00Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1262,
   "by_state": {
@@ -32,9 +32,9 @@
     "Mobil": 8,
     "Evie Networks": 7,
     "United": 6,
+    "EG Ampol": 5,
     "Pearl Energy": 5,
     "Everty": 4,
-    "EG Ampol": 4,
     "Speedway": 4,
     "Ampol Foodary": 3,
     "Liberty": 3,
@@ -51,8 +51,7 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "MILDURA SERVO": 1,
-    "U-Go": 1
+    "MILDURA SERVO": 1
   },
   "stations": [
     {
@@ -11495,6 +11494,21 @@
       ]
     },
     {
+      "brand": "EG Ampol",
+      "code": "VIC:sqMjmvJfwh6BFjH8djiJvjufj2rxCVw1cP1rmEp67qE=",
+      "name": "EG Ampol Newcomb",
+      "address": "27-41 Bellarine Highway, Newcomb, 3219",
+      "state": "VIC",
+      "lat": -38.16963082811336,
+      "lng": 144.38925202601934,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "VIC:cpaeNjrUj+sNmDLLeUBBIWO2PQhTfnzbTctRUUw7EVA=",
       "name": "Food Plus Fuel",
@@ -11675,20 +11689,6 @@
       "unavailable_fuels": [
         "Diesel",
         "E10",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "U-Go",
-      "code": "VIC:1BunhMmV5hX07nGYdd2zpfsjhyguWFsoGzv5wNybGo4=",
-      "name": "U-Go Echuca",
-      "address": "200 Ogilvie Avenue, Echuca, 3564",
-      "state": "VIC",
-      "lat": -36.14029532,
-      "lng": 144.75306563,
-      "unavailable_fuels": [
-        "Premium Diesel",
         "U91",
         "U98"
       ]

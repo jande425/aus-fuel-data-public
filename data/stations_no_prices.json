@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-23T01:21:32Z",
+  "fetched_at": "2026-11-23T09:28:22Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1258,
+  "station_count": 1264,
   "by_state": {
     "ACT": 9,
-    "NSW": 1161,
+    "NSW": 1163,
     "NT": 5,
-    "QLD": 30,
+    "QLD": 33,
     "SA": 27,
     "TAS": 1,
-    "VIC": 25
+    "VIC": 26
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,9 +17,9 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 80,
+    "7-Eleven": 75,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 70,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -34,23 +34,24 @@
     "United": 6,
     "Pearl Energy": 6,
     "Everty": 4,
-    "EG Ampol": 4,
     "Speedway": 4,
+    "EG Ampol": 3,
+    "Ampol Foodary": 3,
     "Liberty": 3,
     "Budget": 2,
-    "Transwest Fuels": 2,
     "Puma Energy": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "Shell Express": 1,
+    "Transwest Fuels": 1,
     "PK's": 1,
     "Astron": 1,
-    "Ampol Foodary": 1,
     "Arko Energy": 1,
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
+    "U-Go": 1,
     "MILDURA SERVO": 1
   },
   "stations": [
@@ -188,6 +189,15 @@
       "state": "NSW",
       "lat": -33.810521,
       "lng": 151.177429
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:190",
+      "name": "7-Eleven Ashfield",
+      "address": "132 Liverpool RD, Ashfield NSW 2131",
+      "state": "NSW",
+      "lat": -33.890578,
+      "lng": 151.129552
     },
     {
       "brand": "7-Eleven",
@@ -470,12 +480,12 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:17130",
-      "name": "7-Eleven Kelso",
-      "address": "64 Sydney Rd, KELSO NSW 2795",
+      "code": "NSW:2500",
+      "name": "7-Eleven Kanwal",
+      "address": "207-209 Wallarah Rd, KANWAL NSW 2259",
       "state": "NSW",
-      "lat": -33.418418,
-      "lng": 149.606234
+      "lat": -33.252865,
+      "lng": 151.493174
     },
     {
       "brand": "7-Eleven",
@@ -683,6 +693,15 @@
       "state": "NSW",
       "lat": -33.952566,
       "lng": 151.135774
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:20656",
+      "name": "7-Eleven Rouse Hill",
+      "address": "294 Annangrove RD, Rouse Hill NSW 2155",
+      "state": "NSW",
+      "lat": -33.662153,
+      "lng": 150.922971
     },
     {
       "brand": "7-Eleven",
@@ -2249,6 +2268,24 @@
       "state": "NSW",
       "lat": -32.719967,
       "lng": 152.135661
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:640",
+      "name": "Ampol Foodary Burwood",
+      "address": "400 Parramatta Road, Burwood NSW 2134",
+      "state": "NSW",
+      "lat": -33.868681,
+      "lng": 151.101546
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:660",
+      "name": "Ampol Foodary Chatswood East",
+      "address": "364-366 Eastern Valley Way, Chatswood East NSW 2067",
+      "state": "NSW",
+      "lat": -33.786662,
+      "lng": 151.201055
     },
     {
       "brand": "Ampol Foodary",
@@ -4310,15 +4347,6 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "NSW:539",
-      "name": "EG Ampol Cootamundra",
-      "address": "88 Murray Street, Cootamundra NSW 2590",
-      "state": "NSW",
-      "lat": -34.636302,
-      "lng": 148.024963
     },
     {
       "brand": "EG Ampol",
@@ -10036,15 +10064,6 @@
       "lng": 150.987928
     },
     {
-      "brand": "Transwest Fuels",
-      "code": "NSW:20955",
-      "name": "Transwest Tenterfield",
-      "address": "154-162 High ST, NSW 2372 Tenterfield NSW 2372",
-      "state": "NSW",
-      "lat": -29.053501,
-      "lng": 152.0211
-    },
-    {
       "brand": "Chargefox",
       "code": "NSW:19516",
       "name": "Tropical Fruit World",
@@ -10642,6 +10661,54 @@
         "Premium Diesel",
         "U91",
         "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61477979",
+      "name": "7-Eleven Eden's Crossing",
+      "address": "7001 Sunbird Drive, QLD 4301",
+      "state": "QLD",
+      "lat": -27.668754,
+      "lng": 152.842579,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61402443",
+      "name": "7-Eleven Mermaid Waters",
+      "address": "1 Lakeview Blvd & Bermuda St, QLD 4218",
+      "state": "QLD",
+      "lat": -28.040082,
+      "lng": 153.408083,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61401477",
+      "name": "7-Eleven Springwood",
+      "address": "Cnr Springwood Rd & Cinderella Dr, QLD 4127",
+      "state": "QLD",
+      "lat": -27.61011953521952,
+      "lng": 153.12405772883605,
+      "unavailable_fuels": [
+        "E10",
+        "LPG",
+        "Premium Diesel",
+        "U91",
         "U98"
       ]
     },
@@ -11634,6 +11701,20 @@
       "unavailable_fuels": [
         "Diesel",
         "E10",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "U-Go",
+      "code": "VIC:1BunhMmV5hX07nGYdd2zpfsjhyguWFsoGzv5wNybGo4=",
+      "name": "U-Go Echuca",
+      "address": "200 Ogilvie Avenue, Echuca, 3564",
+      "state": "VIC",
+      "lat": -36.14029532,
+      "lng": 144.75306563,
+      "unavailable_fuels": [
+        "Premium Diesel",
         "U91",
         "U98"
       ]

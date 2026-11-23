@@ -2,8 +2,8 @@
   "source": "SA_FuelData",
   "version": 2,
   "state": "SA",
-  "fetched_at": "2026-11-23T09:28:22Z",
-  "station_count": 698,
+  "fetched_at": "2026-11-23T10:41:09Z",
+  "station_count": 697,
   "fuel_types": [
     "E10",
     "U91",
@@ -22,12 +22,12 @@
       "address": "17 Vater St, SA 5094",
       "state": "SA",
       "prices": {
-        "U91": 206.4,
-        "U95": 223.9,
-        "U98": 229.4,
-        "Premium Diesel": 244.4
+        "U91": 204.9,
+        "U95": 222.4,
+        "U98": 227.9,
+        "Premium Diesel": 242.9
       },
-      "updated": "2026-11-21T05:45:35Z",
+      "updated": "2026-11-23T09:45:26Z",
       "lat": -34.81925471911522,
       "lng": 138.5923530850666
     },
@@ -182,12 +182,12 @@
       "address": "351 Prospect Rd, SA 5084",
       "state": "SA",
       "prices": {
-        "U91": 179.9,
-        "U95": 189.9,
-        "U98": 199.9,
-        "Premium Diesel": 234.9
+        "U91": 169.9,
+        "U95": 179.9,
+        "U98": 189.9,
+        "Premium Diesel": 224.9
       },
-      "updated": "2026-11-23T09:01:18Z",
+      "updated": "2026-11-23T09:46:03Z",
       "lat": -34.86355166281097,
       "lng": 138.59275236441806
     },
@@ -936,13 +936,13 @@
       "address": "926 Port Wakefield Rd, SA 5108",
       "state": "SA",
       "prices": {
-        "U91": 203.4,
+        "U91": 201.9,
         "LPG": 107.4,
-        "U95": 220.9,
-        "U98": 226.4,
-        "Premium Diesel": 251.4
+        "U95": 219.4,
+        "U98": 224.9,
+        "Premium Diesel": 249.9
       },
-      "updated": "2026-11-21T05:45:35Z",
+      "updated": "2026-11-23T10:00:34Z",
       "lat": -34.76248573317709,
       "lng": 138.59338406994056
     },
@@ -1083,34 +1083,18 @@
       "lng": 138.722329
     },
     {
-      "brand": "U-Go",
-      "code": "SA:61501132",
-      "name": "U-Go Salisbury Downs",
-      "address": "201 Salisbury Hwy, SA 5108",
-      "state": "SA",
-      "prices": {
-        "U91": 189.9,
-        "U95": 203.9,
-        "U98": 212.9,
-        "Premium Diesel": 244.5
-      },
-      "updated": "2026-11-21T21:52:10Z",
-      "lat": -34.77163309445199,
-      "lng": 138.6325431226845
-    },
-    {
       "brand": "On the Run",
       "code": "SA:61501133",
       "name": "OTR Salisbury Parabanks",
       "address": "106-110 Salisbury Hwy, SA 5108",
       "state": "SA",
       "prices": {
-        "U91": 196.4,
-        "U95": 213.9,
-        "U98": 219.4,
-        "Premium Diesel": 255.4
+        "U91": 194.9,
+        "U95": 212.4,
+        "U98": 217.9,
+        "Premium Diesel": 252.9
       },
-      "updated": "2026-11-21T05:50:22Z",
+      "updated": "2026-11-23T09:35:21Z",
       "lat": -34.76446133621417,
       "lng": 138.63966083068846
     },
@@ -1121,12 +1105,12 @@
       "address": "102 Waterloo Corner Rd & Russell, SA 5108",
       "state": "SA",
       "prices": {
-        "U91": 201.4,
-        "U95": 218.9,
-        "U98": 224.4,
-        "Premium Diesel": 251.4
+        "U91": 199.9,
+        "U95": 217.4,
+        "U98": 222.9,
+        "Premium Diesel": 249.9
       },
-      "updated": "2026-11-21T05:45:35Z",
+      "updated": "2026-11-23T09:45:26Z",
       "lat": -34.756598,
       "lng": 138.631717
     },
@@ -2522,7 +2506,7 @@
         "U98": 218.9,
         "Premium Diesel": 253.9
       },
-      "updated": "2026-11-23T06:09:36Z",
+      "updated": "2026-11-23T09:39:42Z",
       "lat": -34.972423,
       "lng": 138.609036
     },
@@ -2916,7 +2900,7 @@
         "U98": 214.9,
         "Premium Diesel": 249.9
       },
-      "updated": "2026-11-23T09:25:18Z",
+      "updated": "2026-11-23T10:25:18Z",
       "lat": -34.848907,
       "lng": 138.570275
     },
@@ -3943,12 +3927,12 @@
       "address": "92 Main St, SA 5422",
       "state": "SA",
       "prices": {
-        "U91": 219.9,
-        "Diesel": 265.9,
+        "U91": 213.9,
+        "Diesel": 259.9,
         "LPG": 139.9,
-        "U98": 239.9
+        "U98": 233.9
       },
-      "updated": "2026-11-17T09:13:44Z",
+      "updated": "2026-11-23T09:31:39Z",
       "lat": -32.973097,
       "lng": 138.840808
     },
@@ -5402,7 +5386,7 @@
         "U98": 240.9,
         "Premium Diesel": 264.9
       },
-      "updated": "2026-11-23T09:25:18Z",
+      "updated": "2026-11-23T10:25:18Z",
       "lat": -32.508998,
       "lng": 137.796545
     },
@@ -5643,13 +5627,13 @@
       "address": "17 Scott St, SA 5231",
       "state": "SA",
       "prices": {
-        "U91": 195.9,
+        "U91": 199.9,
         "LPG": 121.9,
         "U95": 214.9,
         "U98": 222.9,
-        "Premium Diesel": 253.9
+        "Premium Diesel": 257.9
       },
-      "updated": "2026-11-22T22:57:05Z",
+      "updated": "2026-11-23T10:13:00Z",
       "lat": -34.781789,
       "lng": 138.852242
     },
@@ -7222,11 +7206,11 @@
       "address": "2 Belvidere Road, SA 5413",
       "state": "SA",
       "prices": {
-        "U91": 229.9,
-        "Diesel": 269.9,
-        "U98": 249.9
+        "U91": 214.9,
+        "Diesel": 259.9,
+        "U98": 234.9
       },
-      "updated": "2026-11-10T20:02:37Z",
+      "updated": "2026-11-23T09:44:46Z",
       "lat": -34.083441,
       "lng": 138.780345
     },
@@ -8180,13 +8164,13 @@
       "address": "885 Port Wakefield Road, SA 5110",
       "state": "SA",
       "prices": {
-        "U91": 207.4,
+        "U91": 205.9,
         "LPG": 107.4,
-        "U95": 224.9,
-        "U98": 230.4,
-        "Premium Diesel": 249.4
+        "U95": 223.4,
+        "U98": 228.9,
+        "Premium Diesel": 245.9
       },
-      "updated": "2026-11-21T05:45:35Z",
+      "updated": "2026-11-23T09:45:26Z",
       "lat": -34.768762,
       "lng": 138.593695
     },
@@ -9430,14 +9414,12 @@
       "address": "32 Blanche Street, SA 5583",
       "state": "SA",
       "prices": {
-        "U91": 213.9
+        "U91": 202.9,
+        "Diesel": 249.9
       },
-      "updated": "2026-11-14T22:13:22Z",
+      "updated": "2026-11-23T09:33:58Z",
       "lat": -35.086505,
-      "lng": 137.745459,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
+      "lng": 137.745459
     },
     {
       "brand": "Independent",
@@ -9921,10 +9903,10 @@
       "address": "62 Bruce Terrace, SA 5631",
       "state": "SA",
       "prices": {
-        "U91": 229.9,
-        "Diesel": 282.9
+        "U91": 224.9,
+        "Diesel": 273.9
       },
-      "updated": "2026-11-18T09:23:58Z",
+      "updated": "2026-11-23T10:34:13Z",
       "lat": -34.263866,
       "lng": 135.727037
     },

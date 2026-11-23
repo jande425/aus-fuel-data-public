@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-22T20:54:47Z",
+  "fetched_at": "2026-11-23T00:23:52Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1256,
+  "station_count": 1258,
   "by_state": {
     "ACT": 9,
-    "NSW": 1159,
+    "NSW": 1161,
     "NT": 5,
-    "QLD": 29,
-    "SA": 28,
+    "QLD": 30,
+    "SA": 27,
     "TAS": 1,
     "VIC": 25
   },
@@ -16,10 +16,10 @@
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
+    "Reddy Express": 80,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 68,
+    "7-Eleven": 70,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -34,14 +34,15 @@
     "United": 6,
     "Pearl Energy": 6,
     "Everty": 4,
+    "EG Ampol": 4,
     "Speedway": 4,
-    "EG Ampol": 3,
     "Liberty": 3,
     "Budget": 2,
     "Transwest Fuels": 2,
     "Puma Energy": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
+    "Shell Express": 1,
     "PK's": 1,
     "Astron": 1,
     "Ampol Foodary": 1,
@@ -50,7 +51,6 @@
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
-    "Mogas": 1,
     "MILDURA SERVO": 1
   },
   "stations": [
@@ -467,6 +467,15 @@
       "state": "NSW",
       "lat": -33.99995,
       "lng": 150.86794
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:17130",
+      "name": "7-Eleven Kelso",
+      "address": "64 Sydney Rd, KELSO NSW 2795",
+      "state": "NSW",
+      "lat": -33.418418,
+      "lng": 149.606234
     },
     {
       "brand": "7-Eleven",
@@ -4304,6 +4313,15 @@
     },
     {
       "brand": "EG Ampol",
+      "code": "NSW:539",
+      "name": "EG Ampol Cootamundra",
+      "address": "88 Murray Street, Cootamundra NSW 2590",
+      "state": "NSW",
+      "lat": -34.636302,
+      "lng": 148.024963
+    },
+    {
+      "brand": "EG Ampol",
       "code": "NSW:572",
       "name": "EG Ampol Parkes",
       "address": "78 Currajong St (Cnr Bushman Street), Parkes NSW 2870",
@@ -8128,6 +8146,15 @@
       "lng": 148.602401
     },
     {
+      "brand": "Shell Express",
+      "code": "NSW:66",
+      "name": "Shell Express Belmont Maude (Nsw)",
+      "address": "504 Pacific Hwy (Cnr Maude St), Belmont NSW 2280",
+      "state": "NSW",
+      "lat": -33.03322,
+      "lng": 151.660617
+    },
+    {
       "brand": "Shell",
       "code": "NSW:20020",
       "name": "Shell Narrabri Truck Stop",
@@ -8144,15 +8171,6 @@
       "state": "NSW",
       "lat": -36.673879,
       "lng": 149.838173
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:66",
-      "name": "Shell Reddy  Express Belmont Maude (Nsw)",
-      "address": "504 Pacific Hwy (Cnr Maude St), Belmont NSW 2280",
-      "state": "NSW",
-      "lat": -33.03322,
-      "lng": 151.660617
     },
     {
       "brand": "Reddy Express",
@@ -10612,6 +10630,22 @@
       "lng": 134.528786
     },
     {
+      "brand": "7-Eleven",
+      "code": "QLD:61402204",
+      "name": "7-Eleven Boronia Heights",
+      "address": "Middle Road, QLD 4118",
+      "state": "QLD",
+      "lat": -27.678754,
+      "lng": 153.021806,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Ampol",
       "code": "QLD:61402893",
       "name": "Ampol Blackwater Diesel Stop",
@@ -11086,18 +11120,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Mogas",
-      "code": "SA:61550315",
-      "name": "MRO Kimba",
-      "address": "15351 Eyre Highway, SA 5641",
-      "state": "SA",
-      "lat": -33.142121,
-      "lng": 136.421848,
-      "unavailable_fuels": [
-        "Diesel"
       ]
     },
     {

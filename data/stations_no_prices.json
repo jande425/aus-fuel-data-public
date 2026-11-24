@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-24T06:56:15Z",
+  "fetched_at": "2026-11-24T08:03:21Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1264,
+  "station_count": 1263,
   "by_state": {
     "ACT": 9,
-    "NSW": 1162,
-    "NT": 8,
+    "NSW": 1163,
+    "NT": 6,
     "QLD": 31,
     "SA": 28,
     "TAS": 1,
@@ -31,12 +31,12 @@
     "EVUp": 9,
     "Mobil": 8,
     "Evie Networks": 7,
-    "EG Ampol": 7,
-    "United": 6,
+    "United": 7,
     "Pearl Energy": 5,
+    "Ampol Foodary": 4,
     "Everty": 4,
+    "EG Ampol": 4,
     "Speedway": 4,
-    "Ampol Foodary": 3,
     "Liberty": 3,
     "Budget": 2,
     "Puma Energy": 2,
@@ -201,15 +201,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:320",
-      "name": "7-Eleven Bathurst",
-      "address": "269 Stewart Street, Bathurst NSW 2795",
-      "state": "NSW",
-      "lat": -33.418148,
-      "lng": 149.568104
-    },
-    {
-      "brand": "7-Eleven",
       "code": "NSW:127",
       "name": "7-Eleven Belmore",
       "address": "792-794 Canterbury Road Chapel Street, Belmore NSW 2192",
@@ -225,6 +216,15 @@
       "state": "NSW",
       "lat": -34.476871,
       "lng": 150.839335
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:196",
+      "name": "7-Eleven Berowra",
+      "address": "965-969 Pacific Highway (Corner Waratah Road), Berowra NSW 2081",
+      "state": "NSW",
+      "lat": -33.627124,
+      "lng": 151.148098
     },
     {
       "brand": "7-Eleven",
@@ -2268,6 +2268,15 @@
       "state": "NSW",
       "lat": -33.786662,
       "lng": 151.201055
+    },
+    {
+      "brand": "Ampol Foodary",
+      "code": "NSW:2241",
+      "name": "Ampol Foodary Chinderah",
+      "address": "Tweed Valley Way, CHINDERAH NSW 2487",
+      "state": "NSW",
+      "lat": -28.256781,
+      "lng": 153.527876
     },
     {
       "brand": "Ampol Foodary",
@@ -10622,33 +10631,6 @@
       "lng": 131.370842
     },
     {
-      "brand": "EG Ampol",
-      "code": "NT:08310048",
-      "name": "EG Ampol Bakewell",
-      "address": "Corner Chung Wah Terrace and Lambrick Avenue, Bakewell, 0831, NT",
-      "state": "NT",
-      "lat": -12.499875,
-      "lng": 130.986152
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "NT:08360050",
-      "name": "EG Ampol Coolalinga",
-      "address": "20 Henning Road, Coolalinga, 0836, NT",
-      "state": "NT",
-      "lat": -12.524825,
-      "lng": 131.042567
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "NT:08350055",
-      "name": "EG Ampol Holtze",
-      "address": "883 Stuart Highway, Holtze, 0835, NT",
-      "state": "NT",
-      "lat": -12.454353,
-      "lng": 130.965929
-    },
-    {
       "brand": "Puma Energy",
       "code": "NT:08720211",
       "name": "Maryvale Store",
@@ -10665,6 +10647,15 @@
       "state": "NT",
       "lat": -14.735076,
       "lng": 134.528786
+    },
+    {
+      "brand": "United",
+      "code": "NT:08370063",
+      "name": "United Noonamah Roadhouse",
+      "address": "1805 Stuart Highway, NOONAMAH, 0837, NT",
+      "state": "NT",
+      "lat": -12.633774,
+      "lng": 131.074496
     },
     {
       "brand": "7-Eleven",
@@ -11622,23 +11613,9 @@
       ]
     },
     {
-      "brand": "Shell",
-      "code": "VIC:ZxB7g48qgexGA8k0i6UCszHbjN+b6bYP3LiTX1H4K4s=",
-      "name": "Shell",
-      "address": "61 Dunlop Street, MORTLAKE, 3272",
-      "state": "VIC",
-      "lat": -38.0809067,
-      "lng": 142.80341229,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "Reddy Express",
       "code": "VIC:Nn5sOsuCrlbPxBYtpDMErvtevci0IpgnNBOvTWbLVZw=",
-      "name": "Shell Reddy Express Belmont (vic)",
+      "name": "SHELL EXPRESS BELMONT (VIC) - Temporarily Closed",
       "address": "3 Settlement Road, BELMONT, 3216",
       "state": "VIC",
       "lat": -38.17677974,
@@ -11654,7 +11631,7 @@
     {
       "brand": "Reddy Express",
       "code": "VIC:HSfeC3jheYxx+iSezK7TxN+MX6fmvK0g79x4SCSKpsM=",
-      "name": "Shell Reddy Express Geelong West",
+      "name": "SHELL EXPRESS GEELONG WEST - Temporarily Closed",
       "address": "21-25 Church Street, GEELONG WEST, 3218",
       "state": "VIC",
       "lat": -38.13214939,
@@ -11668,7 +11645,7 @@
     {
       "brand": "Reddy Express",
       "code": "VIC:YUPtcp+uDjuB9Fj+s0izTlTdez/xBPKCJOWSID0Ty6o=",
-      "name": "Shell Reddy Express Horsham",
+      "name": "SHELL EXPRESS HORSHAM - Temporarily Closed",
       "address": "170-172 Baillie ST, HORSHAM, 3400",
       "state": "VIC",
       "lat": -36.711405359739494,
@@ -11676,6 +11653,20 @@
       "unavailable_fuels": [
         "Diesel",
         "LPG",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Shell",
+      "code": "VIC:ZxB7g48qgexGA8k0i6UCszHbjN+b6bYP3LiTX1H4K4s=",
+      "name": "Shell",
+      "address": "61 Dunlop Street, MORTLAKE, 3272",
+      "state": "VIC",
+      "lat": -38.0809067,
+      "lng": 142.80341229,
+      "unavailable_fuels": [
+        "Diesel",
         "U91",
         "U98"
       ]

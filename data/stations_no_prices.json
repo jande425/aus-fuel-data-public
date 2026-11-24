@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-23T23:16:00Z",
+  "fetched_at": "2026-11-24T06:14:43Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1262,
+  "station_count": 1265,
   "by_state": {
     "ACT": 9,
-    "NSW": 1162,
-    "NT": 5,
-    "QLD": 32,
-    "SA": 27,
+    "NSW": 1161,
+    "NT": 10,
+    "QLD": 31,
+    "SA": 28,
     "TAS": 1,
-    "VIC": 26
+    "VIC": 25
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,27 +19,27 @@
     "Reddy Express": 80,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 72,
-    "BP": 53,
+    "7-Eleven": 69,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 14,
+    "Ampol": 15,
     "Caltex": 12,
     "Shell": 10,
     "Metro Fuel": 9,
     "EVUp": 9,
     "Mobil": 8,
     "Evie Networks": 7,
+    "EG Ampol": 7,
     "United": 6,
-    "EG Ampol": 5,
     "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 4,
     "Ampol Foodary": 3,
     "Liberty": 3,
+    "Puma Energy": 3,
     "Budget": 2,
-    "Puma Energy": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "Shell Express": 1,
@@ -48,6 +48,7 @@
     "Astron": 1,
     "Arko Energy": 1,
     "Freedom Fuels": 1,
+    "OOM Energy": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "Perrys": 1,
@@ -305,15 +306,6 @@
       "state": "NSW",
       "lat": -33.957141,
       "lng": 150.882875
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:1932",
-      "name": "7-Eleven Cessnock",
-      "address": "210-214 Wollombi Road, Cessnock NSW 2325",
-      "state": "NSW",
-      "lat": -32.83281,
-      "lng": 151.353684
     },
     {
       "brand": "7-Eleven",
@@ -683,15 +675,6 @@
       "state": "NSW",
       "lat": -33.952566,
       "lng": 151.135774
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:20656",
-      "name": "7-Eleven Rouse Hill",
-      "address": "294 Annangrove RD, Rouse Hill NSW 2155",
-      "state": "NSW",
-      "lat": -33.662153,
-      "lng": 150.922971
     },
     {
       "brand": "7-Eleven",
@@ -4337,6 +4320,15 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "NSW:559",
+      "name": "EG Ampol Morisset",
+      "address": "125 Dora Street, Morisset NSW 2264",
+      "state": "NSW",
+      "lat": -33.111578,
+      "lng": 151.481614
     },
     {
       "brand": "EG Ampol",
@@ -10594,6 +10586,15 @@
       "lng": 150.946945
     },
     {
+      "brand": "BP",
+      "code": "NT:08280092",
+      "name": "BP Eleven Mile",
+      "address": "890 Stuart Highway, Pinelands, 0828, NT",
+      "state": "NT",
+      "lat": -12.456695,
+      "lng": 130.966706
+    },
+    {
       "brand": "Puma Energy",
       "code": "NT:08220174",
       "name": "Daly River Inn",
@@ -10619,6 +10620,42 @@
       "state": "NT",
       "lat": -13.546532,
       "lng": 131.370842
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "NT:08310048",
+      "name": "EG Ampol Bakewell",
+      "address": "Corner Chung Wah Terrace and Lambrick Avenue, Bakewell, 0831, NT",
+      "state": "NT",
+      "lat": -12.499875,
+      "lng": 130.986152
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "NT:08360050",
+      "name": "EG Ampol Coolalinga",
+      "address": "20 Henning Road, Coolalinga, 0836, NT",
+      "state": "NT",
+      "lat": -12.524825,
+      "lng": 131.042567
+    },
+    {
+      "brand": "EG Ampol",
+      "code": "NT:08350055",
+      "name": "EG Ampol Holtze",
+      "address": "883 Stuart Highway, Holtze, 0835, NT",
+      "state": "NT",
+      "lat": -12.454353,
+      "lng": 130.965929
+    },
+    {
+      "brand": "Puma Energy",
+      "code": "NT:08500203",
+      "name": "Katherine Depot",
+      "address": "40 Emungalan Road, Emungalan, 0850, NT",
+      "state": "NT",
+      "lat": -14.448127,
+      "lng": 132.249913
     },
     {
       "brand": "Puma Energy",
@@ -10655,22 +10692,6 @@
       ]
     },
     {
-      "brand": "7-Eleven",
-      "code": "QLD:61401177",
-      "name": "7-Eleven Graceville",
-      "address": "246 Oxley Rd & Graceville Av, QLD 4075",
-      "state": "QLD",
-      "lat": -27.521931,
-      "lng": 152.980164,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Ampol",
       "code": "QLD:61402893",
       "name": "Ampol Blackwater Diesel Stop",
@@ -10681,6 +10702,20 @@
       "unavailable_fuels": [
         "Diesel",
         "Premium Diesel"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "QLD:61402175",
+      "name": "Ampol Gladstone Depot Front",
+      "address": "Chapple St, QLD 4680",
+      "state": "QLD",
+      "lat": -23.842297,
+      "lng": 151.245741,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95"
       ]
     },
     {
@@ -10738,21 +10773,6 @@
       "lng": 151.1198653325062
     },
     {
-      "brand": "EG Ampol",
-      "code": "QLD:61402362",
-      "name": "EG Ampol Brookside",
-      "address": "159 Osborne Rd, QLD 4053",
-      "state": "QLD",
-      "lat": -27.409591,
-      "lng": 152.981708,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95"
-      ]
-    },
-    {
       "brand": "Freedom Fuels",
       "code": "QLD:61401156",
       "name": "Freedom Fuels Thorneside",
@@ -10803,15 +10823,6 @@
       "state": "QLD",
       "lat": -17.215901,
       "lng": 145.543411
-    },
-    {
-      "brand": "Independent",
-      "code": "QLD:61402511",
-      "name": "Kilkivan General Store",
-      "address": "37 Bligh Street, QLD 4600",
-      "state": "QLD",
-      "lat": -26.086213,
-      "lng": 152.240816
     },
     {
       "brand": "Mobil",
@@ -10878,6 +10889,20 @@
         "Diesel",
         "U91",
         "U95"
+      ]
+    },
+    {
+      "brand": "OOM Energy",
+      "code": "QLD:61402011",
+      "name": "OOM Energy Longreach",
+      "address": "37 Ilfracombe Rd, QLD 4730",
+      "state": "QLD",
+      "lat": -23.44147348821879,
+      "lng": 144.263778,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
       ]
     },
     {
@@ -11160,6 +11185,21 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "Independent",
+      "code": "SA:61501260",
+      "name": "Leroys Kensington Park",
+      "address": "382 Magill Rd, SA 5068",
+      "state": "SA",
+      "lat": -34.91402479325153,
+      "lng": 138.65669714821576,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95",
+        "U98"
       ]
     },
     {
@@ -11486,21 +11526,6 @@
       "state": "VIC",
       "lat": -37.83176184,
       "lng": 145.0588319,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "VIC:sqMjmvJfwh6BFjH8djiJvjufj2rxCVw1cP1rmEp67qE=",
-      "name": "EG Ampol Newcomb",
-      "address": "27-41 Bellarine Highway, Newcomb, 3219",
-      "state": "VIC",
-      "lat": -38.16963082811336,
-      "lng": 144.38925202601934,
       "unavailable_fuels": [
         "Premium Diesel",
         "U91",

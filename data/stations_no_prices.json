@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-24T08:03:21Z",
+  "fetched_at": "2026-11-24T18:59:50Z",
   "description": "Stations excluded from main data due to no current price information",
   "station_count": 1263,
   "by_state": {
     "ACT": 9,
-    "NSW": 1163,
-    "NT": 6,
-    "QLD": 31,
+    "NSW": 1162,
+    "NT": 5,
+    "QLD": 33,
     "SA": 28,
     "TAS": 1,
     "VIC": 25
@@ -17,26 +17,26 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 80,
-    "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 70,
+    "Independent": 72,
+    "7-Eleven": 71,
     "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 15,
+    "Ampol": 16,
     "Caltex": 12,
+    "Metro Fuel": 10,
     "Shell": 10,
-    "Metro Fuel": 9,
     "EVUp": 9,
     "Mobil": 8,
     "Evie Networks": 7,
-    "United": 7,
+    "United": 6,
     "Pearl Energy": 5,
-    "Ampol Foodary": 4,
     "Everty": 4,
     "EG Ampol": 4,
     "Speedway": 4,
+    "Ampol Foodary": 3,
     "Liberty": 3,
     "Budget": 2,
     "Puma Energy": 2,
@@ -216,15 +216,6 @@
       "state": "NSW",
       "lat": -34.476871,
       "lng": 150.839335
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:196",
-      "name": "7-Eleven Berowra",
-      "address": "965-969 Pacific Highway (Corner Waratah Road), Berowra NSW 2081",
-      "state": "NSW",
-      "lat": -33.627124,
-      "lng": 151.148098
     },
     {
       "brand": "7-Eleven",
@@ -2268,15 +2259,6 @@
       "state": "NSW",
       "lat": -33.786662,
       "lng": 151.201055
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:2241",
-      "name": "Ampol Foodary Chinderah",
-      "address": "Tweed Valley Way, CHINDERAH NSW 2487",
-      "state": "NSW",
-      "lat": -28.256781,
-      "lng": 153.527876
     },
     {
       "brand": "Ampol Foodary",
@@ -6645,6 +6627,15 @@
     },
     {
       "brand": "Metro Fuel",
+      "code": "NSW:20106",
+      "name": "Metro Petroleum Tarro",
+      "address": "107 Anderson DR, Tarro NSW 2322",
+      "state": "NSW",
+      "lat": -32.807612,
+      "lng": 151.658842
+    },
+    {
+      "brand": "Metro Fuel",
       "code": "NSW:20078",
       "name": "Metro Weston",
       "address": "191 Cessnock RD, Weston NSW 2326",
@@ -10649,15 +10640,6 @@
       "lng": 134.528786
     },
     {
-      "brand": "United",
-      "code": "NT:08370063",
-      "name": "United Noonamah Roadhouse",
-      "address": "1805 Stuart Highway, NOONAMAH, 0837, NT",
-      "state": "NT",
-      "lat": -12.633774,
-      "lng": 131.074496
-    },
-    {
       "brand": "7-Eleven",
       "code": "QLD:61402204",
       "name": "7-Eleven Boronia Heights",
@@ -10674,6 +10656,36 @@
       ]
     },
     {
+      "brand": "7-Eleven",
+      "code": "QLD:61401791",
+      "name": "7-Eleven Moffat Beach",
+      "address": "51 Roderick St (Cnr Buccleugh St), QLD 4551",
+      "state": "QLD",
+      "lat": -26.789649911370148,
+      "lng": 153.13836751901434,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "QLD:61401445",
+      "name": "7-Eleven Wishart",
+      "address": "Mt Gravatt-Capalaba Road, QLD 4122",
+      "state": "QLD",
+      "lat": -27.556364,
+      "lng": 153.089765,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U98"
+      ]
+    },
+    {
       "brand": "Ampol",
       "code": "QLD:61402893",
       "name": "Ampol Blackwater Diesel Stop",
@@ -10684,6 +10696,22 @@
       "unavailable_fuels": [
         "Diesel",
         "Premium Diesel"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "QLD:61401134",
+      "name": "Ampol Foodary Camp Hill",
+      "address": "424 Old Cleveland Rd & Bennetts Rd, QLD 4152",
+      "state": "QLD",
+      "lat": -27.491978,
+      "lng": 153.064833,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
       ]
     },
     {
@@ -10945,19 +10973,6 @@
       "state": "QLD",
       "lat": -25.634965,
       "lng": 149.797847
-    },
-    {
-      "brand": "Independent",
-      "code": "QLD:61470918",
-      "name": "Sunstate Monkland",
-      "address": "295 Brisbane Rd & Bruce Hwy, QLD 4570",
-      "state": "QLD",
-      "lat": -26.220708,
-      "lng": 152.686566,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91"
-      ]
     },
     {
       "brand": "Independent",

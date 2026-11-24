@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-24T18:59:50Z",
+  "fetched_at": "2026-11-24T19:28:54Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1263,
+  "station_count": 1262,
   "by_state": {
     "ACT": 9,
     "NSW": 1162,
     "NT": 5,
-    "QLD": 33,
+    "QLD": 32,
     "SA": 28,
     "TAS": 1,
     "VIC": 25
@@ -24,7 +24,7 @@
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 16,
+    "Ampol": 15,
     "Caltex": 12,
     "Metro Fuel": 10,
     "Shell": 10,
@@ -10696,22 +10696,6 @@
       "unavailable_fuels": [
         "Diesel",
         "Premium Diesel"
-      ]
-    },
-    {
-      "brand": "Ampol",
-      "code": "QLD:61401134",
-      "name": "Ampol Foodary Camp Hill",
-      "address": "424 Old Cleveland Rd & Bennetts Rd, QLD 4152",
-      "state": "QLD",
-      "lat": -27.491978,
-      "lng": 153.064833,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T06:14:43Z",
+  "last_updated": "2026-11-24T06:56:15Z",
   "total_stations": 7884,
   "total_states": 8,
   "fuel_types": [
@@ -21,57 +21,57 @@
       "station_count": 60,
       "price_count": 257,
       "file": "act/latest.json",
-      "checksum": "4aaecc3e",
+      "checksum": "35f334bf",
       "size_bytes": 24503
     },
     "NSW": {
-      "station_count": 2108,
-      "price_count": 8410,
+      "station_count": 2107,
+      "price_count": 8405,
       "file": "nsw/latest.json",
-      "checksum": "7e7ba67b",
-      "size_bytes": 837247
+      "checksum": "be63cee6",
+      "size_bytes": 836830
     },
     "NT": {
-      "station_count": 204,
-      "price_count": 549,
+      "station_count": 206,
+      "price_count": 554,
       "file": "nt/latest.json",
-      "checksum": "782a6c90",
-      "size_bytes": 77116
+      "checksum": "5ce49758",
+      "size_bytes": 77825
     },
     "QLD": {
       "station_count": 1777,
       "price_count": 6892,
       "file": "qld/latest.json",
-      "checksum": "6d3ba15f",
+      "checksum": "25431f38",
       "size_bytes": 701512
     },
     "SA": {
       "station_count": 698,
       "price_count": 2477,
       "file": "sa/latest.json",
-      "checksum": "16ba3065",
+      "checksum": "e6baaee0",
       "size_bytes": 270382
     },
     "TAS": {
       "station_count": 292,
       "price_count": 1417,
       "file": "tas/latest.json",
-      "checksum": "67441b3c",
+      "checksum": "55e0b75f",
       "size_bytes": 123027
     },
     "VIC": {
       "station_count": 1740,
       "price_count": 7119,
       "file": "vic/latest.json",
-      "checksum": "2e8fe6de",
+      "checksum": "a3f4cadf",
       "size_bytes": 781154
     },
     "WA": {
-      "station_count": 1005,
-      "price_count": 3408,
+      "station_count": 1004,
+      "price_count": 3405,
       "file": "wa/latest.json",
-      "checksum": "9b028cad",
-      "size_bytes": 515103
+      "checksum": "21639cb0",
+      "size_bytes": 630668
     }
   },
   "files": {

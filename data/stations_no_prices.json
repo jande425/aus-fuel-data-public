@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-24T06:14:43Z",
+  "fetched_at": "2026-11-24T06:56:15Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1265,
+  "station_count": 1264,
   "by_state": {
     "ACT": 9,
-    "NSW": 1161,
-    "NT": 10,
+    "NSW": 1162,
+    "NT": 8,
     "QLD": 31,
     "SA": 28,
     "TAS": 1,
@@ -19,8 +19,8 @@
     "Reddy Express": 80,
     "Independent": 73,
     "Chargefox": 72,
-    "7-Eleven": 69,
-    "BP": 54,
+    "7-Eleven": 70,
+    "BP": 53,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -38,8 +38,8 @@
     "Speedway": 4,
     "Ampol Foodary": 3,
     "Liberty": 3,
-    "Puma Energy": 3,
     "Budget": 2,
+    "Puma Energy": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "Shell Express": 1,
@@ -198,6 +198,15 @@
       "state": "NSW",
       "lat": -33.920941,
       "lng": 151.039191
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "NSW:320",
+      "name": "7-Eleven Bathurst",
+      "address": "269 Stewart Street, Bathurst NSW 2795",
+      "state": "NSW",
+      "lat": -33.418148,
+      "lng": 149.568104
     },
     {
       "brand": "7-Eleven",
@@ -10586,15 +10595,6 @@
       "lng": 150.946945
     },
     {
-      "brand": "BP",
-      "code": "NT:08280092",
-      "name": "BP Eleven Mile",
-      "address": "890 Stuart Highway, Pinelands, 0828, NT",
-      "state": "NT",
-      "lat": -12.456695,
-      "lng": 130.966706
-    },
-    {
       "brand": "Puma Energy",
       "code": "NT:08220174",
       "name": "Daly River Inn",
@@ -10647,15 +10647,6 @@
       "state": "NT",
       "lat": -12.454353,
       "lng": 130.965929
-    },
-    {
-      "brand": "Puma Energy",
-      "code": "NT:08500203",
-      "name": "Katherine Depot",
-      "address": "40 Emungalan Road, Emungalan, 0850, NT",
-      "state": "NT",
-      "lat": -14.448127,
-      "lng": 132.249913
     },
     {
       "brand": "Puma Energy",

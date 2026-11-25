@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-25T03:55:24Z",
+  "fetched_at": "2026-11-25T14:47:03Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1261,
+  "station_count": 1257,
   "by_state": {
     "ACT": 8,
-    "NSW": 1163,
+    "NSW": 1162,
     "NT": 5,
-    "QLD": 30,
-    "SA": 28,
+    "QLD": 29,
+    "SA": 25,
     "TAS": 1,
-    "VIC": 26
+    "VIC": 27
   },
   "by_brand": {
     "Exploren": 236,
@@ -18,13 +18,13 @@
     "Independent EV": 99,
     "Reddy Express": 80,
     "Chargefox": 72,
-    "Independent": 72,
-    "7-Eleven": 68,
+    "7-Eleven": 70,
+    "Independent": 69,
     "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 15,
+    "Ampol": 14,
     "Caltex": 12,
     "Metro Fuel": 10,
     "Shell": 10,
@@ -32,12 +32,12 @@
     "Mobil": 8,
     "Evie Networks": 7,
     "United": 6,
-    "Pearl Energy": 6,
+    "Pearl Energy": 5,
     "Everty": 4,
     "Speedway": 4,
+    "EG Ampol": 3,
     "Ampol Foodary": 3,
     "Liberty": 3,
-    "EG Ampol": 2,
     "U-Go": 2,
     "Budget": 2,
     "Puma Energy": 2,
@@ -49,10 +49,8 @@
     "Astron": 1,
     "Arko Energy": 1,
     "Freedom Fuels": 1,
-    "OOM Energy": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
-    "Perrys": 1,
     "MILDURA SERVO": 1
   },
   "stations": [
@@ -9498,15 +9496,6 @@
       "lng": 150.916899
     },
     {
-      "brand": "Independent",
-      "code": "NSW:20620",
-      "name": "Tanilba Bay Servo",
-      "address": "1063 Lemon Tree Passage RD, Tanilba Bay NSW 2319",
-      "state": "NSW",
-      "lat": -32.736205,
-      "lng": 152.001298
-    },
-    {
       "brand": "Evie Networks",
       "code": "NSW:19476",
       "name": "Taree South Service Centre",
@@ -10657,6 +10646,22 @@
       ]
     },
     {
+      "brand": "7-Eleven",
+      "code": "QLD:61477720",
+      "name": "7-Eleven Salisbury",
+      "address": "642 Toohey Road, QLD 4107",
+      "state": "QLD",
+      "lat": -27.544513,
+      "lng": 153.039614,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Ampol",
       "code": "QLD:61402893",
       "name": "Ampol Blackwater Diesel Stop",
@@ -10857,20 +10862,6 @@
       ]
     },
     {
-      "brand": "OOM Energy",
-      "code": "QLD:61402011",
-      "name": "OOM Energy Longreach",
-      "address": "37 Ilfracombe Rd, QLD 4730",
-      "state": "QLD",
-      "lat": -23.44147348821879,
-      "lng": 144.263778,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "Pacific Fuel Solutions",
       "code": "QLD:61477735",
       "name": "Pacific Fuel Solutions Gladstone",
@@ -10910,15 +10901,6 @@
         "U91",
         "U95"
       ]
-    },
-    {
-      "brand": "Independent",
-      "code": "QLD:61477991",
-      "name": "Rudy Maas Marina",
-      "address": "82 Cabbage Tree Point Road, QLD 4207",
-      "state": "QLD",
-      "lat": -27.748308,
-      "lng": 153.344039
     },
     {
       "brand": "Shell",
@@ -10974,15 +10956,6 @@
       "state": "QLD",
       "lat": -16.916483,
       "lng": 145.871647
-    },
-    {
-      "brand": "Ampol",
-      "code": "SA:61577309",
-      "name": "Ampol Seaford Unmanned",
-      "address": "55 Seaford Road, SA 5169",
-      "state": "SA",
-      "lat": -35.180316,
-      "lng": 138.483943
     },
     {
       "brand": "BP",
@@ -11212,15 +11185,6 @@
       "lng": 139.160905
     },
     {
-      "brand": "Perrys",
-      "code": "SA:61501655",
-      "name": "Perrys Tarlee",
-      "address": "21-33 Main North Road, SA 5411",
-      "state": "SA",
-      "lat": -34.274743,
-      "lng": 138.771228
-    },
-    {
       "brand": "Independent",
       "code": "SA:61577282",
       "name": "Quorn Autoport",
@@ -11308,21 +11272,28 @@
     },
     {
       "brand": "Independent",
-      "code": "SA:61577354",
-      "name": "Yelwap Fuel",
-      "address": "1950 North East Road, SA 5133",
-      "state": "SA",
-      "lat": -34.824078,
-      "lng": 138.774531
-    },
-    {
-      "brand": "Independent",
       "code": "TAS:20076",
       "name": "Tas Petroleum Poatina (24Hr Self-serve)",
       "address": "6 Franklin Av, Poatina TAS 7302",
       "state": "TAS",
       "lat": -41.7959471,
       "lng": 146.96061311
+    },
+    {
+      "brand": "7-Eleven",
+      "code": "VIC:MdiHWRGIUv3kCWhOGdkxdoHye/nHG6y0CjF06I/N8WM=",
+      "name": "7-Eleven Frankston",
+      "address": "42-46 Mcmahons Road, Frankston, 3199",
+      "state": "VIC",
+      "lat": -38.14709316089058,
+      "lng": 145.135923886171,
+      "unavailable_fuels": [
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "7-Eleven",
@@ -11471,6 +11442,21 @@
       ]
     },
     {
+      "brand": "EG Ampol",
+      "code": "VIC:lDH3QKnxkHnon5YwdAGK9TI23aazC0eswPp4+d+zPF4=",
+      "name": "EG Ampol Clarinda",
+      "address": "58 Viney Street, Clarinda, 3169",
+      "state": "VIC",
+      "lat": -37.940833216040616,
+      "lng": 145.10204423925694,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "VIC:cpaeNjrUj+sNmDLLeUBBIWO2PQhTfnzbTctRUUw7EVA=",
       "name": "Food Plus Fuel",
@@ -11538,20 +11524,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
-      ]
-    },
-    {
-      "brand": "Pearl Energy",
-      "code": "VIC:ck0ChDUQosLhOS9dLEiDvHpR2Ria25z39/WG3DH0Xwo=",
-      "name": "Pearl Energy Wangaratta",
-      "address": "73-75 Greta  ROAD, Wangaratta, 3677",
-      "state": "VIC",
-      "lat": -36.36986391,
-      "lng": 146.31353023,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95"
       ]
     },
     {

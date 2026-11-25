@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-24T19:53:08Z",
+  "fetched_at": "2026-11-25T03:06:47Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1262,
+  "station_count": 1261,
   "by_state": {
-    "ACT": 9,
-    "NSW": 1162,
+    "ACT": 8,
+    "NSW": 1163,
     "NT": 5,
-    "QLD": 32,
+    "QLD": 30,
     "SA": 28,
     "TAS": 1,
-    "VIC": 25
+    "VIC": 26
   },
   "by_brand": {
     "Exploren": 236,
@@ -19,8 +19,8 @@
     "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 72,
-    "7-Eleven": 71,
-    "BP": 53,
+    "7-Eleven": 68,
+    "BP": 54,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -32,12 +32,13 @@
     "Mobil": 8,
     "Evie Networks": 7,
     "United": 6,
-    "Pearl Energy": 5,
+    "Pearl Energy": 6,
     "Everty": 4,
-    "EG Ampol": 4,
     "Speedway": 4,
     "Ampol Foodary": 3,
     "Liberty": 3,
+    "EG Ampol": 2,
+    "U-Go": 2,
     "Budget": 2,
     "Puma Energy": 2,
     "Metro Petroleum": 2,
@@ -55,15 +56,6 @@
     "MILDURA SERVO": 1
   },
   "stations": [
-    {
-      "brand": "7-Eleven",
-      "code": "ACT:18790",
-      "name": "7-Eleven Fyshwick",
-      "address": "149 Canberra Ave, Fyshwick ACT 2609",
-      "state": "ACT",
-      "lat": -35.3251,
-      "lng": 149.154
-    },
     {
       "brand": "Chargefox",
       "code": "ACT:20174",
@@ -2730,6 +2722,15 @@
     },
     {
       "brand": "BP",
+      "code": "NSW:20091",
+      "name": "BP Moorebank",
+      "address": "226 Newbridge RD, Moorebank NSW 2170",
+      "state": "NSW",
+      "lat": -33.929299,
+      "lng": 150.953464
+    },
+    {
+      "brand": "BP",
       "code": "NSW:373",
       "name": "BP Mosman (9542)",
       "address": "175 Ourimbah Road, Mosman NSW 2088",
@@ -4320,15 +4321,6 @@
       "state": "NSW",
       "lat": -35.10262,
       "lng": 150.650238
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "NSW:559",
-      "name": "EG Ampol Morisset",
-      "address": "125 Dora Street, Morisset NSW 2264",
-      "state": "NSW",
-      "lat": -33.111578,
-      "lng": 151.481614
     },
     {
       "brand": "EG Ampol",
@@ -6582,6 +6574,15 @@
     },
     {
       "brand": "Metro Fuel",
+      "code": "NSW:20080",
+      "name": "Metro Berkeley",
+      "address": "57 Winnima WAY, Berkeley NSW 2506",
+      "state": "NSW",
+      "lat": -34.479927,
+      "lng": 150.845923
+    },
+    {
+      "brand": "Metro Fuel",
       "code": "NSW:20032",
       "name": "Metro Charlestown",
       "address": "132-138 Pacific HWY, Charlestown NSW 2290",
@@ -6624,15 +6625,6 @@
       "state": "NSW",
       "lat": -33.00878,
       "lng": 151.710266
-    },
-    {
-      "brand": "Metro Fuel",
-      "code": "NSW:20106",
-      "name": "Metro Petroleum Tarro",
-      "address": "107 Anderson DR, Tarro NSW 2322",
-      "state": "NSW",
-      "lat": -32.807612,
-      "lng": 151.658842
     },
     {
       "brand": "Metro Fuel",
@@ -10118,6 +10110,15 @@
       "lng": 151.273708
     },
     {
+      "brand": "U-Go",
+      "code": "NSW:659",
+      "name": "U-Go Banksia (Unmanned)",
+      "address": "314 Princes Highway (Cnr Banksia Street), Banksia NSW 2216",
+      "state": "NSW",
+      "lat": -33.945681,
+      "lng": 151.141696
+    },
+    {
       "brand": "United",
       "code": "NSW:2004",
       "name": "United Marulan",
@@ -10656,36 +10657,6 @@
       ]
     },
     {
-      "brand": "7-Eleven",
-      "code": "QLD:61401791",
-      "name": "7-Eleven Moffat Beach",
-      "address": "51 Roderick St (Cnr Buccleugh St), QLD 4551",
-      "state": "QLD",
-      "lat": -26.789649911370148,
-      "lng": 153.13836751901434,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61401445",
-      "name": "7-Eleven Wishart",
-      "address": "Mt Gravatt-Capalaba Road, QLD 4122",
-      "state": "QLD",
-      "lat": -27.556364,
-      "lng": 153.089765,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
       "brand": "Ampol",
       "code": "QLD:61402893",
       "name": "Ampol Blackwater Diesel Stop",
@@ -11174,8 +11145,8 @@
       "name": "Leroys Kensington Park",
       "address": "382 Magill Rd, SA 5068",
       "state": "SA",
-      "lat": -34.91402479325153,
-      "lng": 138.65669714821576,
+      "lat": -34.914374793251525,
+      "lng": 138.65649714821575,
       "unavailable_fuels": [
         "Diesel",
         "U91",
@@ -11486,21 +11457,6 @@
     },
     {
       "brand": "EG Ampol",
-      "code": "VIC:9Gg5KwafB8U1ZS6Prk1Rlzbe01Rgz4iN+JERj6cFrgY=",
-      "name": "EG Ampol Balwyn - Temporarily Closed",
-      "address": "192 Whitehorse Road, Balwyn, 3103",
-      "state": "VIC",
-      "lat": -37.81237751,
-      "lng": 145.0763508,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "EG Ampol",
       "code": "VIC:kdema6y0mxy1seszYclAiWs215UTN8/fUnil5DBgxao=",
       "name": "EG Ampol Camberwell",
       "address": "550 Riversdale Road, Camberwell, 3124",
@@ -11582,6 +11538,20 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "Pearl Energy",
+      "code": "VIC:ck0ChDUQosLhOS9dLEiDvHpR2Ria25z39/WG3DH0Xwo=",
+      "name": "Pearl Energy Wangaratta",
+      "address": "73-75 Greta  ROAD, Wangaratta, 3677",
+      "state": "VIC",
+      "lat": -36.36986391,
+      "lng": 146.31353023,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95"
       ]
     },
     {
@@ -11696,6 +11666,21 @@
         "Diesel",
         "E10",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "U-Go",
+      "code": "VIC:9Gg5KwafB8U1ZS6Prk1Rlzbe01Rgz4iN+JERj6cFrgY=",
+      "name": "U-Go Balwyn",
+      "address": "192 Whitehorse Road, Balwyn, 3103",
+      "state": "VIC",
+      "lat": -37.81237751,
+      "lng": 145.0763508,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },

@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-26T11:49:18Z",
+  "fetched_at": "2026-11-26T19:44:33Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1269,
+  "station_count": 1258,
   "by_state": {
     "ACT": 8,
-    "NSW": 1162,
+    "NSW": 1159,
     "NT": 7,
-    "QLD": 34,
+    "QLD": 30,
     "SA": 25,
     "TAS": 1,
-    "VIC": 32
+    "VIC": 28
   },
   "by_brand": {
     "Exploren": 236,
@@ -17,9 +17,9 @@
     "AGL": 153,
     "Independent EV": 99,
     "Reddy Express": 81,
-    "7-Eleven": 78,
     "Chargefox": 72,
     "Independent": 69,
+    "7-Eleven": 68,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
@@ -34,12 +34,12 @@
     "United": 6,
     "Pearl Energy": 5,
     "Everty": 4,
-    "EG Ampol": 4,
     "Speedway": 4,
+    "EG Ampol": 3,
     "Liberty": 3,
-    "Ampol Foodary": 2,
     "Budget": 2,
     "Puma Energy": 2,
+    "U-Go": 2,
     "Pacific Fuel Solutions": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
@@ -47,10 +47,10 @@
     "Transwest Fuels": 1,
     "PK's": 1,
     "Astron": 1,
+    "Ampol Foodary": 1,
     "Arko Energy": 1,
     "Freedom Fuels": 1,
     "X Convenience": 1,
-    "U-Go": 1,
     "MILDURA SERVO": 1,
     "K&S Fuels": 1
   },
@@ -417,15 +417,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "NSW:306",
-      "name": "7-Eleven Guildford",
-      "address": "272-278 Woodville Road, Guildford NSW 2161",
-      "state": "NSW",
-      "lat": -33.848168,
-      "lng": 150.996937
-    },
-    {
-      "brand": "7-Eleven",
       "code": "NSW:130",
       "name": "7-Eleven Guildford West",
       "address": "534 Guildford Road West (Corner Fowler Road), Guildford West NSW 2161",
@@ -441,15 +432,6 @@
       "state": "NSW",
       "lat": -34.037679,
       "lng": 151.084491
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "NSW:221",
-      "name": "7-Eleven Haberfield",
-      "address": "25 Parramatta Road, Haberfield NSW 2045",
-      "state": "NSW",
-      "lat": -33.887908,
-      "lng": 151.142813
     },
     {
       "brand": "7-Eleven",
@@ -2259,15 +2241,6 @@
       "state": "NSW",
       "lat": -29.919141,
       "lng": 153.06953
-    },
-    {
-      "brand": "Ampol Foodary",
-      "code": "NSW:2342",
-      "name": "Ampol Foodary Revesby",
-      "address": "181 The River Rd, REVESBY NSW 2212",
-      "state": "NSW",
-      "lat": -33.955843,
-      "lng": 151.017295
     },
     {
       "brand": "Ampol",
@@ -10650,93 +10623,12 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "QLD:61401444",
-      "name": "7-Eleven Acacia Ridge East",
-      "address": "139 Beenleigh Road, QLD 4110",
-      "state": "QLD",
-      "lat": -27.575428,
-      "lng": 153.039586,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61401471",
-      "name": "7-Eleven Algester",
-      "address": "169 Algester Rd & Ridgewood Rd, QLD 4115",
-      "state": "QLD",
-      "lat": -27.612647,
-      "lng": 153.039653,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61401942",
-      "name": "7-Eleven Ashmore",
-      "address": "579 Ashmore Rd & Nerang Rd, QLD 4214",
-      "state": "QLD",
-      "lat": -27.984707,
-      "lng": 153.365841,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "QLD:61402204",
       "name": "7-Eleven Boronia Heights",
       "address": "Middle Road, QLD 4118",
       "state": "QLD",
       "lat": -27.678754,
       "lng": 153.021806,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61401930",
-      "name": "7-Eleven Mackenzie",
-      "address": "902 Mt Gravatt-Capalaba Rd, QLD 4156",
-      "state": "QLD",
-      "lat": -27.545381,
-      "lng": 153.121763,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "QLD:61478205",
-      "name": "7-Eleven North Cairns",
-      "address": "334-336 Sheridan St, QLD 4870",
-      "state": "QLD",
-      "lat": -16.90614711452965,
-      "lng": 145.75995480429918,
       "unavailable_fuels": [
         "E10",
         "Premium Diesel",
@@ -11027,6 +10919,22 @@
       "state": "QLD",
       "lat": -18.290183,
       "lng": 143.549026
+    },
+    {
+      "brand": "U-Go",
+      "code": "QLD:61401756",
+      "name": "U-Go Brassall",
+      "address": "60 Hunter Street, QLD 4305",
+      "state": "QLD",
+      "lat": -27.596451,
+      "lng": 152.745693,
+      "unavailable_fuels": [
+        "E10",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
     },
     {
       "brand": "United",
@@ -11377,39 +11285,6 @@
     },
     {
       "brand": "7-Eleven",
-      "code": "VIC:nSdLdvMMM1jbd3UP6jbjJb5YRZYcpHt7hEhn8JvTp84=",
-      "name": "7-Eleven Clifton Hill",
-      "address": "422-424 Hoddle Street, Clifton Hill, 3068",
-      "state": "VIC",
-      "lat": -37.79137138,
-      "lng": 144.99481376,
-      "unavailable_fuels": [
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:9EnPgIQHuSvYZCIXqUKmMT8Bk1nvaIRz/G+nS7T+6yY=",
-      "name": "7-Eleven Epping North",
-      "address": "701-707 High Street, Epping, 3076",
-      "state": "VIC",
-      "lat": -37.65143144579169,
-      "lng": 145.02374378768042,
-      "unavailable_fuels": [
-        "E10",
-        "LPG",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
       "code": "VIC:aIpf5c+FbIFIqjsnktLA+kzJT6XxVXCNbtB6Xfo1iqE=",
       "name": "7-Eleven Hoppers Crossing Central",
       "address": "289-293 Derrimut Road, Hoppers Crossing, 3029",
@@ -11436,21 +11311,6 @@
         "Premium Diesel",
         "U91",
         "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "7-Eleven",
-      "code": "VIC:Ta+BqWoW7iNfYXAp7tWiUCXLIQ6YFQdD+mTVPjMwIcM=",
-      "name": "7-Eleven Richmond",
-      "address": "94 Church Street, Richmond, 3121",
-      "state": "VIC",
-      "lat": -37.81388166,
-      "lng": 144.99982519,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
         "U98"
       ]
     },
@@ -11577,21 +11437,6 @@
       "state": "VIC",
       "lat": -37.940833216040616,
       "lng": 145.10204423925694,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
-      "brand": "EG Ampol",
-      "code": "VIC:6mkhrH8Viaob1dE0rGzxG0JNDhuk8ZdMa9pyDnz7G4E=",
-      "name": "EG Ampol Williamstown",
-      "address": "237 Kororoit Creek Road, Williamstown, 3016",
-      "state": "VIC",
-      "lat": -37.85317099,
-      "lng": 144.8543234,
       "unavailable_fuels": [
         "Premium Diesel",
         "U91",

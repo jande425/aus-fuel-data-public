@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-11-25T16:41:37Z",
+  "fetched_at": "2026-11-26T00:34:29Z",
   "station_count": 61,
   "fuel_types": [
     "E10",
@@ -54,12 +54,12 @@
       "address": "20 Mort ST, Braddon ACT 2612",
       "state": "ACT",
       "prices": {
-        "E10": 223.9,
-        "U98": 251.9,
+        "E10": 219.9,
+        "U98": 247.9,
         "Premium Diesel": 265.9,
-        "U91": 225.9
+        "U91": 221.9
       },
-      "updated": "2026-11-24T19:27:14Z",
+      "updated": "2026-11-25T20:15:26Z",
       "lat": -35.275669,
       "lng": 149.131261
     },
@@ -87,13 +87,13 @@
       "address": "36 Lonsdale ST, Braddon ACT 2612",
       "state": "ACT",
       "prices": {
-        "E10": 222.9,
+        "E10": 222.4,
         "U95": 244.3,
-        "U98": 248.4,
+        "U98": 250.9,
         "Premium Diesel": 265.9,
-        "U91": 226.9
+        "U91": 226.4
       },
-      "updated": "2026-11-25T03:52:25Z",
+      "updated": "2026-11-25T20:32:25Z",
       "lat": -35.270935,
       "lng": 149.133379
     },
@@ -137,10 +137,10 @@
       "address": "96 Sawmill Cct, Hume ACT 2620",
       "state": "ACT",
       "prices": {
-        "Diesel": 258.9,
-        "Premium Diesel": 261.9
+        "Diesel": 252.9,
+        "Premium Diesel": 255.9
       },
-      "updated": "2026-11-17T04:07:25Z",
+      "updated": "2026-11-25T22:07:25Z",
       "lat": -35.3964,
       "lng": 149.158
     },
@@ -169,12 +169,12 @@
       "state": "ACT",
       "prices": {
         "E10": 225.9,
-        "U95": 248.3,
+        "U95": 245.9,
         "U98": 250.4,
         "Premium Diesel": 277.9,
-        "U91": 227.4
+        "U91": 225.9
       },
-      "updated": "2026-11-24T22:52:23Z",
+      "updated": "2026-11-25T21:27:23Z",
       "lat": -35.378878,
       "lng": 149.057528
     },
@@ -185,12 +185,12 @@
       "address": "3 Rogan ST, Canberra Airport ACT 2609",
       "state": "ACT",
       "prices": {
-        "U95": 227.9,
-        "U98": 237.9,
+        "U95": 226.9,
+        "U98": 236.9,
         "Premium Diesel": 265.9,
-        "U91": 210.9
+        "U91": 209.9
       },
-      "updated": "2026-11-25T02:22:26Z",
+      "updated": "2026-11-25T21:27:23Z",
       "lat": -35.309323,
       "lng": 149.188209
     },
@@ -218,12 +218,12 @@
       "address": "49 Brierly ST, Weston ACT 2611",
       "state": "ACT",
       "prices": {
-        "U95": 243.9,
-        "U98": 253.9,
+        "U95": 241.9,
+        "U98": 251.9,
         "Premium Diesel": 275.9,
-        "U91": 226.9
+        "U91": 224.9
       },
-      "updated": "2026-11-25T02:17:26Z",
+      "updated": "2026-11-25T20:32:25Z",
       "lat": -35.340197,
       "lng": 149.052112
     },
@@ -234,13 +234,13 @@
       "address": "1 Kirkpatrick St, Weston ACT 2611",
       "state": "ACT",
       "prices": {
-        "E10": 224.9,
-        "U95": 243.9,
-        "U98": 253.9,
+        "E10": 222.9,
+        "U95": 241.9,
+        "U98": 251.9,
         "Premium Diesel": 275.9,
-        "U91": 226.9
+        "U91": 224.9
       },
-      "updated": "2026-11-25T02:32:24Z",
+      "updated": "2026-11-25T20:42:24Z",
       "lat": -35.3219,
       "lng": 149.057
     },
@@ -301,9 +301,9 @@
         "E10": 215.9,
         "U95": 233.9,
         "U98": 242.9,
-        "Premium Diesel": 259.9
+        "Premium Diesel": 258.9
       },
-      "updated": "2026-11-25T00:12:22Z",
+      "updated": "2026-11-25T19:36:15Z",
       "lat": -35.320031,
       "lng": 149.138892
     },
@@ -511,10 +511,10 @@
       "prices": {
         "U95": 238.9,
         "U98": 248.9,
-        "Premium Diesel": 273.9,
+        "Premium Diesel": 272.9,
         "U91": 221.9
       },
-      "updated": "2026-11-25T02:27:27Z",
+      "updated": "2026-11-25T23:32:27Z",
       "lat": -35.3665,
       "lng": 149.094
     },
@@ -769,10 +769,10 @@
         "E10": 219.9,
         "LPG": 120.9,
         "U98": 247.9,
-        "Premium Diesel": 275.9,
+        "Premium Diesel": 272.9,
         "U91": 221.9
       },
-      "updated": "2026-11-25T05:24:37Z",
+      "updated": "2026-11-25T20:01:09Z",
       "lat": -35.365,
       "lng": 149.094
     },
@@ -950,13 +950,13 @@
       "address": "76 Gartside St, Wanniassa ACT 2903",
       "state": "ACT",
       "prices": {
-        "E10": 223.9,
+        "E10": 221.9,
         "LPG": 121.9,
-        "U98": 251.9,
-        "Premium Diesel": 274.9,
-        "U91": 225.9
+        "U98": 249.9,
+        "Premium Diesel": 275.9,
+        "U91": 223.9
       },
-      "updated": "2026-11-25T05:24:37Z",
+      "updated": "2026-11-25T19:21:14Z",
       "lat": -35.4052,
       "lng": 149.101
     },
@@ -983,12 +983,12 @@
       "address": "Mobil Outlet 15 Barrier ST, Fyshwick ACT 2609",
       "state": "ACT",
       "prices": {
-        "E10": 194.9,
-        "U98": 224.9,
-        "Premium Diesel": 247.9,
-        "U91": 202.9
+        "E10": 199.9,
+        "U98": 229.9,
+        "Premium Diesel": 252.9,
+        "U91": 206.9
       },
-      "updated": "2026-11-25T08:08:35Z",
+      "updated": "2026-11-25T20:13:38Z",
       "lat": -35.329111,
       "lng": 149.172604
     },
@@ -999,12 +999,12 @@
       "address": "Service Station 53 Lambrigg ST, Farrer ACT 2607",
       "state": "ACT",
       "prices": {
-        "E10": 217.9,
-        "U98": 245.9,
+        "E10": 216.9,
+        "U98": 244.9,
         "Premium Diesel": 269.7,
-        "U91": 219.9
+        "U91": 218.9
       },
-      "updated": "2026-11-25T02:16:22Z",
+      "updated": "2026-11-25T18:19:57Z",
       "lat": -35.375911,
       "lng": 149.101739
     }

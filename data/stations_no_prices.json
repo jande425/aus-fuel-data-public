@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-26T00:34:29Z",
+  "fetched_at": "2026-11-26T00:58:44Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1256,
+  "station_count": 1257,
   "by_state": {
     "ACT": 8,
     "NSW": 1160,
     "NT": 6,
-    "QLD": 30,
+    "QLD": 31,
     "SA": 25,
     "TAS": 1,
     "VIC": 26
@@ -40,6 +40,7 @@
     "Liberty": 3,
     "Budget": 2,
     "Puma Energy": 2,
+    "Pacific Fuel Solutions": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
     "Shell Express": 1,
@@ -49,7 +50,6 @@
     "Ampol Foodary": 1,
     "Arko Energy": 1,
     "Freedom Fuels": 1,
-    "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "MILDURA SERVO": 1
   },
@@ -10860,6 +10860,18 @@
       "state": "QLD",
       "lat": -23.853963,
       "lng": 151.225169
+    },
+    {
+      "brand": "Pacific Fuel Solutions",
+      "code": "QLD:61477725",
+      "name": "Pacific Fuel Solutions Goondiwindi",
+      "address": "Lot 111 Hungerford Street, QLD 4390",
+      "state": "QLD",
+      "lat": -28.5220041395662,
+      "lng": 150.29099533815543,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
     },
     {
       "brand": "Independent",

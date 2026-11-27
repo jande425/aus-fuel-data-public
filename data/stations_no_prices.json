@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-27T03:26:51Z",
+  "fetched_at": "2026-11-27T04:24:57Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1258,
+  "station_count": 1256,
   "by_state": {
     "ACT": 8,
-    "NSW": 1159,
+    "NSW": 1158,
     "NT": 7,
-    "QLD": 28,
+    "QLD": 27,
     "SA": 25,
     "TAS": 1,
     "VIC": 30
@@ -20,7 +20,7 @@
     "Chargefox": 72,
     "Independent": 70,
     "7-Eleven": 65,
-    "BP": 57,
+    "BP": 56,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -48,7 +48,6 @@
     "Ampol Foodary": 1,
     "Arko Energy": 1,
     "Freedom Fuels": 1,
-    "U-Go": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "MILDURA SERVO": 1,
@@ -2529,15 +2528,6 @@
       "state": "NSW",
       "lat": -34.031183,
       "lng": 150.816282
-    },
-    {
-      "brand": "BP",
-      "code": "NSW:370",
-      "name": "BP Engadine",
-      "address": "1234 Princess Highway, Engadine NSW 2233",
-      "state": "NSW",
-      "lat": -34.077286,
-      "lng": 151.011051
     },
     {
       "brand": "BP",
@@ -10891,22 +10881,6 @@
       "state": "QLD",
       "lat": -18.290183,
       "lng": 143.549026
-    },
-    {
-      "brand": "U-Go",
-      "code": "QLD:61401756",
-      "name": "U-Go Brassall",
-      "address": "60 Hunter Street, QLD 4305",
-      "state": "QLD",
-      "lat": -27.596451,
-      "lng": 152.745693,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
     },
     {
       "brand": "United",

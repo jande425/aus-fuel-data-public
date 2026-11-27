@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-27T14:58:52Z",
+  "fetched_at": "2026-11-27T23:10:09Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1256,
+  "station_count": 1252,
   "by_state": {
     "ACT": 8,
     "NSW": 1157,
@@ -9,22 +9,22 @@
     "QLD": 27,
     "SA": 25,
     "TAS": 1,
-    "VIC": 31
+    "VIC": 27
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 81,
+    "Reddy Express": 80,
     "Chargefox": 72,
     "Independent": 70,
     "7-Eleven": 65,
-    "BP": 56,
+    "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 15,
+    "Ampol": 14,
     "Caltex": 12,
     "Shell": 11,
     "Metro Fuel": 10,
@@ -50,8 +50,7 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
-    "MILDURA SERVO": 1,
-    "K&S Fuels": 1
+    "MILDURA SERVO": 1
   },
   "stations": [
     {
@@ -11252,21 +11251,6 @@
       ]
     },
     {
-      "brand": "Ampol",
-      "code": "VIC:LiHbHWYrhSB/WxXgbNylJ5HQwDi6qlFK6i8YzSRIv3g=",
-      "name": "Ampol Foodary Avondale Heights",
-      "address": "160 Military Road, Avondale Heights, 3034",
-      "state": "VIC",
-      "lat": -37.75605183,
-      "lng": 144.85954996,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "VIC:mCLy5LVa9a0SixEFe/OR+X+ByeAARLmlUYE3eNnzwMs=",
       "name": "Birchip Motel & Caravan Park",
@@ -11277,21 +11261,6 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "BP",
-      "code": "VIC:1d8lpv9L2dsnlcltKJ/fCd0Sv9VvYw2F20Pm5Sw1Aak=",
-      "name": "Bp Golf Links Road",
-      "address": "Golf Links Road, Frankston Flinders Road, Frankston, 3199",
-      "state": "VIC",
-      "lat": -38.16497414604184,
-      "lng": 145.1377161121883,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },
@@ -11427,18 +11396,6 @@
       ]
     },
     {
-      "brand": "K&S Fuels",
-      "code": "VIC:Yq3il6ZCiz6tvBEnMWByawpcgJoZspYf2PO2XUbmEWk=",
-      "name": "K&S Fuels Dartmoor",
-      "address": "111 Lang street, Dartmoor, 3304",
-      "state": "VIC",
-      "lat": -37.91279159,
-      "lng": 141.27259401,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
-    },
-    {
       "brand": "Metro Petroleum",
       "code": "VIC:DvE5Oe+jXXe7tgfQvCaMagoXzjXMmfCgQd3XTF5Zcxk=",
       "name": "Metro Petroleum Narbethong",
@@ -11557,20 +11514,6 @@
       "state": "VIC",
       "lat": -38.13214939,
       "lng": 144.34893385,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "VIC:YUPtcp+uDjuB9Fj+s0izTlTdez/xBPKCJOWSID0Ty6o=",
-      "name": "SHELL EXPRESS HORSHAM - Temporarily Closed",
-      "address": "170-172 Baillie ST, HORSHAM, 3400",
-      "state": "VIC",
-      "lat": -36.711405359739494,
-      "lng": 142.19912165438998,
       "unavailable_fuels": [
         "Diesel",
         "U91",

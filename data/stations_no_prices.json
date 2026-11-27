@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-26T20:50:51Z",
+  "fetched_at": "2026-11-27T02:49:33Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1258,
+  "station_count": 1259,
   "by_state": {
     "ACT": 8,
-    "NSW": 1159,
+    "NSW": 1160,
     "NT": 7,
-    "QLD": 30,
+    "QLD": 28,
     "SA": 25,
     "TAS": 1,
-    "VIC": 28
+    "VIC": 30
   },
   "by_brand": {
     "Exploren": 236,
@@ -18,9 +18,9 @@
     "Independent EV": 99,
     "Reddy Express": 81,
     "Chargefox": 72,
-    "Independent": 69,
-    "7-Eleven": 68,
-    "BP": 55,
+    "Independent": 70,
+    "7-Eleven": 66,
+    "BP": 57,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
@@ -34,12 +34,11 @@
     "United": 6,
     "Pearl Energy": 5,
     "Everty": 4,
+    "EG Ampol": 4,
     "Speedway": 4,
-    "EG Ampol": 3,
     "Liberty": 3,
     "Budget": 2,
     "Puma Energy": 2,
-    "U-Go": 2,
     "Pacific Fuel Solutions": 2,
     "Metro Petroleum": 2,
     "Westside": 1,
@@ -50,6 +49,7 @@
     "Ampol Foodary": 1,
     "Arko Energy": 1,
     "Freedom Fuels": 1,
+    "U-Go": 1,
     "X Convenience": 1,
     "K&S Fuels": 1,
     "MILDURA SERVO": 1
@@ -2538,6 +2538,15 @@
       "state": "NSW",
       "lat": -34.031183,
       "lng": 150.816282
+    },
+    {
+      "brand": "BP",
+      "code": "NSW:370",
+      "name": "BP Engadine",
+      "address": "1234 Princess Highway, Engadine NSW 2233",
+      "state": "NSW",
+      "lat": -34.077286,
+      "lng": 151.011051
     },
     {
       "brand": "BP",
@@ -8157,186 +8166,6 @@
     },
     {
       "brand": "Reddy Express",
-      "code": "NSW:126",
-      "name": "Shell Reddy  Express Bega",
-      "address": "2-6 Swan St, Bega NSW 2550",
-      "state": "NSW",
-      "lat": -36.673879,
-      "lng": 149.838173
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:77",
-      "name": "Shell Reddy  Express Berowra",
-      "address": "955 Pacific Highway (Cnr Yallambee Rd), Berowra NSW 2081",
-      "state": "NSW",
-      "lat": -33.627973,
-      "lng": 151.147917
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:50",
-      "name": "Shell Reddy  Express Camden",
-      "address": "273 Old Hume Highway, Camden NSW 2570",
-      "state": "NSW",
-      "lat": -34.086627,
-      "lng": 150.694551
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:54",
-      "name": "Shell Reddy  Express Cessnock",
-      "address": "183 Vincent St, Cessnock NSW 2325",
-      "state": "NSW",
-      "lat": -32.838322,
-      "lng": 151.355439
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:27",
-      "name": "Shell Reddy  Express Erina",
-      "address": "211 The Entrance Rd (Cnr Bonnal Rd), Erina NSW 2250",
-      "state": "NSW",
-      "lat": -33.435578,
-      "lng": 151.385108
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:22",
-      "name": "Shell Reddy  Express Gorokan",
-      "address": "67 Wallarah Rd (Cnr Edith St), Gorokan NSW 2263",
-      "state": "NSW",
-      "lat": -33.25654,
-      "lng": 151.507969
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:119",
-      "name": "Shell Reddy  Express Gundagai Tuckerbox",
-      "address": "Hume highway & Sheahan Bridge, GUNDAGAI NSW 2722",
-      "state": "NSW",
-      "lat": -35.003645,
-      "lng": 148.110711
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:86",
-      "name": "Shell Reddy  Express Halfway Creek",
-      "address": "4974 Pacific Highway (Cnr Lemon Tree Rd), Halfway Creek NSW 2460",
-      "state": "NSW",
-      "lat": -29.934898,
-      "lng": 153.094274
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:41",
-      "name": "Shell Reddy  Express Kincumber",
-      "address": "Avoca Dr & Bungoona St, Kincumber NSW 2251",
-      "state": "NSW",
-      "lat": -33.467789,
-      "lng": 151.383804
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:125",
-      "name": "Shell Reddy  Express Kingsgrove",
-      "address": "137-141 Kingsgrove Road, Kingsgrove NSW 2208",
-      "state": "NSW",
-      "lat": -33.932785,
-      "lng": 151.099086
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:23",
-      "name": "Shell Reddy  Express Lake Munmorah",
-      "address": "260 Pacific Hwy (Cnr Basford Road), Doyalson North NSW 2259",
-      "state": "NSW",
-      "lat": -33.186301,
-      "lng": 151.548878
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:52",
-      "name": "Shell Reddy  Express Marsfield",
-      "address": "189 Epping Rd & Culloden Rd, Marsfield NSW 2122",
-      "state": "NSW",
-      "lat": -33.775212,
-      "lng": 151.105289
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:391",
-      "name": "Shell Reddy  Express Northmead",
-      "address": "197 Windsor Road, Northmead NSW 2152",
-      "state": "NSW",
-      "lat": -33.7774,
-      "lng": 151.000088
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:105",
-      "name": "Shell Reddy  Express Norwest Business Park",
-      "address": "4 Century Circuit, Baulkham Hills NSW 2153",
-      "state": "NSW",
-      "lat": -33.733555,
-      "lng": 150.963518
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:78",
-      "name": "Shell Reddy  Express Ourimbah",
-      "address": "78 Pacific Highway (Cnr Burns Rd), Ourimbah NSW 2258",
-      "state": "NSW",
-      "lat": -33.346821,
-      "lng": 151.370975
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:19",
-      "name": "Shell Reddy  Express Singleton (Nsw)",
-      "address": "69-73 George St, Singleton NSW 2330",
-      "state": "NSW",
-      "lat": -32.5629,
-      "lng": 151.175536
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:58",
-      "name": "Shell Reddy  Express South Hurstville",
-      "address": "835 King Georges Road, South Hurstville NSW 2221",
-      "state": "NSW",
-      "lat": -33.978745,
-      "lng": 151.105526
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:57",
-      "name": "Shell Reddy  Express Tocumwal",
-      "address": "Dean & Hill Streets, Tocumwal NSW 2714",
-      "state": "NSW",
-      "lat": -35.808364,
-      "lng": 145.559605
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:24",
-      "name": "Shell Reddy  Express Woy Woy",
-      "address": "50-52 Ocean Beach Rd (Cnr Rawson St), Woy Woy NSW 2256",
-      "state": "NSW",
-      "lat": -33.493905,
-      "lng": 151.320693
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "NSW:14",
-      "name": "Shell Reddy Express  Taren Point",
-      "address": "99 Parraweena Rd (Cnr Taren Point Rd), Miranda NSW 2228",
-      "state": "NSW",
-      "lat": -34.026377,
-      "lng": 151.120108
-    },
-    {
-      "brand": "Reddy Express",
       "code": "NSW:746",
       "name": "Shell Reddy Express Avalon",
       "address": "2 Avalon Pde (Cnr Barrenjoey Rd), Avalon Beach NSW 2107",
@@ -8355,12 +8184,30 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "NSW:126",
+      "name": "Shell Reddy Express Bega",
+      "address": "2-6 Swan St, Bega NSW 2550",
+      "state": "NSW",
+      "lat": -36.673879,
+      "lng": 149.838173
+    },
+    {
+      "brand": "Reddy Express",
       "code": "NSW:44",
       "name": "Shell Reddy Express Berkshire Park",
       "address": "746-752 Richmond Road, Berkshire Park NSW 2765",
       "state": "NSW",
       "lat": -33.664575,
       "lng": 150.799764
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "NSW:77",
+      "name": "Shell Reddy Express Berowra",
+      "address": "955 Pacific Highway (Cnr Yallambee Rd), Berowra NSW 2081",
+      "state": "NSW",
+      "lat": -33.627973,
+      "lng": 151.147917
     },
     {
       "brand": "Reddy Express",
@@ -8400,12 +8247,30 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "NSW:50",
+      "name": "Shell Reddy Express Camden",
+      "address": "273 Old Hume Highway, Camden NSW 2570",
+      "state": "NSW",
+      "lat": -34.086627,
+      "lng": 150.694551
+    },
+    {
+      "brand": "Reddy Express",
       "code": "NSW:47",
       "name": "Shell Reddy Express Carlton",
       "address": "277-281 Princes Highway, Carlton NSW 2218",
       "state": "NSW",
       "lat": -33.974858,
       "lng": 151.127273
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "NSW:54",
+      "name": "Shell Reddy Express Cessnock",
+      "address": "183 Vincent St, Cessnock NSW 2325",
+      "state": "NSW",
+      "lat": -32.838322,
+      "lng": 151.355439
     },
     {
       "brand": "Reddy Express",
@@ -8472,12 +8337,30 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "NSW:27",
+      "name": "Shell Reddy Express Erina",
+      "address": "211 The Entrance Rd (Cnr Bonnal Rd), Erina NSW 2250",
+      "state": "NSW",
+      "lat": -33.435578,
+      "lng": 151.385108
+    },
+    {
+      "brand": "Reddy Express",
       "code": "NSW:26",
       "name": "Shell Reddy Express Gilgandra",
       "address": "Portion 101 Newell Highway (Cnr Tooraweenah Road), Gilgandra NSW 2827",
       "state": "NSW",
       "lat": -31.703093,
       "lng": 148.678759
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "NSW:22",
+      "name": "Shell Reddy Express Gorokan",
+      "address": "67 Wallarah Rd (Cnr Edith St), Gorokan NSW 2263",
+      "state": "NSW",
+      "lat": -33.25654,
+      "lng": 151.507969
     },
     {
       "brand": "Reddy Express",
@@ -8517,6 +8400,24 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "NSW:119",
+      "name": "Shell Reddy Express Gundagai Tuckerbox",
+      "address": "Hume highway & Sheahan Bridge, GUNDAGAI NSW 2722",
+      "state": "NSW",
+      "lat": -35.003645,
+      "lng": 148.110711
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "NSW:86",
+      "name": "Shell Reddy Express Halfway Creek",
+      "address": "4974 Pacific Highway (Cnr Lemon Tree Rd), Halfway Creek NSW 2460",
+      "state": "NSW",
+      "lat": -29.934898,
+      "lng": 153.094274
+    },
+    {
+      "brand": "Reddy Express",
       "code": "NSW:63",
       "name": "Shell Reddy Express Hornsby",
       "address": "194-206 Pacific Hwy, Hornsby NSW 2077",
@@ -8535,12 +8436,39 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "NSW:41",
+      "name": "Shell Reddy Express Kincumber",
+      "address": "Avoca Dr & Bungoona St, Kincumber NSW 2251",
+      "state": "NSW",
+      "lat": -33.467789,
+      "lng": 151.383804
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "NSW:125",
+      "name": "Shell Reddy Express Kingsgrove",
+      "address": "137-141 Kingsgrove Road, Kingsgrove NSW 2208",
+      "state": "NSW",
+      "lat": -33.932785,
+      "lng": 151.099086
+    },
+    {
+      "brand": "Reddy Express",
       "code": "NSW:94",
       "name": "Shell Reddy Express Kotara",
       "address": "93 Park Avenue, Kotara NSW 2289",
       "state": "NSW",
       "lat": -32.940904,
       "lng": 151.708827
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "NSW:23",
+      "name": "Shell Reddy Express Lake Munmorah",
+      "address": "260 Pacific Hwy (Cnr Basford Road), Doyalson North NSW 2259",
+      "state": "NSW",
+      "lat": -33.186301,
+      "lng": 151.548878
     },
     {
       "brand": "Reddy Express",
@@ -8577,6 +8505,15 @@
       "state": "NSW",
       "lat": -33.505897,
       "lng": 150.123904
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "NSW:52",
+      "name": "Shell Reddy Express Marsfield",
+      "address": "189 Epping Rd & Culloden Rd, Marsfield NSW 2122",
+      "state": "NSW",
+      "lat": -33.775212,
+      "lng": 151.105289
     },
     {
       "brand": "Reddy Express",
@@ -8625,12 +8562,39 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "NSW:391",
+      "name": "Shell Reddy Express Northmead",
+      "address": "197 Windsor Road, Northmead NSW 2152",
+      "state": "NSW",
+      "lat": -33.7774,
+      "lng": 151.000088
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "NSW:105",
+      "name": "Shell Reddy Express Norwest Business Park",
+      "address": "4 Century Circuit, Baulkham Hills NSW 2153",
+      "state": "NSW",
+      "lat": -33.733555,
+      "lng": 150.963518
+    },
+    {
+      "brand": "Reddy Express",
       "code": "NSW:40",
       "name": "Shell Reddy Express Oak Flats",
       "address": "Lot 2 Lake Entrance Road, Oak Flats NSW 2529",
       "state": "NSW",
       "lat": -34.563166,
       "lng": 150.831516
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "NSW:78",
+      "name": "Shell Reddy Express Ourimbah",
+      "address": "78 Pacific Highway (Cnr Burns Rd), Ourimbah NSW 2258",
+      "state": "NSW",
+      "lat": -33.346821,
+      "lng": 151.370975
     },
     {
       "brand": "Reddy Express",
@@ -8679,12 +8643,30 @@
     },
     {
       "brand": "Reddy Express",
+      "code": "NSW:19",
+      "name": "Shell Reddy Express Singleton (Nsw)",
+      "address": "69-73 George St, Singleton NSW 2330",
+      "state": "NSW",
+      "lat": -32.5629,
+      "lng": 151.175536
+    },
+    {
+      "brand": "Reddy Express",
       "code": "NSW:73",
       "name": "Shell Reddy Express Smithfield",
       "address": "678 The Horsley Drv (Cnr Cumberland Hwy), Smithfield NSW 2164",
       "state": "NSW",
       "lat": -33.85369,
       "lng": 150.940106
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "NSW:58",
+      "name": "Shell Reddy Express South Hurstville",
+      "address": "835 King Georges Road, South Hurstville NSW 2221",
+      "state": "NSW",
+      "lat": -33.978745,
+      "lng": 151.105526
     },
     {
       "brand": "Reddy Express",
@@ -8739,6 +8721,24 @@
       "state": "NSW",
       "lat": -31.910559,
       "lng": 152.465144
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "NSW:14",
+      "name": "Shell Reddy Express Taren Point",
+      "address": "99 Parraweena Rd (Cnr Taren Point Rd), Miranda NSW 2228",
+      "state": "NSW",
+      "lat": -34.026377,
+      "lng": 151.120108
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "NSW:57",
+      "name": "Shell Reddy Express Tocumwal",
+      "address": "Dean & Hill Streets, Tocumwal NSW 2714",
+      "state": "NSW",
+      "lat": -35.808364,
+      "lng": 145.559605
     },
     {
       "brand": "Reddy Express",
@@ -8811,6 +8811,15 @@
       "state": "NSW",
       "lat": -34.42874,
       "lng": 150.898901
+    },
+    {
+      "brand": "Reddy Express",
+      "code": "NSW:24",
+      "name": "Shell Reddy Express Woy Woy",
+      "address": "50-52 Ocean Beach Rd (Cnr Rawson St), Woy Woy NSW 2256",
+      "state": "NSW",
+      "lat": -33.493905,
+      "lng": 151.320693
     },
     {
       "brand": "Reddy Express",
@@ -10622,22 +10631,6 @@
       "lng": 134.528786
     },
     {
-      "brand": "7-Eleven",
-      "code": "QLD:61402204",
-      "name": "7-Eleven Boronia Heights",
-      "address": "Middle Road, QLD 4118",
-      "state": "QLD",
-      "lat": -27.678754,
-      "lng": 153.021806,
-      "unavailable_fuels": [
-        "E10",
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Ampol",
       "code": "QLD:61402893",
       "name": "Ampol Blackwater Diesel Stop",
@@ -10845,18 +10838,6 @@
       "state": "QLD",
       "lat": -23.853963,
       "lng": 151.225169
-    },
-    {
-      "brand": "Pacific Fuel Solutions",
-      "code": "QLD:61477725",
-      "name": "Pacific Fuel Solutions Goondiwindi",
-      "address": "Lot 111 Hungerford Street, QLD 4390",
-      "state": "QLD",
-      "lat": -28.5220041395662,
-      "lng": 150.29099533815543,
-      "unavailable_fuels": [
-        "Diesel"
-      ]
     },
     {
       "brand": "Independent",
@@ -11315,21 +11296,6 @@
       ]
     },
     {
-      "brand": "7-Eleven",
-      "code": "VIC:qdYS2O/Yo0pqGiELs2gDaGoPKgmciHw3VYczJCSDG3k=",
-      "name": "7-Eleven Wyndham Vale",
-      "address": "1389 Ison Road, Wyndham Vale, 3024",
-      "state": "VIC",
-      "lat": -37.87619815,
-      "lng": 144.59009246,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
-        "U98"
-      ]
-    },
-    {
       "brand": "Independent",
       "code": "VIC:mCLy5LVa9a0SixEFe/OR+X+ByeAARLmlUYE3eNnzwMs=",
       "name": "Birchip Motel & Caravan Park",
@@ -11340,6 +11306,21 @@
       "unavailable_fuels": [
         "Diesel",
         "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "BP",
+      "code": "VIC:1d8lpv9L2dsnlcltKJ/fCd0Sv9VvYw2F20Pm5Sw1Aak=",
+      "name": "Bp Golf Links Road",
+      "address": "Golf Links Road, Frankston Flinders Road, Frankston, 3199",
+      "state": "VIC",
+      "lat": -38.16497414604184,
+      "lng": 145.1377161121883,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
         "U98"
       ]
     },
@@ -11445,6 +11426,21 @@
       ]
     },
     {
+      "brand": "EG Ampol",
+      "code": "VIC:4NRS81MTFQkpL3apmUHEVxnhbA2NZOO23WHILwtrq84=",
+      "name": "EG Ampol Greenvale Lakes",
+      "address": "Greenvale Lakes Shopping Centr, Shop 3  200-230 James Mirams Drive, Roxburgh Park, 3064",
+      "state": "VIC",
+      "lat": -37.61531752,
+      "lng": 144.91390086,
+      "unavailable_fuels": [
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
       "brand": "Independent",
       "code": "VIC:cpaeNjrUj+sNmDLLeUBBIWO2PQhTfnzbTctRUUw7EVA=",
       "name": "Food Plus Fuel",
@@ -11514,6 +11510,19 @@
       ]
     },
     {
+      "brand": "Independent",
+      "code": "VIC:3qIR+Z7B1SOzL3coDfkUJT2kkOTYU9oc6sD3SmW06ck=",
+      "name": "Neerim South Supermarket",
+      "address": "136 Main Neerim Road, Neerim South, 3831",
+      "state": "VIC",
+      "lat": -38.016942,
+      "lng": 145.954615,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91"
+      ]
+    },
+    {
       "brand": "Caltex",
       "code": "VIC:0pWX7gsGXigZH+i7Z8WC19D0MMbudvZqlOpkmgN6ZkQ=",
       "name": "Octane Newport",
@@ -11524,6 +11533,20 @@
       "unavailable_fuels": [
         "Diesel",
         "U91"
+      ]
+    },
+    {
+      "brand": "Pacific Fuel Solutions",
+      "code": "VIC:siO4XPp+L6ZDLEH5Rn6yn2KE/QUTh5stjPJNheAxDXA=",
+      "name": "Pacific Fuel Solutions Nathalia",
+      "address": "2-6 Elizabeth Street, Nathalia, 3638",
+      "state": "VIC",
+      "lat": -36.05109333,
+      "lng": 145.20343758,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U98"
       ]
     },
     {
@@ -11653,21 +11676,6 @@
         "Diesel",
         "E10",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "U-Go",
-      "code": "VIC:9Gg5KwafB8U1ZS6Prk1Rlzbe01Rgz4iN+JERj6cFrgY=",
-      "name": "U-Go Balwyn",
-      "address": "192 Whitehorse Road, Balwyn, 3103",
-      "state": "VIC",
-      "lat": -37.81237751,
-      "lng": 145.0763508,
-      "unavailable_fuels": [
-        "Premium Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },

@@ -1,30 +1,30 @@
 {
-  "fetched_at": "2026-11-27T04:24:57Z",
+  "fetched_at": "2026-11-27T13:07:28Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1256,
+  "station_count": 1257,
   "by_state": {
     "ACT": 8,
-    "NSW": 1158,
+    "NSW": 1157,
     "NT": 7,
     "QLD": 27,
     "SA": 25,
     "TAS": 1,
-    "VIC": 30
+    "VIC": 32
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 82,
+    "Reddy Express": 81,
     "Chargefox": 72,
     "Independent": 70,
-    "7-Eleven": 65,
+    "7-Eleven": 66,
     "BP": 56,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
-    "Ampol": 14,
+    "Ampol": 15,
     "Caltex": 12,
     "Shell": 11,
     "Metro Fuel": 10,
@@ -50,8 +50,8 @@
     "Freedom Fuels": 1,
     "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
-    "MILDURA SERVO": 1,
-    "K&S Fuels": 1
+    "K&S Fuels": 1,
+    "MILDURA SERVO": 1
   },
   "stations": [
     {
@@ -8273,15 +8273,6 @@
     },
     {
       "brand": "Reddy Express",
-      "code": "NSW:69",
-      "name": "Shell Reddy Express Drummoyne",
-      "address": "38-46 Victoria Rd, Drummoyne NSW 2047",
-      "state": "NSW",
-      "lat": -33.855759,
-      "lng": 151.159307
-    },
-    {
-      "brand": "Reddy Express",
       "code": "NSW:413",
       "name": "Shell Reddy Express Dundas",
       "address": "199-203 Kissing Point Rd (Cnr Kirby St), Dundas NSW 2117",
@@ -11246,6 +11237,22 @@
     },
     {
       "brand": "7-Eleven",
+      "code": "VIC:/PhBi9Z82gQyKZy5RXItRdvxEUdl2LzBw+lavIL5SZw=",
+      "name": "7-Eleven Karingal",
+      "address": "330 Frankston, Cranbourne Road, Karingal, 3199",
+      "state": "VIC",
+      "lat": -38.15403491313175,
+      "lng": 145.163459465863,
+      "unavailable_fuels": [
+        "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "7-Eleven",
       "code": "VIC:VkvBa8whRgy6Z46L367DlDXkAoFePQygEgkFhtVuUPE=",
       "name": "7-Eleven Noble Park",
       "address": "1100-1106 Heatherton Road, Noble Park, 3174",
@@ -11254,6 +11261,21 @@
       "lng": 145.17289763,
       "unavailable_fuels": [
         "LPG",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "VIC:LiHbHWYrhSB/WxXgbNylJ5HQwDi6qlFK6i8YzSRIv3g=",
+      "name": "Ampol Foodary Avondale Heights",
+      "address": "160 Military Road, Avondale Heights, 3034",
+      "state": "VIC",
+      "lat": -37.75605183,
+      "lng": 144.85954996,
+      "unavailable_fuels": [
         "Premium Diesel",
         "U91",
         "U95",
@@ -11567,7 +11589,6 @@
       "lng": 142.19912165438998,
       "unavailable_fuels": [
         "Diesel",
-        "LPG",
         "U91",
         "U98"
       ]

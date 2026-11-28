@@ -2,7 +2,7 @@
   "source": "ACT_FuelData",
   "version": 2,
   "state": "ACT",
-  "fetched_at": "2026-11-28T00:09:55Z",
+  "fetched_at": "2026-11-28T00:30:44Z",
   "station_count": 61,
   "fuel_types": [
     "E10",
@@ -104,12 +104,12 @@
       "address": "Were St, Calwell ACT 2905",
       "state": "ACT",
       "prices": {
-        "U95": 238.9,
-        "U98": 248.9,
+        "U95": 233.9,
+        "U98": 243.9,
         "Premium Diesel": 274.9,
-        "U91": 221.9
+        "U91": 216.9
       },
-      "updated": "2026-11-26T23:37:35Z",
+      "updated": "2026-11-28T00:17:24Z",
       "lat": -35.4345,
       "lng": 149.112
     },
@@ -204,10 +204,10 @@
         "E10": 213.9,
         "U95": 232.9,
         "U98": 242.9,
-        "Premium Diesel": 275.9,
+        "Premium Diesel": 273.9,
         "U91": 215.9
       },
-      "updated": "2026-11-27T06:02:26Z",
+      "updated": "2026-11-28T00:12:26Z",
       "lat": -35.1891,
       "lng": 149.082
     },
@@ -446,10 +446,10 @@
       "prices": {
         "U95": 232.9,
         "U98": 242.9,
-        "Premium Diesel": 273.9,
+        "Premium Diesel": 270.9,
         "U91": 215.9
       },
-      "updated": "2026-11-27T06:07:23Z",
+      "updated": "2026-11-28T00:27:26Z",
       "lat": -35.183622,
       "lng": 149.125917
     },

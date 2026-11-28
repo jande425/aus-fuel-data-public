@@ -1,11 +1,12 @@
 {
-  "fetched_at": "2026-11-28T00:09:55Z",
-  "brand_count": 163,
+  "fetched_at": "2026-11-28T00:30:44Z",
+  "brand_count": 168,
   "brands": [
     {
       "name": "24Xpress",
-      "station_count": 1,
+      "station_count": 2,
       "states": [
+        "QLD",
         "VIC"
       ]
     },
@@ -18,10 +19,11 @@
     },
     {
       "name": "7-Eleven",
-      "station_count": 418,
+      "station_count": 611,
       "states": [
         "ACT",
         "NSW",
+        "QLD",
         "VIC",
         "WA"
       ]
@@ -63,11 +65,12 @@
     },
     {
       "name": "Ampol",
-      "station_count": 626,
+      "station_count": 839,
       "states": [
         "ACT",
         "NSW",
         "NT",
+        "QLD",
         "SA",
         "TAS",
         "VIC",
@@ -121,10 +124,11 @@
     },
     {
       "name": "Astron",
-      "station_count": 64,
+      "station_count": 76,
       "states": [
         "NSW",
         "NT",
+        "QLD",
         "SA",
         "TAS",
         "VIC",
@@ -133,8 +137,9 @@
     },
     {
       "name": "Atlas Fuel",
-      "station_count": 20,
+      "station_count": 25,
       "states": [
+        "QLD",
         "VIC",
         "WA"
       ]
@@ -183,11 +188,12 @@
     },
     {
       "name": "BP",
-      "station_count": 888,
+      "station_count": 1149,
       "states": [
         "ACT",
         "NSW",
         "NT",
+        "QLD",
         "SA",
         "TAS",
         "VIC",
@@ -310,10 +316,11 @@
     },
     {
       "name": "Caltex",
-      "station_count": 199,
+      "station_count": 340,
       "states": [
         "NSW",
         "NT",
+        "QLD",
         "SA",
         "TAS",
         "VIC",
@@ -335,6 +342,13 @@
       ]
     },
     {
+      "name": "Choice",
+      "station_count": 1,
+      "states": [
+        "QLD"
+      ]
+    },
+    {
       "name": "Coral Petroleum",
       "station_count": 1,
       "states": [
@@ -343,10 +357,11 @@
     },
     {
       "name": "Costco",
-      "station_count": 11,
+      "station_count": 14,
       "states": [
         "ACT",
         "NSW",
+        "QLD",
         "SA",
         "VIC",
         "WA"
@@ -382,11 +397,12 @@
     },
     {
       "name": "EG Ampol",
-      "station_count": 382,
+      "station_count": 488,
       "states": [
         "ACT",
         "NSW",
         "NT",
+        "QLD",
         "SA",
         "TAS",
         "VIC",
@@ -437,9 +453,10 @@
     },
     {
       "name": "Enhance",
-      "station_count": 34,
+      "station_count": 35,
       "states": [
-        "NSW"
+        "NSW",
+        "QLD"
       ]
     },
     {
@@ -489,6 +506,13 @@
       "station_count": 1,
       "states": [
         "WA"
+      ]
+    },
+    {
+      "name": "Freedom Fuels",
+      "station_count": 33,
+      "states": [
+        "QLD"
       ]
     },
     {
@@ -563,9 +587,10 @@
     },
     {
       "name": "IOR",
-      "station_count": 39,
+      "station_count": 99,
       "states": [
         "NSW",
+        "QLD",
         "SA",
         "VIC",
         "WA"
@@ -573,10 +598,11 @@
     },
     {
       "name": "Independent",
-      "station_count": 558,
+      "station_count": 767,
       "states": [
         "NSW",
         "NT",
+        "QLD",
         "SA",
         "TAS",
         "VIC",
@@ -634,10 +660,11 @@
     },
     {
       "name": "Liberty",
-      "station_count": 170,
+      "station_count": 245,
       "states": [
         "NSW",
         "NT",
+        "QLD",
         "SA",
         "VIC",
         "WA"
@@ -673,9 +700,10 @@
     },
     {
       "name": "Lowes",
-      "station_count": 42,
+      "station_count": 44,
       "states": [
         "NSW",
+        "QLD",
         "TAS",
         "VIC"
       ]
@@ -716,11 +744,19 @@
       ]
     },
     {
+      "name": "Metco Petroleum",
+      "station_count": 1,
+      "states": [
+        "QLD"
+      ]
+    },
+    {
       "name": "Metro Fuel",
-      "station_count": 206,
+      "station_count": 239,
       "states": [
         "ACT",
         "NSW",
+        "QLD",
         "VIC"
       ]
     },
@@ -734,10 +770,11 @@
     },
     {
       "name": "Mobil",
-      "station_count": 132,
+      "station_count": 176,
       "states": [
         "NSW",
         "NT",
+        "QLD",
         "SA",
         "VIC",
         "WA"
@@ -810,19 +847,35 @@
       ]
     },
     {
+      "name": "OOM Energy",
+      "station_count": 8,
+      "states": [
+        "QLD"
+      ]
+    },
+    {
       "name": "On the Run",
-      "station_count": 185,
+      "station_count": 187,
       "states": [
         "NT",
+        "QLD",
         "SA",
         "VIC"
       ]
     },
     {
       "name": "Pacific Fuel Solutions",
-      "station_count": 16,
+      "station_count": 40,
       "states": [
+        "QLD",
         "VIC"
+      ]
+    },
+    {
+      "name": "Pacific Petroleum",
+      "station_count": 9,
+      "states": [
+        "QLD"
       ]
     },
     {
@@ -834,9 +887,10 @@
     },
     {
       "name": "Pearl Energy",
-      "station_count": 64,
+      "station_count": 93,
       "states": [
         "NSW",
+        "QLD",
         "SA",
         "VIC"
       ]
@@ -850,8 +904,9 @@
     },
     {
       "name": "Perrys",
-      "station_count": 25,
+      "station_count": 30,
       "states": [
+        "QLD",
         "SA",
         "VIC",
         "WA"
@@ -888,9 +943,10 @@
     },
     {
       "name": "Puma Energy",
-      "station_count": 44,
+      "station_count": 49,
       "states": [
         "NT",
+        "QLD",
         "WA"
       ]
     },
@@ -938,11 +994,12 @@
     },
     {
       "name": "Reddy Express",
-      "station_count": 402,
+      "station_count": 524,
       "states": [
         "ACT",
         "NSW",
         "NT",
+        "QLD",
         "SA",
         "TAS",
         "VIC",
@@ -1000,10 +1057,11 @@
     },
     {
       "name": "Shell",
-      "station_count": 275,
+      "station_count": 317,
       "states": [
         "NSW",
         "NT",
+        "QLD",
         "SA",
         "TAS",
         "VIC",
@@ -1012,9 +1070,10 @@
     },
     {
       "name": "Shell Express",
-      "station_count": 3,
+      "station_count": 5,
       "states": [
         "NSW",
+        "QLD",
         "SA",
         "WA"
       ]
@@ -1042,10 +1101,11 @@
     },
     {
       "name": "Solo",
-      "station_count": 27,
+      "station_count": 33,
       "states": [
         "NSW",
         "NT",
+        "QLD",
         "SA",
         "VIC",
         "WA"
@@ -1138,9 +1198,10 @@
     },
     {
       "name": "U-Go",
-      "station_count": 40,
+      "station_count": 53,
       "states": [
         "NSW",
+        "QLD",
         "SA",
         "TAS",
         "VIC",
@@ -1156,11 +1217,12 @@
     },
     {
       "name": "United",
-      "station_count": 306,
+      "station_count": 395,
       "states": [
         "ACT",
         "NSW",
         "NT",
+        "QLD",
         "SA",
         "TAS",
         "VIC",
@@ -1212,9 +1274,10 @@
     },
     {
       "name": "Woodham Petroleum",
-      "station_count": 11,
+      "station_count": 42,
       "states": [
-        "NSW"
+        "NSW",
+        "QLD"
       ]
     },
     {

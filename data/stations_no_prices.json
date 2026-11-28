@@ -1,11 +1,12 @@
 {
-  "fetched_at": "2026-11-28T00:09:55Z",
+  "fetched_at": "2026-11-28T00:30:44Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1225,
+  "station_count": 1252,
   "by_state": {
     "ACT": 8,
     "NSW": 1157,
     "NT": 7,
+    "QLD": 27,
     "SA": 25,
     "TAS": 1,
     "VIC": 27
@@ -17,24 +18,24 @@
     "Independent EV": 99,
     "Reddy Express": 80,
     "Chargefox": 72,
+    "Independent": 70,
     "7-Eleven": 65,
-    "Independent": 57,
-    "BP": 53,
+    "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
+    "Ampol": 14,
     "Caltex": 12,
+    "Shell": 11,
     "Metro Fuel": 10,
-    "Ampol": 10,
-    "Shell": 10,
     "EVUp": 9,
+    "Mobil": 8,
     "Evie Networks": 7,
-    "United": 5,
+    "United": 6,
     "Pearl Energy": 5,
     "Everty": 4,
     "EG Ampol": 4,
     "Speedway": 4,
-    "Mobil": 4,
     "Liberty": 3,
     "Budget": 2,
     "Puma Energy": 2,
@@ -46,6 +47,8 @@
     "Astron": 1,
     "Ampol Foodary": 1,
     "Arko Energy": 1,
+    "Freedom Fuels": 1,
+    "Pacific Fuel Solutions": 1,
     "X Convenience": 1,
     "MILDURA SERVO": 1
   },
@@ -10597,6 +10600,302 @@
       "state": "NT",
       "lat": -14.735076,
       "lng": 134.528786
+    },
+    {
+      "brand": "Ampol",
+      "code": "QLD:61402893",
+      "name": "Ampol Blackwater Diesel Stop",
+      "address": "58-60 Railway Street, QLD 4717",
+      "state": "QLD",
+      "lat": -23.585442,
+      "lng": 148.886781,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "QLD:61402175",
+      "name": "Ampol Gladstone Depot Front",
+      "address": "Chapple St, QLD 4680",
+      "state": "QLD",
+      "lat": -23.842297,
+      "lng": 151.245741,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95"
+      ]
+    },
+    {
+      "brand": "Ampol",
+      "code": "QLD:61402302",
+      "name": "Ampol John St",
+      "address": "184 John Street, QLD 4650",
+      "state": "QLD",
+      "lat": -25.532642,
+      "lng": 152.702998
+    },
+    {
+      "brand": "Ampol",
+      "code": "QLD:61402482",
+      "name": "Ampol Pampas",
+      "address": "6164 Gore Highway, QLD 4352",
+      "state": "QLD",
+      "lat": -27.790458,
+      "lng": 151.411238
+    },
+    {
+      "brand": "BP",
+      "code": "QLD:61402572",
+      "name": "BP Roadhouse & Tourist Park",
+      "address": "Savannah Way, QLD 4871",
+      "state": "QLD",
+      "lat": -18.147174,
+      "lng": 144.318352
+    },
+    {
+      "brand": "Independent",
+      "code": "QLD:61402385",
+      "name": "Blue Topaz Caravan Park",
+      "address": "Cnr New England Hwy & Reid Rd, QLD 4352",
+      "state": "QLD",
+      "lat": -28.697669,
+      "lng": 151.906026
+    },
+    {
+      "brand": "Independent",
+      "code": "QLD:61477908",
+      "name": "Cameron Corner Store",
+      "address": "Cameron Corner Road, QLD 4492",
+      "state": "QLD",
+      "lat": -28.997077,
+      "lng": 140.999667
+    },
+    {
+      "brand": "Independent",
+      "code": "QLD:61470505",
+      "name": "Corbet's Energy Monto",
+      "address": "2 Kelvin St, QLD 4630",
+      "state": "QLD",
+      "lat": -24.865276497096275,
+      "lng": 151.1198653325062
+    },
+    {
+      "brand": "Freedom Fuels",
+      "code": "QLD:61401156",
+      "name": "Freedom Fuels Thorneside",
+      "address": "187-191 Quarry Road, QLD 4158",
+      "state": "QLD",
+      "lat": -27.488687,
+      "lng": 153.194782,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Independent",
+      "code": "QLD:61478228",
+      "name": "Heathy's General Store",
+      "address": "19 Margaret St, QLD 4352",
+      "state": "QLD",
+      "lat": -27.08429424598368,
+      "lng": 151.634403285256
+    },
+    {
+      "brand": "Independent",
+      "code": "QLD:61402451",
+      "name": "Independent Capella",
+      "address": "11-15 Peak Downs St, QLD 4723",
+      "state": "QLD",
+      "lat": -23.080249486645524,
+      "lng": 148.0211097558197
+    },
+    {
+      "brand": "Independent",
+      "code": "QLD:61401968",
+      "name": "Independent Urangan",
+      "address": "Buccaneer Av & Jetty Av, QLD 4655",
+      "state": "QLD",
+      "lat": -25.295619,
+      "lng": 152.909208
+    },
+    {
+      "brand": "Independent",
+      "code": "QLD:61477994",
+      "name": "Kairi Store",
+      "address": "3 Johnson Road, QLD 4872",
+      "state": "QLD",
+      "lat": -17.215901,
+      "lng": 145.543411
+    },
+    {
+      "brand": "Mobil",
+      "code": "QLD:61402654",
+      "name": "Mobil Barcaldine",
+      "address": "39 Oak Street, QLD 4725",
+      "state": "QLD",
+      "lat": -23.552773,
+      "lng": 145.292808
+    },
+    {
+      "brand": "Mobil",
+      "code": "QLD:61451588",
+      "name": "Mobil Childers",
+      "address": "154 Churchill St, QLD 4660",
+      "state": "QLD",
+      "lat": -25.235309885245105,
+      "lng": 152.27440050429917,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U95"
+      ]
+    },
+    {
+      "brand": "Mobil",
+      "code": "QLD:61402648",
+      "name": "Mobil Texas",
+      "address": "11 Greenup St, QLD 4385",
+      "state": "QLD",
+      "lat": -28.849039,
+      "lng": 151.163739,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91"
+      ]
+    },
+    {
+      "brand": "Mobil",
+      "code": "QLD:61478318",
+      "name": "Mobil Yandina",
+      "address": "8 Stevens St, QLD 4561",
+      "state": "QLD",
+      "lat": -26.560908695787006,
+      "lng": 152.95582709812874,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Independent",
+      "code": "QLD:61402571",
+      "name": "Mount Molloy Servo and Post Office",
+      "address": "39 Main St, Mount Molloy QLD 4871, Australia, QLD 4871",
+      "state": "QLD",
+      "lat": -16.67630643619551,
+      "lng": 145.3304661534424,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95"
+      ]
+    },
+    {
+      "brand": "Pacific Fuel Solutions",
+      "code": "QLD:61477735",
+      "name": "Pacific Fuel Solutions Gladstone",
+      "address": "11 Red River Road, QLD 4680",
+      "state": "QLD",
+      "lat": -23.853963,
+      "lng": 151.225169
+    },
+    {
+      "brand": "Independent",
+      "code": "QLD:61478300",
+      "name": "Peachester Fuel & General Store",
+      "address": "24 Coochin St, QLD 4519",
+      "state": "QLD",
+      "lat": -26.845778412519017,
+      "lng": 152.88439310750323
+    },
+    {
+      "brand": "Independent",
+      "code": "QLD:61477628",
+      "name": "Plumtree Store",
+      "address": "39 Banksia Road, QLD 4702",
+      "state": "QLD",
+      "lat": -22.135863,
+      "lng": 150.035355
+    },
+    {
+      "brand": "Independent",
+      "code": "QLD:61401667",
+      "name": "Raceview Fuels",
+      "address": "138 Whitehill Road, QLD 4305",
+      "state": "QLD",
+      "lat": -27.63233835956184,
+      "lng": 152.77083162577765,
+      "unavailable_fuels": [
+        "Diesel",
+        "U91",
+        "U95"
+      ]
+    },
+    {
+      "brand": "Shell",
+      "code": "QLD:61477866",
+      "name": "Shell 24 Hour Service Station - Future Fuel",
+      "address": "9 North Street, QLD 4420",
+      "state": "QLD",
+      "lat": -25.634965,
+      "lng": 149.797847
+    },
+    {
+      "brand": "Independent",
+      "code": "QLD:61402672",
+      "name": "The Post Office Roadhouse",
+      "address": "21 Garland Street, QLD 4871",
+      "state": "QLD",
+      "lat": -18.145353,
+      "lng": 144.322473,
+      "unavailable_fuels": [
+        "Diesel"
+      ]
+    },
+    {
+      "brand": "BP",
+      "code": "QLD:61402569",
+      "name": "Travellers Tavern",
+      "address": "1 North Street, QLD 4871",
+      "state": "QLD",
+      "lat": -18.290183,
+      "lng": 143.549026
+    },
+    {
+      "brand": "United",
+      "code": "QLD:61470127",
+      "name": "United Esplanade",
+      "address": "422 Esplanade, QLD 4655",
+      "state": "QLD",
+      "lat": -25.28453826756636,
+      "lng": 152.87019270552253,
+      "unavailable_fuels": [
+        "Diesel",
+        "E10",
+        "LPG",
+        "U91",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Independent",
+      "code": "QLD:61477869",
+      "name": "Yarrabah Service Station",
+      "address": "4 Range Road, QLD 4871",
+      "state": "QLD",
+      "lat": -16.916483,
+      "lng": 145.871647
     },
     {
       "brand": "BP",

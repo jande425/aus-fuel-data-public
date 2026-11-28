@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-28T05:59:15Z",
-  "total_stations": 7899,
+  "last_updated": "2026-11-28T09:10:01Z",
+  "total_stations": 7898,
   "total_states": 8,
   "fuel_types": [
     "B20",
@@ -21,57 +21,57 @@
       "station_count": 61,
       "price_count": 261,
       "file": "act/latest.json",
-      "checksum": "fc3f66ba",
+      "checksum": "5aa93065",
       "size_bytes": 24904
     },
     "NSW": {
       "station_count": 2113,
-      "price_count": 8436,
+      "price_count": 8439,
       "file": "nsw/latest.json",
-      "checksum": "4baa61dc",
-      "size_bytes": 839484
+      "checksum": "185e9486",
+      "size_bytes": 839550
     },
     "NT": {
       "station_count": 208,
       "price_count": 563,
       "file": "nt/latest.json",
-      "checksum": "33883c24",
+      "checksum": "94a7da8d",
       "size_bytes": 78655
     },
     "QLD": {
       "station_count": 1781,
       "price_count": 6917,
       "file": "qld/latest.json",
-      "checksum": "556a31f6",
+      "checksum": "46dabaa9",
       "size_bytes": 703004
     },
     "SA": {
       "station_count": 698,
-      "price_count": 2479,
+      "price_count": 2480,
       "file": "sa/latest.json",
-      "checksum": "d9a67682",
-      "size_bytes": 270398
+      "checksum": "bebc2efb",
+      "size_bytes": 270368
     },
     "TAS": {
       "station_count": 294,
       "price_count": 1432,
       "file": "tas/latest.json",
-      "checksum": "dd491a6e",
+      "checksum": "01880363",
       "size_bytes": 124001
     },
     "VIC": {
-      "station_count": 1740,
-      "price_count": 7111,
+      "station_count": 1739,
+      "price_count": 7103,
       "file": "vic/latest.json",
-      "checksum": "56cdca71",
-      "size_bytes": 781059
+      "checksum": "ee0b7021",
+      "size_bytes": 780720
     },
     "WA": {
       "station_count": 1004,
       "price_count": 3404,
       "file": "wa/latest.json",
-      "checksum": "025a5020",
-      "size_bytes": 514465
+      "checksum": "014073e0",
+      "size_bytes": 630453
     }
   },
   "files": {

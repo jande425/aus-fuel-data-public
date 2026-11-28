@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-27T23:10:09Z",
-  "total_stations": 7898,
-  "total_states": 8,
+  "last_updated": "2026-11-28T00:09:55Z",
+  "total_stations": 6117,
+  "total_states": 7,
   "fuel_types": [
     "B20",
     "Diesel",
@@ -10,7 +10,6 @@
     "EV",
     "LAF",
     "LPG",
-    "Opal",
     "Premium Diesel",
     "U91",
     "U95",
@@ -21,56 +20,49 @@
       "station_count": 61,
       "price_count": 261,
       "file": "act/latest.json",
-      "checksum": "38ef959d",
+      "checksum": "cf9a4d39",
       "size_bytes": 24904
     },
     "NSW": {
       "station_count": 2113,
-      "price_count": 8434,
+      "price_count": 8433,
       "file": "nsw/latest.json",
-      "checksum": "dabbd0c4",
-      "size_bytes": 839426
+      "checksum": "e4cd3842",
+      "size_bytes": 839404
     },
     "NT": {
       "station_count": 208,
       "price_count": 563,
       "file": "nt/latest.json",
-      "checksum": "96ba9bfd",
+      "checksum": "05386d46",
       "size_bytes": 78655
-    },
-    "QLD": {
-      "station_count": 1781,
-      "price_count": 6917,
-      "file": "qld/latest.json",
-      "checksum": "5ac3dece",
-      "size_bytes": 703004
     },
     "SA": {
       "station_count": 698,
       "price_count": 2482,
       "file": "sa/latest.json",
-      "checksum": "7a1c8ee9",
+      "checksum": "acc12277",
       "size_bytes": 270345
     },
     "TAS": {
       "station_count": 294,
-      "price_count": 1433,
+      "price_count": 1432,
       "file": "tas/latest.json",
-      "checksum": "ac9b201c",
-      "size_bytes": 124026
+      "checksum": "5f6b9783",
+      "size_bytes": 124001
     },
     "VIC": {
       "station_count": 1739,
       "price_count": 7113,
       "file": "vic/latest.json",
-      "checksum": "4cdefda6",
-      "size_bytes": 780528
+      "checksum": "289cda19",
+      "size_bytes": 780564
     },
     "WA": {
       "station_count": 1004,
       "price_count": 3404,
       "file": "wa/latest.json",
-      "checksum": "ee757306",
+      "checksum": "0bef475d",
       "size_bytes": 514465
     }
   },

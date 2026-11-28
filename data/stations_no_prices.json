@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-28T00:30:44Z",
+  "fetched_at": "2026-11-28T05:59:15Z",
   "description": "Stations excluded from main data due to no current price information",
-  "station_count": 1252,
+  "station_count": 1251,
   "by_state": {
     "ACT": 8,
     "NSW": 1157,
@@ -9,23 +9,23 @@
     "QLD": 27,
     "SA": 25,
     "TAS": 1,
-    "VIC": 27
+    "VIC": 26
   },
   "by_brand": {
     "Exploren": 236,
     "Tesla": 220,
     "AGL": 153,
     "Independent EV": 99,
-    "Reddy Express": 80,
+    "Reddy Express": 79,
     "Chargefox": 72,
-    "Independent": 70,
+    "Independent": 69,
     "7-Eleven": 65,
     "BP": 55,
     "NRMA": 45,
     "ChargePoint": 23,
     "JOLT": 20,
     "Ampol": 14,
-    "Caltex": 12,
+    "Caltex": 13,
     "Shell": 11,
     "Metro Fuel": 10,
     "EVUp": 9,
@@ -11310,6 +11310,22 @@
     },
     {
       "brand": "Caltex",
+      "code": "VIC:cUWFu3Tra+p+b1OZ0++theEfhqoc1ilCoUUgDf7t76I=",
+      "name": "Caltex Kialla",
+      "address": "7815 Goulburn Valley Highway, KIALLA, 3631",
+      "state": "VIC",
+      "lat": -36.42725938,
+      "lng": 145.38922886,
+      "unavailable_fuels": [
+        "Diesel",
+        "Premium Diesel",
+        "U91",
+        "U95",
+        "U98"
+      ]
+    },
+    {
+      "brand": "Caltex",
       "code": "VIC:2qHMtUBF/PW5e9zZ4aciMk4RK8dRsFUG0DMp0UuJDig=",
       "name": "Caltex Ouyen",
       "address": "2 Oke Street, OUYEN, 3490",
@@ -11438,19 +11454,6 @@
       ]
     },
     {
-      "brand": "Independent",
-      "code": "VIC:3qIR+Z7B1SOzL3coDfkUJT2kkOTYU9oc6sD3SmW06ck=",
-      "name": "Neerim South Supermarket",
-      "address": "136 Main Neerim Road, Neerim South, 3831",
-      "state": "VIC",
-      "lat": -38.016942,
-      "lng": 145.954615,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91"
-      ]
-    },
-    {
       "brand": "Caltex",
       "code": "VIC:0pWX7gsGXigZH+i7Z8WC19D0MMbudvZqlOpkmgN6ZkQ=",
       "name": "Octane Newport",
@@ -11560,21 +11563,6 @@
       "unavailable_fuels": [
         "Premium Diesel",
         "U91",
-        "U98"
-      ]
-    },
-    {
-      "brand": "Reddy Express",
-      "code": "VIC:Rlc0GJlas7bHeufF4UmtDoZ3VMfrHH46UYjIn+0FsJA=",
-      "name": "Shell Reddy Express Tarneit",
-      "address": "Wyndham Sc, 380 Sayers Rd, TARNEIT, 3029",
-      "state": "VIC",
-      "lat": -37.8497220355119,
-      "lng": 144.70557001054982,
-      "unavailable_fuels": [
-        "Diesel",
-        "U91",
-        "U95",
         "U98"
       ]
     },
